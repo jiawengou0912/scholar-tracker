@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06 18:50 UTC",
+  "updated_at": "2026-08-06 20:07 UTC",
   "journal_papers": {
     "Computers & Education": [
       {
@@ -532,14 +532,16 @@
         "venue": "Learning and Instruction"
       },
       {
-        "title": "The adaptivity of classroom teaching: Comments from a teaching quality perspective",
+        "title": "Finding their way: Students’ fraction misconceptions and errors over two years of fraction learning",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.learninstruc.2026.102429",
-        "url": "https://doi.org/10.1016/j.learninstruc.2026.102429",
+        "doi": "10.1016/j.learninstruc.2026.102454",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102454",
         "authors": [
-          "Eckhard Klieme"
+          "Sabrina M. Di Lonardo Burr",
+          "Chang Xu",
+          "Hongxia Li"
         ],
-        "published": "2026-10",
+        "published": "2026-12",
         "journal": "Learning and Instruction",
         "venue": "Learning and Instruction"
       }
@@ -559,19 +561,6 @@
         "venue": "Education and Information Technologies"
       },
       {
-        "title": "Digital literacy profiles of pre-service social studies teachers in Turkey: a factor mixture modeling approach",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14117-7",
-        "url": "https://doi.org/10.1007/s10639-026-14117-7",
-        "authors": [
-          "Abdullah Cevdet Kırıkçı",
-          "Sedat Sen"
-        ],
-        "published": "2026-8-5",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
         "title": "Antecedents of student feedback uptake during online interactive peer assessment",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14108-8",
@@ -580,6 +569,19 @@
           "Ying Zhan",
           "Ming Ming Chiu",
           "Zilu Du"
+        ],
+        "published": "2026-8-5",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Digital literacy profiles of pre-service social studies teachers in Turkey: a factor mixture modeling approach",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14117-7",
+        "url": "https://doi.org/10.1007/s10639-026-14117-7",
+        "authors": [
+          "Abdullah Cevdet Kırıkçı",
+          "Sedat Sen"
         ],
         "published": "2026-8-5",
         "journal": "Education and Information Technologies",
@@ -1027,144 +1029,6 @@
       "query": "artificial intelligence early childhood"
     },
     {
-      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
-      "title": "Learning machine learning with young children: exploring informal settings in an African context",
-      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
-      "authors": [
-        "I. Sanusi",
-        "Kissinger Sunday",
-        "S. Oyelere"
-      ],
-      "venue": "Computer Science Education",
-      "published": "2023-02-07",
-      "url": "https://doi.org/10.1080/08993408.2023.2175559",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
-      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
-      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
-      "authors": [
-        "Apittha Unahalekhaka",
-        "M. Bers"
-      ],
-      "venue": "IEEE Global Engineering Education Conference",
-      "published": "2022-03-28",
-      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
-      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
-      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
-      "authors": [
-        "Chu Thi Hong Nhung",
-        "V. Giang",
-        "N. Dung"
-      ],
-      "venue": "Journal of Posthumanism",
-      "published": "2025-04-09",
-      "url": "https://doi.org/10.63332/joph.v5i3.705",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
-      "title": "Learning machine learning with very young children: Who is teaching whom?",
-      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
-      "authors": [
-        "Henriikka Vartiainen",
-        "M. Tedre",
-        "Teemu Valtonen"
-      ],
-      "venue": "Int. J. Child Comput. Interact.",
-      "published": "2020-09-01",
-      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
-      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
-      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
-      "authors": [
-        "L. Aquini",
-        "Júlia Veiga",
-        "T. T. Primo"
-      ],
-      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
-      "published": "2025-11-24",
-      "url": "https://doi.org/10.5753/sbie.2025.12590",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
-      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
-      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
-      "authors": [
-        "Walayat Hussain",
-        "Machi Raju Varanasi",
-        "Liam New"
-      ],
-      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
-      "published": "2025-11-18",
-      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
-      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
-      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
-      "authors": [
-        "S. Guizani",
-        "Tehseen Mazhar",
-        "Tariq Shahzad"
-      ],
-      "venue": "Discover Education",
-      "published": "2025-02-15",
-      "url": "https://doi.org/10.1007/s44217-025-00424-7",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
-      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
-      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
-      "authors": [
-        "James C. L. Chow",
-        "Kay Li"
-      ],
-      "venue": "JMIR Cancer",
-      "published": "2025-02-18",
-      "url": "https://doi.org/10.2196/66633",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
-      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
-      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
-      "authors": [
-        "V. Nikolovski",
-        "D. Trajanov",
-        "Ivan Chorbev"
-      ],
-      "venue": "Algorithms",
-      "published": "2025-03-04",
-      "url": "https://doi.org/10.3390/a18030144",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "51ae8d48ec1a7acb178e67c2c0ffe20625177481",
-      "title": "Development and evaluation of a retrieval-augmented large language model framework for enhancing endodontic education",
-      "abstract": "BACKGROUND\nIntegrating domain-specific knowledge into large language models (LLMs) remains a critical challenge in medical education. In dental specialties such as endodontics, effective learning requires access to both textual clinical evidence and visual procedural demonstrations. However, generic LLMs often produce content that lacks clinical accuracy, contextual grounding, or pedagogical clarity, thereby limiting their applicability in specialized training environments.\n\n\nOBJECTIVE\nTo develop and evaluate a Retrieval-Augmented Generation (RAG)-enhanced LLMs framework that addresses the challenge of integrating domain-specific knowledge in AI-driven endodontic education.\n\n\nMETHOD\nWe present Endodontics-KB, a multimodal knowledge integration platform that combines evidence-based dental literature (e.g., textbooks, clinical guidelines) with visual instructional materials (e.g., procedural videos) through a hierarchical RAG architecture. The system's core component, the EndoQ chatbot, utilizes LLMs augmented with multimodal dental datasets to enable context-aware clinical reasoning. Benchmarking was conducted against three general-purpose LLMs: GPT-4, Qwen2.5, and DeepSeek R1, using a structured question bank comprising 11 expert-validated endodontic questions. Two domain experts performed a blinded evaluation across five performance dimensions: clinical accuracy, contextual relevance, completeness, decision-making professionalism, and communication fluency.\n\n\nRESULTS\nThe framework integrated 2,200 multimodal knowledge units through dynamic semantic indexing. EndoQ demonstrated statistically significant improvements across all evaluation metrics compared to general purpose LLMs: accuracy (4.45 ± 0.96), clinical relevance (4.59 ± 0.8), completeness (4.27 ± 0.83), professionalism judgment (4.45 ± 1.06), and language fluency (4.86 ± 0.47), as measured on a 5-point Likert scale.\n\n\nCONCLUSION\nThis proposed framework improves educational outcomes through precise and context-aware knowledge delivery. Furthermore, it represents a scalable and transferable model for AI-enhanced clinical training across medical specialties, significantly advancing competency-based pedagogy in dental education.",
-      "authors": [
-        "Xiaowei Xu",
-        "Siyi Liu",
-        "Lin Zhu"
-      ],
-      "venue": "Int. J. Medical Informatics",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.1016/j.ijmedinf.2025.106006",
-      "query": "large language model education"
-    },
-    {
       "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
       "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
       "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
@@ -1233,68 +1097,208 @@
       "published": "2024-02-05",
       "url": "https://doi.org/10.1017/S0033291724000084",
       "query": "screen time child development"
+    },
+    {
+      "paperId": "5fdf2c038a7377dda75bb4401c47bc358ec11492",
+      "title": "HTKS-Kids: A tablet-based self-regulation measure to equitably assess young children's school readiness",
+      "abstract": "Background Technology advances make it increasingly possible to adapt direct behavioral assessments for classroom use. This study examined children's scores on HTKS-Kids, a new, largely child-led version of the established individual research assessment of self-regulation, Head-Toes-Knees-Shoulders-Revised task (HTKS-R). For the HTKS-Kids tablet-based assessment, which was facilitated by children's preschool teachers, we examined (1) preliminary reliability and validity; (2) variation in scores predicted by child age and background characteristics; and (3) indication that HTKS-Kids provides different information from teacher ratings of children. Method Participants included n = 79 4-year-old children from two urban areas in upstate New York, USA. Average parent education was 12.5 years, ranging 3–20. A researcher administered the HTKS-R to individual children, and teachers (eight white, two Latino) were trained to use the HTKS-Kids tablet-based assessment and asked to play once with each study child. Teachers also rated each child on 10 Child Behavior Rating Scale (CBRS) items about classroom self-regulation. Results We found evidence that (1) the HTKS-Kids captures variation in children's self-regulation and correlates positively with established measures, (2) parent education was the best predictor of HTKS-Kids scores, and (3) teachers rated Black children significantly worse and white children better on the CBRS, with the magnitude of group differences similar to the contribution of parent education. In contrast, Black and white children showed no score differences on HTKS-Kids. Implications The HTKS-Kids is a promising new tablet-based assessment of self-regulation that could replace or supplement traditional teacher ratings, which are often subject to implicit bias.",
+      "authors": [
+        "Claire E. Cameron",
+        "Megan M. McClelland",
+        "Tammy Kwan"
+      ],
+      "venue": "Frontiers in Psychology",
+      "published": "2024-01-11",
+      "url": "https://doi.org/10.3389/fpsyg.2023.1202239",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "d96dbc51c722819ccaa32c8db3108c5b0b320145",
+      "title": "Relationship between touchscreen tablet usage time and attention performance in young children",
+      "abstract": "Abstract This study aims to investigate the relationships between touchscreen tablet usage time and attention performance in preschool children. Seventy-five young children with typical development were recruited. The accuracy rate and reaction time of their attention performance improved with age. Significant differences in accuracy rates, reaction time, and executive attention performance between young children who use touchscreen tablets more or less often were observed. Children who spent more time using touchscreen tablets had better accuracy rates and faster reaction time in the Attentional Network Task test. However, children who spent more time on tablets performed slower in terms of executive attention. These findings add to the understanding of the experience of using touchscreen tablets and its relationship with the attention performance of young children.",
+      "authors": [
+        "Yu Jin",
+        "Ling-Yi Lin"
+      ],
+      "venue": "Journal of Research on Technology in Education",
+      "published": "2021-03-29",
+      "url": "https://doi.org/10.1080/15391523.2021.1891995",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "7bccecd2dc0c1bac8aa022db1d35616f91ebd775",
+      "title": "Randomized Trial of Tablet Computers for Education and Learning in Children and Young People with Low Vision",
+      "abstract": "SIGNIFICANCE Mobile devices such as tablet computers have become widely available as mainstream devices and are also used in some schools, but there is an absence of robust information regarding the efficacy of any optical/electronic low vision device or tablet computer in supporting education of young people with low vision. PURPOSE A randomized controlled trial (RCT) is needed to measure the impact of tablet computers on education, specifically on independent access to educational material, in children and young people with low vision. We conducted a pilot RCT to determine the feasibility of conducting a full-scale trial. METHODS This was a randomized multicenter pilot trial across two sites in the United Kingdom and one site in India. Forty children and young people aged 10 to 18 years with low vision (best-corrected visual acuity for distance between <20/60 [0.48 logMAR] and 20/400 [1.30 logMAR] in the better eye) in the United Kingdom (n = 20) and India (n = 20) were randomized to two parallel arms, with a 1:1 allocation ratio, to control (n = 20) or intervention (n = 20). Control group participants received standard low vision care. The intervention group received a tablet computer (iPad) with low vision applications and instruction in its use, including accessibility features. Four primary outcomes included (1) 6-month recruitment rate, (2) retention of participants for 3 months, (3) acceptance/usage of device, and (4) accessibility of device. RESULTS Nineteen participants (95%) enrolled within 6 months in the United Kingdom, and 20 participants (100%), in India. Retention at 3 months was 85% (n = 17) in the United Kingdom and 95% (n = 19) in India. More than one half of participants reported using a tablet computer at school at least once every day. The majority (90%) found it easily accessible. CONCLUSIONS This study demonstrated that it is feasible to recruit children and young people with low vision into an international multicenter RCT of electronic assistive technology. Regardless of geographical location, children and young people with low vision reported using tablet computers at least once a day at school and accessed them easily.",
+      "authors": [
+        "V. Gothwal",
+        "Rachel Thomas",
+        "M. Crossland"
+      ],
+      "venue": "Optometry and Vision Science",
+      "published": "2018-08-27",
+      "url": "https://doi.org/10.1097/OPX.0000000000001270",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "0970ae9a2561971c92e5421c352270108b0193f2",
+      "title": "Young children's everyday concepts of the internet: A platform for cyber-safety education in the early years",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "S. Edwards",
+        "A. Nolan",
+        "Michael Henderson"
+      ],
+      "venue": "British Journal of Educational Technology",
+      "published": "2018",
+      "url": "https://doi.org/10.1111/bjet.12529",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "e1fd19f908d9ec542d280555889366e6fe123cfe",
+      "title": "Using Visual Scene Displays With Young Children: An Evidence-Based Practice Synthesis",
+      "abstract": "We used the Council for Exceptional Children (CEC) Standards for evidence-based practices (EBP) in Special Education to evaluate the effectiveness research on the use of visual scene displays (VSDs) and video VSDs with young children with autism spectrum disorder and/or intellectual and developmental disability (ASD/IDD). VSDs and video VSDs are designed to support communication for individuals with speech or speech-related disabilities. In a high-tech VSD approach, images are programmed (on a tablet computer) with “hotspots” that produce speech when touched. Twelve of the 14 articles located for the review met all eight quality indicators as identified by the CEC Standards for evidence-based practices, and presented positive results for 37 of the 42 participants. We conclude that the use of VSDs and video VSDs can be considered an EBP in communication intervention for young children with ASD/IDD during social interaction activities commonly observed in early childhood settings.",
+      "authors": [
+        "Dana Patenaude",
+        "David McNaughton",
+        "Zhigao Liang"
+      ],
+      "venue": "Journal of Special Education Technology",
+      "published": "2024-06-20",
+      "url": "https://doi.org/10.1177/01626434241263061",
+      "query": "tablet young children education"
     }
   ],
   "hot_topics": [
     {
-      "topic": "AR",
-      "count": 71
+      "id": "ar_vr",
+      "name": "增强现实与虚拟现实",
+      "subtitle": "AR / VR in Early Education",
+      "icon": "🥽",
+      "count": 68,
+      "keywords": [
+        "AR",
+        "virtual reality",
+        "immersive",
+        "VR"
+      ]
     },
     {
-      "topic": "artificial intelligence",
-      "count": 15
+      "id": "family_school",
+      "name": "家校技术整合",
+      "subtitle": "Technology Integration at Home & School",
+      "icon": "🏫",
+      "count": 34,
+      "keywords": [
+        "parent",
+        "teacher",
+        "classroom",
+        "school",
+        "preschool teacher"
+      ]
     },
     {
-      "topic": "early childhood",
-      "count": 12
+      "id": "ai_tools",
+      "name": "AI工具与教育应用",
+      "subtitle": "AI Tools in Education",
+      "icon": "🤖",
+      "count": 19,
+      "keywords": [
+        "artificial intelligence",
+        "generative AI",
+        "ChatGPT",
+        "GPT"
+      ]
     },
     {
-      "topic": "GPT",
-      "count": 9
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 13,
+      "keywords": [
+        "attention",
+        "executive function",
+        "self-regulation",
+        "metacognition",
+        "cognitive load"
+      ]
     },
     {
-      "topic": "ChatGPT",
-      "count": 7
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 12,
+      "keywords": [
+        "game-based",
+        "personalized learning",
+        "game",
+        "gamification",
+        "play"
+      ]
     },
     {
-      "topic": "personalized learning",
-      "count": 6
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 10,
+      "keywords": [
+        "screen time",
+        "tablet",
+        "mobile",
+        "digital learning"
+      ]
     },
     {
-      "topic": "chatbot",
-      "count": 6
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 10,
+      "keywords": [
+        "social development",
+        "social-emotional",
+        "emotion",
+        "wellbeing"
+      ]
     },
     {
-      "topic": "generative AI",
-      "count": 6
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 7,
+      "keywords": [
+        "language development",
+        "reading",
+        "vocabulary",
+        "writing",
+        "early literacy"
+      ]
     },
     {
-      "topic": "preschool",
-      "count": 5
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 5,
+      "keywords": [
+        "algorithm",
+        "computational thinking",
+        "programming"
+      ]
     },
     {
-      "topic": "machine learning",
-      "count": 5
-    },
-    {
-      "topic": "large language model",
-      "count": 5
-    },
-    {
-      "topic": "screen time",
-      "count": 5
-    },
-    {
-      "topic": "social-emotional",
-      "count": 4
-    },
-    {
-      "topic": "attention",
-      "count": 4
-    },
-    {
-      "topic": "LLM",
-      "count": 4
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 4,
+      "keywords": [
+        "robot",
+        "chatbot"
+      ]
     }
   ]
 }

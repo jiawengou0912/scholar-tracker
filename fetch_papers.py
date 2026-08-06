@@ -45,18 +45,77 @@ KEYWORD_QUERIES = [
     "metacognition AI learning",
 ]
 
-HOT_TOPIC_KEYWORDS = [
-    "ChatGPT", "GPT-4", "GPT", "LLM", "large language model", "generative AI",
-    "machine learning", "deep learning", "neural network", "artificial intelligence",
-    "robot", "chatbot", "conversational agent", "voice assistant",
-    "preschool", "kindergarten", "early childhood", "toddler",
-    "cognitive development", "executive function", "working memory", "attention",
-    "screen time", "tablet", "digital learning", "digital media",
-    "game-based", "adaptive learning", "personalized learning",
-    "computational thinking", "coding", "programming",
-    "augmented reality", "virtual reality", "AR", "VR",
-    "metacognition", "self-regulation", "social-emotional",
-    "language development", "early literacy", "early math",
+RESEARCH_DIRECTIONS = [
+    {
+        "id": "ai_tools",
+        "name": "AI工具与教育应用",
+        "subtitle": "AI Tools in Education",
+        "icon": "🤖",
+        "keywords": ["ChatGPT", "GPT", "LLM", "large language model", "generative AI", "artificial intelligence", "machine learning", "deep learning"],
+    },
+    {
+        "id": "cognitive",
+        "name": "认知发展与学习科学",
+        "subtitle": "Cognitive Development & Learning Science",
+        "icon": "🧠",
+        "keywords": ["cognitive development", "executive function", "working memory", "attention", "metacognition", "cognitive load", "self-regulation"],
+    },
+    {
+        "id": "robots",
+        "name": "机器人与智能交互代理",
+        "subtitle": "Robots & Intelligent Interactive Agents",
+        "icon": "💬",
+        "keywords": ["robot", "chatbot", "conversational agent", "voice assistant", "intelligent tutoring", "dialogue system"],
+    },
+    {
+        "id": "digital_media",
+        "name": "数字媒体与屏幕使用",
+        "subtitle": "Digital Media & Screen Time",
+        "icon": "📱",
+        "keywords": ["screen time", "tablet", "digital media", "digital learning", "digital technology", "mobile"],
+    },
+    {
+        "id": "game_learning",
+        "name": "游戏化与自适应学习",
+        "subtitle": "Game-based & Adaptive Learning",
+        "icon": "🎮",
+        "keywords": ["game-based", "gamification", "adaptive learning", "personalized learning", "game", "play"],
+    },
+    {
+        "id": "ar_vr",
+        "name": "增强现实与虚拟现实",
+        "subtitle": "AR / VR in Early Education",
+        "icon": "🥽",
+        "keywords": ["augmented reality", "virtual reality", "AR", "VR", "immersive", "mixed reality"],
+    },
+    {
+        "id": "early_literacy",
+        "name": "早期读写与数学能力",
+        "subtitle": "Early Literacy & Early Math",
+        "icon": "📚",
+        "keywords": ["early literacy", "early math", "language development", "reading", "writing", "numeracy", "vocabulary"],
+    },
+    {
+        "id": "social_emotional",
+        "name": "社会情感发展",
+        "subtitle": "Social-Emotional Development",
+        "icon": "❤️",
+        "keywords": ["social-emotional", "social emotional", "emotion", "empathy", "social development", "wellbeing"],
+    },
+    {
+        "id": "computational",
+        "name": "计算思维与编程教育",
+        "subtitle": "Computational Thinking & Coding",
+        "icon": "💻",
+        "keywords": ["computational thinking", "coding", "programming", "computer science", "algorithm"],
+    },
+    {
+        "id": "family_school",
+        "name": "家校技术整合",
+        "subtitle": "Technology Integration at Home & School",
+        "icon": "🏫",
+        "keywords": ["parent", "teacher", "family", "home learning", "classroom", "school", "preschool teacher"],
+    },
 ]
 
 CROSSREF_BASE = "https://api.crossref.org/journals"
@@ -168,13 +227,28 @@ def fetch_keyword_papers(query, limit=5):
 
 
 def extract_hot_topics(all_papers):
-    counts = Counter()
-    for paper in all_papers:
-        text = (paper.get("title", "") + " " + paper.get("abstract", "")).lower()
-        for kw in HOT_TOPIC_KEYWORDS:
-            if kw.lower() in text:
-                counts[kw] += 1
-    return [{"topic": t, "count": c} for t, c in counts.most_common(15) if c > 0]
+    results = []
+    for direction in RESEARCH_DIRECTIONS:
+        count = 0
+        found_keywords = []
+        for paper in all_papers:
+            text = (paper.get("title", "") + " " + paper.get("abstract", "")).lower()
+            matched = [kw for kw in direction["keywords"] if kw.lower() in text]
+            if matched:
+                count += 1
+                for kw in matched:
+                    if kw not in found_keywords:
+                        found_keywords.append(kw)
+        if count > 0:
+            results.append({
+                "id": direction["id"],
+                "name": direction["name"],
+                "subtitle": direction["subtitle"],
+                "icon": direction["icon"],
+                "count": count,
+                "keywords": found_keywords[:5],
+            })
+    return sorted(results, key=lambda x: x["count"], reverse=True)
 
 
 def main():

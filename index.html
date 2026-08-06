@@ -10,22 +10,31 @@
 
   <header class="site-header">
     <div class="header-inner">
-      <div class="header-text">
+      <div class="header-left">
+        <div class="header-badge">Academic Tracker</div>
         <h1>学术信息追踪</h1>
-        <p class="subtitle">AI与幼儿发展 · 教育技术学核心期刊</p>
+        <p class="subtitle">AI与幼儿发展 · 教育技术学核心期刊 · 每日自动更新</p>
       </div>
-      <div class="update-badge">
-        <span class="update-label">最后更新</span>
-        <span id="update-time">加载中...</span>
+      <div class="header-right">
+        <div class="update-card">
+          <div class="update-label">数据更新时间</div>
+          <div id="update-time" class="update-value">加载中...</div>
+        </div>
       </div>
     </div>
   </header>
 
   <nav class="main-nav">
     <div class="nav-inner">
-      <button class="nav-btn active" data-section="keyword">AI与幼儿 最新论文</button>
-      <button class="nav-btn" data-section="journals">核心期刊追踪</button>
-      <button class="nav-btn" data-section="topics">热点主题</button>
+      <button class="nav-btn active" data-section="keyword">
+        <span class="nav-icon">🔍</span>AI与幼儿 最新论文
+      </button>
+      <button class="nav-btn" data-section="journals">
+        <span class="nav-icon">📖</span>核心期刊追踪
+      </button>
+      <button class="nav-btn" data-section="topics">
+        <span class="nav-icon">📊</span>热点研究方向
+      </button>
     </div>
   </nav>
 
@@ -34,7 +43,7 @@
     <section id="keyword-section" class="section active">
       <div class="section-header">
         <h2>AI与幼儿发展 最新论文</h2>
-        <p class="section-desc">基于关键词检索，来源：Semantic Scholar，每日自动更新</p>
+        <p class="section-desc">基于关键词检索，来源：Semantic Scholar</p>
       </div>
       <div id="keyword-papers" class="papers-list"></div>
     </section>
@@ -54,20 +63,19 @@
 
     <section id="topics-section" class="section">
       <div class="section-header">
-        <h2>热点主题分析</h2>
-        <p class="section-desc">基于本次抓取论文的标题与摘要，统计高频关键词出现次数</p>
+        <h2>热点研究方向</h2>
+        <p class="section-desc">基于本次抓取论文，按研究方向归类统计</p>
       </div>
-      <div id="hot-topics" class="topics-container"></div>
+      <div id="hot-topics" class="topics-grid"></div>
     </section>
 
   </main>
 
   <footer class="site-footer">
-    <p>数据来源：CrossRef · Semantic Scholar &nbsp;|&nbsp; 每日 UTC 02:00 自动更新</p>
+    <p>数据来源：CrossRef · Semantic Scholar &nbsp;|&nbsp; 每日 UTC 02:00 自动更新 &nbsp;|&nbsp; AI与幼儿发展研究</p>
   </footer>
 
   <script>
-    // Navigation
     document.querySelectorAll('.nav-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
@@ -77,29 +85,24 @@
       });
     });
 
-    // Safely escape HTML
-    function esc(str) {
-      const d = document.createElement('div');
-      d.textContent = String(str || '');
-      return d.innerHTML;
-    }
-
-    // Create a paper card DOM element
     function createCard(paper) {
       const card = document.createElement('div');
       card.className = 'paper-card';
 
       const venue = paper.venue || paper.journal || '';
-      const published = paper.published || '';
+      const published = (paper.published || '').slice(0, 7);
       const abstract = paper.abstract || 'Abstract not available.';
-      const isLong = abstract.length > 280;
-      const shortText = isLong ? abstract.slice(0, 280) + '...' : abstract;
+      const isLong = abstract.length > 260;
+      const shortText = isLong ? abstract.slice(0, 260) + '...' : abstract;
       const authors = (paper.authors || []).slice(0, 3);
       const authorsStr = authors.length
         ? authors.join(', ') + (authors.length >= 3 ? ' et al.' : '')
         : '';
 
-      // Meta row
+      const accentColors = ['#3b82f6','#8b5cf6','#06b6d4','#10b981','#f59e0b','#ef4444'];
+      const colorIndex = Math.abs((venue + paper.title).split('').reduce((a,c) => a + c.charCodeAt(0), 0)) % accentColors.length;
+      card.style.setProperty('--accent', accentColors[colorIndex]);
+
       const meta = document.createElement('div');
       meta.className = 'paper-meta';
       if (venue) {
@@ -115,7 +118,6 @@
         meta.appendChild(date);
       }
 
-      // Title
       const titleEl = document.createElement('h3');
       titleEl.className = 'paper-title';
       if (paper.url) {
@@ -129,14 +131,16 @@
         titleEl.textContent = paper.title || 'Untitled';
       }
 
-      // Authors
-      const authorsEl = document.createElement('p');
-      authorsEl.className = 'paper-authors';
-      authorsEl.textContent = authorsStr;
-
-      // Abstract
       const abstractWrap = document.createElement('div');
       abstractWrap.className = 'paper-abstract';
+
+      if (authorsStr) {
+        const authorsEl = document.createElement('p');
+        authorsEl.className = 'paper-authors';
+        authorsEl.textContent = authorsStr;
+        abstractWrap.appendChild(authorsEl);
+      }
+
       const abstractP = document.createElement('p');
       abstractP.className = 'abstract-text';
       abstractP.textContent = shortText;
@@ -145,14 +149,14 @@
       if (isLong) {
         const btn = document.createElement('button');
         btn.className = 'expand-btn';
-        btn.textContent = '展开摘要';
+        btn.textContent = '展开摘要 ▾';
         btn.addEventListener('click', () => {
-          if (btn.textContent === '展开摘要') {
+          if (btn.textContent.startsWith('展开')) {
             abstractP.textContent = abstract;
-            btn.textContent = '收起摘要';
+            btn.textContent = '收起摘要 ▴';
           } else {
             abstractP.textContent = shortText;
-            btn.textContent = '展开摘要';
+            btn.textContent = '展开摘要 ▾';
           }
         });
         abstractWrap.appendChild(btn);
@@ -160,7 +164,6 @@
 
       card.appendChild(meta);
       card.appendChild(titleEl);
-      if (authorsStr) card.appendChild(authorsEl);
       card.appendChild(abstractWrap);
       return card;
     }
@@ -180,7 +183,8 @@
       const names = Object.keys(journalPapers);
       names.forEach((name, i) => {
         const li = document.createElement('li');
-        li.textContent = name;
+        const count = (journalPapers[name] || []).length;
+        li.innerHTML = `<span class="journal-name">${name}</span><span class="journal-count">${count}</span>`;
         if (i === 0) li.classList.add('active');
         li.addEventListener('click', () => {
           document.querySelectorAll('#journal-list li').forEach(l => l.classList.remove('active'));
@@ -189,18 +193,12 @@
         });
         list.appendChild(li);
       });
-      if (names.length > 0) {
-        showJournalPapers(names[0], journalPapers[names[0]]);
-      }
+      if (names.length > 0) showJournalPapers(names[0], journalPapers[names[0]]);
     }
 
     function showJournalPapers(name, papers) {
       const header = document.getElementById('current-journal-header');
-      header.innerHTML = '';
-      const h2 = document.createElement('h2');
-      h2.className = 'journal-title';
-      h2.textContent = name;
-      header.appendChild(h2);
+      header.innerHTML = `<h2 class="journal-title">${name}</h2>`;
       renderPapers('journal-papers', papers);
     }
 
@@ -211,27 +209,37 @@
         container.innerHTML = '<p class="empty-msg">暂无数据</p>';
         return;
       }
-      const max = Math.max(...topics.map(t => t.count));
-      topics.forEach(t => {
-        const row = document.createElement('div');
-        row.className = 'topic-row';
-        row.innerHTML = `
-          <span class="topic-name">${esc(t.topic)}</span>
-          <div class="topic-bar-wrap">
-            <div class="topic-bar" style="width:${((t.count / max) * 100).toFixed(1)}%"></div>
+      const maxCount = Math.max(...topics.map(t => t.count));
+      topics.forEach((t, i) => {
+        const card = document.createElement('div');
+        card.className = 'topic-card';
+        card.style.animationDelay = `${i * 0.06}s`;
+
+        const pct = Math.round((t.count / maxCount) * 100);
+        const tagsHtml = (t.keywords || [])
+          .map(kw => `<span class="topic-tag">${kw}</span>`)
+          .join('');
+
+        card.innerHTML = `
+          <div class="topic-icon">${t.icon || '📌'}</div>
+          <div class="topic-body">
+            <div class="topic-name">${t.name}</div>
+            <div class="topic-subtitle">${t.subtitle}</div>
+            <div class="topic-progress">
+              <div class="topic-bar" style="width:${pct}%"></div>
+            </div>
+            <div class="topic-footer">
+              <div class="topic-tags">${tagsHtml}</div>
+              <div class="topic-count"><strong>${t.count}</strong> 篇</div>
+            </div>
           </div>
-          <span class="topic-count">${t.count} 篇</span>
         `;
-        container.appendChild(row);
+        container.appendChild(card);
       });
     }
 
-    // Load data
     fetch('papers.json')
-      .then(r => {
-        if (!r.ok) throw new Error('papers.json not found');
-        return r.json();
-      })
+      .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
       .then(data => {
         document.getElementById('update-time').textContent = data.updated_at || '--';
         renderPapers('keyword-papers', data.keyword_papers || []);
@@ -240,12 +248,9 @@
       })
       .catch(() => {
         document.getElementById('update-time').textContent = '数据未加载';
-        ['keyword-papers', 'journal-papers'].forEach(id => {
-          const el = document.getElementById(id);
-          if (el) el.innerHTML = '<p class="empty-msg">请先运行 fetch_papers.py 生成数据文件</p>';
-        });
+        document.getElementById('keyword-papers').innerHTML =
+          '<p class="empty-msg">请先运行 fetch_papers.py 生成数据</p>';
       });
   </script>
-
 </body>
 </html>
