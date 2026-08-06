@@ -1,0 +1,1300 @@
+{
+  "updated_at": "2026-08-06 18:50 UTC",
+  "journal_papers": {
+    "Computers & Education": [
+      {
+        "title": "Educational prompt engineering self-efficacy scale (Ed-PESS): Development and psychometric validation",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105700",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105700",
+        "authors": [
+          "Fatih Karatas",
+          "Recep Gür",
+          "Barış Eri̇çok"
+        ],
+        "published": "2026-12",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
+        "title": "Mapping teacher education strategies to develop digital competence targets: A cross-framework analysis",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105699",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105699",
+        "authors": [
+          "Els Tanghe",
+          "Katie Goeman",
+          "Annelies Raes"
+        ],
+        "published": "2026-12",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
+        "title": "Preparing undergraduate education majors to make and use accessible digital instructional materials",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105708",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105708",
+        "authors": [
+          "Mary Rice"
+        ],
+        "published": "2026-12",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
+        "title": "Rewiring the knowledge field of artificial intelligence in education: A multi-level theoretical perspective on cross-level topic evolution, 2000–2024",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105720",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105720",
+        "authors": [
+          "Chuang Yang",
+          "Zeqing Xu",
+          "Yu Lin"
+        ],
+        "published": "2026-12",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
+        "title": "Artificial intelligence in educational leadership: A PRISMA-Guided bibliometric review and agenda for future research",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105724",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105724",
+        "authors": [
+          "Chuan-Chung Hsieh",
+          "Hope Wilfred Banda",
+          "Hui-Chieh Li"
+        ],
+        "published": "2026-12",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      }
+    ],
+    "British Journal of Educational Technology": [
+      {
+        "title": "Unveiling patterns of socially shared regulation in relation to self‐regulated learning: The roles of individual profiles and group dynamics in online collaborative learning",
+        "abstract": "Abstract\n                  The rapid growth of massive online learning has intensified interest in self‐regulated learning (SRL) and socially shared regulation of learning (SSRL), yet empirical insights into their interplay in online collaborative learning (OCL) remain limited. This study employed a three‐layer analytical method combining cluster analysis, content analysis and complex network analysis to investigate how SSRL patterns evolve in relation to individual SRL profiles. Data from 60 undergraduates in a 16‐week course included over 16,000 trace entries (e.g. posts, replies, peer feedback) were collected and analysed. Results revealed that (1) three profiles of SRL were identified, based on learners' time investment, study regularity and help‐seeking behaviours; (2) groups with higher SSRL behavioural interaction displayed a more diverse and balanced role composition; and (3) distinct SSRL patterns emerged across SRL profiles over time. Individuals with high SRL profiles more frequently connected idea sharing with strategy using and process monitoring, while those with low SRL profiles relied on limited strategies focused mainly on idea sharing. These findings deepen the understanding of how individual regulation shapes group dynamics in online collaboration and suggest that instructional design should consider learners' SRL profiles when scaffolding their collaborative regulation processes.\n                  \n                    \n                      \n                        Practitioner Notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Self‐regulated learning (SRL) and socially shared regulation of learning (SSRL) are both essential for effective online collaborative learning (OCL), with prior research recognising their theoretical interplay.\n                            \n                            \n                              Trace data (e.g. login frequency, timestamp and posts) offer valuable opportunities to uncover how learners engage in and coordinate regulatory behaviours throughout online collaboration.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              Integrating SRL profiling with mixed network analysis, this study shows how individual SRL profiles drive divergent SSRL development, highlighting shared coordination patterns and evolving interactive roles across phases.\n                            \n                            \n                              Groups with higher SSRL interaction exhibited more diverse and balanced role composition, with central roles (e.g. leaders, animators) facilitating stronger collaborative regulation processes.\n                            \n                            \n                              Time‐series epistemic network analysis (ENA) provides a novel analytical lens to track the evolution of SSRL patterns across collaborative phases, linking SRL profiles with group‐level regulatory dynamics.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            \n                              Tailoring support to SRL profiles allows educators to offer targeted scaffolds, using prompts and planning tools for low SRL learners, while encouraging high SRL learners to lead coordination and monitoring in SSRL.\n                            \n                            \n                              Role‐driven group design promotes collaboration structured by learners' SRL profiles.",
+        "doi": "10.1111/bjet.70082",
+        "url": "https://doi.org/10.1111/bjet.70082",
+        "authors": [
+          "Tao He",
+          "Xintong Wu",
+          "Mingzhu Li"
+        ],
+        "published": "2026-8-2",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
+        "title": "Not all collaboration benefits from competition: Collaboration modes in a computational thinking game",
+        "abstract": "Abstract\n                  \n                    \n                    Digital game‐based learning often leverages social dynamics to enhance engagement, yet the interplay between collaborative structures and competitive pressures remains complex. This study investigated different collaboration modes and how they interact with competition to influence computational thinking (CT) learning, group metacognition and in‐game behaviours. Adopting a quasi‐experimental approach with a 3 × 2 factorial design, 148 seventh‐grade students were recruited via purposive sampling from intact classes. Participants played the game in pairs, with or without competition, in one of three collaboration modes: paired gaming on one computer, collaboration on respective computers with turn‐taking or cooperation on respective computers with role assignment. Data were analysed using quantitative methods to assess learning outcomes and behavioural sequence analysis to identify interaction patterns. Results revealed significant main effects of collaboration mode and an interaction effect between collaboration and competition. The cooperative group with competition achieved the highest CT outcomes, and the paired gaming group with competition reported the highest level of group metacognition. In contrast, the collaborative group with competition had the lowest level of learning outcomes and group metacognition. Behavioural sequence analyses identified unique patterns that corroborate the quantitative findings. Notably, competition undermined the collaborative turn‐taking mode while enhancing cooperative and paired gaming modes, highlighting the need to carefully match collaboration structures with competitive elements in designing game‐based learning.\n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Collaboration and competition are widely used in digital game‐based learning (DGBL) to enhance engagement, motivation and problem‐solving.\n                            \n                            \n                              Prior studies have often examined collaboration and competition separately, leaving the interactive effects between these social dynamics on computational thinking (CT) and group metacognition underexplored.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              Different collaboration modes significantly shaped CT learning and group metacognition.\n                            \n                            \n                              Competition alone showed no benefits for CT learning or group metacognition.\n                            \n                            \n                              Cooperative + competition fostered clear roles, strategic play and higher CT.\n                            \n                            \n                              Competition weakened collaboration learning's CT performance and led to fragmented behaviours.\n                            \n                          \n                        \n                        \n                          Implications for practice and policy\n                          \n                            \n                              Carefully match collaboration structures with competition features when designing game‐based or group learning activities.\n                            \n                            \n                              Use competition selectively—beneficial in cooperative tasks with clear role assignments, but potentially detrimental in open collaboration requiring trust and mutual regulation.\n                            \n                            \n                              Integrate competitive and collaborative elements intentionally rather than additively.",
+        "doi": "10.1111/bjet.70081",
+        "url": "https://doi.org/10.1111/bjet.70081",
+        "authors": [
+          "Ching‐Huei Chen",
+          "Kun Huang"
+        ],
+        "published": "2026-8-2",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
+        "title": "Hybrid intelligence feedback systems in design thinking development: Stage‐specific insights on pedagogical effects and characteristics of generative\n                    <scp>AI</scp>\n                    and instructors",
+        "abstract": "Abstract\n                  Fostering design thinking relies on instructional feedback, yet traditional instructor‐led methods face practical limitations. Although generative AI (GenAI) may offer promising solutions based on its advantages, existing studies predominantly characterise it as a performance‐enhancing task assistant rather than as a feedback‐providing pedagogical agent for the intrinsic growth of design thinking. The study compares the pedagogical effects on students' design thinking and students' perceptions of feedback systems by GenAI and human instructors. A within‐class randomised experimental design was conducted with 80 undergraduates. Results indicate no significant overall difference in learning gains, but reveal respective stage‐specific strengths: GenAI proved more effective during the ‘empathise’ stage, associated with superior timeliness and privacy, while human instructors excelled in the ‘prototype’ stage, valued for their contextual anchoring. Comparable effects yet complementary functions were observed in other stages, reinforcing GenAI's augmentative role instead of substitution. Findings collectively demonstrate that the effectiveness and strengths of feedback systems are not static and uniform but dynamically aligned with the learning demands across educational settings. Practical insights for designing hybrid intelligence feedback systems and theoretical implications were finally discussed.\n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Instructional feedback is crucial for fostering design thinking; however, traditional instructor‐led feedback is often constrained by issues of scalability, timeliness and consistency.\n                            \n                            \n                              Generative AI (GenAI) shows promise to serve as an additional feedback agent, but its role has been explored more as a performance‐enhancing task assistant rather than a feedback‐providing pedagogical agent for the intrinsic growth of design thinking.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              The study demonstrates that GenAI leads to greater learning gains in the ‘empathise’ stage, while human instructors are more effective in the ‘prototype’ stage.\n                            \n                            \n                              The study underscores their comparable effect while serving distinct and complementary roles at ‘define’, ‘ideate’ and ‘reflect’ stages.\n                            \n                            \n                              The study highlights their respective stage‐specific strengths and associates them with learning gains across the design thinking process.\n                            \n                            \n                              The study provides practical insights for designing hybrid feedback systems that strategically orchestrate GenAI and human instructors to maximise pedagogical impact.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            \n                              Educational policy should promote the design of hybrid feedback systems that strategically align the inherent characteristics of different feedback agents with the stage‐specific learning demands across various educational contexts.\n                            \n                            \n                              Curriculum development should emphasise building students' relevant competencies (e.g., feedback literacy, AI competency, etc.), equipping them to seek, evaluate and synthesise input from multiple agents effectively.",
+        "doi": "10.1111/bjet.70080",
+        "url": "https://doi.org/10.1111/bjet.70080",
+        "authors": [
+          "Xiao Fei"
+        ],
+        "published": "2026-7-30",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
+        "title": "Not a universal benefit: Examining the differential effects of emotional\n                    <scp>AI</scp>\n                    on\n                    <scp>L2</scp>\n                    pre‐service teachers' language learning",
+        "abstract": "Abstract\n                  \n                    While emotional design in educational AI is often presented as a universal benefit, this study challenges that assumption, investigating when, for whom and how it impacts L2 vocabulary learning. This paper reports on the first phase of a larger project, analysing data from a quasi‐experimental study with 147 pre‐service teachers who interacted with either an emotional or a regular AI agent. Data included pre‐/post‐tests, questionnaires and complete AI chat histories. Quantitative analysis revealed no overall difference in vocabulary acquisition or other affective variables. A more nuanced pattern emerged in an exploratory subgroup analysis: contrary to prevailing assumptions, the regular agent—not the emotional one—preserved significantly better learning attitudes (\n                    p\n                     = 0.001) and intrinsic motivation (\n                    p\n                     = 0.038) for learners with lower baseline proficiency. A possible mechanism is suggested by a significant negative correlation between self‐reported cognitive load and vocabulary scores, found only in the emotional AI group: under high task difficulty, the emotional agent's verbose scaffolding may have added extraneous cognitive load rather than serving as a supportive buffer. We treat this correlational evidence as tentative rather than demonstrated. To explain these divergent outcomes, a qualitative analysis of interaction patterns identified four distinct learner archetypes—from the high‐agency ‘Constructive Inquirer’ to the passive ‘Attentive Pupil’. The findings indicate that the emotional AI's efficacy might be moderated by these profiles; its verbose emotional scaffolding may have added extraneous processing demands for the vulnerable ‘Attentive Pupil’ while being perceived as an inefficient frustration by the task‐oriented ‘Demanding Critic’. The study concludes that a one‐size‐fits‐all approach to emotional AI is suboptimal.\n                  \n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Emotional design in digital learning environments is widely considered beneficial for enhancing learner engagement, motivation and positive emotions.\n                            \n                            \n                              Affective AI systems are increasingly being developed for education with the goal of providing personalized and psychologically supportive instruction.\n                            \n                            \n                              Individual learner differences, such as prior knowledge, motivation and confidence, are known to be significant factors that impact the effectiveness of any educational intervention.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              This paper demonstrates that the benefits of emotional AI are not universal. Its efficacy is highly conditional, with the regular agent—not the emotional one—preserving better learning attitudes and motivation for lower‐proficiency learners under high cognitive load conditions.\n                            \n                            \n                              It tentatively provides a new explanatory framework of four learner archetypes (the Constructive Inquirer, Demanding Critic, Attentive Pupil and Disengaged Bystander) based on observable interaction patterns (agency and questioning effectiveness), which explains why different learners react divergently to the same AI design.\n                            \n                            \n                              It identifies a cognitive load threshold boundary condition: under high task difficulty, verbose emotional scaffolding may exceed learners' working' memory capacity and act as an extraneous processing burden rather than affective support, consistent with experimental evidence on the moderating role of task difficulty in emotional design.\n                            \n                            \n                              It reveals a potential design tension: emotional support is not uniformly beneficial—verbose affective scaffolding intended to help a passive learner (the ‘Attentive Pupil’) may instead add extraneous cognitive load under demanding tasks, while being perceived as an inefficient frustration by a high‐agency, task‐oriented learner (the ‘Demanding Critic’).\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            \n                              The design and implementation of educational AI must move beyond a ‘one‐size‐fits‐all’ model. Practitioners should select and advocate for tools that can adapt their emotional persona based on user needs, rather than applying a single emotional design universally.\n                            \n                            \n                              The four archetypes can serve as a preliminary diagnostic tool for educators. By observing how students interact with AI, teachers can identify different learner types and provide targeted pedagogical support (e.g., encouraging more agency in an ‘Attentive Pupil’ or helping a ‘Demanding Critic’ reframe the AI as a collaborative partner).\n                            \n                            \n                              For AI developers, the central implication is the need to build adaptive systems that can first diagnose a user's archetype and then dynamically adjust their affective strategy—offering support when needed and becoming an efficient, unobtrusive tool at other times.\n                            \n                            \n                              Educational policy should encourage the development of AI that is not just technologically advanced but also pedagogically sophisticated and emotionally adaptive, ensuring that new technologies serve a diverse student population equitably and effectively.",
+        "doi": "10.1111/bjet.70078",
+        "url": "https://doi.org/10.1111/bjet.70078",
+        "authors": [
+          "Zhuo Wang",
+          "Hui Pang"
+        ],
+        "published": "2026-7-18",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
+        "title": "A balance between stability and flexibility: Adaptive patterns of self‐regulated learning processes shape game‐based learning",
+        "abstract": "Abstract\n                  \n                    \n                    \n                      To ensure learning efficiency in game‐based learning (GBL), learners must regulate cognitive, affective, metacognitive and motivational (CAMM) processes, collectively known as self‐regulated learning (SRL). SRL is dynamic and non‐linear, characterized by regulatory patterns and CAMM interactions that lead to macro‐level SRL behaviours. In this paper, we explore SRL as a complex system by analysing patterns and interactions among CAMM processes during GBL and examine their relation to learning outcomes. Thirty‐seven (\n                      n\n                       = 37) healthy adults used Antidote COVID‐19, a GBL environment designed to increase emotional engagement and biology knowledge. To define momentary CAMM processes, subjective measures of cognitive, affective and metacognitive states via think‐ and emote‐alouds were synchronized with two physiological correlates of motivation: intensity of facial expressions (arousal) and skin conductance response. Sequence analysis and recurrence quantification defined the regularity of patterns within CAMM components, and transfer entropy estimated concurrent interactions between CAMM components. Our results indicated a quadratic relationship between the turbulence (a measure of regularity) of cognitive, affective and metacognitive (CAM) state transitions (via think‐ and emote‐aloud methods) provided the best fit, explaining 31% of variability in learning. This highlights an optimal balance between stability and flexibility in CAM state transitions that were beneficial for learning. However, physiological correlates of motivation were not predictive regarding learning performance. This lack of predictive capability of the considered measures may reflect their limitations in capturing nuanced motivation dynamics relevant to learning or suggest that motivation's role in learning is predominantly mediated through cognitive and metacognitive engagement rather than directly influencing outcomes.\n                    \n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Game‐based learning (GBL) is a promising intervention for improving science knowledge, but it places high self‐regulatory demands on learners.\n                            \n                            \n                              Learners must manage cognitive, affective, motivational and metacognitive (CAMM) processes to ensure GBL efficiency; otherwise known as self‐regulated learning (SRL).\n                            \n                            \n                              Prior research has shown that CAMM processes are each important for learning in games, but they are often studied in isolation rather than as interacting processes over time.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              This study conceptualizes SRL in GBL as a complex system utilizing mixed multimodal data, emphasizing patterns and interactions among CAMM processes rather than static averages.\n                            \n                            \n                              Results show that learning is maximized when learners exhibit an optimal balance between stability and flexibility in their cognitive, affective and metacognitive state transitions, neither overly rigid nor overly random regulation patterns.\n                            \n                            \n                              Cognitive, affective and metacognitive processes (assessed via think–/emote‐alouds) were strongly related to learning gain, whereas physiological indicators of motivation alone were not predictive.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              Designers of GBL environments should support adaptive regulation, encouraging learners to flexibly shift SRL strategies and emotions while maintaining coherence in their learning process.\n                            \n                            \n                              Educators and researchers should be cautious about relying solely on physiological measures (eg, arousal) for assessing learning effectiveness, as these may not capture meaningful regulatory dynamics.\n                            \n                            \n                              Policies and evaluation frameworks for educational games should prioritize tools and analytics that capture process‐level SRL patterns over time, rather than focusing exclusively on outcomes or isolated behavioural indicators.",
+        "doi": "10.1111/bjet.70077",
+        "url": "https://doi.org/10.1111/bjet.70077",
+        "authors": [
+          "Elizabeth B. Cloude",
+          "Stefan E. Huber",
+          "Jingwei Wei"
+        ],
+        "published": "2026-7-3",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      }
+    ],
+    "Educational Technology Research and Development": [
+      {
+        "title": "Unpacking the links between ICT access, ICT self-efficacy, math attitude, ESCS, and math achievement: a PISA 2022 comparison of Hong Kong, Finland, and Türkiye",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10689-w",
+        "url": "https://doi.org/10.1007/s11423-026-10689-w",
+        "authors": [
+          "Pınar Güner",
+          "Mustafa Güler",
+          "Suphi Önder Bütüner"
+        ],
+        "published": "2026-8-6",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Game-based learning for ethics: benefits, challenges, and dilemmas",
+        "abstract": "Abstract\n                  Ethics is recognized as a foundational element of human decision-making and a critical competency across educational disciplines, especially in STEM, where solving authentic, complex problems is essential. Traditional methods of ethics instruction often fail to provide the engagement needed for learners to grasp abstract ethical challenges. In contrast, game-based learning offers an experiential approach capable of supporting ethical literacy. Yet, despite their potential, games may also hinder learning or even promote unethical behavior, highlighting a critical but often overlooked challenge: balancing engaging gameplay with the meaningful integration of ethics-related objectives. Given the growing popularity and accessibility of analogue games in ethics education, this study explores their potential through four business ethics board games, each featuring distinct ethical goals, mechanics, and themes. A four-day workshop was conducted with 32 adult participants from diverse cultural, professional, and age backgrounds, with structured interviews following each gameplay session. By thematically analyzing participants’ experiences and perceptions, the study aims to deepen understanding of the complex interplay between games and ethics learning. Adopting a dialectical perspective, the research critically explores both the benefits and challenges of game-based approaches across different stages of the learning process. As a result, the pedagogical dilemmas related to rules, social modes, identity framing, systems nudging, personalized design, and ethics positioning were identified and discussed, spanning personal, behavioral, and environmental dimensions. Building on these insights, recommendations are proposed for designing and implementing games in ethics education, addressing aspects such as facilitation, instructions, goal settings, and social dynamics, thereby supporting meaningful, ethically informed learning experiences.",
+        "doi": "10.1007/s11423-026-10678-z",
+        "url": "https://doi.org/10.1007/s11423-026-10678-z",
+        "authors": [
+          "Galina Zvereva",
+          "Georgina Guillén",
+          "Samaan Al-Msallam"
+        ],
+        "published": "2026-8-4",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Exploring AI-enhanced design education in China: a quasi-experimental study of traditional, chatbot-assisted, and fully integrated AIGC conditions",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10685-0",
+        "url": "https://doi.org/10.1007/s11423-026-10685-0",
+        "authors": [
+          "Xizhen Li",
+          "Shu Chen"
+        ],
+        "published": "2026-8-3",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Flipped classroom and learning outcomes: a second-order meta-analysis",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10686-z",
+        "url": "https://doi.org/10.1007/s11423-026-10686-z",
+        "authors": [
+          "Weihao Wang",
+          "Yanan Wang",
+          "Jianting Mo"
+        ],
+        "published": "2026-7-30",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "A robot-assisted multimodal health education model for primary school students based on the ARCS framework",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10667-2",
+        "url": "https://doi.org/10.1007/s11423-026-10667-2",
+        "authors": [
+          "Chun-Chun Chang",
+          "Yi-Ning Su",
+          "Gwo-Jen Hwang"
+        ],
+        "published": "2026-7-29",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      }
+    ],
+    "Journal of Computer Assisted Learning": [
+      {
+        "title": "Students and Instructors' Perceptions of Integrating Generative\n                    <scp>AI</scp>\n                    in Assessment Within the Context of the\n                    <scp>UAE</scp>",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Generative artificial intelligence (GenAI) is transforming assessment practices in higher education, offering opportunities for efficiency and personalization while raising concerns related to academic integrity, fairness, and responsible use. Understanding how different users perceive and engage with GenAI is essential, particularly within rapidly advancing digital contexts such as the United Arab Emirates (UAE).\n                  \n                  \n                    Objectives\n                    This study investigates students' and instructors' perceptions of GenAI integration in assessment and examines the relationships among perceived usefulness, perceived ease of use, perceived risk, attitudes, and responsible use, including the moderating role of user type.\n                  \n                  \n                    Methods\n                    An explanatory sequential mixed‐methods design was employed. Quantitative data were collected from 193 participants (163 students and 30 instructors) using a validated survey instrument. Correlation, regression, mediation, and moderation analyses were conducted, complemented by qualitative thematic analysis of open‐ended responses.\n                  \n                  \n                    Results\n                    Findings revealed significant positive relationships among all constructs. Perceived usefulness and ease of use were combined into a higher‐order Technology Acceptance Model construct that strongly predicted attitudes. Perceived risk significantly influenced both attitudes and responsible use, emerging as the strongest predictor of responsible behaviour. Attitude partially mediated the relationship between technology acceptance and responsible use. User role significantly moderated this relationship, with a stronger effect observed among instructors. Qualitative findings indicated generally positive but cautious attitudes, highlighting concerns about over‐reliance, accuracy, and academic integrity, alongside a continued intention to use GenAI.\n                  \n                  \n                    Conclusions\n                    GenAI adoption in assessment is shaped by a balance between perceived benefits and risk awareness. The findings highlight the importance of promoting responsible use through clear policies, training, and assessment design, offering practical implications for integrating GenAI within higher education systems.",
+        "doi": "10.1002/jcal.70304",
+        "url": "https://doi.org/10.1002/jcal.70304",
+        "authors": [
+          "Fatima Salem Al Mohsen",
+          "Areej ElSayary"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "The Effects of K‐12 Artificial Intelligence Education in Enhancing\n                    <scp>AI</scp>\n                    Literacy: A Meta‐Analysis",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    The initiation of K‐12 artificial intelligence education has been led by numerous governments and institutions. However, most existing meta‐analyses have focused on the effectiveness of AI tools for learning support (AI in education; AIED), rather than AI education, and research on comprehensive evidence on how AI education improves learners' AI literacy remains limited.\n                  \n                  \n                    Objectives\n                    This meta‐analysis aims to provide an additional understanding of the future direction of K‐12 AI education by synthesising and analysing existing interventions in AI education classes to enhance learners' AI literacy and holistically discussing their effectiveness.\n                  \n                  \n                    Methods\n                    A total of 16 source articles were searched and analysed from 8 databases, considering our inclusion and exclusion criteria, yielding 57 effect sizes. These effect sizes were used to examine the effectiveness of various K‐12 AI education classes in enhancing AI literacy.\n                  \n                  \n                    Results and Conclusion\n                    \n                      The analysis showed a significant overall mean effect of AI education classes (\n                      g\n                       = 0.892, CI: [0.548, 1.236],\n                      p\n                       &lt; 0.001) on enhancing AI literacy. Moreover, moderator analyses by publication type, year of publication, and school level of the participants did not reveal any significant patterns, indicating that K‐12 AI education classes exhibit consistently positive effects across different contexts. The findings underscore the importance of continued research on K‐12 AI education and offer a strong rationale for its ongoing integration by policymakers across various governments. To support discussion on this topic, future studies can reference this research and investigate the topic with more published articles.",
+        "doi": "10.1002/jcal.70308",
+        "url": "https://doi.org/10.1002/jcal.70308",
+        "authors": [
+          "Wonjin Yu",
+          "Nari Kim",
+          "Ammi Chang"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "Teacher Mediation and the Contingent Promise of Generative\n                    <scp>AI</scp>\n                    in Mathematics Education",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    The integration of generative AI (GenAI) into education, specifically into teaching and learning, offers potential for personalised learning, but at the same time, it poses a challenge to whether it fosters student agency. Moreover, it also threatens to exacerbate entrenched inequalities, which have the potential to create new barriers for most of the learners. A gap exists in understanding how GenAI can be rethought as a dynamic scaffold that promotes cognitive struggle for conceptual understanding while actively advancing equitable participation.\n                  \n                  \n                    Objective\n                    The study aims to critically analyse how secondary school mathematics teachers implement GenAI for adaptive scaffolding. Moreover, this study aims to investigate the pedagogical and ethical tensions, particularly concerning equity and power dynamics, that emerge from using GenAI during classroom interactions.\n                  \n                  \n                    Methods\n                    \n                      This study employed a qualitative research design. Data were collected over an eight‐week intervention, which included in‐depth teacher interviews (\n                      n\n                       = 10), student focus groups (\n                      n\n                       = 24), and classroom observations in two public secondary schools purposively selected for their contrasting socioeconomic and technology integration profiles.\n                    \n                  \n                  \n                    Results\n                    Based on the results and findings, five distinct teacher‐mediated GenAI scaffolding practices that support equitable knowledge construction were identified. Findings indicate that strategies such as prompting for problem formulation through AI‐generated inquiry and facilitating critical comparison of AI‐generated outputs were associated with deeper student engagement and reasoning within the conditions of this study, particularly when teachers exercised intentional critical mediation. Conversely, unmediated use of GenAI amplified significant challenges, such as a redistribution of epistemic authority, a tangible “algorithmic divide” in AI performance between well‐resourced and under‐resourced schools, and risks due to the absence of how data should be handled. The technology consistently amplified existing pedagogical conditions, which are both effective and inequitable.\n                  \n                  \n                    Conclusion\n                    The promise of GenAI is strictly contingent on a commitment to equity. This means that its outcomes are determined not by the GenAI itself but by pedagogical intentionality and systemic support. Unexamined adoption poses risks that worsen disparities for marginalised students and reinforces passive learning. Thus, by proposing a framework for equitable integration centred on the teacher's role as a critical mediator, this expertise serves as a model for sustainable pedagogical practice in the digital age.",
+        "doi": "10.1002/jcal.70307",
+        "url": "https://doi.org/10.1002/jcal.70307",
+        "authors": [
+          "Allan Mesa Canonigo"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "The Impact of\n                    <scp>ChatGPT</scp>\n                    on Higher Education: A Systematic Review of Global Opportunities, Perceptions, and Challenges",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    The advent of artificial intelligence (AI) has fundamentally changed how education is delivered and how students perform. Since its launch, ChatGPT, a popular generative AI tool, has generated mixed reactions.\n                  \n                  \n                    Objectives\n                    This research systematically reviews the opportunities, perceptions, and challenges of using ChatGPT among faculty members and students at higher education levels. Our review identified key themes and patterns in the literature and provided a comprehensive understanding of the different opinions held by students and faculty.\n                  \n                  \n                    Methods\n                    We included peer‐reviewed journal articles and conference papers published between January 1, 2022 and October 20, 2025, sourced from APA PsycInfo, CINAHL Ultimate, Education Source Ultimate, ERIC and Web of Science. From 1046 initial records, 58 articles met the inclusion criteria. We also conducted a targeted search on December 10, 2024, which identified 12 additional studies from Google Scholar (6) and Consensus App (6). We then performed a final search on October 20, 2025, using the Consensus App, resulting in 12 more recent studies, bringing the total to 82 articles. Thematic content analysis and descriptive statistics identified key themes and patterns across the literature.\n                  \n                  \n                    Results and Conclusion\n                    Our review showed that faculty members and students hold differing opinions regarding ChatGPT's accuracy, reliability, and ethical implications, as well as its future role in higher education. Some view ChatGPT as a valuable tool for teaching and learning, while others remain sceptical. We conclude that appropriate measures should be taken to ensure that ChatGPT is used responsibly and equitably in higher education.",
+        "doi": "10.1002/jcal.70309",
+        "url": "https://doi.org/10.1002/jcal.70309",
+        "authors": [
+          "Olukayode Emmanuel Apata",
+          "Oi‐Man Kwok",
+          "Segun Timothy Ajose"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      }
+    ],
+    "Computers in Human Behavior": [
+      {
+        "title": "Understanding social-cognitive-norm mechanisms driving disinformation verification among Indonesian young adults on social media",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109115",
+        "url": "https://doi.org/10.1016/j.chb.2026.109115",
+        "authors": [
+          "Yonathan Dri Handarkho",
+          "Theresia Devi Indriasari",
+          "Yohanes Sigit Purnomo W.P."
+        ],
+        "published": "2027-1",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Employee knowledge and smart technology adoption: Evidence from the E-waste sector",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109129",
+        "url": "https://doi.org/10.1016/j.chb.2026.109129",
+        "authors": [
+          "Amila Kasun Sampath Udage Kankanamge",
+          "Michael Odei Erdiaw-Kwasie",
+          "Matthew Abunyewah"
+        ],
+        "published": "2027-1",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "The digital mindfulness scale: Development and longitudinal validation in the workplace",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109124",
+        "url": "https://doi.org/10.1016/j.chb.2026.109124",
+        "authors": [
+          "Elizabeth Marsh",
+          "Elvira Perez Vallejos",
+          "Alexa Spence"
+        ],
+        "published": "2027-1",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Delegating (or not) to machines: How role expectations shape leaders’ willingness to use AI for communication",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109139",
+        "url": "https://doi.org/10.1016/j.chb.2026.109139",
+        "authors": [
+          "Roshni Raveendhran",
+          "Arthur S. Jago",
+          "Jonathan Gratch"
+        ],
+        "published": "2027-1",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Psychological pathways to digital safety: A sequential model of attitudinal endorsement, environment cognition, and WTP for malicious comment prevention",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109128",
+        "url": "https://doi.org/10.1016/j.chb.2026.109128",
+        "authors": [
+          "Heejoo Lim",
+          "Hyeonjeong Kim"
+        ],
+        "published": "2027-1",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      }
+    ],
+    "Internet and Higher Education": [
+      {
+        "title": "Learning with AI-animated pedagogical agents: The role of age and gender similarity in identification, situational interest, and learning outcomes",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101089",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101089",
+        "authors": [
+          "Sören J. Traulsen"
+        ],
+        "published": "2026-10",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      },
+      {
+        "title": "An empirical study of ChatGPT use in engineering education: Prompting and performance",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101105",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101105",
+        "authors": [
+          "Lauren Genith Isaza Dominguez",
+          "Antonio Robles-Gómez",
+          "Rafael Pastor-Vargas"
+        ],
+        "published": "2026-10",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      },
+      {
+        "title": "Stressed minds, smart tools: How academic expectation stress fuels generative AI dependency in Chinese higher education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101094",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101094",
+        "authors": [
+          "Li Zhang",
+          "Yunxue Deng"
+        ],
+        "published": "2026-10",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      },
+      {
+        "title": "Shifting gaze, shifting performance: The role of individual gaze behavior and joint attention in collaborative learning in tech-enhanced classrooms",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101104",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101104",
+        "authors": [
+          "Qianru Lyu",
+          "Wenli Chen",
+          "Xinyi Cheng"
+        ],
+        "published": "2026-10",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      },
+      {
+        "title": "Beyond tools to teammates: A multilevel study of explainable ChatGPT in virtual team learning",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101102",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101102",
+        "authors": [
+          "Mehdi Darban"
+        ],
+        "published": "2026-10",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      }
+    ],
+    "Interactive Learning Environments": [
+      {
+        "title": "Multi-type assistive support in digital task learning for older adults: the moderating role of digital literacy",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2711397",
+        "url": "https://doi.org/10.1080/10494820.2026.2711397",
+        "authors": [
+          "LiYan Bu",
+          "YiZhuo Hou",
+          "YuBo Han"
+        ],
+        "published": "2026-8-5",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "A review of reviews on unveiling the dynamics of STEM education research from an artificial intelligence analysis approach",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2685803",
+        "url": "https://doi.org/10.1080/10494820.2026.2685803",
+        "authors": [
+          "Jiutong Luo",
+          "Siqi Li",
+          "Thomas K. F. Chiu"
+        ],
+        "published": "2026-8-5",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "From experience to action: sequential dynamics of experiential learning in immersive virtual reality-supported safety training",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2709674",
+        "url": "https://doi.org/10.1080/10494820.2026.2709674",
+        "authors": [
+          "Idowu David Awoyemi",
+          "Jewoong Moon",
+          "Stephen Abu"
+        ],
+        "published": "2026-8-4",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "Designing interactive industry–education learning environments: technology integration, knowledge transformation, self-efficacy, and innovation readiness",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2699326",
+        "url": "https://doi.org/10.1080/10494820.2026.2699326",
+        "authors": [
+          "Yanan Yu",
+          "Zhaoxia Huang",
+          "Yungwei Hao"
+        ],
+        "published": "2026-8-3",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "Immersive head-mounted VR for K-12 second language learning: a systematic review of learning outcomes and instructional support",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2690472",
+        "url": "https://doi.org/10.1080/10494820.2026.2690472",
+        "authors": [
+          "Xiacheng Song",
+          "Lu Sun",
+          "Jing Jin"
+        ],
+        "published": "2026-8-3",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      }
+    ],
+    "Learning and Instruction": [
+      {
+        "title": "Concrete images, diverse ideas: The role of pictures in learning from multimedia texts of varying abstractness",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102432",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102432",
+        "authors": [
+          "Ekaterina Blinova",
+          "Olga Shcherbakova"
+        ],
+        "published": "2026-12",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
+        "title": "An entropy-based ARAS approach to identifying teachers’ proof schemes",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102438",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102438",
+        "authors": [
+          "Seda Sahin",
+          "Muhammed Fatih Dogan",
+          "Zeynep Cavus Erdem"
+        ],
+        "published": "2026-12",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
+        "title": "Tell me how: Teaching science with narration vs exposition",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102436",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102436",
+        "authors": [
+          "Sara Soares",
+          "João O. Santos",
+          "Cláudia Simão"
+        ],
+        "published": "2026-12",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
+        "title": "Engaging caregivers and children in computational thinking: Family-based tangible programming and unplugged activity interventions",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102455",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102455",
+        "authors": [
+          "Zuofei Geng",
+          "Bei Zeng",
+          "Jin Huang"
+        ],
+        "published": "2026-12",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
+        "title": "The adaptivity of classroom teaching: Comments from a teaching quality perspective",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102429",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102429",
+        "authors": [
+          "Eckhard Klieme"
+        ],
+        "published": "2026-10",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      }
+    ],
+    "Education and Information Technologies": [
+      {
+        "title": "Design and evaluation of a digital twin-based virtual museum for educational virtual reality experiences: the case of TÜDAM360",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14118-6",
+        "url": "https://doi.org/10.1007/s10639-026-14118-6",
+        "authors": [
+          "İlker Usta",
+          "Serap Uğur"
+        ],
+        "published": "2026-8-6",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Digital literacy profiles of pre-service social studies teachers in Turkey: a factor mixture modeling approach",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14117-7",
+        "url": "https://doi.org/10.1007/s10639-026-14117-7",
+        "authors": [
+          "Abdullah Cevdet Kırıkçı",
+          "Sedat Sen"
+        ],
+        "published": "2026-8-5",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Antecedents of student feedback uptake during online interactive peer assessment",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14108-8",
+        "url": "https://doi.org/10.1007/s10639-026-14108-8",
+        "authors": [
+          "Ying Zhan",
+          "Ming Ming Chiu",
+          "Zilu Du"
+        ],
+        "published": "2026-8-5",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "When university students’ insecurities drive them to rely excessively on Artificial Intelligence: Relationship between fear of failure, self-esteem, social support and ChatGPT dependence",
+        "abstract": "Abstract\n                  In learning processes, students with a high fear of failure and low self-esteem may be more inclined to use technologies like artificial intelligence (ChatGPT…) to avoid making mistakes, potentially even developing a dependency on such tools. However, it is believed that having peers and teachers who help these students build confidence and receive support to overcome failure could act as a buffer against attachment to technological tools like ChatGPT. To test this hypothesis, 467 university students participated by completing a series of scales to measure their fear of failure, self-esteem, peer support, teacher support, and dependency on ChatGPT. Following a moderated mediation analysis, the results revealed that the initial hypothesis was not supported. Indeed, higher levels of fear of failure and lower levels of self-esteem did not lead to an increase in ChatGPT dependence. Likewise, social support from peers and teachers did not influence the previously mentioned relationship.",
+        "doi": "10.1007/s10639-026-14106-w",
+        "url": "https://doi.org/10.1007/s10639-026-14106-w",
+        "authors": [
+          "Héctor Galindo-Domínguez",
+          "Nahia Delgado",
+          "Daniel Losada Iglesias"
+        ],
+        "published": "2026-7-31",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Effects of sustained attention and different video lecture types on learning and recall performance of pre-service science teachers",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14102-0",
+        "url": "https://doi.org/10.1007/s10639-026-14102-0",
+        "authors": [
+          "Şeyma Ulukök Yıldırım",
+          "Duygu Sönmez"
+        ],
+        "published": "2026-7-30",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      }
+    ],
+    "Journal of Educational Computing Research": [
+      {
+        "title": "Generative Scaffolding in Pre-Trip Games: Effects of a GenAI-Chatbot on Inquiry-Based Learning",
+        "abstract": "To address the issue of “travel without learning” in study tours caused by insufficient preparation, digital game-based learning (DGBL) serves as an engaging pre-trip solution. However, traditional DGBL’s static feedback limits open-ended inquiry and personalized learning. To overcome this, we proposed the DGBL-GAI approach to provide dynamic scaffolding, and developed a “Field Trip Preparatory Game” as its specific application. A preliminary quasi-experiment involved 83 seventh-grade students: the experimental group (n = 41) used the game guided by the DGBL-GAI approach, while the control group (n = 42) received traditional script-based static prompts. Results indicated that the DGBL-GAI approach was associated with better learning achievement and self-efficacy. Furthermore, an exploratory subgroup analysis based on post-intervention self-efficacy suggested a preliminary association: the achievement advantage of the DGBL-GAI approach appeared more evident among students with lower self-efficacy. Finally, behavioral pattern analysis provided supportive process-level evidence suggesting that, within the current sample, the experimental group appeared to engage in a more proactive and strategic learning pattern, using AI as an information integration hub and showing greater persistence, whereas the control group followed a more linear and passive learning pathway.",
+        "doi": "10.1177/07356331261474369",
+        "url": "https://doi.org/10.1177/07356331261474369",
+        "authors": [
+          "Qin Chen",
+          "Yulin Gong",
+          "Minkai Wang"
+        ],
+        "published": "2026-7-30",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
+        "title": "From Simulation to Dialogue: A Quasi-Experimental Mixed-Methods Study of Conversational-AI Supported VR Fire Escape Training",
+        "abstract": "Virtual reality fire escape drills can support procedural learning. However, many implementations rely on scripted interaction that limits learner-initiated inquiry during evacuation. In this study, a Conversational AI Supported VR Fire Escape System (\n                    CAVR)\n                    was developed as a Unity based virtual reality drill integrated with the Live Character API through Web Real-Time Communication (WebRTC) for low-latency speech interaction and with retrieval augmented generation grounded in a curated fire safety knowledge base. A quasi-experimental mixed methods design was applied with 163 first year undergraduates from two universities. The experimental group used the\n                    CAVR\n                    System and the control group used a virtual reality fire escape system without conversational support. Results indicated higher post test knowledge achievement in the experimental group after adjustment for pre-test scores with a significant group effect. Higher behavioral intentions were observed across dimensions with small to medium effect sizes. Trust levels were substantially higher in the experimental group with a large effect size. Interview themes indicated that learner-initiated inquiry during embodied action continuous dialog verification through persistent subtitles and perceived grounding of guidance through retrieval augmented generation contributed to the observed outcome pattern. The implications of using a\n                    CAVR\n                    System for fire safety education are discussed.",
+        "doi": "10.1177/07356331261469058",
+        "url": "https://doi.org/10.1177/07356331261469058",
+        "authors": [
+          "Lei Cao",
+          "Kien Tsong Chau",
+          "Wan Ahmad Jaafar Wan Yahaya"
+        ],
+        "published": "2026-7-26",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
+        "title": "Unveiling the Cognitive and Affective Mechanisms of Virtual Museum Learning: A Partial Least Squares Analysis",
+        "abstract": "Virtual museums, as important carriers of immersive learning environments, are changing traditional knowledge acquisition and cultural inheritance methods. However, existing research focuses on direct relationships between virtual museum design features and learning outcomes, lacking systematic revelation of cognitive and affective mechanism pathways in the learning process. Therefore, this study constructs a Cognitive-Affective Model of Virtual Museum Learning (CAMVML), aiming to reveal complex relationships among virtual museums’ technological features, learners’ cognitive and affective experiences, and learning outcomes. This study involved 254 seventh-grade students as participants, utilized structured questionnaires for data collection, and employed partial least squares structural equation modeling to empirically validate the proposed model. Results showed that the virtual museum’s interactivity and autonomy, learners’ germane cognitive load, flow experience, and situational interest significantly and positively predicted learning outcomes. Additionally, germane cognitive load and flow experience played important mediating roles between technical features and learning outcomes. Results verified multiple hypothesized paths in the proposed model and highlighted the necessity of synergy between cognitive and affective factors in virtual learning environments. This study provides a structured theoretical framework for understanding cognitive and affective mechanisms of virtual museum learning and provides empirical support for instructional design and practical application of immersive learning environments.",
+        "doi": "10.1177/07356331261469084",
+        "url": "https://doi.org/10.1177/07356331261469084",
+        "authors": [
+          "Jingjing Ma",
+          "Xiaojuan Li",
+          "Qingtang Liu"
+        ],
+        "published": "2026-7-25",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
+        "title": "Complementary Tools or Competitors? ChatGPT-Generated and Peer-Delivered Formative Feedback in EFL Writing Classes: Effectiveness, Perceptions, and Recommendations",
+        "abstract": "There has been growing interest in EFL writing classrooms regarding the use of ChatGPT for giving feedback. Peer-delivered feedback, long celebrated for its collaborative and motivational advantages, now coexists with ChatGPT’s promise of instant, technically precise corrections. This mixed-methods study, designed as a convergent parallel design, tracked 48 Turkish university EFL learners across a semester, analyzing eight writing tasks reviewed by both peers and ChatGPT, alongside student reflections from structured written interviews. The results revealed that peer feedback excelled in nurturing coherence, structure, and idea development, while ChatGPT-generated feedback proved stronger for grammar and vocabulary corrections. Participants appreciated ChatGPT’s speed and objectivity but perceived it as tone-deaf to cultural nuance and rhetorical purpose. Although peer-delivered feedback was regarded as occasionally inconsistent, it provided authentic engagement and a sense of audience. Building on these converging findings, this study offers a reasoned pedagogical implication, rather than an empirically tested model, termed\n                    feedback sequencing\n                    : using ChatGPT first for technical cleanup, then peers for higher-order concerns such as clarity and impact. This staged proposal, which warrants direct experimental verification in future research, is theoretically grounded in cognitive load theory and sociocognitive perspectives on formative feedback. The findings urge educators to weave AI literacy into curricula, not as a replacement for peer interaction, but as a complement that preserves the irreplaceable human dimensions of learning to write.",
+        "doi": "10.1177/07356331261469720",
+        "url": "https://doi.org/10.1177/07356331261469720",
+        "authors": [
+          "Harun Çiftci"
+        ],
+        "published": "2026-7-22",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
+        "title": "How Undergraduate and Graduate Students Self-Regulate GenAI Use in Project-Based Learning: Choosing, Creating, Filtering, and Stopping Strategies",
+        "abstract": "Generative AI (GenAI) is now common in university project work, yet previous studies often examine students’ trust, creativity, overload, or engagement separately. This leaves a key gap: how students regulate GenAI across a full project workflow. This exploratory study addresses that gap by examining a four-process “\n                    AI-mediated Self-Regulated Learning\n                    ” (\n                    AI-SRL\n                    ) cycle: (1) evaluating and selecting GenAI suggestions, (2) experiencing shifts in creative agency, (3) managing overload through filtering and summarizing, and (4) monitoring time and energy to stop or continue working with GenAI. We conducted a two-course basic qualitative design study with 97 undergraduate and graduate students. Data came from an open-ended questionnaire aligned to the four processes. We used inductive content analysis with a shared codebook, reliability checks, and cross-level comparisons. Findings show that students use combinations of strategies across the\n                    AI-SRL\n                    cycle. They exercise agency through goal alignment, revision, and verification, with graduates reporting stronger cross-checking and source-based justification. Creativity was described as a conditional outcome: it increased when GenAI widened ideas but declined when it replaced personal exploration. Overload was managed through targeted prompts and structured outputs, again more common among graduates. Most students did not lose track of time; they used clear stopping cues such as fatigue, repetition, or satisfaction. Together, results reveal two distinct metacognitive regulation styles: “\n                    Exploratory-Simplification\n                    ” and “\n                    Systematic-Methodical\n                    ”.",
+        "doi": "10.1177/07356331261469412",
+        "url": "https://doi.org/10.1177/07356331261469412",
+        "authors": [
+          "Maria Perifanou",
+          "Anastasios A. Economides"
+        ],
+        "published": "2026-7-22",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      }
+    ],
+    "International Journal of Human-Computer Interaction": [
+      {
+        "title": "The Effect of Source Disclosure on Trust in an AI-Based Knowledge Management System",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2708454",
+        "url": "https://doi.org/10.1080/10447318.2026.2708454",
+        "authors": [
+          "Ina Schiedermair",
+          "Marco Baumgartner",
+          "Elena Kick"
+        ],
+        "published": "2026-8-5",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "AI Usage in Interpersonal Helping Comes at a Cost: Understanding Its Negative Effect on Gratitude and Reciprocation in the Workplace",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2708474",
+        "url": "https://doi.org/10.1080/10447318.2026.2708474",
+        "authors": [
+          "Manna Zhang",
+          "Zheng Fan",
+          "Juan Du"
+        ],
+        "published": "2026-8-5",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Servant or Partner? Effect of Time Scarcity on AI Role Preference and Its Psychological Mechanism of Task Self-Efficacy",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2705082",
+        "url": "https://doi.org/10.1080/10447318.2026.2705082",
+        "authors": [
+          "Zhimin Zhou",
+          "Jie Fu",
+          "Shuchen Qiao"
+        ],
+        "published": "2026-8-5",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Using Painting to Assist Language Learning: An Empirical Study on the Acceptance of Intelligent Teaching Aids by Chinese Adolescents",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2707715",
+        "url": "https://doi.org/10.1080/10447318.2026.2707715",
+        "authors": [
+          "Xianhao Zhang",
+          "Yu Qiao",
+          "Yuhui Wang"
+        ],
+        "published": "2026-8-5",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Ready for Release: Exploring Offenders’ Acceptance of Virtual Reality for Reintegration Training",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2708473",
+        "url": "https://doi.org/10.1080/10447318.2026.2708473",
+        "authors": [
+          "Louis Nisiotis",
+          "Panayiotis Hadjidemetriou",
+          "Olga Solomontos-Kountouri"
+        ],
+        "published": "2026-8-4",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      }
+    ],
+    "Early Childhood Education Journal": [
+      {
+        "title": "Capturing Indoor Movement: A Classroom Video Approach to Assessing Preschoolers’ Physical Activity",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02304-7",
+        "url": "https://doi.org/10.1007/s10643-026-02304-7",
+        "authors": [
+          "Yue Xing",
+          "Huan-ting Huang",
+          "Qian-hui Liu"
+        ],
+        "published": "2026-8-6",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "Correction: Balancing Job Demands and Resources: How Work Conditions Shape Early Childhood Teachers’ Professional Motivation and Teaching Self-Efficacy",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02316-3",
+        "url": "https://doi.org/10.1007/s10643-026-02316-3",
+        "authors": [
+          "Hyun-Joo Jeon",
+          "Jamie DeCoster",
+          "Emerald Kusi-Amponsah"
+        ],
+        "published": "2026-8-6",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "Process Quality Profiles in Chinese Childcare Classrooms: Evidence From the Hunan Province",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02301-w",
+        "url": "https://doi.org/10.1007/s10643-026-02301-w",
+        "authors": [
+          "Xi Yang",
+          "Luyue Zhou"
+        ],
+        "published": "2026-8-4",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "A Pedagogy of Presence: Material Encounters with Infants and Toddlers",
+        "abstract": "Abstract\n                  \n                    This article introduces a\n                    Pedagogy of Presence\n                    framework developed through a qualitative case study exploring visual arts pedagogy with infants and toddlers in four early childhood education (ECE) settings in Aotearoa New Zealand. The study examined how teachers design and facilitate meaningful material encounters with infants and toddlers, emphasising relational pedagogy, material exploration, and teachers’ image of the child. Drawing on interviews, observations, and pedagogical documentation, we found that teachers engaged in a responsive ‘dance’ of listening, echoing, and provoking new ideas and thinking, underpinned by a foundation of attuned care. Organisational structures and thoughtfully designed environments enabled sustained engagement, while teachers’ inquiries and collaborative dialogue supported ongoing pedagogical growth. The\n                    Pedagogy of Presence\n                    framework offers ECE teachers and leaders insight into effective practices for supporting and engaging with infants and toddlers in material exploration and inquiry. This research foregrounds infants and toddlers as capable participants in artistic and cultural life, and positions visual arts not as peripheral, but as central to early learning, identity, and wellbeing.",
+        "doi": "10.1007/s10643-026-02290-w",
+        "url": "https://doi.org/10.1007/s10643-026-02290-w",
+        "authors": [
+          "Rachel Denee",
+          "Sarah Probine"
+        ],
+        "published": "2026-7-31",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "Social-Emotional Competence and Well-Being in Early Childhood Educators: Insights From the BEST YO SEL Program",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02317-2",
+        "url": "https://doi.org/10.1007/s10643-026-02317-2",
+        "authors": [
+          "Marissa Yi-Hsuan Wu"
+        ],
+        "published": "2026-7-30",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      }
+    ],
+    "Early Childhood Research Quarterly": [
+      {
+        "title": "Teachers’ professional well-being in Dutch child care and after-school care programs: relations with individual, classroom and organizational characteristics",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2026.05.005",
+        "url": "https://doi.org/10.1016/j.ecresq.2026.05.005",
+        "authors": [
+          "Bodine R. Romijn",
+          "Pauline L. Slot",
+          "Paul. P.M. Leseman"
+        ],
+        "published": "2026-5",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "Supporting teachers to enact science talk in early elementary classrooms: The role of professional learning and curriculum",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2025.09.005",
+        "url": "https://doi.org/10.1016/j.ecresq.2025.09.005",
+        "authors": [
+          "Tanya S. Wright",
+          "Amelia Wenk Gotwals",
+          "Arianna Pikus"
+        ],
+        "published": "2026",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "Scaling high quality: An implementation study of Boston’s Universal Pre-K expansion to community-based programs",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2025.08.002",
+        "url": "https://doi.org/10.1016/j.ecresq.2025.08.002",
+        "authors": [
+          "Christina Weiland",
+          "Paola Guerrero Rosada",
+          "Anne Taylor"
+        ],
+        "published": "2026",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "Mediating role of parent-teacher cocaring relationships in the associations between teacher-child relationships and parenting stress in Early Head Start",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2026.03.005",
+        "url": "https://doi.org/10.1016/j.ecresq.2026.03.005",
+        "authors": [
+          "Dahyung Ryu",
+          "Shinyoung Jeon",
+          "Erin G. Fox"
+        ],
+        "published": "2026",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "A randomized controlled trial of HighScope’s teacher professional learning on preschoolers' executive function skills",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2026.03.012",
+        "url": "https://doi.org/10.1016/j.ecresq.2026.03.012",
+        "authors": [
+          "Sammy F. Ahmed",
+          "Nicholas E. Waters",
+          "Lori E. Skibbe"
+        ],
+        "published": "2026",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      }
+    ],
+    "Journal of Early Childhood Research": [
+      {
+        "title": "The nano-field: Theorising ethical tensions at the intersection of institutional rules and child-centred research",
+        "abstract": "Early childhood research increasingly foregrounds children’s participation and complex agency, yet ethical tensions persist when child-centred research unfolds within adult-governed pedagogic institutions. These tensions often arise in fleeting interactional moments where participation redistributes authority and unsettles institutional norms and peer hierarchies. Drawing on data collected in 2016 with 18 children aged 3–5 across two London nurseries, this paper analyses two research encounters involving peer conflict and exclusion. The findings demonstrate that research participation can recalibrate symbolic capital within pedagogic settings, enabling children to negotiate, stretch, and at times subvert institutional rules in real time. These moments are ethically intensified because the researcher’s positioning simultaneously softens and reconfigures adult authority. To theorise this hyper-local dynamic, I introduce the concept of the nano-field; a nested research field within broader pedagogic and institutional fields where capital, hierarchy, and rules are renegotiated. In dialogue with my earlier work on agile agency, the nano-field specifies how children discern rules through situated co-reflexivity, embody research identities, and reconfigure peer hierarchies. The paper concludes that without theorising the research encounter itself as a nested field, ethical dilemmas risk being reduced either to procedural ethics or to celebratory accounts of agency. The nano-field therefore constitutes a necessary refinement of field theory and offers a framework for ethically responsive child-centred research in early childhood settings.",
+        "doi": "10.1177/1476718x261469452",
+        "url": "https://doi.org/10.1177/1476718x261469452",
+        "authors": [
+          "Yaspia Salema"
+        ],
+        "published": "2026-7-26",
+        "journal": "Journal of Early Childhood Research",
+        "venue": "Journal of Early Childhood Research"
+      },
+      {
+        "title": "Children’s use of symbolic “anchors”: Color and shape in map-making activities",
+        "abstract": "This research study focuses on children’s symbolic development, especially looking at color and shape as symbolic anchors in children’s expressive communication. Framed by Vygotsky’s cognitive development theory, which includes the roles of social interaction, cultural tools, and the zone of proximal development (ZPD), as well as Mead’s social interactionism, the study was designed as mixed-methods research with data collection from children’s map artifacts, map-making video recording and audio transcriptions, and a data collection matrix. By tracking the performance of 10 children (n/x = 10) in creating maps for 2 years, when they were approximately 4 years old (year 1, mean age = 52.5 months), and in Pre-K (year 2, mean age = 71 months), when they were approximately 5 years old, we examined children’s symbol use. It was observed that exposure to and engagement with relational language promotes children’s analogical reasoning. We also found that the children’s use of symbols, and especially symbolic anchors, increased overtime, demonstrating expanded perspective-taking ability. Lastly, it is our observation that children’s use of shape as a symbolic anchor seems to appear prior to children’s use of color in the emergence of symbolic representation.",
+        "doi": "10.1177/1476718x261466158",
+        "url": "https://doi.org/10.1177/1476718x261466158",
+        "authors": [
+          "Wenjie Wang",
+          "Annabelle Black Delfin"
+        ],
+        "published": "2026-7-26",
+        "journal": "Journal of Early Childhood Research",
+        "venue": "Journal of Early Childhood Research"
+      },
+      {
+        "title": "Material-discursive dimensions of early narrative learning in a kindergarten classroom",
+        "abstract": "This study applies posthuman theory and materiality to early literacy learning to support shifts in school-based practices from human-centered, developmental models using scripted curricula to one that acknowledges literacy as an intra-active, material-discursive process. The research was conducted in a kindergarten public school classroom where, twice per week, children listened to read alouds and crafted narratives using paper-based and digital tools. The intra-actions recognized children, books, recordings, and writing tools as active participants in the learning process. Learning was entangled with children’s bodies, voices, emotions, and memories. The material-discursive engagements altered the children’s becomings as literate beings. The findings challenge a narrow view of literacy and the child as the sole agent of literacy, highlighting how objects, gestures, playfulness, and cultural stories intra-act to shape learning. The study reimagines storytelling as a dynamic, embodied, and relational practice that disrupts conventional literacy pedagogies.",
+        "doi": "10.1177/1476718x261469435",
+        "url": "https://doi.org/10.1177/1476718x261469435",
+        "authors": [
+          "Sally Brown"
+        ],
+        "published": "2026-7-26",
+        "journal": "Journal of Early Childhood Research",
+        "venue": "Journal of Early Childhood Research"
+      },
+      {
+        "title": "Researching Lx English among young children: Challenges and complexities",
+        "abstract": "Most research on Lx English has focused on adolescent and adult learners, despite growing evidence that young children encounter and use English well before formal instruction begins. Studies specifically addressing the use of and exposure to Lx English among young children, ages 3–7 in Sweden and similar countries remain scarce. This paper addresses that gap by critically examining the methodological and ethical complexities involved in researching young children’s exposure to and use of English as an additional language in Swedish preschools. Given the critical importance of language development in early childhood, it is essential to investigate how children engage with and experience language through diverse modalities. This paper aims to critically discuss the challenges and complexities encountered in the research on young children’s exposure to English as an additional language (Lx) in Swedish preschools. In particular, the study investigates how different methodological approaches can capture the multifaceted, context-dependent, and often informal nature of Lx English in early childhood settings. The methodological framework includes observations, field notes, interviews with children and preschool teachers, questionnaires, and age-relevant language proficiency tests. The study is conducted across four distinct Swedish preschool contexts. Rather than presenting detailed empirical findings, this paper focuses on methodological and ethical reflections emerging from the study, highlighting the complexities and challenges inherent in conducting research with young children in such settings. The discussion addresses key issues that may prove significant for researchers engaged in preschool research, particularly how different methods can help amplify children's voices. The paper concludes with practical implications for researchers in the field of early childhood education and care, emphasizing the importance of adopting a child-centered perspective when children are the primary focus of research.",
+        "doi": "10.1177/1476718x261469448",
+        "url": "https://doi.org/10.1177/1476718x261469448",
+        "authors": [
+          "Pia Williams",
+          "Liss Kerstin Sylvén"
+        ],
+        "published": "2026-7-26",
+        "journal": "Journal of Early Childhood Research",
+        "venue": "Journal of Early Childhood Research"
+      },
+      {
+        "title": "Flexibility or fragility? Ambivalences of temporary agency work in German Early Childhood Education and Care",
+        "abstract": "Temporary agency work has become a growing yet ambivalent feature of Germany’s Early Childhood Education and Care (ECEC) system. Though agency staff make up only a small portion of the workforce, their presence reveals core weaknesses in the sector—persistent staff shortages, rigid employment models, and limited career perspectives. Drawing on a qualitative, multi-perspective study involving agency workers, agency executives, and ECEC managers, this article analyses the structural and professional ambivalences of agency employment. It situates these experiences within debates on professionalisation, individualisation, and workforce policy. The findings highlight four recurring tensions: flexibility versus insecurity, relief versus loss of belonging, financial incentives versus inequality, and autonomy versus dependency. These contradictions illuminate how agency work stabilises institutions while simultaneously eroding professional continuity. The article concludes that the attractiveness of agency work exposes deficits in permanent employment structures. Incorporating elements such as flexible scheduling, reduced administrative burdens, and rotational experiences into stable contracts could strengthen workforce sustainability and pedagogical quality in ECEC.",
+        "doi": "10.1177/1476718x261455279",
+        "url": "https://doi.org/10.1177/1476718x261455279",
+        "authors": [
+          "Nina Weimann-Sandig",
+          "Mathias Duderstadt"
+        ],
+        "published": "2026-6-30",
+        "journal": "Journal of Early Childhood Research",
+        "venue": "Journal of Early Childhood Research"
+      }
+    ]
+  },
+  "keyword_papers": [
+    {
+      "paperId": "965209f2fb01be9a58074f7ddfa54bbb12bc605d",
+      "title": "Artificial Intelligence in Early Childhood STEM Education: A Review of Pedagogical Paradigms, Ethical Issues, and Socio-Political Implications",
+      "abstract": "This study examines the pedagogical, ethical, and political dimensions of artificial intelligence (AI) in early childhood STEM education from a theoretical perspective. As digital technologies become increasingly prevalent in education, AI applications offer significant opportunities in areas such as personalized learning experiences, game-based education, and data analytics. However, they also pose critical ethical concerns, including data security, algorithmic bias, and privacy, while influencing children's cognitive, linguistic, and social development. Drawing on Piaget’s theory of active discovery and learning, Vygotsky’s emphasis on social interaction and teacher guidance, and Bronfenbrenner’s ecological systems theory, this study explores how AI-supported learning environments can enrich children's natural developmental processes. A qualitative literature review and theoretical analysis reveal the necessity of achieving a balanced integration between the individualized educational opportunities offered by AI and the potential risks it entails. The findings highlight the critical importance of developing human-centered, ethically sound, and inclusive educational models for educators, policymakers, and researchers in the face of technological transformation. In this context, teacher training, parental collaboration, and interdisciplinary strategies are identified as fundamental prerequisites for the sustainable and effective integration of AI in early childhood education.",
+      "authors": [
+        "Elif Ozturk"
+      ],
+      "venue": "Journal of Education in Science Environment and Health",
+      "published": "2025-03-26",
+      "url": "https://doi.org/10.55549/jeseh.800",
+      "query": "artificial intelligence early childhood"
+    },
+    {
+      "paperId": "2de6e7e896dde9848030e60591c6686b918ce7ba",
+      "title": "A new era in early childhood education (ECE): Teachers’ opinions on the application of artificial intelligence",
+      "abstract": "This study aimed to evaluate the role of AI in preschool from the perspective of preschool teachers. The research group consisted of 101 preschool teachers. The study group was selected according to the easily accessible case sampling method, one of the purposeful sampling methods. The study was a phenomenology, which is a qualitative research design. Qualitative data were collected using a semi-structured interview form. Data were analyzed using inductive content analysis. As a result of the analyses, the participants stated they did not feel sufficient regarding Al literacy and competencies. The participants also emphasized that using AI in preschool was appropriate and would improve children’s skills, such as AI literacy and computational thinking. Moreover, they stated that using AI in preschool would cause privacy and security concerns for different reasons, such as not protecting personal data, using children’s pictures, and providing false and misleading information. The participants stated that they were worried about the implementation process of Al due to lack of content knowledge, lack of infrastructure, physical structure of the classroom, and lack of materials. In addition, participants emphasized that if the existing concerns were eliminated, AI could be easily integrated into the preschool period. In addition, it was determined that most participants had problems in modeling and drawing a model related to AI.",
+      "authors": [
+        "Esra Betül Kölemen",
+        "Bekir Yıldırım"
+      ],
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-03-11",
+      "url": "https://doi.org/10.1007/s10639-025-13478-9",
+      "query": "artificial intelligence early childhood"
+    },
+    {
+      "paperId": "13a2b81a9cbbb64579e9f303f985589d5f99c70d",
+      "title": "The Use of Artificial Intelligence (AI) in Early Childhood Education",
+      "abstract": "The integration of Artificial Intelligence (AI) into early childhood education presents new opportunities and challenges in fostering cognitive, social, and emotional development. This theoretical discussion synthesizes recent research on AI’s role in personalized learning, educational robotics, gamified learning, and social-emotional development. The study explores theoretical frameworks such as Vygotsky’s Sociocultural Theory, Distributed Cognition, and the Five Big Ideas Framework to understand AI’s impact on young learners. AI-powered personalized learning platforms enhance engagement and adaptability, while robotics and gamification foster problem-solving and collaboration. Additionally, AI tools support children with disabilities, promoting inclusivity and accessibility. However, ethical concerns related to privacy, bias, and teacher preparedness pose challenges to effective AI integration. Furthermore, the long-term effects of AI on children’s social skills and emotional intelligence require further investigation. This theoretical discussion emphasizes the need for interdisciplinary collaboration to develop AI-driven educational strategies that prioritize developmental appropriateness, equity, and ethical considerations. The findings highlight AI’s potential as a transformative educational tool, provided it is implemented thoughtfully and responsibly. The paper aims to address the following research question: How can artificial intelligence (AI) be meaningfully and ethically integrated into early childhood education to enhance learning, while preserving developmental and relational values?",
+      "authors": [
+        "S. Cimino",
+        "A. Maremmani",
+        "L. Cerniglia"
+      ],
+      "venue": "Societies",
+      "published": "2025-12-04",
+      "url": "https://doi.org/10.3390/soc15120341",
+      "query": "artificial intelligence early childhood"
+    },
+    {
+      "paperId": "06edfaf09d3cb36a2ebfc4201ffd4589dab47ff6",
+      "title": "Artificial Intelligence (AI)-Driven Curriculum Development in Early Childhood Education: Educators' Insights, Barriers, and Policy Pathways",
+      "abstract": "The integration of Artificial Intelligence (AI) in early childhood education (ECE) has gained global attention for its potential to enhance personalized learning and inclusivity. However, challenges such as teacher preparedness, infrastructure limitations, and ethical concerns hinder its effective implementation, particularly in developing contexts. This study explores the perceptions of educators regarding AI-driven curriculum development in ECE, identifies challenges and opportunities, and assesses the effectiveness of AI-based learning models. A qualitative research approach was used, involving semi-structured interviews and focus group discussions with 20 educators from two districts of Lahore, Pakistan. Data were analyzed using thematic analysis. Findings indicate that AI enhances engagement, supports personalized learning, and benefits children with special needs. However, infrastructure gaps and lack of teacher training remain major barriers. The study recommends capacity-building programs for educators, policy frameworks for ethical AI adoption, and investment in digital infrastructure to ensure equitable access to AI-driven education.",
+      "authors": [
+        "Dr. Abdul Qayyum",
+        "Zeshan Rafique",
+        "Syed Shehr"
+      ],
+      "venue": "Research Journal of Psychology",
+      "published": "2025-03-23",
+      "url": "https://doi.org/10.59075/rjs.v3i1.102",
+      "query": "artificial intelligence early childhood"
+    },
+    {
+      "paperId": "9e7d64a45c301b9c9b7e87aacaf117e31dce46ca",
+      "title": "From Turing’s conception of machine intelligence to the evolution of AI in early childhood education: conceptual, empirical, and practical insights",
+      "abstract": "Artificial intelligence (AI) is rapidly permeating many aspects of our everyday lives and nearly every sector of society. In education, AI innovations are increasingly recognized for their transformative potential for enhancing teaching and student learning. In this article, I focus specifically on the evolution of AI in early childhood education (ECE), serving children from birth to age 8. To shed light on this phenomenon, I synthesize pertinent literature to yield conceptual, empirical, and practical insights. I begin with a historical perspective, tracing the origins of Turing’s conception of machine intelligence and the term “AI” to the current practical applications of AI in ECE and AI use by, for, and with children. I then examine developmental appropriateness and ethical considerations surrounding AI use. Next, I identify new opportunities and challenges for early childhood teachers, offering practical recommendations for education leaders and proposing future research directions. Finally, I conclude by reimagining an AI-powered future of ECE, emphasizing the need for supportive practices, active engagement, and the cultivation of positive dispositions among all key stakeholders, who must keep pace with the evolving AI landscape by navigating new opportunities, emerging challenges, and innovative developments. Additionally, I reimagine a transformative educational landscape enriched by student-centered, innovative teaching practices that catalyze learning in an AI-child interactive environment. In this reimagined and progressive educational landscape, the children are empowered with equal opportunities and equitable resources to naturally learn about and from developmentally appropriate AI tools as well as leverage them in ethical and responsible ways to enhance their learning.",
+      "authors": [
+        "Jennifer J. Chen"
+      ],
+      "venue": "AI, Brain and Child",
+      "published": "2025-02-25",
+      "url": "https://doi.org/10.1007/s44436-025-00002-6",
+      "query": "artificial intelligence early childhood"
+    },
+    {
+      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
+      "title": "Learning machine learning with young children: exploring informal settings in an African context",
+      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
+      "authors": [
+        "I. Sanusi",
+        "Kissinger Sunday",
+        "S. Oyelere"
+      ],
+      "venue": "Computer Science Education",
+      "published": "2023-02-07",
+      "url": "https://doi.org/10.1080/08993408.2023.2175559",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
+      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
+      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
+      "authors": [
+        "Apittha Unahalekhaka",
+        "M. Bers"
+      ],
+      "venue": "IEEE Global Engineering Education Conference",
+      "published": "2022-03-28",
+      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
+      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
+      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
+      "authors": [
+        "Chu Thi Hong Nhung",
+        "V. Giang",
+        "N. Dung"
+      ],
+      "venue": "Journal of Posthumanism",
+      "published": "2025-04-09",
+      "url": "https://doi.org/10.63332/joph.v5i3.705",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
+      "title": "Learning machine learning with very young children: Who is teaching whom?",
+      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
+      "authors": [
+        "Henriikka Vartiainen",
+        "M. Tedre",
+        "Teemu Valtonen"
+      ],
+      "venue": "Int. J. Child Comput. Interact.",
+      "published": "2020-09-01",
+      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
+      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
+      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
+      "authors": [
+        "L. Aquini",
+        "Júlia Veiga",
+        "T. T. Primo"
+      ],
+      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
+      "published": "2025-11-24",
+      "url": "https://doi.org/10.5753/sbie.2025.12590",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
+      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
+      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
+      "authors": [
+        "Walayat Hussain",
+        "Machi Raju Varanasi",
+        "Liam New"
+      ],
+      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
+      "published": "2025-11-18",
+      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
+      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
+      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
+      "authors": [
+        "S. Guizani",
+        "Tehseen Mazhar",
+        "Tariq Shahzad"
+      ],
+      "venue": "Discover Education",
+      "published": "2025-02-15",
+      "url": "https://doi.org/10.1007/s44217-025-00424-7",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
+      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
+      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
+      "authors": [
+        "James C. L. Chow",
+        "Kay Li"
+      ],
+      "venue": "JMIR Cancer",
+      "published": "2025-02-18",
+      "url": "https://doi.org/10.2196/66633",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
+      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
+      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
+      "authors": [
+        "V. Nikolovski",
+        "D. Trajanov",
+        "Ivan Chorbev"
+      ],
+      "venue": "Algorithms",
+      "published": "2025-03-04",
+      "url": "https://doi.org/10.3390/a18030144",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "51ae8d48ec1a7acb178e67c2c0ffe20625177481",
+      "title": "Development and evaluation of a retrieval-augmented large language model framework for enhancing endodontic education",
+      "abstract": "BACKGROUND\nIntegrating domain-specific knowledge into large language models (LLMs) remains a critical challenge in medical education. In dental specialties such as endodontics, effective learning requires access to both textual clinical evidence and visual procedural demonstrations. However, generic LLMs often produce content that lacks clinical accuracy, contextual grounding, or pedagogical clarity, thereby limiting their applicability in specialized training environments.\n\n\nOBJECTIVE\nTo develop and evaluate a Retrieval-Augmented Generation (RAG)-enhanced LLMs framework that addresses the challenge of integrating domain-specific knowledge in AI-driven endodontic education.\n\n\nMETHOD\nWe present Endodontics-KB, a multimodal knowledge integration platform that combines evidence-based dental literature (e.g., textbooks, clinical guidelines) with visual instructional materials (e.g., procedural videos) through a hierarchical RAG architecture. The system's core component, the EndoQ chatbot, utilizes LLMs augmented with multimodal dental datasets to enable context-aware clinical reasoning. Benchmarking was conducted against three general-purpose LLMs: GPT-4, Qwen2.5, and DeepSeek R1, using a structured question bank comprising 11 expert-validated endodontic questions. Two domain experts performed a blinded evaluation across five performance dimensions: clinical accuracy, contextual relevance, completeness, decision-making professionalism, and communication fluency.\n\n\nRESULTS\nThe framework integrated 2,200 multimodal knowledge units through dynamic semantic indexing. EndoQ demonstrated statistically significant improvements across all evaluation metrics compared to general purpose LLMs: accuracy (4.45 ± 0.96), clinical relevance (4.59 ± 0.8), completeness (4.27 ± 0.83), professionalism judgment (4.45 ± 1.06), and language fluency (4.86 ± 0.47), as measured on a 5-point Likert scale.\n\n\nCONCLUSION\nThis proposed framework improves educational outcomes through precise and context-aware knowledge delivery. Furthermore, it represents a scalable and transferable model for AI-enhanced clinical training across medical specialties, significantly advancing competency-based pedagogy in dental education.",
+      "authors": [
+        "Xiaowei Xu",
+        "Siyi Liu",
+        "Lin Zhu"
+      ],
+      "venue": "Int. J. Medical Informatics",
+      "published": "2025-06-01",
+      "url": "https://doi.org/10.1016/j.ijmedinf.2025.106006",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
+      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
+      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "authors": [
+        "S. Muppalla",
+        "Sravya Vuppalapati",
+        "Apeksha Reddy Pulliahgaru"
+      ],
+      "venue": "Cureus",
+      "published": "2023-06-01",
+      "url": "https://doi.org/10.7759/cureus.40608",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
+      "title": "Impact of excessive use of screen time on child development: A review",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Anuradha",
+        "Ragini Mishra",
+        "Arti"
+      ],
+      "venue": "International journal of agriculture extension and social development",
+      "published": "2025-06-01",
+      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
+      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Midori Yamamoto",
+        "H. Mezawa",
+        "Kenichi Sakurai"
+      ],
+      "venue": "JAMA pediatrics",
+      "published": "2024-01-22",
+      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
+      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
+      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "authors": [
+        "X. Wan",
+        "Xiaoqing Kang",
+        "Shunli Chen"
+      ],
+      "venue": "Frontiers in Pediatrics",
+      "published": "2025-08-28",
+      "url": "https://doi.org/10.3389/fped.2025.1667048",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "e8b7f14835d555b49edfc719d8a54d48b0a00136",
+      "title": "Screen time, brain network development and socio-emotional competence in childhood: moderation of associations by parent–child reading",
+      "abstract": "Abstract Background Screen time in infancy is linked to changes in social-emotional development but the pathway underlying this association remains unknown. We aim to provide mechanistic insights into this association using brain network topology and to examine the potential role of parent–child reading in mitigating the effects of screen time. Methods We examined the association of screen time on brain network topology using linear regression analysis and tested if the network topology mediated the association between screen time and later socio-emotional competence. Lastly, we tested if parent–child reading time was a moderator of the link between screen time and brain network topology. Results Infant screen time was significantly associated with the emotion processing-cognitive control network integration (p = 0.005). This network integration also significantly mediated the association between screen time and both measures of socio-emotional competence (BRIEF-2 Emotion Regulation Index, p = 0.04; SEARS total score, p = 0.04). Parent–child reading time significantly moderated the association between screen time and emotion processing-cognitive control network integration (β = −0.640, p = 0.005). Conclusion Our study identified emotion processing-cognitive control network integration as a plausible biological pathway linking screen time in infancy and later socio-emotional competence. We also provided novel evidence for the role of parent–child reading in moderating the association between screen time and topological brain restructuring in early childhood.",
+      "authors": [
+        "Pei Huang",
+        "Shih-Yu Chan",
+        "Zhen Ming Ngoh"
+      ],
+      "venue": "Psychological Medicine",
+      "published": "2024-02-05",
+      "url": "https://doi.org/10.1017/S0033291724000084",
+      "query": "screen time child development"
+    }
+  ],
+  "hot_topics": [
+    {
+      "topic": "AR",
+      "count": 71
+    },
+    {
+      "topic": "artificial intelligence",
+      "count": 15
+    },
+    {
+      "topic": "early childhood",
+      "count": 12
+    },
+    {
+      "topic": "GPT",
+      "count": 9
+    },
+    {
+      "topic": "ChatGPT",
+      "count": 7
+    },
+    {
+      "topic": "personalized learning",
+      "count": 6
+    },
+    {
+      "topic": "chatbot",
+      "count": 6
+    },
+    {
+      "topic": "generative AI",
+      "count": 6
+    },
+    {
+      "topic": "preschool",
+      "count": 5
+    },
+    {
+      "topic": "machine learning",
+      "count": 5
+    },
+    {
+      "topic": "large language model",
+      "count": 5
+    },
+    {
+      "topic": "screen time",
+      "count": 5
+    },
+    {
+      "topic": "social-emotional",
+      "count": 4
+    },
+    {
+      "topic": "attention",
+      "count": 4
+    },
+    {
+      "topic": "LLM",
+      "count": 4
+    }
+  ]
+}

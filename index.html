@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>学术信息追踪 | AI与幼儿发展</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-text">
+        <h1>学术信息追踪</h1>
+        <p class="subtitle">AI与幼儿发展 · 教育技术学核心期刊</p>
+      </div>
+      <div class="update-badge">
+        <span class="update-label">最后更新</span>
+        <span id="update-time">加载中...</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="main-nav">
+    <div class="nav-inner">
+      <button class="nav-btn active" data-section="keyword">AI与幼儿 最新论文</button>
+      <button class="nav-btn" data-section="journals">核心期刊追踪</button>
+      <button class="nav-btn" data-section="topics">热点主题</button>
+    </div>
+  </nav>
+
+  <main class="main-content">
+
+    <section id="keyword-section" class="section active">
+      <div class="section-header">
+        <h2>AI与幼儿发展 最新论文</h2>
+        <p class="section-desc">基于关键词检索，来源：Semantic Scholar，每日自动更新</p>
+      </div>
+      <div id="keyword-papers" class="papers-list"></div>
+    </section>
+
+    <section id="journals-section" class="section">
+      <div class="journals-layout">
+        <aside class="journal-sidebar">
+          <p class="sidebar-label">选择期刊</p>
+          <ul id="journal-list"></ul>
+        </aside>
+        <div class="journal-main">
+          <div id="current-journal-header"></div>
+          <div id="journal-papers" class="papers-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="topics-section" class="section">
+      <div class="section-header">
+        <h2>热点主题分析</h2>
+        <p class="section-desc">基于本次抓取论文的标题与摘要，统计高频关键词出现次数</p>
+      </div>
+      <div id="hot-topics" class="topics-container"></div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>数据来源：CrossRef · Semantic Scholar &nbsp;|&nbsp; 每日 UTC 02:00 自动更新</p>
+  </footer>
+
+  <script>
+    // Navigation
+    document.querySelectorAll('.nav-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById(btn.dataset.section + '-section').classList.add('active');
+      });
+    });
+
+    // Safely escape HTML
+    function esc(str) {
+      const d = document.createElement('div');
+      d.textContent = String(str || '');
+      return d.innerHTML;
+    }
+
+    // Create a paper card DOM element
+    function createCard(paper) {
+      const card = document.createElement('div');
+      card.className = 'paper-card';
+
+      const venue = paper.venue || paper.journal || '';
+      const published = paper.published || '';
+      const abstract = paper.abstract || 'Abstract not available.';
+      const isLong = abstract.length > 280;
+      const shortText = isLong ? abstract.slice(0, 280) + '...' : abstract;
+      const authors = (paper.authors || []).slice(0, 3);
+      const authorsStr = authors.length
+        ? authors.join(', ') + (authors.length >= 3 ? ' et al.' : '')
+        : '';
+
+      // Meta row
+      const meta = document.createElement('div');
+      meta.className = 'paper-meta';
+      if (venue) {
+        const tag = document.createElement('span');
+        tag.className = 'paper-venue';
+        tag.textContent = venue;
+        meta.appendChild(tag);
+      }
+      if (published) {
+        const date = document.createElement('span');
+        date.className = 'paper-date';
+        date.textContent = published;
+        meta.appendChild(date);
+      }
+
+      // Title
+      const titleEl = document.createElement('h3');
+      titleEl.className = 'paper-title';
+      if (paper.url) {
+        const a = document.createElement('a');
+        a.href = paper.url;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = paper.title || 'Untitled';
+        titleEl.appendChild(a);
+      } else {
+        titleEl.textContent = paper.title || 'Untitled';
+      }
+
+      // Authors
+      const authorsEl = document.createElement('p');
+      authorsEl.className = 'paper-authors';
+      authorsEl.textContent = authorsStr;
+
+      // Abstract
+      const abstractWrap = document.createElement('div');
+      abstractWrap.className = 'paper-abstract';
+      const abstractP = document.createElement('p');
+      abstractP.className = 'abstract-text';
+      abstractP.textContent = shortText;
+      abstractWrap.appendChild(abstractP);
+
+      if (isLong) {
+        const btn = document.createElement('button');
+        btn.className = 'expand-btn';
+        btn.textContent = '展开摘要';
+        btn.addEventListener('click', () => {
+          if (btn.textContent === '展开摘要') {
+            abstractP.textContent = abstract;
+            btn.textContent = '收起摘要';
+          } else {
+            abstractP.textContent = shortText;
+            btn.textContent = '展开摘要';
+          }
+        });
+        abstractWrap.appendChild(btn);
+      }
+
+      card.appendChild(meta);
+      card.appendChild(titleEl);
+      if (authorsStr) card.appendChild(authorsEl);
+      card.appendChild(abstractWrap);
+      return card;
+    }
+
+    function renderPapers(containerId, papers) {
+      const container = document.getElementById(containerId);
+      container.innerHTML = '';
+      if (!papers || !papers.length) {
+        container.innerHTML = '<p class="empty-msg">暂无数据，请先运行 fetch_papers.py</p>';
+        return;
+      }
+      papers.forEach(p => container.appendChild(createCard(p)));
+    }
+
+    function renderJournalList(journalPapers) {
+      const list = document.getElementById('journal-list');
+      const names = Object.keys(journalPapers);
+      names.forEach((name, i) => {
+        const li = document.createElement('li');
+        li.textContent = name;
+        if (i === 0) li.classList.add('active');
+        li.addEventListener('click', () => {
+          document.querySelectorAll('#journal-list li').forEach(l => l.classList.remove('active'));
+          li.classList.add('active');
+          showJournalPapers(name, journalPapers[name]);
+        });
+        list.appendChild(li);
+      });
+      if (names.length > 0) {
+        showJournalPapers(names[0], journalPapers[names[0]]);
+      }
+    }
+
+    function showJournalPapers(name, papers) {
+      const header = document.getElementById('current-journal-header');
+      header.innerHTML = '';
+      const h2 = document.createElement('h2');
+      h2.className = 'journal-title';
+      h2.textContent = name;
+      header.appendChild(h2);
+      renderPapers('journal-papers', papers);
+    }
+
+    function renderHotTopics(topics) {
+      const container = document.getElementById('hot-topics');
+      container.innerHTML = '';
+      if (!topics || !topics.length) {
+        container.innerHTML = '<p class="empty-msg">暂无数据</p>';
+        return;
+      }
+      const max = Math.max(...topics.map(t => t.count));
+      topics.forEach(t => {
+        const row = document.createElement('div');
+        row.className = 'topic-row';
+        row.innerHTML = `
+          <span class="topic-name">${esc(t.topic)}</span>
+          <div class="topic-bar-wrap">
+            <div class="topic-bar" style="width:${((t.count / max) * 100).toFixed(1)}%"></div>
+          </div>
+          <span class="topic-count">${t.count} 篇</span>
+        `;
+        container.appendChild(row);
+      });
+    }
+
+    // Load data
+    fetch('papers.json')
+      .then(r => {
+        if (!r.ok) throw new Error('papers.json not found');
+        return r.json();
+      })
+      .then(data => {
+        document.getElementById('update-time').textContent = data.updated_at || '--';
+        renderPapers('keyword-papers', data.keyword_papers || []);
+        renderJournalList(data.journal_papers || {});
+        renderHotTopics(data.hot_topics || []);
+      })
+      .catch(() => {
+        document.getElementById('update-time').textContent = '数据未加载';
+        ['keyword-papers', 'journal-papers'].forEach(id => {
+          const el = document.getElementById(id);
+          if (el) el.innerHTML = '<p class="empty-msg">请先运行 fetch_papers.py 生成数据文件</p>';
+        });
+      });
+  </script>
+
+</body>
+</html>
