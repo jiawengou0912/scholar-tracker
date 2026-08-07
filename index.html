@@ -3,58 +3,79 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>学术信息追踪 | AI与幼儿发展</title>
+  <title>Research Intelligence | AI × Early Childhood</title>
   <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 </head>
 <body>
 
+  <!-- Header -->
   <header class="site-header">
     <div class="header-inner">
       <div class="header-left">
-        <div class="header-badge">Academic Tracker</div>
-        <h1>学术信息追踪</h1>
-        <p class="subtitle">AI与幼儿发展 · 教育技术学核心期刊 · 每日自动更新</p>
+        <div class="header-eyebrow">Academic Intelligence Platform</div>
+        <h1 class="header-title">Research Intelligence</h1>
+        <p class="header-sub">AI <span class="x-mark">×</span> Early Childhood Development</p>
+        <p class="header-tagline">Daily intelligence at the frontier of AI and child development.</p>
       </div>
       <div class="header-right">
         <div class="update-card">
-          <div class="update-label">数据更新时间</div>
-          <div id="update-time" class="update-value">加载中...</div>
+          <div class="update-label">Last Updated</div>
+          <div id="update-time" class="update-value">Loading...</div>
         </div>
       </div>
     </div>
   </header>
 
+  <!-- Digest bar -->
   <div class="digest-bar" id="digest-bar" style="display:none">
     <div class="digest-inner">
       <div class="digest-head">
-        <span class="digest-label">🗞️ 今日研究资讯</span>
+        <i data-lucide="newspaper" class="digest-icon-svg"></i>
+        <span class="digest-label">今日研究资讯 <span class="digest-label-en">/ Daily Research Digest</span></span>
         <span class="digest-date" id="digest-date"></span>
-        <button class="digest-toggle" id="digest-toggle" onclick="toggleDigest()">收起 ▴</button>
+        <button class="digest-toggle" id="digest-toggle" onclick="toggleDigest()">
+          <i data-lucide="chevron-up" style="width:14px;height:14px"></i> 收起
+        </button>
       </div>
       <div class="digest-body" id="digest-body"></div>
     </div>
   </div>
 
+  <!-- Navigation -->
   <nav class="main-nav">
     <div class="nav-inner">
       <button class="nav-btn active" data-section="keyword">
-        <span class="nav-icon">🔍</span>AI与幼儿 最新论文
+        <i data-lucide="file-search" class="nav-icon-svg"></i>
+        <span class="nav-text">
+          <span class="nav-cn">AI与幼儿 最新论文</span>
+          <span class="nav-en">Latest Papers</span>
+        </span>
       </button>
       <button class="nav-btn" data-section="journals">
-        <span class="nav-icon">📖</span>核心期刊追踪
+        <i data-lucide="book-open" class="nav-icon-svg"></i>
+        <span class="nav-text">
+          <span class="nav-cn">核心期刊追踪</span>
+          <span class="nav-en">Journal Tracker</span>
+        </span>
       </button>
       <button class="nav-btn" data-section="topics">
-        <span class="nav-icon">📊</span>热点研究方向
+        <i data-lucide="trending-up" class="nav-icon-svg"></i>
+        <span class="nav-text">
+          <span class="nav-cn">热点研究方向</span>
+          <span class="nav-en">Research Trends</span>
+        </span>
       </button>
     </div>
   </nav>
 
+  <!-- Main content -->
   <main class="main-content">
 
     <section id="keyword-section" class="section active">
       <div class="section-header">
-        <h2>AI与幼儿发展 最新论文</h2>
-        <p class="section-desc">基于关键词检索，来源：Semantic Scholar</p>
+        <h2>AI与幼儿 最新论文<span class="section-en">Latest Papers on AI &amp; Early Childhood</span></h2>
+        <p class="section-desc">Keyword-based retrieval via Semantic Scholar · Auto-updated daily</p>
       </div>
       <div id="keyword-papers" class="papers-list"></div>
     </section>
@@ -62,7 +83,7 @@
     <section id="journals-section" class="section">
       <div class="journals-layout">
         <aside class="journal-sidebar">
-          <p class="sidebar-label">选择期刊</p>
+          <p class="sidebar-label">期刊列表 <span class="sidebar-label-en">/ Journals</span></p>
           <ul id="journal-list"></ul>
         </aside>
         <div class="journal-main">
@@ -74,8 +95,8 @@
 
     <section id="topics-section" class="section">
       <div class="section-header">
-        <h2>热点研究方向</h2>
-        <p class="section-desc">基于本次抓取论文，按研究方向归类统计</p>
+        <h2>热点研究方向<span class="section-en">Research Trends &amp; Directions</span></h2>
+        <p class="section-desc">Categorized from today's papers across 10 research directions</p>
       </div>
       <div id="hot-topics" class="topics-grid"></div>
     </section>
@@ -83,10 +104,14 @@
   </main>
 
   <footer class="site-footer">
-    <p>数据来源：CrossRef · Semantic Scholar &nbsp;|&nbsp; 每日 UTC 02:00 自动更新 &nbsp;|&nbsp; AI与幼儿发展研究</p>
+    <p>Data sources: CrossRef · Semantic Scholar · Groq AI &nbsp;|&nbsp; Auto-updated daily at UTC 02:00</p>
   </footer>
 
   <script>
+    // Init Lucide icons
+    lucide.createIcons();
+
+    // Navigation
     document.querySelectorAll('.nav-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
@@ -96,10 +121,42 @@
       });
     });
 
+    // Digest toggle
+    let digestExpanded = true;
+    function toggleDigest() {
+      digestExpanded = !digestExpanded;
+      const body = document.getElementById('digest-body');
+      const btn = document.getElementById('digest-toggle');
+      body.style.display = digestExpanded ? 'grid' : 'none';
+      btn.innerHTML = digestExpanded
+        ? '<i data-lucide="chevron-up" style="width:14px;height:14px"></i> 收起'
+        : '<i data-lucide="chevron-down" style="width:14px;height:14px"></i> 展开';
+      lucide.createIcons();
+    }
+
+    function renderDigest(digest, updatedAt) {
+      if (!digest) return;
+      document.getElementById('digest-bar').style.display = 'block';
+      document.getElementById('digest-date').textContent = updatedAt || '';
+      const lines = digest.split('\n');
+      let html = '';
+      for (const line of lines) {
+        const t = line.trim();
+        if (!t) { html += '<div class="digest-gap"></div>'; continue; }
+        if (/^[📌🔥💡]/.test(t)) {
+          html += `<div class="digest-section-title">${t}</div>`;
+        } else {
+          html += `<div class="digest-line">${t}</div>`;
+        }
+      }
+      document.getElementById('digest-body').innerHTML = html;
+    }
+
+    // Paper card
+    const accentColors = ['#38bdf8','#a78bfa','#34d399','#fb923c','#f472b6','#60a5fa'];
     function createCard(paper) {
       const card = document.createElement('div');
       card.className = 'paper-card';
-
       const venue = paper.venue || paper.journal || '';
       const published = (paper.published || '').slice(0, 7);
       const abstract = paper.abstract || 'Abstract not available.';
@@ -107,12 +164,9 @@
       const shortText = isLong ? abstract.slice(0, 260) + '...' : abstract;
       const authors = (paper.authors || []).slice(0, 3);
       const authorsStr = authors.length
-        ? authors.join(', ') + (authors.length >= 3 ? ' et al.' : '')
-        : '';
-
-      const accentColors = ['#3b82f6','#8b5cf6','#06b6d4','#10b981','#f59e0b','#ef4444'];
-      const colorIndex = Math.abs((venue + paper.title).split('').reduce((a,c) => a + c.charCodeAt(0), 0)) % accentColors.length;
-      card.style.setProperty('--accent', accentColors[colorIndex]);
+        ? authors.join(', ') + (authors.length >= 3 ? ' et al.' : '') : '';
+      const colorIdx = Math.abs((venue + paper.title).split('').reduce((a,c) => a + c.charCodeAt(0), 0)) % accentColors.length;
+      card.style.setProperty('--accent', accentColors[colorIdx]);
 
       const meta = document.createElement('div');
       meta.className = 'paper-meta';
@@ -133,9 +187,7 @@
       titleEl.className = 'paper-title';
       if (paper.url) {
         const a = document.createElement('a');
-        a.href = paper.url;
-        a.target = '_blank';
-        a.rel = 'noopener';
+        a.href = paper.url; a.target = '_blank'; a.rel = 'noopener';
         a.textContent = paper.title || 'Untitled';
         titleEl.appendChild(a);
       } else {
@@ -144,30 +196,27 @@
 
       const abstractWrap = document.createElement('div');
       abstractWrap.className = 'paper-abstract';
-
       if (authorsStr) {
-        const authorsEl = document.createElement('p');
-        authorsEl.className = 'paper-authors';
-        authorsEl.textContent = authorsStr;
-        abstractWrap.appendChild(authorsEl);
+        const authEl = document.createElement('p');
+        authEl.className = 'paper-authors';
+        authEl.textContent = authorsStr;
+        abstractWrap.appendChild(authEl);
       }
-
       const abstractP = document.createElement('p');
       abstractP.className = 'abstract-text';
       abstractP.textContent = shortText;
       abstractWrap.appendChild(abstractP);
-
       if (isLong) {
         const btn = document.createElement('button');
         btn.className = 'expand-btn';
-        btn.textContent = '展开摘要 ▾';
+        btn.textContent = 'Read more ▾';
         btn.addEventListener('click', () => {
-          if (btn.textContent.startsWith('展开')) {
+          if (btn.textContent.startsWith('Read')) {
             abstractP.textContent = abstract;
-            btn.textContent = '收起摘要 ▴';
+            btn.textContent = 'Show less ▴';
           } else {
             abstractP.textContent = shortText;
-            btn.textContent = '展开摘要 ▾';
+            btn.textContent = 'Read more ▾';
           }
         });
         abstractWrap.appendChild(btn);
@@ -183,7 +232,7 @@
       const container = document.getElementById(containerId);
       container.innerHTML = '';
       if (!papers || !papers.length) {
-        container.innerHTML = '<p class="empty-msg">暂无数据，请先运行 fetch_papers.py</p>';
+        container.innerHTML = '<p class="empty-msg">No data available. Run fetch_papers.py first.</p>';
         return;
       }
       papers.forEach(p => container.appendChild(createCard(p)));
@@ -208,8 +257,8 @@
     }
 
     function showJournalPapers(name, papers) {
-      const header = document.getElementById('current-journal-header');
-      header.innerHTML = `<h2 class="journal-title">${name}</h2>`;
+      document.getElementById('current-journal-header').innerHTML =
+        `<h2 class="journal-title">${name}</h2>`;
       renderPapers('journal-papers', papers);
     }
 
@@ -217,7 +266,7 @@
       const container = document.getElementById('hot-topics');
       container.innerHTML = '';
       if (!topics || !topics.length) {
-        container.innerHTML = '<p class="empty-msg">暂无数据</p>';
+        container.innerHTML = '<p class="empty-msg">No data available.</p>';
         return;
       }
       const maxCount = Math.max(...topics.map(t => t.count));
@@ -225,12 +274,8 @@
         const card = document.createElement('div');
         card.className = 'topic-card';
         card.style.animationDelay = `${i * 0.06}s`;
-
         const pct = Math.round((t.count / maxCount) * 100);
-        const tagsHtml = (t.keywords || [])
-          .map(kw => `<span class="topic-tag">${kw}</span>`)
-          .join('');
-
+        const tagsHtml = (t.keywords || []).map(kw => `<span class="topic-tag">${kw}</span>`).join('');
         card.innerHTML = `
           <div class="topic-icon">${t.icon || '📌'}</div>
           <div class="topic-body">
@@ -241,44 +286,14 @@
             </div>
             <div class="topic-footer">
               <div class="topic-tags">${tagsHtml}</div>
-              <div class="topic-count"><strong>${t.count}</strong> 篇</div>
+              <div class="topic-count"><strong>${t.count}</strong> papers</div>
             </div>
-          </div>
-        `;
+          </div>`;
         container.appendChild(card);
       });
     }
 
-    let digestExpanded = true;
-    function toggleDigest() {
-      const body = document.getElementById('digest-body');
-      const btn = document.getElementById('digest-toggle');
-      digestExpanded = !digestExpanded;
-      body.style.display = digestExpanded ? 'block' : 'none';
-      btn.textContent = digestExpanded ? '收起 ▴' : '展开 ▾';
-    }
-
-    function renderDigest(digest, updatedAt) {
-      if (!digest) return;
-      const bar = document.getElementById('digest-bar');
-      const body = document.getElementById('digest-body');
-      const dateEl = document.getElementById('digest-date');
-      bar.style.display = 'block';
-      dateEl.textContent = updatedAt || '';
-      const lines = digest.split('\n');
-      let html = '';
-      for (const line of lines) {
-        const t = line.trim();
-        if (!t) { html += '<div class="digest-gap"></div>'; continue; }
-        if (/^[📌🔥💡]/.test(t)) {
-          html += `<div class="digest-section-title">${t}</div>`;
-        } else {
-          html += `<div class="digest-line">${t}</div>`;
-        }
-      }
-      body.innerHTML = html;
-    }
-
+    // Load data
     fetch('papers.json')
       .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
       .then(data => {
@@ -289,9 +304,9 @@
         renderHotTopics(data.hot_topics || []);
       })
       .catch(() => {
-        document.getElementById('update-time').textContent = '数据未加载';
+        document.getElementById('update-time').textContent = 'Data not loaded';
         document.getElementById('keyword-papers').innerHTML =
-          '<p class="empty-msg">请先运行 fetch_papers.py 生成数据</p>';
+          '<p class="empty-msg">Please run fetch_papers.py to generate data.</p>';
       });
   </script>
 </body>
