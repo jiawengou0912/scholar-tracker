@@ -87,6 +87,74 @@ body {
   font-weight: 500;
 }
 
+/* ── Digest bar ── */
+.digest-bar {
+  background: #0f172a;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.digest-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.1rem 2rem;
+}
+
+.digest-head {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.9rem;
+}
+
+.digest-label {
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #f8fafc;
+  letter-spacing: 0.02em;
+}
+
+.digest-date {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin-left: 0.25rem;
+}
+
+.digest-toggle {
+  margin-left: auto;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.12);
+  color: #94a3b8;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.7rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.digest-toggle:hover { background: rgba(255,255,255,0.12); }
+
+.digest-body {
+  display: grid;
+  gap: 0.22rem;
+}
+
+.digest-section-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #60a5fa;
+  margin-top: 0.6rem;
+  margin-bottom: 0.1rem;
+}
+
+.digest-line {
+  font-size: 0.87rem;
+  color: #cbd5e1;
+  line-height: 1.7;
+  padding-left: 0.5rem;
+}
+
+.digest-gap { height: 0.2rem; }
+
 /* ── Navigation ── */
 .main-nav {
   background: #fff;

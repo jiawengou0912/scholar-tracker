@@ -2,8 +2,11 @@ import requests
 import json
 import time
 import re
+import os
 from datetime import datetime
 from collections import Counter
+
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 JOURNALS = [
     {"name": "Computers & Education", "issn": "0360-1315"},
@@ -251,9 +254,71 @@ def extract_hot_topics(all_papers):
     return sorted(results, key=lambda x: x["count"], reverse=True)
 
 
+def generate_digest(all_papers):
+    api_key = os.environ.get("GROQ_API_KEY", "")
+    if not api_key:
+        print("  No GROQ_API_KEY, skipping digest")
+        return None
+
+    candidates = [
+        p for p in all_papers
+        if p.get("title") and p.get("abstract")
+        and p["abstract"] not in ("Abstract not available.", "Abstract not available via CrossRef. Click title to view the paper.")
+    ][:55]
+
+    lines = []
+    for p in candidates:
+        venue = p.get("venue") or p.get("journal", "")
+        title = p.get("title", "")
+        abstract = (p.get("abstract", "") or "")[:160]
+        lines.append(f"[{venue}] {title}\n{abstract}")
+
+    papers_str = "\n---\n".join(lines)
+
+    prompt = f"""你是一位专注于AI与幼儿发展、教育技术学的学术研究助理。
+
+以下是今天从14本核心SSCI期刊和关键词检索获取的最新学术论文：
+
+{papers_str}
+
+请基于这些论文，用中文生成一份简洁的研究资讯简报，格式如下：
+
+📌 今日核心动态
+（2至3句，概括今天整体研究趋势和主要关注点）
+
+🔥 热点研究方向
+（列出3至4个具体方向，每个方向说明：研究者正在研究什么、有哪些发现或争议、对研究者的启示）
+
+💡 值得关注的新兴方向
+（1至2个刚出现或交叉创新的方向，说明为什么值得跟进）
+
+要求：语言简洁专业，直接面向研究者，读完能知道今天可以关注什么、可以做什么研究。直接输出内容，不要解释格式。"""
+
+    try:
+        resp = requests.post(
+            GROQ_API_URL,
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={
+                "model": "llama-3.3-70b-versatile",
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.6,
+                "max_tokens": 1200,
+            },
+            timeout=60,
+        )
+        resp.raise_for_status()
+        content = resp.json()["choices"][0]["message"]["content"]
+        print(f"  Digest generated ({len(content)} chars)")
+        return content
+    except Exception as e:
+        print(f"  Digest error: {e}")
+        return None
+
+
 def main():
     result = {
         "updated_at": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+        "digest": None,
         "journal_papers": {},
         "keyword_papers": [],
         "hot_topics": [],
@@ -283,6 +348,9 @@ def main():
     for papers in result["journal_papers"].values():
         all_papers.extend(papers)
     result["hot_topics"] = extract_hot_topics(all_papers)
+
+    print("\nGenerating AI research digest...")
+    result["digest"] = generate_digest(all_papers)
 
     with open("papers.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)

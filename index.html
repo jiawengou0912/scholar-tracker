@@ -24,6 +24,17 @@
     </div>
   </header>
 
+  <div class="digest-bar" id="digest-bar" style="display:none">
+    <div class="digest-inner">
+      <div class="digest-head">
+        <span class="digest-label">🗞️ 今日研究资讯</span>
+        <span class="digest-date" id="digest-date"></span>
+        <button class="digest-toggle" id="digest-toggle" onclick="toggleDigest()">收起 ▴</button>
+      </div>
+      <div class="digest-body" id="digest-body"></div>
+    </div>
+  </div>
+
   <nav class="main-nav">
     <div class="nav-inner">
       <button class="nav-btn active" data-section="keyword">
@@ -238,10 +249,41 @@
       });
     }
 
+    let digestExpanded = true;
+    function toggleDigest() {
+      const body = document.getElementById('digest-body');
+      const btn = document.getElementById('digest-toggle');
+      digestExpanded = !digestExpanded;
+      body.style.display = digestExpanded ? 'block' : 'none';
+      btn.textContent = digestExpanded ? '收起 ▴' : '展开 ▾';
+    }
+
+    function renderDigest(digest, updatedAt) {
+      if (!digest) return;
+      const bar = document.getElementById('digest-bar');
+      const body = document.getElementById('digest-body');
+      const dateEl = document.getElementById('digest-date');
+      bar.style.display = 'block';
+      dateEl.textContent = updatedAt || '';
+      const lines = digest.split('\n');
+      let html = '';
+      for (const line of lines) {
+        const t = line.trim();
+        if (!t) { html += '<div class="digest-gap"></div>'; continue; }
+        if (/^[📌🔥💡]/.test(t)) {
+          html += `<div class="digest-section-title">${t}</div>`;
+        } else {
+          html += `<div class="digest-line">${t}</div>`;
+        }
+      }
+      body.innerHTML = html;
+    }
+
     fetch('papers.json')
       .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
       .then(data => {
         document.getElementById('update-time').textContent = data.updated_at || '--';
+        renderDigest(data.digest, data.updated_at);
         renderPapers('keyword-papers', data.keyword_papers || []);
         renderJournalList(data.journal_papers || {});
         renderHotTopics(data.hot_topics || []);

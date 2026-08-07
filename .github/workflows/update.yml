@@ -26,6 +26,8 @@ jobs:
 
       - name: Fetch papers
         run: python fetch_papers.py
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
       - name: Commit and push updated papers.json
         run: |
