@@ -27,25 +27,17 @@
     </div>
   </header>
 
-  <!-- Digest bar -->
-  <div class="digest-bar" id="digest-bar" style="display:none">
-    <div class="digest-inner">
-      <div class="digest-head">
-        <i data-lucide="newspaper" class="digest-icon-svg"></i>
-        <span class="digest-label">今日研究资讯 <span class="digest-label-en">/ Daily Research Digest</span></span>
-        <span class="digest-date" id="digest-date"></span>
-        <button class="digest-toggle" id="digest-toggle" onclick="toggleDigest()">
-          <i data-lucide="chevron-up" style="width:14px;height:14px"></i> 收起
-        </button>
-      </div>
-      <div class="digest-body" id="digest-body"></div>
-    </div>
-  </div>
-
   <!-- Navigation -->
   <nav class="main-nav">
     <div class="nav-inner">
-      <button class="nav-btn active" data-section="keyword">
+      <button class="nav-btn active" data-section="digest">
+        <i data-lucide="newspaper" class="nav-icon-svg"></i>
+        <span class="nav-text">
+          <span class="nav-cn">今日资讯</span>
+          <span class="nav-en">Daily Digest</span>
+        </span>
+      </button>
+      <button class="nav-btn" data-section="keyword">
         <i data-lucide="file-search" class="nav-icon-svg"></i>
         <span class="nav-text">
           <span class="nav-cn">AI与幼儿 最新论文</span>
@@ -72,7 +64,19 @@
   <!-- Main content -->
   <main class="main-content">
 
-    <section id="keyword-section" class="section active">
+    <!-- Daily Digest -->
+    <section id="digest-section" class="section active">
+      <div class="section-header">
+        <h2>今日资讯<span class="section-en">Daily Research Digest</span></h2>
+        <p class="section-desc">AI-generated synthesis of today's papers · Powered by Groq</p>
+      </div>
+      <div id="digest-content" class="digest-content">
+        <p class="empty-msg">Loading digest...</p>
+      </div>
+    </section>
+
+    <!-- Latest Papers -->
+    <section id="keyword-section" class="section">
       <div class="section-header">
         <h2>AI与幼儿 最新论文<span class="section-en">Latest Papers on AI &amp; Early Childhood</span></h2>
         <p class="section-desc">Keyword-based retrieval via Semantic Scholar · Auto-updated daily</p>
@@ -80,6 +84,7 @@
       <div id="keyword-papers" class="papers-list"></div>
     </section>
 
+    <!-- Journal Tracker -->
     <section id="journals-section" class="section">
       <div class="journals-layout">
         <aside class="journal-sidebar">
@@ -93,6 +98,7 @@
       </div>
     </section>
 
+    <!-- Research Trends -->
     <section id="topics-section" class="section">
       <div class="section-header">
         <h2>热点研究方向<span class="section-en">Research Trends &amp; Directions</span></h2>
@@ -108,7 +114,6 @@
   </footer>
 
   <script>
-    // Init Lucide icons
     lucide.createIcons();
 
     // Navigation
@@ -121,39 +126,34 @@
       });
     });
 
-    // Digest toggle
-    let digestExpanded = true;
-    function toggleDigest() {
-      digestExpanded = !digestExpanded;
-      const body = document.getElementById('digest-body');
-      const btn = document.getElementById('digest-toggle');
-      body.style.display = digestExpanded ? 'grid' : 'none';
-      btn.innerHTML = digestExpanded
-        ? '<i data-lucide="chevron-up" style="width:14px;height:14px"></i> 收起'
-        : '<i data-lucide="chevron-down" style="width:14px;height:14px"></i> 展开';
-      lucide.createIcons();
-    }
-
+    // Render digest as full section
     function renderDigest(digest, updatedAt) {
-      if (!digest) return;
-      document.getElementById('digest-bar').style.display = 'block';
-      document.getElementById('digest-date').textContent = updatedAt || '';
+      const container = document.getElementById('digest-content');
+      if (!digest) {
+        container.innerHTML = '<p class="empty-msg">No digest available. Run fetch_papers.py with GROQ_API_KEY set.</p>';
+        return;
+      }
       const lines = digest.split('\n');
       let html = '';
       for (const line of lines) {
         const t = line.trim();
-        if (!t) { html += '<div class="digest-gap"></div>'; continue; }
-        if (/^[📌🔥💡]/.test(t)) {
-          html += `<div class="digest-section-title">${t}</div>`;
+        if (!t) { html += '<div class="dg-gap"></div>'; continue; }
+        if (/^📌/.test(t)) {
+          html += `<div class="dg-block dg-block-blue"><div class="dg-block-title">${t}</div>`;
+        } else if (/^🔥/.test(t)) {
+          html += `</div><div class="dg-block dg-block-purple"><div class="dg-block-title">${t}</div>`;
+        } else if (/^💡/.test(t)) {
+          html += `</div><div class="dg-block dg-block-green"><div class="dg-block-title">${t}</div>`;
         } else {
-          html += `<div class="digest-line">${t}</div>`;
+          html += `<div class="dg-line">${t}</div>`;
         }
       }
-      document.getElementById('digest-body').innerHTML = html;
+      html += '</div>';
+      container.innerHTML = html;
     }
 
     // Paper card
-    const accentColors = ['#38bdf8','#a78bfa','#34d399','#fb923c','#f472b6','#60a5fa'];
+    const accentColors = ['#7c6af5','#58a6ff','#3fb950','#f78166','#d2a8ff','#79c0ff'];
     function createCard(paper) {
       const card = document.createElement('div');
       card.className = 'paper-card';
@@ -232,7 +232,7 @@
       const container = document.getElementById(containerId);
       container.innerHTML = '';
       if (!papers || !papers.length) {
-        container.innerHTML = '<p class="empty-msg">No data available. Run fetch_papers.py first.</p>';
+        container.innerHTML = '<p class="empty-msg">No data available.</p>';
         return;
       }
       papers.forEach(p => container.appendChild(createCard(p)));
@@ -293,7 +293,6 @@
       });
     }
 
-    // Load data
     fetch('papers.json')
       .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
       .then(data => {
@@ -305,7 +304,7 @@
       })
       .catch(() => {
         document.getElementById('update-time').textContent = 'Data not loaded';
-        document.getElementById('keyword-papers').innerHTML =
+        document.getElementById('digest-content').innerHTML =
           '<p class="empty-msg">Please run fetch_papers.py to generate data.</p>';
       });
   </script>
