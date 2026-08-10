@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09 05:29 UTC",
-  "digest": "📌 今日核心动态\n今日的研究资讯显示，教育技术和人工智能在幼儿教育领域的应用正在成为研究的热点，许多研究者关注于游戏式学习、数字化工具和人工智能辅助的教学方法对幼儿认知发展和学习成果的影响。同时，研究者也开始探讨人工智能和教育技术在教学中的伦理问题和挑战。\n\n🔥 热点研究方向\n1. 游戏式学习：研究者正在探讨游戏式学习在幼儿教育中的应用，发现游戏式学习可以提高幼儿的数学问题解决能力和语言能力，但也存在一些挑战和争议，例如如何设计有效的游戏式学习环境。\n2. 人工智能辅助教学：研究者正在研究人工智能辅助教学的效果，发现人工智能可以提高学生的学习成果和自主学习能力，但也存在一些伦理问题，例如如何确保人工智能辅助教学的公平性和透明度。\n3. 数字化工具在幼儿教育中的应用：研究者正在探讨数字化工具在幼儿教育中的应用，发现数字化工具可以提高幼儿的认知发展和学习成果，但也存在一些挑战，例如如何选择适合幼儿的数字化工具。\n4. 教育技术和人工智能在教学中的伦理问题：研究者正在讨论教育技术和人工智能在教学中的伦理问题，包括如何确保教育技术和人工智能的公平性、透明度和安全性。\n\n💡 值得关注的新兴方向\n1. 生态式学习环境的设计：随着教育技术和人工智能的发展，研究者开始关注如何设计生态式学习环境，以促进幼儿的认知发展和学习成果。这种方向值得跟进，因为它可能带来新的教学理念和方法。\n2. 人工智能和教育技术在特殊教育中的应用：研究者开始探讨人工智能和教育技术在特殊教育中的应用，发现人工智能和教育技术可以帮助特殊儿童的认知发展和学习成果。这种方向值得跟进，因为它可能带来新的特殊教育方法和手段。",
+  "updated_at": "2026-08-10 06:20 UTC",
+  "digest": "📌 今日核心动态\n今天的研究资讯主要围绕着人工智能、自然语言处理和幼儿教育等领域展开，重点关注人工智能在教育中的应用、自然语言处理在儿童发展中的作用以及幼儿教育中的新兴技术。这些研究旨在探索如何更好地利用技术促进儿童的认知和社会发展。\n\n🔥 热点研究方向\n1. 人工智能辅助教育：研究者正在探索人工智能在教育中的应用，包括智能聊天机器人、自然语言处理等方面的研究。发现表明，人工智能可以有效地支持学生的学习和教师的教学，但也存在一些挑战和争议，例如如何确保人工智能系统的公平性和透明度。\n2. 自然语言处理在儿童发展中的应用：研究者正在研究自然语言处理在儿童发展中的作用，包括儿童语言学习、社会情感发展等方面的研究。发现表明，自然语言处理可以帮助我们更好地理解儿童的语言和社会情感发展，但也需要更多的研究来探索其在实践中的应用。\n3. 幼儿教育中的新兴技术：研究者正在探索幼儿教育中的新兴技术，包括虚拟现实、游戏化学习等方面的研究。发现表明，这些新兴技术可以有效地支持幼儿的学习和发展，但也需要更多的研究来探索其在实践中的应用和效果。\n4. 自主学习和社会共享调节：研究者正在研究自主学习和社会共享调节在在线协作学习中的作用。发现表明，自主学习和社会共享调节是在线协作学习中的重要因素，但也需要更多的研究来探索其在实践中的应用和效果。\n\n💡 值得关注的新兴方向\n1. 人工智能辅助的早期儿童干预：随着人工智能技术的发展，人工智能辅助的早期儿童干预成为一个新的研究方向。研究者可以探索如何利用人工智能技术来支持早期儿童的发展和干预，特别是在语言和社会情感发展方面。\n2. 虚拟现实在幼儿教育中的应用：虚拟现实技术在教育中的应用是一个新的研究方向。研究者可以探索如何利用虚拟现实技术来支持幼儿的学习和发展，特别是在科学、技术、工程和数学（STEM）教育方面。",
   "journal_papers": {
     "Computers & Education": [
       {
@@ -571,19 +571,6 @@
         "venue": "Education and Information Technologies"
       },
       {
-        "title": "Digital literacy profiles of pre-service social studies teachers in Turkey: a factor mixture modeling approach",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14117-7",
-        "url": "https://doi.org/10.1007/s10639-026-14117-7",
-        "authors": [
-          "Abdullah Cevdet Kırıkçı",
-          "Sedat Sen"
-        ],
-        "published": "2026-8-5",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
         "title": "Antecedents of student feedback uptake during online interactive peer assessment",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14108-8",
@@ -592,6 +579,19 @@
           "Ying Zhan",
           "Ming Ming Chiu",
           "Zilu Du"
+        ],
+        "published": "2026-8-5",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Digital literacy profiles of pre-service social studies teachers in Turkey: a factor mixture modeling approach",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14117-7",
+        "url": "https://doi.org/10.1007/s10639-026-14117-7",
+        "authors": [
+          "Abdullah Cevdet Kırıkçı",
+          "Sedat Sen"
         ],
         "published": "2026-8-5",
         "journal": "Education and Information Technologies",
@@ -740,6 +740,31 @@
     ],
     "Early Childhood Education Journal": [
       {
+        "title": "Building the Bridge: A Father’s Autoethnography of Co-Constructing a Culturally Sustaining Family-School Partnership",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02340-3",
+        "url": "https://doi.org/10.1007/s10643-026-02340-3",
+        "authors": [
+          "David D. Yang"
+        ],
+        "published": "2026-8-10",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "Shifting the Paradigm: From ‘Best Practice’ to ‘Best Beliefs’ for Autism Within Inclusive Early Childhood Education",
+        "abstract": "Abstract\n                  \n                    This study explores the role of early childhood teachers’ beliefs in shaping inclusive practices for autistic children within Australian early childhood education and care (ECEC) settings. While national frameworks such as the\n                    Early Years Learning Framework\n                    (AGDE, 2022) and the\n                    National Guidelines: Best Practice in Early Childhood Intervention\n                    (Reimagine Australia, 2024) emphasise specific practices or ‘best practice’ as the foundation for inclusion, the lived experiences of many autistic children suggest a persistent and concerning gap between policy and practice. Drawing on a qualitative case study of five degree-qualified early childhood teachers identified for their strong commitment to inclusion, this research investigated the underlying beliefs guiding their pedagogies. Semi-structured interviews revealed several interrelated themes concerning inclusive pedagogy in ECEC. The findings suggest that authentic inclusion may be more effectively facilitated through a shift in discourse, from “best practice” to “best beliefs”, where educators’ core philosophies, rather than prescriptive techniques, drive inclusive pedagogy. This paradigm shift invites a re-evaluation of how inclusion for autistic children is conceptualised, enacted, and supported across ECEC contexts.",
+        "doi": "10.1007/s10643-026-02328-z",
+        "url": "https://doi.org/10.1007/s10643-026-02328-z",
+        "authors": [
+          "Jamie Son",
+          "Amanda Niland"
+        ],
+        "published": "2026-8-10",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
         "title": "Parents’ Phubbing and Chinese Young Children’s Problematic Screen Use: The Moderating Role of Parents’ Supportive Attitudes Toward Child Screen Use",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10643-026-02268-8",
@@ -775,32 +800,6 @@
           "Oluwaseun Ayobami Oti"
         ],
         "published": "2026-8-7",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Writing Identity and Self-Efficacy in Early Childhood Across Home and School Contexts",
-        "abstract": "Abstract\n                  Early writing development involves more than acquiring transcriptional skills; it is closely bound up with the emergence of children's identities as writers and their beliefs in their own capacity to write. Drawing on sociocultural theory and social cognitive theory, this study examined how young children construct writing self-efficacy and writer identity in relation to how parents and educators define and recognize early writing. A convergent mixed-methods design was used to triangulate data from 245 four-year-old children, 87 educators, and 156 parents in public preschool settings in Greece. Semi-structured interviews with children, supported by visual prompts depicting five developmental writing stages (drawing, scribbling, letter strings, invented spelling, and conventional spelling), were paired with parallel educator and parent surveys assessing recognition of, and rationales for, writing at each stage. Descriptive quantitative analysis was used to identify patterns of recognition across developmental stages, and qualitative content analysis was used to explore the rationales underlying these recognition patterns. Findings revealed a developmentally progressive convergence between children's self-perceptions and adults' recognition of their writing: agreement with educators was strongest at the earliest stages (drawing and scribbling), whereas agreement with parents emerged mainly at more conventional stages, with the highest convergence found for invented and conventional spelling. Children's self-identification as writers was strongest when their earliest writing attempts were validated by educators and the broader social environment. These findings suggest that writer identity and self-efficacy in early childhood are shaped not only by children's own developing skills but by the extent to which the adults around them recognize early, non-conventional marks as legitimate writing, underscoring the need for greater alignment between home and school conceptions of what counts as writing.",
-        "doi": "10.1007/s10643-026-02327-0",
-        "url": "https://doi.org/10.1007/s10643-026-02327-0",
-        "authors": [
-          "Isaak Papadopoulos"
-        ],
-        "published": "2026-8-7",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Capturing Indoor Movement: A Classroom Video Approach to Assessing Preschoolers’ Physical Activity",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02304-7",
-        "url": "https://doi.org/10.1007/s10643-026-02304-7",
-        "authors": [
-          "Yue Xing",
-          "Huan-ting Huang",
-          "Qian-hui Liu"
-        ],
-        "published": "2026-8-6",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
       }
@@ -945,69 +944,74 @@
   },
   "keyword_papers": [
     {
-      "paperId": "caf6aa70ef4346c8bef1544a751cc619dc55065b",
-      "title": "Game-based learning in early childhood education: a systematic review and meta-analysis",
-      "abstract": "Game-based learning has gained popularity in recent years as a tool for enhancing learning outcomes in children. This approach uses games to teach various subjects and skills, promoting engagement, motivation, and fun. In early childhood education, game-based learning has the potential to promote cognitive, social, and emotional development. This systematic review and meta-analysis aim to summarize the existing literature on the effectiveness of game-based learning in early childhood education This systematic review and meta-analysis examine the effectiveness of game-based learning in early childhood education. The results show that game-based learning has a moderate to large effect on cognitive, social, emotional, motivation, and engagement outcomes. The findings suggest that game-based learning can be a promising tool for early childhood educators to promote children’s learning and development. However, further research is needed to address the remaining gaps in the literature. The study’s findings have implications for educators, policymakers, and game developers who aim to promote positive child development and enhance learning outcomes in early childhood education.",
+      "paperId": "3ea0e7905db5e13f38bd54a848b15287c7b3fcfb",
+      "title": "Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis",
+      "abstract": "Despite the consensus that early identification leads to better outcomes for individuals with autism spectrum disorder (ASD), recent research reveals that the average age of diagnosis in the Greek population is approximately six years. However, this age of diagnosis is delayed by an additional two years for families from lower-income or minority backgrounds. These disparities result in adverse impacts on intervention outcomes, which are further burdened by the often time-consuming and labor-intensive language assessments for children with ASD. There is a crucial need for tools that increase access to early assessment and diagnosis that will be rigorous and objective. The current study leverages the capabilities of artificial intelligence to develop a reliable and practical model for distinguishing children with ASD from typically-developing peers based on their narrative and vocabulary skills. We applied natural language processing-based extraction techniques to automatically acquire language features (narrative and vocabulary skills) from storytelling in 68 children with ASD and 52 typically-developing children, and then trained machine learning models on the children’s combined narrative and expressive vocabulary data to generate behavioral targets that effectively differentiate ASD from typically-developing children. According to the findings, the model could distinguish ASD from typically-developing children, achieving an accuracy of 96%. Specifically, out of the models used, hist gradient boosting and XGBoost showed slightly superior performance compared to the decision trees and gradient boosting models, particularly regarding accuracy and F1 score. These results bode well for the deployment of machine learning technology for children with ASD, especially those with limited access to early identification services.",
       "authors": [
-        "Manar S. Alotaibi"
+        "C. Themistocleous",
+        "Maria Andreou",
+        "E. Peristeri"
       ],
-      "venue": "Frontiers in Psychology",
-      "published": "2024-04-02",
-      "url": "https://doi.org/10.3389/fpsyg.2024.1307881",
-      "query": "game-based learning early childhood"
+      "venue": "Behavioral Science",
+      "published": "2024-05-29",
+      "url": "https://doi.org/10.3390/bs14060459",
+      "query": "natural language processing children"
     },
     {
-      "paperId": "a6e15d12f9478bcc3adb6c274fbe1b09718d312b",
-      "title": "Enhancing Early Childhood Mathematics Skills Learning through Digital Game-Based Learning",
-      "abstract": "The present study investigates the unique impact of digital game-based learning (DGBL) on children's mathematical problem-solving skills, with a particular focus on both immediate and long-term effects. While much of the existing research on DGBL explores its general benefits, this study differentiates itself by examining how DGBL specifically enhances cognitive skills. The study included 120 students, 61 of whom were assigned to an experimental group taught using digital games, and 59 to a control group taught through traditional methods. The research design incorporated the development of a customized game-based learning material and a comprehensive mathematical problem-solving assessment. The results revealed that the experimental group significantly outperformed the control group in both immediate and delayed post-tests, which underscores the effectiveness of DGBL in enhancing students' retention of mathematics well beyond the initial learning phase. This suggests that DGBL is not only effective in helping students grasp mathematical concepts in the short term but also in strengthening their ability to retain and apply these concepts over time. Moreover, the study goes further by highlighting the long-term cognitive benefits of DGBL, such as the development of critical thinking, quick decision-making, and problem-solving skills. This aspect of the study distinguishes it from other research in the field as it emphasizes not just short-term academic performance, but also lasting improvements in key cognitive abilities. Based on these findings, it is recommended that teachers integrate digital game-based learning into their teaching strategies. This integration can enhance student engagement, motivate learners, and facilitate understanding of mathematical concepts.",
+      "paperId": "3969efd26e1a833852e87ec2a3e805a0c42e69f3",
+      "title": "The significance of growing up in a hoarded home: using natural language processing to examine the experiences of adult children of hoarding parents on Reddit",
+      "abstract": "Abstract not available.",
       "authors": [
-        "Omayya M. Al-Hassan",
-        "Layla Alhasan",
-        "R. AlAli"
+        "Oskar Kocol",
+        "I. Sabel",
+        "K. Timpano"
       ],
-      "venue": "International Journal of Learning, Teaching and Educational Research",
-      "published": "2025-02-28",
-      "url": "https://doi.org/10.26803/ijlter.24.2.10",
-      "query": "game-based learning early childhood"
+      "venue": "Journal of Obsessive-Compulsive and Related Disorders",
+      "published": "2025-02-01",
+      "url": "https://doi.org/10.1016/j.jocrd.2025.100938",
+      "query": "natural language processing children"
     },
     {
-      "paperId": "dfefdb7fc29ba0e9d799c0d5fcf75ec49e253855",
-      "title": "Enhancing Early Childhood Cognitive Development via Mobile Game-Based Learning Applications: Insights and Practical Experiences",
-      "abstract": "Early childhood cognitive development is foundational for future academic and personal success. While traditional teaching approaches often overlook technology’s potential, gamebased learning applications offer an innovative solution to enhance cognitive abilities in young children. This study evaluates the feasibility and effectiveness of a game-based learning (GBL) application for enhancing early childhood cognitive abilities. Using Research and Development (R&D) methodology, 40 children aged 5–6 were randomly assigned to experimental and control groups for an eight-week intervention. The application was developed through systematic needs analysis, design, development, implementation, and evaluation. ANCOVA analysis of pre- and post-test assessments demonstrated highly significant effects (F = 2154.89, p < 0.001, partial η2 = 0.966), explaining 96.6% of score variations. Expert validation scores exceeded 4.6 out of 5.0, confirming the application’s quality. Qualitative feedback from teachers and parents noted substantial improvements in children’s problem-solving skills, memory retention, and critical thinking. These findings suggest that integrating GBL applications could enhance educational equity and improve cognitive development outcomes across diverse educational settings.",
+      "paperId": "214ff0f9e2f36c3bb1a28cb1e32e3bfb69a025d1",
+      "title": "Harnessing Natural Language Processing to Assess Quality of End-of-Life Care for Children with Cancer",
+      "abstract": "Purpose: Data on end-of-life care (EOLC) quality, assessed through evidence-based quality measures (EOLC-QMs), are difficult to obtain. Natural language processing (NLP) enables efficient quality measurement and has not yet been used for children with serious illness. We sought to validate a pediatric-specific EOLC-QM keyword library and evaluate EOLC-QM attainment among childhood cancer decedents. Methods: In a single-center cohort of children with cancer who died between 2014-2022, we piloted a rule-based NLP approach to examine content of clinical notes in the last six months of life. We identified documented discussions of five EOLC-QMs: goals of care, limitations to life-sustaining treatments, hospice, palliative care consultation, and preferred location of death. We assessed performance of NLP methods, compared to gold standard manual chart review. We then used NLP to characterize proportions of decedents with documented EOLC-QM discussions and timing of first documentation relative to death. Results: Among 101 decedents, nearly half were minorities [Hispanic/Latinx (24%), non-Hispanic Black/African American (20%)], female (48%), or diagnosed with solid tumors (43%). Through iterative refinement, our keyword library achieved robust performance statistics (for all EOLC-QMs, F1 score=1.0). Most decedents had documented discussions regarding goals of care (83%), limitations to life-sustaining treatments (83%), and hospice (74%). Fewer decedents had documented discussions regarding palliative care consultation (49%) or preferred location of death (36%). For all five EOLC-QMs, first documentation occurred, on average, >30 days before death. Conclusion: A high proportion of decedents attained specified EOLC-QMs more than 30 days before death. Our findings indicate that NLP is a feasible approach to measuring quality of care for children with cancer at the end of life and is ripe for multi-center research and quality improvement.",
       "authors": [
-        "Haerul Annuar",
-        "E. Solihatin",
-        "Khaerudin"
+        "Meghan E Lindsay",
+        "Sophia de Oliveira",
+        "Kate Sciacca"
       ],
-      "venue": "International Journal of Interactive Mobile Technologies",
-      "published": "2025-02-27",
-      "url": "https://doi.org/10.3991/ijim.v19i04.51897",
-      "query": "game-based learning early childhood"
+      "venue": "JCO Clinical Cancer Informatics",
+      "published": "2024-09-01",
+      "url": "https://doi.org/10.1200/CCI.24.00134",
+      "query": "natural language processing children"
     },
     {
-      "paperId": "6bf8e67c1d1898809a0845dd2807c1e54315a628",
-      "title": "Phygital Game-Based Learning in Early Childhood Education: An Exploratory Review",
-      "abstract": "This paper examines the role of phygital game-based learning (PGBL) in early childhood education, with a specific focus on its potential to foster critical thinking and problem-solving skills in children aged 3 to 8 years. PGBL refers to hybrid educational tools that combine physical manipulatives with interactive digital interfaces, offering multisensory and responsive learning experiences that aim to enhance cognitive engagement and symbolic reasoning. Through a literature-based qualitative review, the study analyzes five representative tools—Osmo Tangram, KIBO Robot, LEGO DUPLO Stories, Marbotic Smart Letters, and PlayShifu Orboot Earth—selected for their pedagogical relevance, documented educational use, and theoretical grounding. Drawing from constructivist and socio-cultural learning theories, particularly those of Piaget, Papert, and Vygotsky, the paper explores how these tools embody principles such as hands-on learning, scaffolding, iterative exploration, and meaningful play. Each tool is evaluated in terms of its support for higher-order cognitive functions, including sequencing, spatial reasoning, emergent literacy, and collaborative learning. The findings reveal that while PGBL tools show promise in promoting engagement and foundational executive functions, their effectiveness depends on factors such as design flexibility, ease of integration into pedagogical practice, and inclusivity. Implementation challenges such as limited open-ended play, cognitive overload, unequal access to digital infrastructure, and the need for educator training are critically examined using Universal Design for Learning (UDL) and Technological Pedagogical Content Knowledge (TPACK) frameworks. Rather than presenting definitive causal claims, this review provides a structured synthesis of current academic literature, highlighting both the affordances and limitations of phygital tools in early education. The analysis also underscores the importance of aligning PGBL tools with developmentally appropriate practices and culturally responsive pedagogy. By offering insights across tool design, implementation, and impact, the paper aims to inform educators, researchers, and policymakers seeking to enhance early learning environments through evidence-based, interactive technologies.",
+      "paperId": "ac4058bb90d05d87d325bcb3616d13e05fdeccf4",
+      "title": "Deep Learning-Based Natural Language Processing Model and Optical Character Recognition for Detection of Online Grooming on Social Networking Services",
+      "abstract": ": The increased accessibility of social networking services (SNSs) has facilitated communication and information sharing among users. However, it has also heightened concerns about digital safety, particularly for children and adolescents who are increasingly exposed to online grooming crimes. Early and accurate identification of grooming conversations is crucial in preventing long-term harm to victims. However, research on grooming detection in South Korea remains limited, as existing models trained primarily on English text and fail to reflect the unique linguistic features of SNS conversations, leading to inaccurate classifications. To address these issues, this study proposes a novel framework that integrates optical character recognition (OCR) technology with KcELECTRA, a deep learning-based natural language processing (NLP) model that shows excellent performance in processing the colloquial Korean language. In the proposed framework, the KcELECTRA model is fine-tuned by an extensive dataset, including Korean social media conversations, Korean ethical verification data from AI-Hub, and Korean hate speech data from Hug-gingFace, to enable more accurate classification of text extracted from social media conversation images. Experimental results show that the proposed framework achieves an accuracy of 0.953, outperforming existing transformer-based models. Furthermore, OCR technology shows high accuracy in extracting text from images, demonstrating that the proposed framework is effective for online grooming detection. The proposed framework is expected to contribute to the more accurate detection of grooming text and the prevention of grooming-related crimes.",
       "authors": [
-        "Tanmoyee Rajkhowa"
+        "Sangmin Kim",
+        "Byeong Guk Lee",
+        "Muazzam Maqsood"
       ],
-      "venue": "European Conference on Games Based Learning",
-      "published": "2025-09-26",
-      "url": "https://doi.org/10.34190/ecgbl.19.2.4140",
-      "query": "game-based learning early childhood"
+      "venue": "Computer Modeling in Engineering &amp; Sciences",
+      "published": "2025",
+      "url": "https://doi.org/10.32604/cmes.2025.061653",
+      "query": "natural language processing children"
     },
     {
-      "paperId": "5d382519939f533d299ce6c1fc88e8cc7a1e3d1d",
-      "title": "Development of Digital Puzzle Game-Based Learning Media to Improve Linguistic Intelligence in Early Childhood",
-      "abstract": "Linguistic intelligence is crucial for children's early communication skills, enabling them to effectively understand and express thoughts, feelings, and needs. Digital games, accessible via Android and web platforms, offer an engaging way for children to enhance their linguistic abilities. This study aims to develop and evaluate digital puzzle game-based learning media to improve linguistic intelligence in young children. This research follows a Research and Development (RD) approach using the ADDIE model, which includes Analysis, Design, Development, Implementation, and Evaluation. The study involved 15 children as experiment participants, two lecturers as validators, one teacher as an effectiveness tester, and the researcher. Instruments used include expert validation sheets, questionnaires, and practicality test sheets. The developed digital puzzle game-based learning media was validated by experts, achieving 100% validity from material experts and 97.92% from media experts, indicating a \"very valid\" rating. In terms of practicality, the teacher’s response yielded a score of 92.59%, categorizing it as \"very practical.\" Effectiveness testing resulted in a score of 4.2 on a scale of 3.6–4.5, demonstrating its effectiveness in improving linguistic intelligence. The findings suggest that the digital puzzle game is a valid, practical, and effective learning tool for enhancing linguistic intelligence in young children. Future research could explore broader sample sizes and long-term impacts on language development.",
+      "paperId": "4827154b4a25f9fbde3ec30fb493c760c44cff22",
+      "title": "Design and Development of a Low-Cost Voice Interactive Children Educational Robot ‘TINY’ with Natural Language Processing",
+      "abstract": "Educational robotics is to improve children’s and teenagers’ skill and competency development via the use of electronic components and robots in an interdisciplinary learning environment. It focuses mostly on the STEAM fields, while it can also touch on subjects like geography, history, and languages. STEAM education relates these 5 subjects those are Science, Technology, Engineering, Arts and Mathematics. The capacity to which children could interact with a social robot in a novel learning environment is being studied. A method for measuring how actively children with learning difficulties participate in adequately prepared activities is described, utilizing multimodal machine learning. The goal is to find the child’s sustained attention throughout the conversation. To achieve this goal, visual and aural data are recorded between the kid and the robot. Education robots for kids are emerging as tools for learning which can enhance young children’s early reading and language skills considering recent technical developments. Social robots are those that can interact with humans on a mental and social level. The most recent studies on social robots and how typically developing kids, aged 0 to 8, pick up early language and literacy abilities have been examined. For the entirety of the study, five main themes were identified. Our designed robot TINY, a theoretical foundation for social robotic education, which stands for Teach, Inspire, Nurture, and Yield. Research has shown that social robots can facilitate early language acquisition, a thorough study has been done on the formation of early reading abilities. Additionally, our robot explores the potential of low-cost support for early language acquisition and literacy development, aiming to provide access to high-quality educational tools for all students.",
       "authors": [
-        "Nur Fitriya Zulkarnain",
-        "Eva Selva Nirwana"
+        "Nohori Jobaida",
+        "Mohammad Shidujaman",
+        "Ahsan Mahbub"
       ],
-      "venue": "Al-Ishlah: Jurnal Pendidikan",
-      "published": "2025-02-17",
-      "url": "https://doi.org/10.35445/alishlah.v17i1.6024",
-      "query": "game-based learning early childhood"
+      "venue": "2024 International Conference on Image Processing and Robotics (ICIPRoB)",
+      "published": "2024-03-09",
+      "url": "https://doi.org/10.1109/ICIPRoB62548.2024.10543739",
+      "query": "natural language processing children"
     }
   ],
   "hot_topics": [
@@ -1016,7 +1020,7 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 56,
+      "count": 57,
       "keywords": [
         "AR",
         "virtual reality",
@@ -1029,10 +1033,10 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 25,
+      "count": 23,
       "keywords": [
-        "teacher",
         "parent",
+        "teacher",
         "school",
         "classroom",
         "preschool teacher"
@@ -1043,26 +1047,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 14,
+      "count": 17,
       "keywords": [
         "artificial intelligence",
+        "machine learning",
+        "deep learning",
         "generative AI",
-        "ChatGPT",
-        "GPT",
-        "large language model"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 13,
-      "keywords": [
-        "game-based",
-        "game",
-        "play",
-        "personalized learning"
+        "ChatGPT"
       ]
     },
     {
@@ -1070,12 +1061,25 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 9,
+      "count": 8,
       "keywords": [
-        "cognitive development",
-        "executive function",
         "attention",
-        "cognitive load"
+        "executive function",
+        "cognitive load",
+        "cognitive development"
+      ]
+    },
+    {
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 8,
+      "keywords": [
+        "personalized learning",
+        "play",
+        "game",
+        "game-based"
       ]
     },
     {
@@ -1085,21 +1089,11 @@
       "icon": "📚",
       "count": 7,
       "keywords": [
-        "language development",
-        "writing",
         "vocabulary",
         "reading",
-        "early literacy"
-      ]
-    },
-    {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
-      "count": 4,
-      "keywords": [
-        "emotion"
+        "writing",
+        "early literacy",
+        "language development"
       ]
     },
     {
@@ -1114,6 +1108,16 @@
       ]
     },
     {
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 3,
+      "keywords": [
+        "emotion"
+      ]
+    },
+    {
       "id": "computational",
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
@@ -1122,16 +1126,6 @@
       "keywords": [
         "programming",
         "algorithm"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 1,
-      "keywords": [
-        "mobile"
       ]
     }
   ]
