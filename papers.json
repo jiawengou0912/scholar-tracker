@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12 06:56 UTC",
-  "digest": "📌 今日核心动态\n今天的研究资讯主要聚焦于人工智能（AI）在教育领域的应用，尤其是生成式AI（GenAI）在高等教育和幼儿教育中的作用和影响。研究者们正在探讨AI如何影响学生的学习过程、学术表现和情感发展，以及教师在AI时代的角色和挑战。\n\n🔥 热点研究方向\n1. **生成式AI在高等教育中的应用**：研究者正在研究GenAI如何改变教学和学习过程，包括其在评估、反馈和学生写作表现方面的作用。发现表明，GenAI有潜力提高学生的学术表现，但也引发了关于学术诚信和教师角色转变的争议。\n2. **AI辅助的自主学习和情感调节**：研究者正在探讨AI工具如何支持学生的自主学习和情感调节，包括AI聊天机器人在协作学习和情绪支持方面的作用。发现表明，AI辅助的自主学习可以提高学生的学术成功和情感幸福感。\n3. **幼儿教育中的AI应用**：研究者正在研究AI如何支持幼儿的学习和发展，包括AI辅助的游戏、虚拟现实和语言学习。发现表明，AI可以为幼儿提供个性化和互动的学习体验，但也需要考虑伦理和安全问题。\n4. **教师在AI时代的角色和挑战**：研究者正在探讨教师如何适应AI时代的变化，包括如何有效地整合AI工具、管理学生的AI使用和应对AI带来的挑战。发现表明，教师需要不断更新自己的专业知识和技能，以有效地利用AI支持教学和学习。\n\n💡 值得关注的新兴方向\n1. **AI辅助的跨学科学习和创造力发展**：随着AI技术的进步，研究者正在探讨AI如何支持学生的跨学科学习和创造力发展，包括AI辅助的项目学习、设计思维和艺术创作。这一方向有望推动教育创新和人才培养的新模式。",
+  "updated_at": "2026-08-13 07:02 UTC",
+  "digest": "📌 今日核心动态\n今天的研究动态主要围绕教育技术、人工智能和幼儿发展展开，研究者们通过实证研究和理论分析探讨了人工智能辅助学习、情感调节、自主学习等主题。这些研究为教育实践和理论建设提供了新的见解和方法。\n\n🔥 热点研究方向\n1. 人工智能辅助学习：研究者们正在探讨人工智能如何支持学生的学习过程，包括情感调节、自主学习和协作学习等方面。研究发现，人工智能可以有效地提高学生的学习成效，但也存在一些挑战和争议，例如如何确保人工智能的公平性和透明度。\n2. 幼儿发展和教育技术：研究者们正在研究如何将教育技术应用于幼儿发展，包括游戏式学习、虚拟现实等。研究发现，这些技术可以有效地支持幼儿的认知和社会发展，但也需要考虑幼儿的个体差异和学习需求。\n3. 教师在人工智能时代的角色：研究者们正在讨论教师在人工智能时代的角色和挑战，包括如何有效地整合人工智能技术、如何支持学生的自主学习等。研究发现，教师需要具备一定的技术能力和教学设计能力，以有效地支持学生的学习。\n4. 学生自主学习和情感调节：研究者们正在研究学生自主学习和情感调节的关系，包括如何支持学生的自主学习、如何帮助学生调节情绪等。研究发现，学生的自主学习和情感调节能力与学业成就密切相关。\n\n💡 值得关注的新兴方向\n1. 人工智能支持的幼儿社会情感学习：随着人工智能技术的发展，研究者们开始探讨如何将人工智能应用于幼儿社会情感学习，包括如何支持幼儿的情感调节、如何促进幼儿的社会交往等。这一方向具有巨大的潜力和挑战，值得进一步研究和探讨。\n2. 虚拟现实技术在幼儿教育中的应用：虚拟现实技术已经被广泛应用于教育领域，研究者们开始探讨如何将虚拟现实技术应用于幼儿教育，包括如何支持幼儿的认知发展、如何促进幼儿的社会交往等。这一方向具有巨大的潜力和挑战，值得进一步研究和探讨。",
   "journal_papers": {
     "Computers & Education": [
       {
@@ -128,6 +128,34 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Linguistic insights into professional identify development: analyzing reflective writing in instructional design education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-025-10561-3",
+        "url": "https://doi.org/10.1007/s11423-025-10561-3",
+        "authors": [
+          "Ji Hyun Yu",
+          "Hannah Kim",
+          "Chi-Jia Hsieh"
+        ],
+        "published": "2026-8-12",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Exploring students’ dialogic patterns and argumentation skills in a computer-supported critical discussion activity",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10683-2",
+        "url": "https://doi.org/10.1007/s11423-026-10683-2",
+        "authors": [
+          "Yi Song",
+          "Wenju Cui",
+          "Chen Li"
+        ],
+        "published": "2026-8-12",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "How do students’ AI interactions, dispositions, and prompt engineering skills shape human–AI collaboration in middle school STEM education?",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10692-1",
@@ -166,30 +194,6 @@
           "Yu-Tzu Lin"
         ],
         "published": "2026-8-8",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "A design blueprint for supporting voluntary retrieval practice during gaps in instruction",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10627-w",
-        "url": "https://doi.org/10.1007/s11423-026-10627-w",
-        "authors": [
-          "Carla van de Sande"
-        ],
-        "published": "2026-8-7",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Facts or fiction? Exploring the potential of The Great Zimbabwe board game as a pedagogical tool for African archaeology and recent history",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10690-3",
-        "url": "https://doi.org/10.1007/s11423-026-10690-3",
-        "authors": [
-          "Robert T. Nyamushosho"
-        ],
-        "published": "2026-8-7",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
       }
@@ -389,6 +393,20 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Predicting teachers’ pedagogical knowledge in virtual learning environments: the roles of motivation, technology knowledge, and engagement",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2703281",
+        "url": "https://doi.org/10.1080/10494820.2026.2703281",
+        "authors": [
+          "Selçuk Dogan",
+          "Ismail Celik",
+          "Timothy Hinchman"
+        ],
+        "published": "2026-8-12",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Metaverse-based blood transfusion education in midwifery: a mixed-methods study of knowledge outcomes and learner experiences",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2698255",
@@ -438,20 +456,6 @@
           "LiYan Bu",
           "YiZhuo Hou",
           "YuBo Han"
-        ],
-        "published": "2026-8-5",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "A review of reviews on unveiling the dynamics of STEM education research from an artificial intelligence analysis approach",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2685803",
-        "url": "https://doi.org/10.1080/10494820.2026.2685803",
-        "authors": [
-          "Jiutong Luo",
-          "Siqi Li",
-          "Thomas K. F. Chiu"
         ],
         "published": "2026-8-5",
         "journal": "Interactive Learning Environments",
@@ -529,6 +533,32 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "The effect of digital and traditional methods on learning and retention in preschool education: a comparison of virtual reality, augmented reality, web-based, and manipulative materials",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14119-5",
+        "url": "https://doi.org/10.1007/s10639-026-14119-5",
+        "authors": [
+          "Cansu Tutkun"
+        ],
+        "published": "2026-8-12",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Gen AI dependency and the impostor phenomenon among adolescent students: The roles of academic self-concept and mindfulness",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14116-8",
+        "url": "https://doi.org/10.1007/s10639-026-14116-8",
+        "authors": [
+          "Jundong Liao",
+          "Xinyi Wei",
+          "Xin Fang"
+        ],
+        "published": "2026-8-12",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "The influence of AI literacy and dependency on innovative behavior: a multiple mediation-based analysis",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14113-x",
@@ -566,32 +596,6 @@
           "Kürşat Arslan"
         ],
         "published": "2026-8-7",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Design and evaluation of a digital twin-based virtual museum for educational virtual reality experiences: the case of TÜDAM360",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14118-6",
-        "url": "https://doi.org/10.1007/s10639-026-14118-6",
-        "authors": [
-          "İlker Usta",
-          "Serap Uğur"
-        ],
-        "published": "2026-8-6",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Digital literacy profiles of pre-service social studies teachers in Turkey: a factor mixture modeling approach",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14117-7",
-        "url": "https://doi.org/10.1007/s10639-026-14117-7",
-        "authors": [
-          "Abdullah Cevdet Kırıkçı",
-          "Sedat Sen"
-        ],
-        "published": "2026-8-5",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -943,87 +947,17 @@
       }
     ]
   },
-  "keyword_papers": [
-    {
-      "paperId": "c3cf3882ef339e3f5734c4c8008d9df228fcbf04",
-      "title": "A Systematic Review of Responses, Attitudes, and Utilization Behaviors on Generative AI for Teaching and Learning in Higher Education",
-      "abstract": "The utilization of Generative AI (GenAI) in higher education classrooms has significantly increased in recent years. Studies show that GenAI holds promise in impacting the learning experiences of both students and teachers, offering personalized learning and assessment opportunities. This study conducts a systematic review of the responses, attitudes, and behaviors related to the application of GenAI within higher education classrooms. To this end, we synthesized 99 papers published between 2020 and August 2024, focusing on the utilization of GenAI in higher education settings. The analysis addresses three key inquiries: responses, attitudes, and behaviors. This systematic review provides an updated understanding from psychological perspectives of GenAI’s role in the teaching and learning processes of higher education, with a particular emphasis on GenAI technologies.",
-      "authors": [
-        "Fan-Fan Wu",
-        "Yang Dang",
-        "Manli Li"
-      ],
-      "venue": "Behavioral Science",
-      "published": "2025-04-01",
-      "url": "https://doi.org/10.3390/bs15040467",
-      "query": "generative AI learning education"
-    },
-    {
-      "paperId": "7e4dfefcbacb639faa8a6fc8224ab7e0d7acf827",
-      "title": "Investigating the higher education institutions’ guidelines and policies regarding the use of generative AI in teaching, learning, research, and administration",
-      "abstract": "This study examined the guidelines issued by the top 50 U.S. universities regarding the use of Generative AI (GenAI) in academic and administrative activities. Employing a mixed methods approach, the research combined topic modeling, sentiment analysis, and qualitative thematic analysis to provide a comprehensive understanding of institutional responses to GenAI. Topic modeling identified four core topics: Integration of GenAI in Learning and Assessment, GenAI in Visual and Multimodal Media, Security and Ethical Considerations in GenAI, and GenAI in Academic Integrity. These themes were further explored through sentiment analysis, which revealed highly positive attitudes towards GenAI across all institution types, with significant differences between faculty and student-targeted guidelines. Qualitative thematic analysis corroborated these findings and provided deeper insights, revealing that 94% of universities had faculty guidelines emphasizing the importance of establishing and communicating course-specific GenAI policies. This analysis also highlighted recurring themes such as academic integrity and privacy concerns, which aligned with the security and ethical considerations identified in the topic modeling. The study highlights the rapid evolution of GenAI guidelines in higher education and the need for flexible, stakeholder-specific policies that address both the opportunities and challenges presented by this technology.",
-      "authors": [
-        "Yunjo An",
-        "Ji Hyun Yu",
-        "Shadarra James"
-      ],
-      "venue": "International Journal of Educational Technology in Higher Education",
-      "published": "2025-02-21",
-      "url": "https://doi.org/10.1186/s41239-025-00507-3",
-      "query": "generative AI learning education"
-    },
-    {
-      "paperId": "1e05df4cb4c1761cb52ef33caafb12bf27544ada",
-      "title": "Exploring How AI Literacy and Self-Regulated Learning Relate to Student Writing Performance and Well-Being in Generative AI-Supported Higher Education",
-      "abstract": "The integration of generative artificial intelligence (GAI) into higher education is transforming students’ learning processes, academic performance, and psychological well-being. Despite the increasing adoption of GAI tools, the mechanisms through which students’ AI literacy and self-regulated learning (SRL) relate to their academic and emotional experiences remain underexplored. This study investigates how AI literacy and SRL are associated with writing performance and digital well-being among university students in GAI-supported higher learning contexts. A survey was administered to 257 students from universities in China, and structural equation modeling was used to examine the hypothesized relationships. Results show that both AI literacy and SRL significantly and positively predict students’ writing performance, with SRL having a stronger effect. Moreover, AI literacy shows a positive association with GAI-driven well-being, with writing performance serving as a partial mediator in this relationship. These findings suggest that fostering both technological competencies and effective learning strategies may support students’ academic outcomes while supporting their psychological well-being in AI-enriched educational environments. By integrating AI literacy and SRL into a unified model, this study contributes to the growing body of research on GAI-driven well-being in higher education and offers practical implications for cultivating balanced and sustainable learning experiences in the age of GAI.",
-      "authors": [
-        "Jiajia Shi",
-        "Weitong Liu",
-        "Ke Hu"
-      ],
-      "venue": "Behavioral Science",
-      "published": "2025-05-01",
-      "url": "https://doi.org/10.3390/bs15050705",
-      "query": "generative AI learning education"
-    },
-    {
-      "paperId": "d44b39279750970c9dd4c7151df49e0f9faef87a",
-      "title": "Machine Learning and Generative AI in Learning Analytics for Higher Education: A Systematic Review of Models, Trends, and Challenges",
-      "abstract": "This systematic review examines how machine learning (ML) and generative AI (GenAI) have been integrated into learning analytics (LA) in higher education (2018–2025). Following PRISMA 2020, we screened 9590 records and included 101 English-language, peer-reviewed empirical studies that applied ML or GenAI within LA contexts. Records came from 12 databases (last search 15 March 2025), and the results were synthesized via thematic clustering. ML approaches dominate LA tasks, such as engagement prediction, dropout-risk modelling, and academic-performance forecasting, whereas GenAI—mainly transformer models like GPT-4 and BERT—is emerging in real-time feedback, adaptive learning, and sentiment analysis. Studies spanned world regions. Most ML papers (n = 75) examined engagement or dropout, while GenAI papers (n = 26) focused on adaptive feedback and sentiment analysis. No formal risk-of-bias assessment was conducted due to heterogeneity. While ML methods are well-established, GenAI applications remain experimental and face challenges related to transparency, pedagogical grounding, and implementation feasibility. This review offers a comparative synthesis of paradigms and outlines future directions for responsible, inclusive, theory-informed AI use in education.",
-      "authors": [
-        "M. Rodriguez-Ortiz",
-        "P. C. Santana-Mancilla",
-        "Luis E. Anido-Rifón"
-      ],
-      "venue": "Applied Sciences",
-      "published": "2025-08-05",
-      "url": "https://doi.org/10.3390/app15158679",
-      "query": "generative AI learning education"
-    },
-    {
-      "paperId": "db87a470f795df1fa60a5f9565e001bde9c3be09",
-      "title": "Social-Emotional Learning and Generative AI: A Critical Literature Review and Framework for Teacher Education",
-      "abstract": "This article provides a critical thematic literature review that explores the intersection of generative artificial intelligence (GenAI) and social-emotional learning (SEL), analyzing its implications for teacher education. GenAI offers promising applications for enhancing SEL competencies such as self-awareness, empathy, and social skills through tools like real-time emotional feedback and personalized learning experiences. However, the integration of GenAI into SEL also presents significant challenges, including risks of depersonalization, algorithmic bias, and privacy concerns. This paper introduces a conceptual framework designed to prepare both pre-service and in-service teachers to navigate these complexities, emphasizing ethical considerations, human oversight, and cultural sensitivity. The framework highlights strategies to operationalize cultural sensitivity within AI systems, recognizing the limitations of current technologies in accounting for diverse social and emotional norms. By addressing both opportunities and risks, we aim to provide a balanced analysis of GenAI’s potential in SEL as well as guidance for teacher education programs.",
-      "authors": [
-        "D. Henriksen",
-        "E. Creely",
-        "Natalie Gruber"
-      ],
-      "venue": "Journal of Teacher Education",
-      "published": "2025-03-18",
-      "url": "https://doi.org/10.1177/00224871251325058",
-      "query": "generative AI learning education"
-    }
-  ],
+  "keyword_papers": [],
   "hot_topics": [
     {
       "id": "ar_vr",
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 55,
+      "count": 49,
       "keywords": [
         "AR",
+        "augmented reality",
         "virtual reality",
         "VR",
         "immersive"
@@ -1034,11 +968,11 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 27,
+      "count": 26,
       "keywords": [
         "teacher",
-        "classroom",
         "school",
+        "classroom",
         "preschool teacher",
         "family"
       ]
@@ -1048,13 +982,12 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 18,
+      "count": 12,
       "keywords": [
-        "generative AI",
         "artificial intelligence",
+        "ChatGPT",
         "GPT",
-        "machine learning",
-        "ChatGPT"
+        "generative AI"
       ]
     },
     {
@@ -1062,13 +995,13 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 12,
+      "count": 8,
       "keywords": [
         "personalized learning",
-        "adaptive learning",
         "play",
+        "game-based",
         "game",
-        "game-based"
+        "gamification"
       ]
     },
     {
@@ -1085,30 +1018,6 @@
       ]
     },
     {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
-      "count": 5,
-      "keywords": [
-        "emotion",
-        "social-emotional",
-        "empathy"
-      ]
-    },
-    {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 5,
-      "keywords": [
-        "algorithm",
-        "programming",
-        "coding"
-      ]
-    },
-    {
       "id": "early_literacy",
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
@@ -1122,6 +1031,18 @@
       ]
     },
     {
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 4,
+      "keywords": [
+        "programming",
+        "algorithm",
+        "coding"
+      ]
+    },
+    {
       "id": "robots",
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
@@ -1129,6 +1050,17 @@
       "count": 3,
       "keywords": [
         "chatbot"
+      ]
+    },
+    {
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 3,
+      "keywords": [
+        "emotion",
+        "empathy"
       ]
     }
   ]
