@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-08-16 04:08 UTC",
-  "digest": "📌 今日核心动态\n今日的研究资讯主要聚焦于人工智能（AI）在幼儿教育和教育技术领域的应用，探讨了AI如何支持幼儿的认知发展、社交技能和情感学习。同时，研究者也关注了过度使用屏幕对幼儿发展的影响以及如何平衡技术应用与传统教育方法。\n\n🔥 热点研究方向\n1. **AI辅助幼儿教育**：研究者正在探索AI如何支持幼儿的认知发展，特别是在语言学习、社交技能和情感学习方面。发现表明，AI可以提供个性化的学习体验，但也存在对幼儿过度依赖技术的担忧。\n2. **屏幕时间对幼儿发展的影响**：研究者正在调查过度使用屏幕对幼儿认知、语言和社交情感发展的影响。研究发现，过度使用屏幕可能导致幼儿发展迟缓，但适度使用屏幕可以成为教育的有力工具。\n3. **计算思维在幼儿教育中的应用**：研究者正在研究如何将计算思维融入幼儿教育，包括编程、问题解决和逻辑思维。发现表明，幼儿可以通过游戏和互动活动发展计算思维能力。\n4. **虚拟现实在教育中的应用**：研究者正在探索虚拟现实技术在教育中的应用，包括创造性思维、情感学习和集体自我效能的提升。发现表明，虚拟现实可以提供沉浸式学习体验，但需要进一步研究其长期效果。\n\n💡 值得关注的新兴方向\n1. **人工智能与教育的交叉创新**：随着AI技术的发展，教育领域可能会出现更多交叉创新，例如使用AI生成的虚拟教材、AI辅助的个性化学习计划等。研究者可以关注这些新兴方向，以探索AI在教育中的更广泛应用。",
+  "updated_at": "2026-08-17 04:24 UTC",
+  "digest": "📌 今日核心动态\n今天的研究资讯简报聚焦于人工智能（AI）在教育领域的应用，尤其是在幼儿发展、教育技术学等方面。研究者们正在探索AI如何能够更好地支持教学、学习和儿童的认知发展。同时，人们也在讨论AI带来的挑战和伦理问题，例如数据隐私、算法偏见等。\n\n🔥 热点研究方向\n1. **AI辅助教学**：研究者正在研究如何将AI技术（如大语言模型）整合到课堂教学中，以提高教学效率和学生的学习体验。发现表明，AI辅助教学可以提高学生的参与度和成绩，但也存在技术问题和教师培训的挑战。\n2. **儿童情感智能的发展**：研究者关注AI如何影响幼儿的情感智能和社会能力的发展。研究发现，AI辅助的教育机器人可以帮助幼儿提高情感表达和社会交往能力，但也需要考虑个体差异和文化背景。\n3. **虚拟现实在教育中的应用**：研究者正在探索虚拟现实（VR）技术在教育中的应用，包括创造性思维、技能训练和情感体验。发现表明，VR可以提高学生的参与度和学习成果，但也需要考虑技术成本和教学设计的挑战。\n4. **ChatGPT在教育中的应用**：研究者关注ChatGPT等AI聊天机器人在教育中的应用，包括作业辅导、反馈提供和语言学习。发现表明，ChatGPT可以提高学生的语言能力和学习效率，但也存在伦理问题和技术局限性。\n\n💡 值得关注的新兴方向\n1. **人工智能与早期儿童教育的交叉研究**：随着AI技术的发展，研究者开始关注AI如何能够支持早期儿童的学习和发展，包括语言、认知和社会情感能力的发展。这一方向值得关注，因为它可能带来革命性的教育创新。",
   "journal_papers": {
     "Computers & Education": [
+      {
+        "title": "Using computer vision to support formative assessment in science experiments: An investigation into the suitability of action recognition models",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105743",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105743",
+        "authors": [
+          "Edwin Chng",
+          "Bertrand Schneider"
+        ],
+        "published": "2027-1",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
       {
         "title": "Unpacking AI–education discourse: Topic modeling and fsQCA of Technology–Resilience dynamics in pedagogical perceptions",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -52,20 +65,6 @@
         "url": "https://doi.org/10.1016/j.compedu.2026.105708",
         "authors": [
           "Mary Rice"
-        ],
-        "published": "2026-12",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Rewiring the knowledge field of artificial intelligence in education: A multi-level theoretical perspective on cross-level topic evolution, 2000–2024",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105720",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105720",
-        "authors": [
-          "Chuang Yang",
-          "Zeqing Xu",
-          "Yu Lin"
         ],
         "published": "2026-12",
         "journal": "Computers & Education",
@@ -391,6 +390,20 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "AI learning assistants, self-regulation, and academic procrastination: a technology–motivation–behavior pathway",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2691902",
+        "url": "https://doi.org/10.1080/10494820.2026.2691902",
+        "authors": [
+          "Hu Longxue",
+          "Cao Enguo",
+          "Hu Weifeng"
+        ],
+        "published": "2026-8-16",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Predicting teachers’ pedagogical knowledge in virtual learning environments: the roles of motivation, technology knowledge, and engagement",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2703281",
@@ -442,20 +455,6 @@
           "Chieh-Peng Lin"
         ],
         "published": "2026-8-10",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Multi-type assistive support in digital task learning for older adults: the moderating role of digital literacy",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2711397",
-        "url": "https://doi.org/10.1080/10494820.2026.2711397",
-        "authors": [
-          "LiYan Bu",
-          "YiZhuo Hou",
-          "YuBo Han"
-        ],
-        "published": "2026-8-5",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -946,75 +945,6 @@
   },
   "keyword_papers": [
     {
-      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
-      "title": "Learning machine learning with young children: exploring informal settings in an African context",
-      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
-      "authors": [
-        "I. Sanusi",
-        "Kissinger Sunday",
-        "S. Oyelere"
-      ],
-      "venue": "Computer Science Education",
-      "published": "2023-02-07",
-      "url": "https://doi.org/10.1080/08993408.2023.2175559",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
-      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
-      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
-      "authors": [
-        "Apittha Unahalekhaka",
-        "M. Bers"
-      ],
-      "venue": "IEEE Global Engineering Education Conference",
-      "published": "2022-03-28",
-      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
-      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
-      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
-      "authors": [
-        "Chu Thi Hong Nhung",
-        "V. Giang",
-        "N. Dung"
-      ],
-      "venue": "Journal of Posthumanism",
-      "published": "2025-04-09",
-      "url": "https://doi.org/10.63332/joph.v5i3.705",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
-      "title": "Learning machine learning with very young children: Who is teaching whom?",
-      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
-      "authors": [
-        "Henriikka Vartiainen",
-        "M. Tedre",
-        "Teemu Valtonen"
-      ],
-      "venue": "Int. J. Child Comput. Interact.",
-      "published": "2020-09-01",
-      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
-      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
-      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
-      "authors": [
-        "L. Aquini",
-        "Júlia Veiga",
-        "T. T. Primo"
-      ],
-      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
-      "published": "2025-11-24",
-      "url": "https://doi.org/10.5753/sbie.2025.12590",
-      "query": "machine learning young children education"
-    },
-    {
       "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
       "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
       "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
@@ -1084,205 +1014,136 @@
       "query": "large language model education"
     },
     {
-      "paperId": "697160c7052f890f464e65e3c2cbbc16ae4175fb",
-      "title": "Computational thinking: early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy",
-      "abstract": "Computational thinking (CT) is considered a group of problem-solving skills that the next generations are expected to possess. The most efficient way to make them acquire these skills is to incorporate CT into K-12 education. To this end, various education programs have been designed to improve teachers’ and prospective teachers’ competence in CT. Such programs designing educational experiences based on teachers’ and prospective teachers’ preexisting opinions and self-efficacy perceptions about CT could achieve better results. Although the acquisition of CT skills has been suggested to start early on, these beliefs of early childhood teachers and prospective teachers have been underexplored. Therefore, this exploratory study aims to examine early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy about CT. The study was conducted with 63 teachers and 78 prospective teachers in Turkey. Data were collected via an online survey in the spring of the 2020–2021 academic year. The preconceptions were assessed using a structured questionnaire, while the CT self-efficacy was measured with the Computational Thinking Scale. The findings showed similarities between teachers and prospective teachers in the preconceptions of CT. Both of them most strongly associated CT with logical thinking, problem-solving, using algorithms, coding/programming, doing mathematics, using technology in teaching, and using computers. Yet, teachers reported stronger associations between CT and logical thinking, using algorithms, and coding/programming. Furthermore, teachers’ self-efficacy perceptions in CT were significantly higher. The study findings provide some needed information to design professional development programs aiming to enhance CT practices in early education settings.",
+      "paperId": "e6373f71a3ea60b2f0c0e9e38f9b6d4217719c19",
+      "title": "The impact of educational robot R1 on the development of emotional intelligence in preschool-aged children",
+      "abstract": "The study investigates the impact of the educational robot R1 on the development of emotional intelligence in preschool-aged children. Employing a convergent mixed methods design with a quasi-experimental pre-test/post-test structure and elements of an embedded case study, the research was conducted in a kindergarten in Athens with 21 children aged 4 to 6 years, including both typically and atypically developing children. Quantitative data were collected through rating rubrics, evaluation sheets, and worksheets, while qualitative insights were obtained via semi-structured interviews and observation. The findings revealed a significant increase in children's emotional intelligence scores across four domains—recognition of emotions, expression of emotions, regulation of emotions, and social skills—following the interventions. Children demonstrated enhanced emotional vocabulary, self-awareness, management of emotions, and collaborative behaviors. The robot served as a socially engaging tool, promoting both affective learning and peer interaction. These results support the integration of educational robotics into early childhood education to foster emotional and social development in inclusive and diverse classroom environments.",
       "authors": [
-        "Canan Avcı",
-        "Mine Nur Deniz"
+        "Mavrogianni Gregoria",
+        "Chara Papoutsi",
+        "Konstantinos Skordoulis"
       ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2022-05-19",
-      "url": "https://doi.org/10.1007/s10639-022-11078-5",
-      "query": "computational thinking early childhood"
+      "venue": "GSC Advanced Research and Reviews",
+      "published": "2025-07-30",
+      "url": "https://doi.org/10.30574/gscarr.2025.24.1.0188",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "8eb0d99e7858007df6450c534f3444b7898038b6",
-      "title": "Robotics in early childhood STEM education (REC-STEMEd): The impact on preservice teachers’ attitudes and intentions toward computational thinking",
-      "abstract": "There is a large disconnect between the increasing need for computer science education in K-12 schools and the preservice teacher training provided. Consequently, preservice teachers may graduate feeling unprepared to infuse computer science concepts such as computational thinking (CT) into their teaching. To address this, we created Robotics in Early Childhood STEM Education (REC-STEMEd), a module that infuses computational thinking, robotics, and science content into an early childhood teacher education methods course. This study investigated changes in early childhood preservice teachers’ (n = 39) attitudes toward learning to teach CT and their intentions to teach CT. Findings revealed a statistically significant increase in participants’ positive affection and positive cognition, and a significant decrease in negative cognition toward learning to teach CT. A moderate but not significant decrease was found in their negative cognition. Moreover, participants reported moderately positive attitudes, subjective norms, perceived behavioral control, and intentions toward teaching CT in the future.",
+      "paperId": "1f85242eef40b860dc772c551839c64f9805021c",
+      "title": "Object Recognition-Based Second Language Learning Educational Robot System for Chinese Preschool Children",
+      "abstract": "Research in psychology, pedagogy, and physiology has shown that learning a second language will be a great benefit to preschool children. Compared with adults, children have more advantages in learning, such as better pronunciation and intonation. However, because of children’s inattention, the effects of the second language education in many preschools are not ideal in China. To make children learn the second language effectively, it should be integrated into their daily lives and in line with their interests. In this paper, an educational robot system with object recognition technology is introduced, which aims to provide innovative second language learning services for preschool children in China. The proposed system combines object recognition and projection with English teaching and makes objects in daily life more interesting with projected animation to attract children’s attention. On the projection screen, children can interact with a robot by touch or movement and can easily trigger more interactive effects. To evaluate the effectiveness of the proposed system, we conducted an experiment, and the results showed that the system can improve the language learning efficiency for the Chinese preschool children by interacting with objects under proper guidance.",
       "authors": [
-        "Lucas Vasconcelos",
-        "Ismahan Arslan‐Ari",
-        "Bridget Miller"
+        "Qin Wu",
+        "Sirui Wang",
+        "Jiashuo Cao"
       ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2025-03-31",
-      "url": "https://doi.org/10.1007/s10639-025-13529-1",
-      "query": "computational thinking early childhood"
+      "venue": "IEEE Access",
+      "published": "2019",
+      "url": "https://doi.org/10.1109/ACCESS.2018.2890438",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "bb7096a30e4e9686b25b0ac73fb128dfba398de8",
-      "title": "A three-phase professional development approach to improving robotics pedagogical knowledge and computational thinking attitude of early childhood teachers",
+      "paperId": "8f512823204abb6b2fa951f6210922118b682fbd",
+      "title": "The Impact of Educational Robotics on the Executive Functions of Preschool Children",
+      "abstract": "This quasi-experimental study examines the impact of an educational robotics program on the development of executive functions (EF) in preschool children in Morocco. Throughout the school year, 84 pupils from two schools in Rabat and Salé participated in a progressive program that combined unplugged activities with the exploration of the Bee-Bot robot. Five key dimensions (planning, working memory, cognitive flexibility, problem-solving, and collaboration) were assessed using a 22-indicator grid to measure the children’s progress in these areas. Data collection occurred over a seven-day period. Statistical analysis highlighted significant inter-dimensional correlations (0.533 ≤ r ≤ 0.931, p < 0.001), indicating a strong interdependence between the skills developed and higher mean scores for the early stages of the program (notably spatial planning and getting to grips with the Bee-Bot). Conversely, problem-solving and collaboration, although more demanding, appeared to be closely linked (r = 0.931), suggesting that the consolidation of individual problem-solving skills creates favorable conditions for mutual aid and collective work. These results confirm that the gradual, supervised integration of educational robotics can enhance executive functions in early childhood by engaging working memory, inhibitory control, and cognitive flexibility through structured, interactive activities. This study thus contributes to a better understanding of the potential of educational robotics in a non-Western context and lays the groundwork for future longitudinal and comparative research exploring how cultural and pedagogical factors influence early childhood learning outcomes.",
+      "authors": [
+        "M. Zemzami",
+        "Majda Zbat"
+      ],
+      "venue": "Journal of Hunan University Natural Sciences",
+      "published": "2025-05-31",
+      "url": "https://doi.org/10.55463/issn.1674-2974.52.4.7",
+      "query": "educational robot children preschool"
+    },
+    {
+      "paperId": "8cfad96bdc417260bea5e5a7771fe1efe57f96d8",
+      "title": "Educators' perspectives on working with a humanoid robot in a French preschool class for autistic children",
       "abstract": "Abstract not available.",
       "authors": [
-        "Weipeng Yang"
+        "Philippe Garnier",
+        "K. Martel",
+        "Julie Dachez"
       ],
-      "venue": "Comput. Educ.",
-      "published": "2025",
-      "url": "https://doi.org/10.1016/j.compedu.2025.105282",
-      "query": "computational thinking early childhood"
+      "venue": "Journal of Research in Special Educational Needs",
+      "published": "2023-01-06",
+      "url": "https://doi.org/10.1111/1471-3802.12588",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "8a40a2cc2f97915a61436a136dc7c60cff08f4d3",
-      "title": "Integrating computational thinking in children aged 3 to 6: challenges and opportunities in early childhood education",
-      "abstract": "Computational thinking (CT) has emerged as a crucial skill in 21st-century education. Although most research has focused on education levels beyond primary school, this article reviews the impact of its integration in early childhood education, specifically for children aged 3–6 years old. Through a systematic review of 84 studies published in Scopus and Web of Science between 2013 and 2023, pedagogical strategies and technological tools used to develop CT in early childhood are explored. The findings reveal that while CT fosters key cognitive and motor skills, the lack of appropriate materials and teacher training hinders effective implementation. The article highlights the need for continuous teacher training programs and the comprehensive inclusion of CT in early childhood curricula. Furthermore, it identifies a lack of consistent assessment tools that measure the long-term effects of these interventions on child development.",
+      "paperId": "6cb24b8afd09742a74b5af2a25607ccf1db876ec",
+      "title": "The Impact of AI-based Smart Robot Education on the Sociality of Preschool Children Mediated by Creative Problem-solving and Linguistic Expression",
+      "abstract": "This research investigates the educational effectiveness of a smart robot program integrated with Artificial Intelligence (AI) on the sociality of preschool children, particularly focusing on the mediating roles of creative problem-solving and linguistic expression. As the Fourth Industrial Revolution reshapes the educational landscape, AI-driven media have emerged as a ‘Social catalyst’ that significantly accelerates early childhood development. This study employed a quantitative experimental design involving a large-scale sample of 300 preschool children (150 boys and 150 girls) aged 5 to 6 years from various kindergartens in Sejong City. The participants were divided into an experimental group (n=150) that engaged in a 12-week AI-based smart robot program and a control group (n=150) that followed a traditional curriculum. Data were collected through the Social Skills Rating System (SSRS), Torrance Tests of Creative Thinking (TTCT), and standardized linguistic assessments. The results demonstrate that the AI voice-interactive robot program significantly augmented children's sociality scores across all sub-factors. Notably, mediation analysis confirmed that linguistic expression acted as a more potent mediator (<i>b</i> =.45, <i>p</i> <.001) compared to creative problem-solving (<i>b</i> =.38, <i>p </i><.01), identifying vocal interaction as the primary driver of social development. Statistical analysis further revealed that these variables partially mediated the relationship between AI interaction and sociality. Furthermore, while both genders showed significant improvement, girls demonstrated higher engagement in emotional rapport via voice interaction, whereas boys exhibited greater gains in task-oriented problem-solving. This study concludes that pedagogically sound AI voice-interactive tools are effective for fostering social development in young learners. These findings provide practical implications for educators and media content developers to design immersive and interactive AI educational environments.",
       "authors": [
-        "Gineth Paola Perez Valdes",
-        "Óscar Rafael Boude Figueredo",
-        "Ana Dolores Vargas Sánchez"
+        "Hong Yun"
       ],
-      "venue": "Frontiers in Education",
-      "published": "2025-08-25",
-      "url": "https://doi.org/10.3389/feduc.2025.1535135",
-      "query": "computational thinking early childhood"
+      "venue": "Humanities and Social Sciences",
+      "published": "2026-03-31",
+      "url": "https://doi.org/10.11648/j.hss.20261402.18",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "91f32694173063346a15fd59559deb331ff07e52",
-      "title": "Playful Computational Thinking Learning in and Beyond Early Childhood Classrooms: Insights from Collaborative Action Research of Two Teacher-Researchers",
-      "abstract": "Blending child-led exploration with purposeful teacher guidance and clearly defined learning goals, playful learning has been promoted as a promising approach for introducing computational thinking (CT) in early childhood education (ECE). However, there is a lack of practical guidance for teachers on how to design and implement playful CT learning effectively. To address this gap, we conducted a collaborative action research project and asked these two questions: (1) How can teachers effectively prepare and design a playful learning CT program using tangible CT toys? (2) How do teachers facilitate playful learning in the CT program? Through iterative cycles of planning, acting, observing, and reflecting, the first and second authors (teacher-researchers) designed and implemented their CT programs in a preschool classroom and an afterschool program respectively, and collected data including video recordings of sessions, participant-generated artifacts, program documentation, and anecdotal reflection notes. Based on our thematic analysis of the data, we identified practical principles for selecting CT toys, three key themes for CT program design and preparation—interest, ownership, and application, and two forms of teacher scaffolding during implementation: embodied approach and storytelling as scaffolding and assessment. The findings highlight practical ways that teachers can enhance children’s engagement, problem-solving skills, and conceptual understanding of CT, while also promoting autonomy and creativity through coding and storytelling.",
+      "paperId": "ba0eb96237abaf50c6cb72852385b11867100a0c",
+      "title": "Effectiveness of Robot-Mediated Learning in Fostering Children’s Social and Cognitive Development",
+      "abstract": "Engaging with social robots has been recognized as potentially beneficial for children facing social communication challenges, especially in developing skills such as joint attention. This systematic review examines the effectiveness of robot-mediated learning in enhancing children’s cognitive abilities, emotional resilience, and self-confidence, based on an analysis of research conducted between 2018 and 2025. While social robots show promise in delivering personalized and engaging educational experiences, challenges such as emotional dependence, accessibility, and ethical concerns persist. The review concludes that further research, particularly longitudinal studies and cross-cultural comparisons, is necessary to fully understand the long-term impacts of robot-mediated learning on children’s cognitive and social development. It explores the application of robotic technology in relation to children’s educational progress across different age groups. The review includes studies of various types, such as experimental, non-experimental, and research articles, covering diverse research fields, robots, contexts of use, target audiences, and outcomes. The findings highlight the growing potential of social robots to support children’s cognitive development by providing interactive and stimulating learning experiences. This review offers valuable insights for researchers and designers aiming to improve robotic interventions and tailor them to meet diverse developmental needs and educational settings.",
       "authors": [
-        "Grace Yaxin Xing",
-        "A. Cady",
-        "X. C. Wang"
+        "Zainab Salma",
+        "Raquel Hijón-Neira",
+        "C. Pizarro"
       ],
-      "venue": "Education sciences",
-      "published": "2025-07-02",
-      "url": "https://doi.org/10.3390/educsci15070840",
-      "query": "computational thinking early childhood"
+      "venue": "Applied Sciences",
+      "published": "2025-03-25",
+      "url": "https://doi.org/10.3390/app15073567",
+      "query": "cognitive development technology children"
     },
     {
-      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
-      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
-      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "paperId": "ba52abab3168dee9f58384d206874173cf50b4f3",
+      "title": "IMPACT OF TECHNOLOGY ON SOCIAL AND COGNITIVE DEVELOPMENT IN CHILDREN",
+      "abstract": "Technology has inuenced children's social and cognitive development in recent years. This article explores both the\npositive and negative impacts of technology on children's social and cognitive development. On the one hand, technology\ncan provide children with the opportunity to learn and engage in activities that may not be available in their home environment. This can lead to\nincreased condence and improved problem-solving skills. On the other hand, technology can lead to a decrease in physical activity, an increase in\nfeelings of isolation and loneliness, an over-dependence on technology, and a decrease in creativity and problem-solving skills. The article also\ndiscusses technology's potential implications on children's social and cognitive development. It looks at how technology can both positively and\nnegatively affect children's development. It also looks at how it can be used to help them grow and develop healthily. Ultimately, this article\nprovides insight into the impact of technology on children's social and cognitive development and the potential implications of technology on\ntheir lives",
       "authors": [
-        "S. Muppalla",
-        "Sravya Vuppalapati",
-        "Apeksha Reddy Pulliahgaru"
+        "Rani Maria Joy"
       ],
-      "venue": "Cureus",
-      "published": "2023-06-01",
-      "url": "https://doi.org/10.7759/cureus.40608",
-      "query": "screen time child development"
+      "venue": "Indian Journal Of Applied Research",
+      "published": "2023-04-01",
+      "url": "https://doi.org/10.36106/ijar/2913763",
+      "query": "cognitive development technology children"
     },
     {
-      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
-      "title": "Impact of excessive use of screen time on child development: A review",
-      "abstract": "Abstract not available.",
+      "paperId": "874200b9fe1a78d212f6f6410bdc0b743178f577",
+      "title": "Effects of Robotics Education on Young Children’s Cognitive Development: a Pilot Study with Eye-Tracking",
+      "abstract": "The emerging field of robotics education (RE) is a new and rapidly growing subject area worldwide. It may provide a playful and novel learning environment for children to engage with all aspects of science, technology, engineering, and mathematics (STEM) learning. The purpose of this research is to examine how robotics learning activities may affect the cognitive abilities and cognitive processes of 6–8 years old children. The study adopted the mixed methods approach with a repeated measures design; three waves of data collection over 6 months, including quantitative data obtained from cognitive assessments and eye-tracking, and qualitative data from the interviews. A total of 31 children were recruited from an afterschool robotics program. To the best of our knowledge, this study is the first RE research that used a combination of eye-tracking, cognitive assessments, and interviews for examining the effect of RE on children. Using linear growth models, the results of cognitive assessments showed that children’s visuospatial working memory as well as logical and abstract reasoning skills improved over time. The interview data were analyzed by a thematic analysis. The results revealed that children perceived RE activities as game play, which made children more engaged in their study; parents found their children to be more focused on activities comparing to six months ago. Additionally, the visualization of the eye-tracking data suggested that children became more focused on RE activities and got faster to process the information across six months in general, which echoed the findings in assessments and interviews. Our findings may help educators and policymakers better understand the benefits of RE for young children.",
       "authors": [
-        "Anuradha",
-        "Ragini Mishra",
-        "Arti"
+        "Y. Liu",
+        "Darko Odic",
+        "Xuyan Tang"
       ],
-      "venue": "International journal of agriculture extension and social development",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
-      "query": "screen time child development"
+      "venue": "Journal of Science Education and Technology",
+      "published": "2023-03-07",
+      "url": "https://doi.org/10.1007/s10956-023-10028-1",
+      "query": "cognitive development technology children"
     },
     {
-      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
-      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
-      "abstract": "Abstract not available.",
+      "paperId": "29668a9ae33e347970b9e69b40e79d776c3b8bab",
+      "title": "The Impact of Technology on Cognitive Development in Early Childhood",
+      "abstract": "Technology integration into everyday life is deeper than ever in this age of fast technological innovation. This is particularly true for young children exposed to numerous digital instruments from an early age. Such integration has sparked concerns about how technology may affect young childrens cognitive growth, a crucial time when mental capacities like thinking, reasoning, and understanding are still developing. Recognizing the significance of this conversation, the background for this study is the growing anxiety among parents, teachers, and lawmakers over the influence of technology on childrens brains. This study uses a literature review methodology to examine previously published academic studies to understand the complex connection between technology and cognitive development. It aims to grasp both the rewarding possibilities and the dangers it offers. The conclusion summarizes the results and highlights methods for maximizing technologys positive effects while minimizing its possible drawbacks, providing a comprehensive understanding of the subject.",
       "authors": [
-        "Midori Yamamoto",
-        "H. Mezawa",
-        "Kenichi Sakurai"
+        "Yichao Ren"
       ],
-      "venue": "JAMA pediatrics",
-      "published": "2024-01-22",
-      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
-      "query": "screen time child development"
+      "venue": "Lecture Notes in Education Psychology and Public Media",
+      "published": "2023-11-20",
+      "url": "https://doi.org/10.54254/2753-7048/23/20230496",
+      "query": "cognitive development technology children"
     },
     {
-      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
-      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
-      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "paperId": "6f4734c2ae1a22f6e0af70a5deecde9fcd58784d",
+      "title": "The Use of Technology in the Cognitive Development of Early Children",
+      "abstract": "This study was conducted to analyze how the effect of gadget use in early childhood on children's cognitive development. This research is a qualitative descriptive study. the source of the data used is the result of observations of children and parents regarding the use of gadgets in children's cognitive development at Kindergarten Risanti I, West Jakarta. The research result show use of gadgets in children can improve cognitive development of children. through gadgets, children can learn independently about language or mathematics. children's learning through gadgets must be under the supervision of parents. children should not be allowed to use gadgets as they wish. The positive impact of using gadgets on children, consisting of: Improved cognitive skills, More fun for kids, and Educating young ones. The negative impact of using gadgets on children, consisting of: Learning problems, Anxiety, Lazy thinking, Decreased concentration, and hyperactivity.",
       "authors": [
-        "X. Wan",
-        "Xiaoqing Kang",
-        "Shunli Chen"
+        "Linda Pertiwi",
+        "Fajar Prakosa"
       ],
-      "venue": "Frontiers in Pediatrics",
-      "published": "2025-08-28",
-      "url": "https://doi.org/10.3389/fped.2025.1667048",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "e8b7f14835d555b49edfc719d8a54d48b0a00136",
-      "title": "Screen time, brain network development and socio-emotional competence in childhood: moderation of associations by parent–child reading",
-      "abstract": "Abstract Background Screen time in infancy is linked to changes in social-emotional development but the pathway underlying this association remains unknown. We aim to provide mechanistic insights into this association using brain network topology and to examine the potential role of parent–child reading in mitigating the effects of screen time. Methods We examined the association of screen time on brain network topology using linear regression analysis and tested if the network topology mediated the association between screen time and later socio-emotional competence. Lastly, we tested if parent–child reading time was a moderator of the link between screen time and brain network topology. Results Infant screen time was significantly associated with the emotion processing-cognitive control network integration (p = 0.005). This network integration also significantly mediated the association between screen time and both measures of socio-emotional competence (BRIEF-2 Emotion Regulation Index, p = 0.04; SEARS total score, p = 0.04). Parent–child reading time significantly moderated the association between screen time and emotion processing-cognitive control network integration (β = −0.640, p = 0.005). Conclusion Our study identified emotion processing-cognitive control network integration as a plausible biological pathway linking screen time in infancy and later socio-emotional competence. We also provided novel evidence for the role of parent–child reading in moderating the association between screen time and topological brain restructuring in early childhood.",
-      "authors": [
-        "Pei Huang",
-        "Shih-Yu Chan",
-        "Zhen Ming Ngoh"
-      ],
-      "venue": "Psychological Medicine",
-      "published": "2024-02-05",
-      "url": "https://doi.org/10.1017/S0033291724000084",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "ef7ef9cb275ac2a8ca5ab56d592a9b9ac7522d7b",
-      "title": "Personalized Adaptive Learning Framework for Preschoolers Using Explainable AI",
-      "abstract": "With the deep application of artificial intelligence technology in the field of education, preschool education intelligence faces the dual challenges of insufficient personalization and low decision transparency. This study proposes a preschool personalized adaptive learning framework based on Explainable Artificial Intelligence (XAI), which integrates four core modules: multimodal data collection, cognitive modeling, adaptive recommendation, and explainable feedback. Through a hybrid architecture of deep learning and symbolic reasoning, the framework achieves dynamic optimization of learning paths. Experiments were conducted on a public preschool learning behavior dataset containing 1,000 records. The results show that the framework significantly outperforms traditional methods in learning effectiveness improvement, cognitive development assessment, and teacher acceptability. Learning efficiency improved by 28.5%, cognitive ability assessment accuracy reached 92.3%, and teacher satisfaction with system explanations was 89.7%. The research provides theoretical support and practical pathways for the intelligence of preschool education, promoting the application of explainable AI in early childhood education scenarios.",
-      "authors": [
-        "Qingzhu Cao"
-      ],
-      "venue": "ICAIE",
-      "published": "2025-11-21",
-      "url": "https://doi.org/10.1145/3797552.3797768",
-      "query": "adaptive learning preschool"
-    },
-    {
-      "paperId": "3aee1bcfb6d5d692c88761c7d5a24e52ea1163fb",
-      "title": "Research on the Design of an Intelligent Adaptive Learning System Based on Deep Learning",
-      "abstract": "In the digital age, with the deep integration of IT and education, research on an intelligent adaptive learning system for preschool English based on deep knowledge tracing has drawn great attention. This paper centers on building its basic components to address low-efficiency and non-personalization in traditional preschool English teaching. Deep knowledge tracing, relying on RNNs and LSTMs, we need to precisely record and analyze preschoolers' multi-dimensional English-learning data (vocabulary, grammar, oral skills). Using these data, the system customizes learning paths, like auto-adjusting content push and offering targeted help. Experiments show a 40% rise in word-memorization accuracy, a 35% increase in grammar-understanding correctness, and a knowledge-absorption rate jump from 30% (traditional) to over 60%. The system has modules of intelligent assessment, learning content push, learning task design, and innovative learning mode. The assessment module uses RNNs or LSTMs for analysis; the content-push module selects from a graded resource library; the task-design module adjusts tasks based on personalization and gradation; the innovative-mode module uses VR/AR for immersive learning. This research fills the gap in creating an intelligent preschool-English education scenario by integrating AI, offers an innovative solution for its intelligent transformation, and is expected to draw expert cooperation to boost preschool English education.",
-      "authors": [
-        "Zhouzhou Shen"
-      ],
-      "venue": "2025 IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT)",
-      "published": "2025-04-25",
-      "url": "https://doi.org/10.1109/ICCECT64621.2025.11339855",
-      "query": "adaptive learning preschool"
-    },
-    {
-      "paperId": "7000fc39ca4703c85db0e87eff5746c50b0993ec",
-      "title": "Analysis of Automated Content Generation and Adaptive Teaching Pathways of AIGC in Informational Teaching of Preschool Education Majors",
-      "abstract": "Generative artificial intelligence, as the latest breakthrough in artificial intelligence, has attracted widespread attention in the field of education since its release. With the background of intelligent transformation of education, this study compiles and analyzes AIGC technology and its application in teaching preschool education majors, establishes a model of influencing factors on the effectiveness of AIGC application, and explores the adaptive teaching path of AIGC application in informatization teaching of preschool education majors. The core factor scores of the sample preschool education majors are all greater than 3.65, and the effectiveness of AIGC application is in the middle to upper level. Meanwhile, the positive contribution of teacher traits, teacher support, equipment use, learning motivation, learning attitude, self-efficacy, technical support, and learning atmosphere to the effectiveness of AIGC application was verified at the 5% level. The study proposes that AIGC technology be utilized to develop teachers' nurturing and students' creativity, to enhance the relevance of teaching evaluation and the utilization of resource recommendations, and to promote the high quality of teaching and learning in preschool education.",
-      "authors": [
-        "Qiming Qiao"
-      ],
-      "venue": "International journal of computer information systems and industrial management applications",
-      "published": "2025-12-15",
-      "url": "https://doi.org/10.70917/ijcisim-2025-0240",
-      "query": "adaptive learning preschool"
-    },
-    {
-      "paperId": "012d43c88cf9372774f002c84e96950e0a27162d",
-      "title": "The “Tutor’s Compass” assessment tool: a study of social-communication and adaptive skills in preschool children with autism spectrum disorder",
-      "abstract": "Context and relevance. Children with autism spectrum disorder (ASD) exhibit significant delays in the development of independence, self-care, and communication skills, which poses a substantial obstacle to their successful inclusion in school education. Objective. To investigate the development of social-communication and adaptive skills in preschool children with ASD using the “Tutor’s Compass” assessment tool. Hypothesis. The “Tutor’s Compass” diagnostic tool possesses sufficient differential sensitivity to identify individual differences in the development of self-care skills, learning behaviour, and communication skills within a group of preschool children with ASD; it reveals the specifics of age-related differences in skill development; and it reflects the level of adaptation of preschool children in various domains. Methods and materials. The study involved 24 preschoolers with ASD (8 girls) aged 5 years 1 month to 7 years 11 months (experimental group) and 20 primary school children with ASD (2 girls) aged 8 to 12 years (comparison group). The research methods included the “Tutor’s Compass” diagnostic tool and the Vineland Adaptive Behavior Scales. Results. Scores on the “Tutor’s Compass” instrument show a statistically significant increase with age (correlations with age R = 0.438–0.674, p < 0.05). The preschool and school-age groups differ significantly on the three main scales (p < 0.05). The skill profile on the “Tutor’s Compass” in preschool children with ASD is uneven, with significant differences observed between individual scales according to Friedman’s test (-- (2) = 15.0, p < 0.001). The configuration of this profile differs from a similar profile obtained using the Vineland scales. Conclusions. The “Tutor’s Compass” diagnostic tool can be used to assess the skills of preschoolers with ASD. During the transition from preschool to primary school age, noticeable progress in skill development is observed, particularly in the domain of self-care. It is advisable to refine certain diagnostic scales, taking into account the specifics of preschool education, and to develop a version of the tool tailored for this age group.",
-      "authors": [
-        "E. V. Shmeleva",
-        "U. Mamokhina",
-        "E. Davydova"
-      ],
-      "venue": "Autism and Developmental Disorders",
-      "published": "2025-12-30",
-      "url": "https://doi.org/10.17759/autdd.2025230407",
-      "query": "adaptive learning preschool"
-    },
-    {
-      "paperId": "363b39f0985d6c689e44513abbcf41f7401dd9dc",
-      "title": "Digital Educational Games to Promote Social Emotional Learning in Preschool-Aged Children: Trends and Challenges in Co-Design.",
-      "abstract": "The integration of Digital Educational Games (DEGs) in preschool education offers new opportunities to foster Social-Emotional Learning (SEL) through engaging, adaptive learning environments. This systematic literature review, conducted following PRISMA 2020 guidelines, examines key game design features that support SEL competencies in preschool-aged children. A total of 18 studies published between 2020 and 2025 were analyzed, focusing on participatory design, the roles of educators and children, and methodologies to assess SEL outcomes. Findings highlight the prevalence of game mechanics targeting emotional regulation, responsible decision-making, and prosocial behavior, with insights into the inclusion of nutrition and autism-related interventions within the CASEL-5 framework. The study also explores the role of educators in facilitating DEGs and the digital literacy skills needed for effective integration. By aligning technological advancements with child-centered design principles, this review contributes to the discourse on smart learning ecosystems and the future of participatory digital learning tools.",
-      "authors": [
-        "Joana Raminhos Silveira",
-        "Oksana Tymoshchuk",
-        "A. I. Veloso"
-      ],
-      "venue": "Interaction Design and Architecture(s)",
-      "published": "2025-12-20",
-      "url": "https://doi.org/10.55612/s-5002-067-005",
-      "query": "adaptive learning preschool"
+      "venue": "I-STATEMENT",
+      "published": "2021-01-14",
+      "url": "https://doi.org/10.46371/ISTATEMENT.V6I1.272",
+      "query": "cognitive development technology children"
     }
   ],
   "hot_topics": [
@@ -1291,7 +1152,7 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 72,
+      "count": 62,
       "keywords": [
         "AR",
         "immersive",
@@ -1305,12 +1166,12 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 41,
+      "count": 32,
       "keywords": [
-        "teacher",
         "parent",
-        "school",
+        "teacher",
         "classroom",
+        "school",
         "family"
       ]
     },
@@ -1319,27 +1180,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 25,
+      "count": 17,
       "keywords": [
-        "machine learning",
-        "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "LLM"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 19,
-      "keywords": [
-        "play",
-        "game",
-        "personalized learning",
-        "adaptive learning",
-        "game-based"
+        "LLM",
+        "large language model",
+        "artificial intelligence"
       ]
     },
     {
@@ -1347,27 +1194,13 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 13,
+      "count": 16,
       "keywords": [
         "attention",
         "executive function",
+        "working memory",
         "cognitive development",
-        "self-regulation",
-        "cognitive load"
-      ]
-    },
-    {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 13,
-      "keywords": [
-        "coding",
-        "algorithm",
-        "computer science",
-        "computational thinking",
-        "programming"
+        "self-regulation"
       ]
     },
     {
@@ -1375,24 +1208,23 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 10,
+      "count": 14,
       "keywords": [
         "chatbot",
         "robot"
       ]
     },
     {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 8,
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 13,
       "keywords": [
-        "language development",
-        "reading",
-        "vocabulary",
-        "writing",
-        "early literacy"
+        "personalized learning",
+        "game",
+        "play",
+        "game-based"
       ]
     },
     {
@@ -1400,24 +1232,37 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 8,
+      "count": 7,
       "keywords": [
-        "social-emotional",
         "emotion",
-        "social emotional",
+        "social development",
         "empathy"
       ]
     },
     {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 7,
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 6,
       "keywords": [
-        "tablet",
-        "screen time",
-        "digital learning"
+        "computational thinking",
+        "algorithm",
+        "programming",
+        "coding"
+      ]
+    },
+    {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 5,
+      "keywords": [
+        "vocabulary",
+        "writing",
+        "early literacy",
+        "language development"
       ]
     }
   ]
