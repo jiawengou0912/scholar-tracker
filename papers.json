@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17 04:24 UTC",
-  "digest": "📌 今日核心动态\n今天的研究资讯简报聚焦于人工智能（AI）在教育领域的应用，尤其是在幼儿发展、教育技术学等方面。研究者们正在探索AI如何能够更好地支持教学、学习和儿童的认知发展。同时，人们也在讨论AI带来的挑战和伦理问题，例如数据隐私、算法偏见等。\n\n🔥 热点研究方向\n1. **AI辅助教学**：研究者正在研究如何将AI技术（如大语言模型）整合到课堂教学中，以提高教学效率和学生的学习体验。发现表明，AI辅助教学可以提高学生的参与度和成绩，但也存在技术问题和教师培训的挑战。\n2. **儿童情感智能的发展**：研究者关注AI如何影响幼儿的情感智能和社会能力的发展。研究发现，AI辅助的教育机器人可以帮助幼儿提高情感表达和社会交往能力，但也需要考虑个体差异和文化背景。\n3. **虚拟现实在教育中的应用**：研究者正在探索虚拟现实（VR）技术在教育中的应用，包括创造性思维、技能训练和情感体验。发现表明，VR可以提高学生的参与度和学习成果，但也需要考虑技术成本和教学设计的挑战。\n4. **ChatGPT在教育中的应用**：研究者关注ChatGPT等AI聊天机器人在教育中的应用，包括作业辅导、反馈提供和语言学习。发现表明，ChatGPT可以提高学生的语言能力和学习效率，但也存在伦理问题和技术局限性。\n\n💡 值得关注的新兴方向\n1. **人工智能与早期儿童教育的交叉研究**：随着AI技术的发展，研究者开始关注AI如何能够支持早期儿童的学习和发展，包括语言、认知和社会情感能力的发展。这一方向值得关注，因为它可能带来革命性的教育创新。",
+  "updated_at": "2026-08-18 04:07 UTC",
+  "digest": null,
   "journal_papers": {
     "Computers & Education": [
       {
@@ -390,71 +390,66 @@
     ],
     "Interactive Learning Environments": [
       {
-        "title": "AI learning assistants, self-regulation, and academic procrastination: a technology–motivation–behavior pathway",
+        "title": "Role of artificial intelligence in enhancing English language proficiency among engineering students: opportunities, challenges, and pedagogical shifts",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2691902",
-        "url": "https://doi.org/10.1080/10494820.2026.2691902",
+        "doi": "10.1080/10494820.2026.2706560",
+        "url": "https://doi.org/10.1080/10494820.2026.2706560",
         "authors": [
-          "Hu Longxue",
-          "Cao Enguo",
-          "Hu Weifeng"
+          "Maharudra Kapse",
+          "Gajanan Bonsale"
         ],
-        "published": "2026-8-16",
+        "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       },
       {
-        "title": "Predicting teachers’ pedagogical knowledge in virtual learning environments: the roles of motivation, technology knowledge, and engagement",
+        "title": "AI-driven assessment in higher education: a systematic review",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2703281",
-        "url": "https://doi.org/10.1080/10494820.2026.2703281",
+        "doi": "10.1080/10494820.2026.2711402",
+        "url": "https://doi.org/10.1080/10494820.2026.2711402",
         "authors": [
-          "Selçuk Dogan",
-          "Ismail Celik",
-          "Timothy Hinchman"
+          "Zhijie Jin",
+          "Xiaohan Li",
+          "Xuan Chen"
         ],
-        "published": "2026-8-12",
+        "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       },
       {
-        "title": "Metaverse-based blood transfusion education in midwifery: a mixed-methods study of knowledge outcomes and learner experiences",
+        "title": "Gamified learning across academic stages: a developmental perspective on motivation, collaboration, and identity in computer engineering education",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2698255",
-        "url": "https://doi.org/10.1080/10494820.2026.2698255",
+        "doi": "10.1080/10494820.2026.2713623",
+        "url": "https://doi.org/10.1080/10494820.2026.2713623",
         "authors": [
-          "Halime Aydemir",
-          "Enver Türksoy",
-          "Fatma Ergün"
+          "Carmen Nolasco-Salcedo"
         ],
-        "published": "2026-8-11",
+        "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       },
       {
-        "title": "How do AI feedback types affect students’ continuance usage intention in AI hallucinations?",
+        "title": "Educational metaverse as an alternative venue for school events: examining digital participation and social presence in a virtual world",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2711950",
-        "url": "https://doi.org/10.1080/10494820.2026.2711950",
+        "doi": "10.1080/10494820.2026.2712635",
+        "url": "https://doi.org/10.1080/10494820.2026.2712635",
         "authors": [
-          "Yupeng Guo",
-          "Tinglan Huang",
-          "Hao Lu"
+          "Manuel B. Garcia"
         ],
-        "published": "2026-8-10",
+        "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       },
       {
-        "title": "Human–AI co-mentoring for fostering interns’ management thinking abilities: Dual-Route Transformative Learning Theory (DR-TLT)",
+        "title": "Development and validation of the collaborative learning literacy scale for generative AI learning companions",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2711951",
-        "url": "https://doi.org/10.1080/10494820.2026.2711951",
+        "doi": "10.1080/10494820.2026.2711955",
+        "url": "https://doi.org/10.1080/10494820.2026.2711955",
         "authors": [
-          "Pei-Chun Chen",
-          "Chieh-Peng Lin"
+          "Tsu-Te Chuang Hu",
+          "Yung-Hsiang Hu"
         ],
-        "published": "2026-8-10",
+        "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -669,69 +664,72 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "Emotion Measurement in Design: A Systematic Review of Tools, Their Evolution, and Emerging Directions",
+        "title": "A LLM-Based Dynamic Deduction Framework for Early-Stage Visual Design: Integrating Cultural Conventions and Multimodal Verification",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2714686",
-        "url": "https://doi.org/10.1080/10447318.2026.2714686",
+        "doi": "10.1080/10447318.2026.2707720",
+        "url": "https://doi.org/10.1080/10447318.2026.2707720",
         "authors": [
-          "Fatemeh Tohidifar",
-          "Nasser Khalili",
-          "Farzaneh Eftekhari"
+          "Jiawei Shi",
+          "Yi Zhang",
+          "Yunsi Zhu"
         ],
-        "published": "2026-8-13",
+        "published": "2026-8-17",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Face-Emoticons as Visual Display Stimuli for In-Vehicle Robots: A Perceived Usability Study Informed by Embodied Cognition",
+        "title": "Designing Inclusive Budgeting Tools: Understanding Financial Behavior and Cultural Differences Among University Students",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2713806",
-        "url": "https://doi.org/10.1080/10447318.2026.2713806",
+        "doi": "10.1080/10447318.2026.2712661",
+        "url": "https://doi.org/10.1080/10447318.2026.2712661",
         "authors": [
-          "Siqin Wang"
+          "Yinjie Xie",
+          "Boxuan Ma",
+          "Shinichi Konomi"
         ],
-        "published": "2026-8-13",
+        "published": "2026-8-17",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Combating Interest Decline with NAO: An Empirical Study on Robot Embodied Interactive Games for the Serial 7 Task in Mild Cognitive Impairments",
+        "title": "Peak Shaving and Valley Filling: Reconstructing Cognitive Load in Cultural Heritage VR Through Contextualized Scaffolding",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2714326",
-        "url": "https://doi.org/10.1080/10447318.2026.2714326",
+        "doi": "10.1080/10447318.2026.2706939",
+        "url": "https://doi.org/10.1080/10447318.2026.2706939",
         "authors": [
-          "Xiao Dou",
-          "Wei jiang She"
+          "Xiaoyang He",
+          "Dan Wu",
+          "Jingyang Lin"
         ],
-        "published": "2026-8-12",
+        "published": "2026-8-17",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "From Adaptation to Intelligence: A Systematic Review of Data, Strategies, and Impact in Personalized VR",
+        "title": "Human-Centered Hybrid Intelligence: A Specialized Generalist Model for Intellectual Property Case Retrieval in Judicial Decision Support",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2712140",
-        "url": "https://doi.org/10.1080/10447318.2026.2712140",
+        "doi": "10.1080/10447318.2026.2707721",
+        "url": "https://doi.org/10.1080/10447318.2026.2707721",
         "authors": [
-          "Tangyao Li",
-          "Yitong Zhu",
-          "Hai-Ning Liang"
+          "Linrui Han",
+          "Linrui Xu",
+          "Ri Zheng"
         ],
-        "published": "2026-8-12",
+        "published": "2026-8-17",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Facial Expressions, Operational Behaviors, and Textual Feedback: A Meta-Analysis on the Effectiveness of Intelligent Multimodal User Experience Evaluation",
+        "title": "Beyond Tool Rationality: Contextualizing AR Picture Book Acceptance in Parent–Child Shared Reading",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2714689",
-        "url": "https://doi.org/10.1080/10447318.2026.2714689",
+        "doi": "10.1080/10447318.2026.2712813",
+        "url": "https://doi.org/10.1080/10447318.2026.2712813",
         "authors": [
-          "Zaoyi Sun",
-          "Yi Wu",
-          "Lei Xu"
+          "Yu Zeng",
+          "Yuhui Wang",
+          "Zhixuan Gong"
         ],
-        "published": "2026-8-11",
+        "published": "2026-8-17",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
@@ -848,20 +846,6 @@
         "venue": "Early Childhood Research Quarterly"
       },
       {
-        "title": "Mediating role of parent-teacher cocaring relationships in the associations between teacher-child relationships and parenting stress in Early Head Start",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.ecresq.2026.03.005",
-        "url": "https://doi.org/10.1016/j.ecresq.2026.03.005",
-        "authors": [
-          "Dahyung Ryu",
-          "Shinyoung Jeon",
-          "Erin G. Fox"
-        ],
-        "published": "2026",
-        "journal": "Early Childhood Research Quarterly",
-        "venue": "Early Childhood Research Quarterly"
-      },
-      {
         "title": "A randomized controlled trial of HighScope’s teacher professional learning on preschoolers' executive function skills",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.ecresq.2026.03.012",
@@ -870,6 +854,19 @@
           "Sammy F. Ahmed",
           "Nicholas E. Waters",
           "Lori E. Skibbe"
+        ],
+        "published": "2026",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "Language foundations for literacy: A content analysis of prekindergarten oral language standards",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2026.07.004",
+        "url": "https://doi.org/10.1016/j.ecresq.2026.07.004",
+        "authors": [
+          "Erica M. Barnes",
+          "Samantha A. Ryan"
         ],
         "published": "2026",
         "journal": "Early Childhood Research Quarterly",
@@ -945,205 +942,141 @@
   },
   "keyword_papers": [
     {
-      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
-      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
-      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
+      "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
+      "title": "Applying Artificial Intelligence into Early Childhood Math Education: Lesson Design and Course Effect",
+      "abstract": "A growing trend has been observed in applying artificial intelligence (Al) for educational purposes. With emerging initiatives in adapting Al in early childhood education, greater effort can be made in providing empirical evidence to theoretically support the use of Al techniques for young children. This study aims to introduce an instructional unit of math instruction for children aged 3-8. The course was delivered by a learning app, Zebra Al, where an intelligent tutoring system was applied. Students were invited from social networking sites and 66 children from India agreed to participate. A four-week course (five lessons each week) was delivered, covering basic math concepts including recognizing patterns, identifying 2D shapes, dissecting 2D shapes, and counting. The effect of the course was assessed in both cognitive and attitudinal facets. The results indicated that the course was effective in improving math performance and sustaining math attitudes.",
       "authors": [
-        "Walayat Hussain",
-        "Machi Raju Varanasi",
-        "Liam New"
+        "Shuhang Zhang",
+        "Xuelian Chen"
       ],
-      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
-      "published": "2025-11-18",
-      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
-      "query": "large language model education"
+      "venue": "International Conference on Teaching, Assessment, and Learning for Engineering",
+      "published": "2022-12-01",
+      "url": "https://doi.org/10.1109/TALE54877.2022.00109",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
-      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
-      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
-      "authors": [
-        "S. Guizani",
-        "Tehseen Mazhar",
-        "Tariq Shahzad"
-      ],
-      "venue": "Discover Education",
-      "published": "2025-02-15",
-      "url": "https://doi.org/10.1007/s44217-025-00424-7",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
-      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
-      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
-      "authors": [
-        "James C. L. Chow",
-        "Kay Li"
-      ],
-      "venue": "JMIR Cancer",
-      "published": "2025-02-18",
-      "url": "https://doi.org/10.2196/66633",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
-      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
-      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
-      "authors": [
-        "Jianwen Zeng",
-        "Wenhao Qi",
-        "Shiying Shen"
-      ],
-      "venue": "Journal of Medical Internet Research",
-      "published": "2025-11-13",
-      "url": "https://doi.org/10.2196/79091",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
-      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
-      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
-      "authors": [
-        "V. Nikolovski",
-        "D. Trajanov",
-        "Ivan Chorbev"
-      ],
-      "venue": "Algorithms",
-      "published": "2025-03-04",
-      "url": "https://doi.org/10.3390/a18030144",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "e6373f71a3ea60b2f0c0e9e38f9b6d4217719c19",
-      "title": "The impact of educational robot R1 on the development of emotional intelligence in preschool-aged children",
-      "abstract": "The study investigates the impact of the educational robot R1 on the development of emotional intelligence in preschool-aged children. Employing a convergent mixed methods design with a quasi-experimental pre-test/post-test structure and elements of an embedded case study, the research was conducted in a kindergarten in Athens with 21 children aged 4 to 6 years, including both typically and atypically developing children. Quantitative data were collected through rating rubrics, evaluation sheets, and worksheets, while qualitative insights were obtained via semi-structured interviews and observation. The findings revealed a significant increase in children's emotional intelligence scores across four domains—recognition of emotions, expression of emotions, regulation of emotions, and social skills—following the interventions. Children demonstrated enhanced emotional vocabulary, self-awareness, management of emotions, and collaborative behaviors. The robot served as a socially engaging tool, promoting both affective learning and peer interaction. These results support the integration of educational robotics into early childhood education to foster emotional and social development in inclusive and diverse classroom environments.",
-      "authors": [
-        "Mavrogianni Gregoria",
-        "Chara Papoutsi",
-        "Konstantinos Skordoulis"
-      ],
-      "venue": "GSC Advanced Research and Reviews",
-      "published": "2025-07-30",
-      "url": "https://doi.org/10.30574/gscarr.2025.24.1.0188",
-      "query": "educational robot children preschool"
-    },
-    {
-      "paperId": "1f85242eef40b860dc772c551839c64f9805021c",
-      "title": "Object Recognition-Based Second Language Learning Educational Robot System for Chinese Preschool Children",
-      "abstract": "Research in psychology, pedagogy, and physiology has shown that learning a second language will be a great benefit to preschool children. Compared with adults, children have more advantages in learning, such as better pronunciation and intonation. However, because of children’s inattention, the effects of the second language education in many preschools are not ideal in China. To make children learn the second language effectively, it should be integrated into their daily lives and in line with their interests. In this paper, an educational robot system with object recognition technology is introduced, which aims to provide innovative second language learning services for preschool children in China. The proposed system combines object recognition and projection with English teaching and makes objects in daily life more interesting with projected animation to attract children’s attention. On the projection screen, children can interact with a robot by touch or movement and can easily trigger more interactive effects. To evaluate the effectiveness of the proposed system, we conducted an experiment, and the results showed that the system can improve the language learning efficiency for the Chinese preschool children by interacting with objects under proper guidance.",
-      "authors": [
-        "Qin Wu",
-        "Sirui Wang",
-        "Jiashuo Cao"
-      ],
-      "venue": "IEEE Access",
-      "published": "2019",
-      "url": "https://doi.org/10.1109/ACCESS.2018.2890438",
-      "query": "educational robot children preschool"
-    },
-    {
-      "paperId": "8f512823204abb6b2fa951f6210922118b682fbd",
-      "title": "The Impact of Educational Robotics on the Executive Functions of Preschool Children",
-      "abstract": "This quasi-experimental study examines the impact of an educational robotics program on the development of executive functions (EF) in preschool children in Morocco. Throughout the school year, 84 pupils from two schools in Rabat and Salé participated in a progressive program that combined unplugged activities with the exploration of the Bee-Bot robot. Five key dimensions (planning, working memory, cognitive flexibility, problem-solving, and collaboration) were assessed using a 22-indicator grid to measure the children’s progress in these areas. Data collection occurred over a seven-day period. Statistical analysis highlighted significant inter-dimensional correlations (0.533 ≤ r ≤ 0.931, p < 0.001), indicating a strong interdependence between the skills developed and higher mean scores for the early stages of the program (notably spatial planning and getting to grips with the Bee-Bot). Conversely, problem-solving and collaboration, although more demanding, appeared to be closely linked (r = 0.931), suggesting that the consolidation of individual problem-solving skills creates favorable conditions for mutual aid and collective work. These results confirm that the gradual, supervised integration of educational robotics can enhance executive functions in early childhood by engaging working memory, inhibitory control, and cognitive flexibility through structured, interactive activities. This study thus contributes to a better understanding of the potential of educational robotics in a non-Western context and lays the groundwork for future longitudinal and comparative research exploring how cultural and pedagogical factors influence early childhood learning outcomes.",
-      "authors": [
-        "M. Zemzami",
-        "Majda Zbat"
-      ],
-      "venue": "Journal of Hunan University Natural Sciences",
-      "published": "2025-05-31",
-      "url": "https://doi.org/10.55463/issn.1674-2974.52.4.7",
-      "query": "educational robot children preschool"
-    },
-    {
-      "paperId": "8cfad96bdc417260bea5e5a7771fe1efe57f96d8",
-      "title": "Educators' perspectives on working with a humanoid robot in a French preschool class for autistic children",
+      "paperId": "4f23ee7393a0f96819e51226989857ff867b4284",
+      "title": "Developmentally Appropriate Intelligent Spatial Tutoring for Mobile Devices",
       "abstract": "Abstract not available.",
       "authors": [
-        "Philippe Garnier",
-        "K. Martel",
-        "Julie Dachez"
+        "Melissa A. Wiederrecht",
+        "Amy Banic"
       ],
-      "venue": "Journal of Research in Special Educational Needs",
-      "published": "2023-01-06",
-      "url": "https://doi.org/10.1111/1471-3802.12588",
-      "query": "educational robot children preschool"
+      "venue": "International Conference on Intelligent Tutoring Systems",
+      "published": "2012-06-14",
+      "url": "https://doi.org/10.1007/978-3-642-30950-2_81",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "6cb24b8afd09742a74b5af2a25607ccf1db876ec",
-      "title": "The Impact of AI-based Smart Robot Education on the Sociality of Preschool Children Mediated by Creative Problem-solving and Linguistic Expression",
-      "abstract": "This research investigates the educational effectiveness of a smart robot program integrated with Artificial Intelligence (AI) on the sociality of preschool children, particularly focusing on the mediating roles of creative problem-solving and linguistic expression. As the Fourth Industrial Revolution reshapes the educational landscape, AI-driven media have emerged as a ‘Social catalyst’ that significantly accelerates early childhood development. This study employed a quantitative experimental design involving a large-scale sample of 300 preschool children (150 boys and 150 girls) aged 5 to 6 years from various kindergartens in Sejong City. The participants were divided into an experimental group (n=150) that engaged in a 12-week AI-based smart robot program and a control group (n=150) that followed a traditional curriculum. Data were collected through the Social Skills Rating System (SSRS), Torrance Tests of Creative Thinking (TTCT), and standardized linguistic assessments. The results demonstrate that the AI voice-interactive robot program significantly augmented children's sociality scores across all sub-factors. Notably, mediation analysis confirmed that linguistic expression acted as a more potent mediator (<i>b</i> =.45, <i>p</i> <.001) compared to creative problem-solving (<i>b</i> =.38, <i>p </i><.01), identifying vocal interaction as the primary driver of social development. Statistical analysis further revealed that these variables partially mediated the relationship between AI interaction and sociality. Furthermore, while both genders showed significant improvement, girls demonstrated higher engagement in emotional rapport via voice interaction, whereas boys exhibited greater gains in task-oriented problem-solving. This study concludes that pedagogically sound AI voice-interactive tools are effective for fostering social development in young learners. These findings provide practical implications for educators and media content developers to design immersive and interactive AI educational environments.",
+      "paperId": "5454714cd3359fa759dc828bcad0c7c069268cad",
+      "title": "Context-sensitive Natural Language Generation for robot-assisted second language tutoring",
+      "abstract": "This paper describes the L2TOR intelligent tutoring system (ITS), focusing primarily on its output generation module. The L2TOR ITS is developed for the purpose of investigating the efficacy of robot-assisted second language tutoring in early childhood. We explain the process of generating contextually-relevant utterances, such as task-specific feedback messages, and discuss challenges regarding multimodality and multilingualism for situated natural language generation from a robot tutoring perspective.",
       "authors": [
-        "Hong Yun"
+        "Bram Willemsen",
+        "J. de Wit",
+        "Emiel Krahmer"
       ],
-      "venue": "Humanities and Social Sciences",
-      "published": "2026-03-31",
-      "url": "https://doi.org/10.11648/j.hss.20261402.18",
-      "query": "educational robot children preschool"
+      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
+      "published": "2018-11-08",
+      "url": "https://doi.org/10.18653/v1/W18-6901",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "ba0eb96237abaf50c6cb72852385b11867100a0c",
-      "title": "Effectiveness of Robot-Mediated Learning in Fostering Children’s Social and Cognitive Development",
-      "abstract": "Engaging with social robots has been recognized as potentially beneficial for children facing social communication challenges, especially in developing skills such as joint attention. This systematic review examines the effectiveness of robot-mediated learning in enhancing children’s cognitive abilities, emotional resilience, and self-confidence, based on an analysis of research conducted between 2018 and 2025. While social robots show promise in delivering personalized and engaging educational experiences, challenges such as emotional dependence, accessibility, and ethical concerns persist. The review concludes that further research, particularly longitudinal studies and cross-cultural comparisons, is necessary to fully understand the long-term impacts of robot-mediated learning on children’s cognitive and social development. It explores the application of robotic technology in relation to children’s educational progress across different age groups. The review includes studies of various types, such as experimental, non-experimental, and research articles, covering diverse research fields, robots, contexts of use, target audiences, and outcomes. The findings highlight the growing potential of social robots to support children’s cognitive development by providing interactive and stimulating learning experiences. This review offers valuable insights for researchers and designers aiming to improve robotic interventions and tailor them to meet diverse developmental needs and educational settings.",
+      "paperId": "d88a250737878889ff51dc43e717c6ee1caacb8d",
+      "title": "Learning environments : contributions from Dutch and German research",
+      "abstract": "Abstract not available.",
       "authors": [
-        "Zainab Salma",
-        "Raquel Hijón-Neira",
-        "C. Pizarro"
+        "J. Pieters",
+        "K. Breuer",
+        "P.Robert-Jan Simons"
       ],
-      "venue": "Applied Sciences",
-      "published": "2025-03-25",
-      "url": "https://doi.org/10.3390/app15073567",
-      "query": "cognitive development technology children"
+      "venue": "",
+      "published": "1990",
+      "url": "https://doi.org/10.1007/978-3-642-84256-6",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "ba52abab3168dee9f58384d206874173cf50b4f3",
-      "title": "IMPACT OF TECHNOLOGY ON SOCIAL AND COGNITIVE DEVELOPMENT IN CHILDREN",
-      "abstract": "Technology has inuenced children's social and cognitive development in recent years. This article explores both the\npositive and negative impacts of technology on children's social and cognitive development. On the one hand, technology\ncan provide children with the opportunity to learn and engage in activities that may not be available in their home environment. This can lead to\nincreased condence and improved problem-solving skills. On the other hand, technology can lead to a decrease in physical activity, an increase in\nfeelings of isolation and loneliness, an over-dependence on technology, and a decrease in creativity and problem-solving skills. The article also\ndiscusses technology's potential implications on children's social and cognitive development. It looks at how technology can both positively and\nnegatively affect children's development. It also looks at how it can be used to help them grow and develop healthily. Ultimately, this article\nprovides insight into the impact of technology on children's social and cognitive development and the potential implications of technology on\ntheir lives",
+      "paperId": "befbbb0e900878786f96fb7e08f2332a4eb477a5",
+      "title": "Engineering the Design of iSTART-Early: Adapting an Intelligent Tutoring System for 3rd, 4th, and 5th Grade Reading",
+      "abstract": "Abstract not available.",
       "authors": [
-        "Rani Maria Joy"
+        "Marissa A. Castellana",
+        "Erika B. Langley",
+        "Micah Watanabe"
       ],
-      "venue": "Indian Journal Of Applied Research",
-      "published": "2023-04-01",
-      "url": "https://doi.org/10.36106/ijar/2913763",
-      "query": "cognitive development technology children"
+      "venue": "Journal of Formative Design in Learning",
+      "published": "2026-05-26",
+      "url": "https://doi.org/10.1007/s41686-026-00111-2",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "874200b9fe1a78d212f6f6410bdc0b743178f577",
-      "title": "Effects of Robotics Education on Young Children’s Cognitive Development: a Pilot Study with Eye-Tracking",
-      "abstract": "The emerging field of robotics education (RE) is a new and rapidly growing subject area worldwide. It may provide a playful and novel learning environment for children to engage with all aspects of science, technology, engineering, and mathematics (STEM) learning. The purpose of this research is to examine how robotics learning activities may affect the cognitive abilities and cognitive processes of 6–8 years old children. The study adopted the mixed methods approach with a repeated measures design; three waves of data collection over 6 months, including quantitative data obtained from cognitive assessments and eye-tracking, and qualitative data from the interviews. A total of 31 children were recruited from an afterschool robotics program. To the best of our knowledge, this study is the first RE research that used a combination of eye-tracking, cognitive assessments, and interviews for examining the effect of RE on children. Using linear growth models, the results of cognitive assessments showed that children’s visuospatial working memory as well as logical and abstract reasoning skills improved over time. The interview data were analyzed by a thematic analysis. The results revealed that children perceived RE activities as game play, which made children more engaged in their study; parents found their children to be more focused on activities comparing to six months ago. Additionally, the visualization of the eye-tracking data suggested that children became more focused on RE activities and got faster to process the information across six months in general, which echoed the findings in assessments and interviews. Our findings may help educators and policymakers better understand the benefits of RE for young children.",
+      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
+      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
+      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
       "authors": [
-        "Y. Liu",
-        "Darko Odic",
-        "Xuyan Tang"
+        "Deabashis Sarker Tamal",
+        "MD. Mehedi Zaman Khan",
+        "Fahim Shahriar Prottoy"
       ],
-      "venue": "Journal of Science Education and Technology",
-      "published": "2023-03-07",
-      "url": "https://doi.org/10.1007/s10956-023-10028-1",
-      "query": "cognitive development technology children"
+      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+      "published": "2026-04-16",
+      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "29668a9ae33e347970b9e69b40e79d776c3b8bab",
-      "title": "The Impact of Technology on Cognitive Development in Early Childhood",
-      "abstract": "Technology integration into everyday life is deeper than ever in this age of fast technological innovation. This is particularly true for young children exposed to numerous digital instruments from an early age. Such integration has sparked concerns about how technology may affect young childrens cognitive growth, a crucial time when mental capacities like thinking, reasoning, and understanding are still developing. Recognizing the significance of this conversation, the background for this study is the growing anxiety among parents, teachers, and lawmakers over the influence of technology on childrens brains. This study uses a literature review methodology to examine previously published academic studies to understand the complex connection between technology and cognitive development. It aims to grasp both the rewarding possibilities and the dangers it offers. The conclusion summarizes the results and highlights methods for maximizing technologys positive effects while minimizing its possible drawbacks, providing a comprehensive understanding of the subject.",
+      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
+      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
+      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
       "authors": [
-        "Yichao Ren"
+        "I. Khan",
+        "Hema Kumar Goru",
+        "G. L. Madhumati"
       ],
-      "venue": "Lecture Notes in Education Psychology and Public Media",
-      "published": "2023-11-20",
-      "url": "https://doi.org/10.54254/2753-7048/23/20230496",
-      "query": "cognitive development technology children"
+      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+      "published": "2024-05-03",
+      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "6f4734c2ae1a22f6e0af70a5deecde9fcd58784d",
-      "title": "The Use of Technology in the Cognitive Development of Early Children",
-      "abstract": "This study was conducted to analyze how the effect of gadget use in early childhood on children's cognitive development. This research is a qualitative descriptive study. the source of the data used is the result of observations of children and parents regarding the use of gadgets in children's cognitive development at Kindergarten Risanti I, West Jakarta. The research result show use of gadgets in children can improve cognitive development of children. through gadgets, children can learn independently about language or mathematics. children's learning through gadgets must be under the supervision of parents. children should not be allowed to use gadgets as they wish. The positive impact of using gadgets on children, consisting of: Improved cognitive skills, More fun for kids, and Educating young ones. The negative impact of using gadgets on children, consisting of: Learning problems, Anxiety, Lazy thinking, Decreased concentration, and hyperactivity.",
+      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
+      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
+      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
       "authors": [
-        "Linda Pertiwi",
-        "Fajar Prakosa"
+        "Z. Pap",
+        "Z. Čović",
+        "Janos Simon"
       ],
-      "venue": "I-STATEMENT",
-      "published": "2021-01-14",
-      "url": "https://doi.org/10.46371/ISTATEMENT.V6I1.272",
-      "query": "cognitive development technology children"
+      "venue": "Symposium on Intelligent Systems and Informatics",
+      "published": "2021-09-16",
+      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
+      "title": "Children's trust in and learning from voice assistants.",
+      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
+      "authors": [
+        "Lauren N. Girouard-Hallam",
+        "Judith H. Danovitch"
+      ],
+      "venue": "Developmental Psychology",
+      "published": "2022-04-01",
+      "url": "https://doi.org/10.1037/dev0001318",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
+      "title": "Virtual Voice Assistant In Python (Friday)",
+      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
+      "authors": [
+        "S. Uke",
+        "Hrishikesh Lokhande",
+        "Durva Lohar"
+      ],
+      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
+      "published": "2022-10-08",
+      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
+      "query": "voice assistant children learning"
     }
   ],
   "hot_topics": [
@@ -1152,13 +1085,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 62,
+      "count": 59,
       "keywords": [
         "AR",
-        "immersive",
         "virtual reality",
-        "mixed reality",
-        "VR"
+        "VR",
+        "immersive"
       ]
     },
     {
@@ -1166,12 +1098,12 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 32,
+      "count": 24,
       "keywords": [
-        "parent",
+        "school",
         "teacher",
         "classroom",
-        "school",
+        "parent",
         "family"
       ]
     },
@@ -1180,27 +1112,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 17,
+      "count": 18,
       "keywords": [
+        "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "LLM",
-        "large language model",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 16,
-      "keywords": [
-        "attention",
-        "executive function",
-        "working memory",
-        "cognitive development",
-        "self-regulation"
+        "machine learning",
+        "generative AI"
       ]
     },
     {
@@ -1208,10 +1126,26 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 14,
+      "count": 10,
       "keywords": [
-        "chatbot",
-        "robot"
+        "intelligent tutoring",
+        "robot",
+        "voice assistant",
+        "chatbot"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 9,
+      "keywords": [
+        "cognitive development",
+        "attention",
+        "self-regulation",
+        "cognitive load",
+        "executive function"
       ]
     },
     {
@@ -1219,24 +1153,26 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 13,
+      "count": 9,
       "keywords": [
         "personalized learning",
-        "game",
         "play",
-        "game-based"
+        "game-based",
+        "game"
       ]
     },
     {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
-      "count": 7,
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 6,
       "keywords": [
-        "emotion",
-        "social development",
-        "empathy"
+        "reading",
+        "writing",
+        "vocabulary",
+        "early literacy",
+        "language development"
       ]
     },
     {
@@ -1253,16 +1189,24 @@
       ]
     },
     {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 5,
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 3,
       "keywords": [
-        "vocabulary",
-        "writing",
-        "early literacy",
-        "language development"
+        "emotion",
+        "empathy"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 2,
+      "keywords": [
+        "mobile"
       ]
     }
   ]
