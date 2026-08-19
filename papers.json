@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 04:07 UTC",
+  "updated_at": "2026-08-19 04:07 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -11,6 +11,18 @@
         "authors": [
           "Edwin Chng",
           "Bertrand Schneider"
+        ],
+        "published": "2027-1",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
+        "title": "Teacher ICT literacy and instructional quality for creativity in teacher education and professional development",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105742",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105742",
+        "authors": [
+          "Ari Kim"
         ],
         "published": "2027-1",
         "journal": "Computers & Education",
@@ -31,6 +43,20 @@
         "venue": "Computers & Education"
       },
       {
+        "title": "Exploring group cohesion dynamics and the role of regulation in collaborative problem-solving using multimodal learning analysis",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105739",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105739",
+        "authors": [
+          "Yoonhee Shin",
+          "Jihoon Song",
+          "Seohyun Choi"
+        ],
+        "published": "2027-1",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
         "title": "Educational prompt engineering self-efficacy scale (Ed-PESS): Development and psychometric validation",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.compedu.2026.105700",
@@ -39,32 +65,6 @@
           "Fatih Karatas",
           "Recep Gür",
           "Barış Eri̇çok"
-        ],
-        "published": "2026-12",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Mapping teacher education strategies to develop digital competence targets: A cross-framework analysis",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105699",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105699",
-        "authors": [
-          "Els Tanghe",
-          "Katie Goeman",
-          "Annelies Raes"
-        ],
-        "published": "2026-12",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Preparing undergraduate education majors to make and use accessible digital instructional materials",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105708",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105708",
-        "authors": [
-          "Mary Rice"
         ],
         "published": "2026-12",
         "journal": "Computers & Education",
@@ -127,6 +127,34 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Investigating students’ self-efficacy, cognitive load, and emotions across motivational clusters in the metaverse project-supported ICAP model approach",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10694-z",
+        "url": "https://doi.org/10.1007/s11423-026-10694-z",
+        "authors": [
+          "Siti Jamiatul Husnaini",
+          "Gwo-Jen Hwang",
+          "Wahyu Nur Hidayat"
+        ],
+        "published": "2026-8-18",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Co-constructing concepts: a participatory inquiry into slow learners’ engagement with an adaptive AI tutor",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10702-2",
+        "url": "https://doi.org/10.1007/s11423-026-10702-2",
+        "authors": [
+          "Andi Kaharuddin",
+          "Topanus Tulak",
+          "Harmelia Tulak"
+        ],
+        "published": "2026-8-18",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Fostering computational thinking skills through unplugged debugging activities using gestures and embodiment",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10688-x",
@@ -164,34 +192,6 @@
           "Chi-Jia Hsieh"
         ],
         "published": "2026-8-12",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Exploring students’ dialogic patterns and argumentation skills in a computer-supported critical discussion activity",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10683-2",
-        "url": "https://doi.org/10.1007/s11423-026-10683-2",
-        "authors": [
-          "Yi Song",
-          "Wenju Cui",
-          "Chen Li"
-        ],
-        "published": "2026-8-12",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "How do students’ AI interactions, dispositions, and prompt engineering skills shape human–AI collaboration in middle school STEM education?",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10692-1",
-        "url": "https://doi.org/10.1007/s11423-026-10692-1",
-        "authors": [
-          "Keunjae Kim",
-          "Kyungbin Kwon",
-          "Hyeseong Kwon"
-        ],
-        "published": "2026-8-10",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
       }
@@ -390,6 +390,19 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Inclusive digital competence among Spanish teachers: a comparative study between non-university and university levels",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2704916",
+        "url": "https://doi.org/10.1080/10494820.2026.2704916",
+        "authors": [
+          "José Fernández-Cerero",
+          "Marta Montenegro-Rueda"
+        ],
+        "published": "2026-8-18",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Role of artificial intelligence in enhancing English language proficiency among engineering students: opportunities, challenges, and pedagogical shifts",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2706560",
@@ -435,19 +448,6 @@
         "url": "https://doi.org/10.1080/10494820.2026.2712635",
         "authors": [
           "Manuel B. Garcia"
-        ],
-        "published": "2026-8-17",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Development and validation of the collaborative learning literacy scale for generative AI learning companions",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2711955",
-        "url": "https://doi.org/10.1080/10494820.2026.2711955",
-        "authors": [
-          "Tsu-Te Chuang Hu",
-          "Yung-Hsiang Hu"
         ],
         "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
@@ -525,6 +525,32 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "From pen to prompt: costs of AI overreliance on students’ cognitive endurance, self-efficacy and social engagement in writing tasks",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14131-9",
+        "url": "https://doi.org/10.1007/s10639-026-14131-9",
+        "authors": [
+          "Amina Abdelhadi"
+        ],
+        "published": "2026-8-18",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Classroom practices in managing students’ misuse of GenAI-powered tools in EFL learning—A SEQ-EXP mixed-methods study",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14135-5",
+        "url": "https://doi.org/10.1007/s10639-026-14135-5",
+        "authors": [
+          "Antony Fute",
+          "Mohamed Oubibi",
+          "Augustine Amihere"
+        ],
+        "published": "2026-8-18",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Exploring student use of generative AI in higher education: A dual-institutional study",
         "abstract": "Abstract\n                  Although a growing body of research has examined students’ attitudes toward generative artificial intelligence (GenAI) in higher education, few studies have compared perceptions across contrasting institutional contexts or explored how students’ reported uses of GenAI relate to broader learning practices. This study addresses that gap by examining university students’ perceptions, self-reported competence, and use of GenAI at two Swedish universities with different academic profiles: a technology-oriented institution and a broader multidisciplinary institution. The study is based on an exploratory questionnaire survey administered to all enrolled students at both universities, yielding 1,097 responses (University A response rate: 11.27%, University B response rate: 14.06%) from students across diverse disciplines, including engineering, nursing, and criminology. Quantitative data were analyzed using reliability analysis, exploratory factor analysis, and non-parametric group comparisons, supplemented by thematic analysis of qualitative responses. The analysis identified three reliable constructs: perceived learning benefit, perceived institutional support and integration, and self-reported technical knowledge and competence. Across both institutions, students reported generally positive attitudes toward GenAI and described using it primarily for information retrieval, text refinement, and text analysis, but also as a discussion partner or personal tutor in ways that suggest both surface-level and more dialogic forms of engagement. Comparisons between the two universities showed broad similarity across most measures, with the only statistically significant difference relating to perceived institutional support and integration, which was rated higher by students at the technology-oriented university. Students at both institutions also viewed GenAI primarily as a complement to, rather than a replacement for, traditional teaching, while reporting only moderate trust in AI-generated outputs. These findings suggest that GenAI is already embedded in students’ study practices, but that its use is largely self-directed rather than strongly shaped by institutional context. The study thus contributes comparative empirical evidence on student engagement with GenAI across contrasting higher education settings and highlights the need for pedagogical and institutional strategies that support critical, reflective, and responsible use.",
         "doi": "10.1007/s10639-026-14100-2",
@@ -561,31 +587,6 @@
           "Nurassyl Kerimbayev",
           "Rustam Shadiev",
           "Zhanbota Menlibay"
-        ],
-        "published": "2026-8-14",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "From Pilot to Practice: A Multi-Dimensional Examination of an AI-Based Assessment System in Education",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14124-8",
-        "url": "https://doi.org/10.1007/s10639-026-14124-8",
-        "authors": [
-          "Esra Kayış",
-          "Mehmet Fatih Döğer"
-        ],
-        "published": "2026-8-14",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Comparing AI and human peer feedback in assessment: Evaluating feedback quality, engagement, and learning across project-based stages",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14127-5",
-        "url": "https://doi.org/10.1007/s10639-026-14127-5",
-        "authors": [
-          "Shwadhin Sharma"
         ],
         "published": "2026-8-14",
         "journal": "Education and Information Technologies",
@@ -664,6 +665,47 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "Research on Simplified Design of Interface Interaction Process Based on TRIZ and Generative AI",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2705084",
+        "url": "https://doi.org/10.1080/10447318.2026.2705084",
+        "authors": [
+          "Miao Li",
+          "Shengzhe Liu",
+          "Bin Wu"
+        ],
+        "published": "2026-8-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Visual Generative Artificial Intelligence (GenAI) in Mixed Reality (MR): A Survey of Techniques, Interaction Designs, and Evaluations",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2713822",
+        "url": "https://doi.org/10.1080/10447318.2026.2713822",
+        "authors": [
+          "Duotun Wang",
+          "Linjie Qiu",
+          "Linlin Cai"
+        ],
+        "published": "2026-8-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Designing for Persistence: How Task Sequencing Affects Task Completion in Crowdsourcing Interfaces",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2714694",
+        "url": "https://doi.org/10.1080/10447318.2026.2714694",
+        "authors": [
+          "Avshalom Elmalech",
+          "Yaen Yaacov Sofer"
+        ],
+        "published": "2026-8-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "A LLM-Based Dynamic Deduction Framework for Early-Stage Visual Design: Integrating Cultural Conventions and Multimodal Verification",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2707720",
@@ -690,51 +732,23 @@
         "published": "2026-8-17",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Peak Shaving and Valley Filling: Reconstructing Cognitive Load in Cultural Heritage VR Through Contextualized Scaffolding",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2706939",
-        "url": "https://doi.org/10.1080/10447318.2026.2706939",
-        "authors": [
-          "Xiaoyang He",
-          "Dan Wu",
-          "Jingyang Lin"
-        ],
-        "published": "2026-8-17",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Human-Centered Hybrid Intelligence: A Specialized Generalist Model for Intellectual Property Case Retrieval in Judicial Decision Support",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2707721",
-        "url": "https://doi.org/10.1080/10447318.2026.2707721",
-        "authors": [
-          "Linrui Han",
-          "Linrui Xu",
-          "Ri Zheng"
-        ],
-        "published": "2026-8-17",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Beyond Tool Rationality: Contextualizing AR Picture Book Acceptance in Parent–Child Shared Reading",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2712813",
-        "url": "https://doi.org/10.1080/10447318.2026.2712813",
-        "authors": [
-          "Yu Zeng",
-          "Yuhui Wang",
-          "Zhixuan Gong"
-        ],
-        "published": "2026-8-17",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
       }
     ],
     "Early Childhood Education Journal": [
+      {
+        "title": "Recommended Practices in Early Intervention: a Mixed Methods Exploration of Provider Perspectives on Family-Centered and Capacity-Building Practices",
+        "abstract": "Abstract\n                  Early intervention providers work with children 0–3 and their families and come from a variety of disciplines. To better understand how providers enact family-centered and capacity-building practices in their work, we surveyed 95 providers in Illinois and conducted 19 follow-up interviews. Within the survey, participants responded to 15 Likert-type items. We analyzed the qualitative survey and interview data to determine themes, showing that (1) EI providers have expectations that families be both passive and active participants in services; (2) EI providers hold both strengths-based and judgment-based views of families; (3) EI providers value routines-based and specialized materials when providing services to children and families; (4) EI providers value connecting families to resources but may view some resources as outside their role; (5) EI providers collaborate with families by getting their input and building their capacities; and (6) EI providers’ professional and personal qualities set the stage for family-centered and capacity-building practices. We analyzed data quantitatively, including looking at differences among types of providers (i.e., from different disciplines, with different years of experience, and independent vs. agency-affiliated providers) and found statistically significant differences for only one statement. We mixed the data and developed joint displays to provide a more nuanced perspective. Findings of this study indicated a need to build a shared understanding among providers about how to partner with families effectively and use strengths-based practices. We need to better understand how providers reflect family-centered and capacity-building practices, because these ultimately profoundly impact families’ experiences in early intervention.",
+        "doi": "10.1007/s10643-026-02319-0",
+        "url": "https://doi.org/10.1007/s10643-026-02319-0",
+        "authors": [
+          "Jessica K. Hardy",
+          "Crystal S. Williams",
+          "Grace E. Sawyer"
+        ],
+        "published": "2026-8-18",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
       {
         "title": "Building the Bridge: A Father’s Autoethnography of Co-Constructing a Culturally Sustaining Family-School Partnership",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -784,20 +798,6 @@
           "Minseok Choi"
         ],
         "published": "2026-8-10",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Parents’ Phubbing and Chinese Young Children’s Problematic Screen Use: The Moderating Role of Parents’ Supportive Attitudes Toward Child Screen Use",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02268-8",
-        "url": "https://doi.org/10.1007/s10643-026-02268-8",
-        "authors": [
-          "Changcheng Wang",
-          "Nan Zhou",
-          "Hongjian Cao"
-        ],
-        "published": "2026-8-7",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
       }
@@ -942,72 +942,74 @@
   },
   "keyword_papers": [
     {
-      "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
-      "title": "Applying Artificial Intelligence into Early Childhood Math Education: Lesson Design and Course Effect",
-      "abstract": "A growing trend has been observed in applying artificial intelligence (Al) for educational purposes. With emerging initiatives in adapting Al in early childhood education, greater effort can be made in providing empirical evidence to theoretically support the use of Al techniques for young children. This study aims to introduce an instructional unit of math instruction for children aged 3-8. The course was delivered by a learning app, Zebra Al, where an intelligent tutoring system was applied. Students were invited from social networking sites and 66 children from India agreed to participate. A four-week course (five lessons each week) was delivered, covering basic math concepts including recognizing patterns, identifying 2D shapes, dissecting 2D shapes, and counting. The effect of the course was assessed in both cognitive and attitudinal facets. The results indicated that the course was effective in improving math performance and sustaining math attitudes.",
+      "paperId": "c3cf3882ef339e3f5734c4c8008d9df228fcbf04",
+      "title": "A Systematic Review of Responses, Attitudes, and Utilization Behaviors on Generative AI for Teaching and Learning in Higher Education",
+      "abstract": "The utilization of Generative AI (GenAI) in higher education classrooms has significantly increased in recent years. Studies show that GenAI holds promise in impacting the learning experiences of both students and teachers, offering personalized learning and assessment opportunities. This study conducts a systematic review of the responses, attitudes, and behaviors related to the application of GenAI within higher education classrooms. To this end, we synthesized 99 papers published between 2020 and August 2024, focusing on the utilization of GenAI in higher education settings. The analysis addresses three key inquiries: responses, attitudes, and behaviors. This systematic review provides an updated understanding from psychological perspectives of GenAI’s role in the teaching and learning processes of higher education, with a particular emphasis on GenAI technologies.",
       "authors": [
-        "Shuhang Zhang",
-        "Xuelian Chen"
+        "Fan-Fan Wu",
+        "Yang Dang",
+        "Manli Li"
       ],
-      "venue": "International Conference on Teaching, Assessment, and Learning for Engineering",
-      "published": "2022-12-01",
-      "url": "https://doi.org/10.1109/TALE54877.2022.00109",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Behavioral Science",
+      "published": "2025-04-01",
+      "url": "https://doi.org/10.3390/bs15040467",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "4f23ee7393a0f96819e51226989857ff867b4284",
-      "title": "Developmentally Appropriate Intelligent Spatial Tutoring for Mobile Devices",
-      "abstract": "Abstract not available.",
+      "paperId": "7e4dfefcbacb639faa8a6fc8224ab7e0d7acf827",
+      "title": "Investigating the higher education institutions’ guidelines and policies regarding the use of generative AI in teaching, learning, research, and administration",
+      "abstract": "This study examined the guidelines issued by the top 50 U.S. universities regarding the use of Generative AI (GenAI) in academic and administrative activities. Employing a mixed methods approach, the research combined topic modeling, sentiment analysis, and qualitative thematic analysis to provide a comprehensive understanding of institutional responses to GenAI. Topic modeling identified four core topics: Integration of GenAI in Learning and Assessment, GenAI in Visual and Multimodal Media, Security and Ethical Considerations in GenAI, and GenAI in Academic Integrity. These themes were further explored through sentiment analysis, which revealed highly positive attitudes towards GenAI across all institution types, with significant differences between faculty and student-targeted guidelines. Qualitative thematic analysis corroborated these findings and provided deeper insights, revealing that 94% of universities had faculty guidelines emphasizing the importance of establishing and communicating course-specific GenAI policies. This analysis also highlighted recurring themes such as academic integrity and privacy concerns, which aligned with the security and ethical considerations identified in the topic modeling. The study highlights the rapid evolution of GenAI guidelines in higher education and the need for flexible, stakeholder-specific policies that address both the opportunities and challenges presented by this technology.",
       "authors": [
-        "Melissa A. Wiederrecht",
-        "Amy Banic"
+        "Yunjo An",
+        "Ji Hyun Yu",
+        "Shadarra James"
       ],
-      "venue": "International Conference on Intelligent Tutoring Systems",
-      "published": "2012-06-14",
-      "url": "https://doi.org/10.1007/978-3-642-30950-2_81",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "International Journal of Educational Technology in Higher Education",
+      "published": "2025-02-21",
+      "url": "https://doi.org/10.1186/s41239-025-00507-3",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "5454714cd3359fa759dc828bcad0c7c069268cad",
-      "title": "Context-sensitive Natural Language Generation for robot-assisted second language tutoring",
-      "abstract": "This paper describes the L2TOR intelligent tutoring system (ITS), focusing primarily on its output generation module. The L2TOR ITS is developed for the purpose of investigating the efficacy of robot-assisted second language tutoring in early childhood. We explain the process of generating contextually-relevant utterances, such as task-specific feedback messages, and discuss challenges regarding multimodality and multilingualism for situated natural language generation from a robot tutoring perspective.",
+      "paperId": "1e05df4cb4c1761cb52ef33caafb12bf27544ada",
+      "title": "Exploring How AI Literacy and Self-Regulated Learning Relate to Student Writing Performance and Well-Being in Generative AI-Supported Higher Education",
+      "abstract": "The integration of generative artificial intelligence (GAI) into higher education is transforming students’ learning processes, academic performance, and psychological well-being. Despite the increasing adoption of GAI tools, the mechanisms through which students’ AI literacy and self-regulated learning (SRL) relate to their academic and emotional experiences remain underexplored. This study investigates how AI literacy and SRL are associated with writing performance and digital well-being among university students in GAI-supported higher learning contexts. A survey was administered to 257 students from universities in China, and structural equation modeling was used to examine the hypothesized relationships. Results show that both AI literacy and SRL significantly and positively predict students’ writing performance, with SRL having a stronger effect. Moreover, AI literacy shows a positive association with GAI-driven well-being, with writing performance serving as a partial mediator in this relationship. These findings suggest that fostering both technological competencies and effective learning strategies may support students’ academic outcomes while supporting their psychological well-being in AI-enriched educational environments. By integrating AI literacy and SRL into a unified model, this study contributes to the growing body of research on GAI-driven well-being in higher education and offers practical implications for cultivating balanced and sustainable learning experiences in the age of GAI.",
       "authors": [
-        "Bram Willemsen",
-        "J. de Wit",
-        "Emiel Krahmer"
+        "Jiajia Shi",
+        "Weitong Liu",
+        "Ke Hu"
       ],
-      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
-      "published": "2018-11-08",
-      "url": "https://doi.org/10.18653/v1/W18-6901",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Behavioral Science",
+      "published": "2025-05-01",
+      "url": "https://doi.org/10.3390/bs15050705",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "d88a250737878889ff51dc43e717c6ee1caacb8d",
-      "title": "Learning environments : contributions from Dutch and German research",
-      "abstract": "Abstract not available.",
+      "paperId": "d44b39279750970c9dd4c7151df49e0f9faef87a",
+      "title": "Machine Learning and Generative AI in Learning Analytics for Higher Education: A Systematic Review of Models, Trends, and Challenges",
+      "abstract": "This systematic review examines how machine learning (ML) and generative AI (GenAI) have been integrated into learning analytics (LA) in higher education (2018–2025). Following PRISMA 2020, we screened 9590 records and included 101 English-language, peer-reviewed empirical studies that applied ML or GenAI within LA contexts. Records came from 12 databases (last search 15 March 2025), and the results were synthesized via thematic clustering. ML approaches dominate LA tasks, such as engagement prediction, dropout-risk modelling, and academic-performance forecasting, whereas GenAI—mainly transformer models like GPT-4 and BERT—is emerging in real-time feedback, adaptive learning, and sentiment analysis. Studies spanned world regions. Most ML papers (n = 75) examined engagement or dropout, while GenAI papers (n = 26) focused on adaptive feedback and sentiment analysis. No formal risk-of-bias assessment was conducted due to heterogeneity. While ML methods are well-established, GenAI applications remain experimental and face challenges related to transparency, pedagogical grounding, and implementation feasibility. This review offers a comparative synthesis of paradigms and outlines future directions for responsible, inclusive, theory-informed AI use in education.",
       "authors": [
-        "J. Pieters",
-        "K. Breuer",
-        "P.Robert-Jan Simons"
+        "M. Rodriguez-Ortiz",
+        "P. C. Santana-Mancilla",
+        "Luis E. Anido-Rifón"
       ],
-      "venue": "",
-      "published": "1990",
-      "url": "https://doi.org/10.1007/978-3-642-84256-6",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Applied Sciences",
+      "published": "2025-08-05",
+      "url": "https://doi.org/10.3390/app15158679",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "befbbb0e900878786f96fb7e08f2332a4eb477a5",
-      "title": "Engineering the Design of iSTART-Early: Adapting an Intelligent Tutoring System for 3rd, 4th, and 5th Grade Reading",
-      "abstract": "Abstract not available.",
+      "paperId": "db87a470f795df1fa60a5f9565e001bde9c3be09",
+      "title": "Social-Emotional Learning and Generative AI: A Critical Literature Review and Framework for Teacher Education",
+      "abstract": "This article provides a critical thematic literature review that explores the intersection of generative artificial intelligence (GenAI) and social-emotional learning (SEL), analyzing its implications for teacher education. GenAI offers promising applications for enhancing SEL competencies such as self-awareness, empathy, and social skills through tools like real-time emotional feedback and personalized learning experiences. However, the integration of GenAI into SEL also presents significant challenges, including risks of depersonalization, algorithmic bias, and privacy concerns. This paper introduces a conceptual framework designed to prepare both pre-service and in-service teachers to navigate these complexities, emphasizing ethical considerations, human oversight, and cultural sensitivity. The framework highlights strategies to operationalize cultural sensitivity within AI systems, recognizing the limitations of current technologies in accounting for diverse social and emotional norms. By addressing both opportunities and risks, we aim to provide a balanced analysis of GenAI’s potential in SEL as well as guidance for teacher education programs.",
       "authors": [
-        "Marissa A. Castellana",
-        "Erika B. Langley",
-        "Micah Watanabe"
+        "D. Henriksen",
+        "E. Creely",
+        "Natalie Gruber"
       ],
-      "venue": "Journal of Formative Design in Learning",
-      "published": "2026-05-26",
-      "url": "https://doi.org/10.1007/s41686-026-00111-2",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Journal of Teacher Education",
+      "published": "2025-03-18",
+      "url": "https://doi.org/10.1177/00224871251325058",
+      "query": "generative AI learning education"
     },
     {
       "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
@@ -1077,6 +1079,76 @@
       "published": "2022-10-08",
       "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
       "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "e9567e933934c4d12567a736d23fcd9008562c4e",
+      "title": "Beyond efficiency: Empirical insights on generative AI's impact on cognition, metacognition and epistemic agency in learning",
+      "abstract": "Generative AI (GenAI) promises to reshape education, yet, beyond gains in efficiency and scalability, crucial questions remain regarding its deeper cognitive, epistemic, socio‐emotional and ethical implications for learners. This special section collects emerging empirical evidence from diverse educational settings to examine how interactions with advanced GenAI systems—ranging from intelligent tutors and conversational agents to AI‐generated feedback providers—shape learners' cognitive engagement, epistemic agency, metacognitive regulation and emotional relationships with technology. While studies reveal evidence of positive effects in personalised guidance, collaborative inquiry and enhanced self‐reflection, findings also highlight risks such as diminished epistemic vigilance, superficial learning and emotional dependence on AI interlocutors. These insights advocate for an educational re‐imagining that actively experiments with novel AI technologies while continuously gathering and critically evaluating evidence—envisioning education not merely as a spectrum ranging from fully human‐ or AI‐led activities but also as genuinely collaborative endeavours that balance human intelligence and AI capabilities in meaningful and ethically grounded partnerships. Looking ahead, in this editorial, we propose an interdisciplinary research roadmap that urges deeper examination of the cognitive and neural consequences associated with sustained AI exposure, together with the development of comprehensive frameworks to cultivate AI literacy and evaluative judgement. It also encourages rigorous assessment of the long‐term ethical implications of increasingly blurred human‐AI boundaries. Ultimately, advancing education in GenAI‐infused contexts requires proactive engagement with these emerging complexities, so that teachers and learners not only survive in an AI‐infused future but also creatively, critically and ethically co‐author it.",
+      "authors": [
+        "Lixiang Yan",
+        "Viktoria Pammer-Schindler",
+        "Caitlin Mills"
+      ],
+      "venue": "British Journal of Educational Technology",
+      "published": "2025-07-24",
+      "url": "https://doi.org/10.1111/bjet.70000",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "1192e1968a26114ec854e2bb46ecbe4cbda8c238",
+      "title": "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)",
+      "abstract": "This study comprehensively analyses how AI tools scaffold and share metacognitive processes, thereby facilitating students’ learning in STEM classrooms through a mixed-method research synthesis combining bibliometric analysis and systematic review. Using a convergent parallel mixed-methods design, the study draws on 135 peer-reviewed articles published between 2005 and 2025 to map publication trends, author and journal productivity, keyword patterns, and theoretical frameworks. Data were retrieved from Scopus and Web of Science using structured Boolean searches and analysed using Biblioshiny and VOSviewer. Guided by PRISMA 2020 protocols, 24 studies were selected for in-depth qualitative review. Findings show that while most research remains grounded in human-centred conceptualisations of metacognition, there are emerging indications of posthumanist framings, where AI systems are positioned as co-regulators of learning. Tools like learning analytics, intelligent tutoring systems, and generative AI platforms have shifted the discourse from individual reflection to system-level regulation and distributed cognition. The study is anchored in Flavell’s theory of metacognition, General Systems Theory, and posthumanist perspectives to interpret this evolution. Educational implications highlight the need to reconceptualise pedagogical roles, integrate AI literacy in teacher preparation, and prioritise ethical, reflective AI design. The review provides a structured synthesis of theoretical, empirical, and conceptual trends, offering insights into how human–machine collaboration is reshaping learning by scaffolding and co-regulating students’ metacognitive development in STEM education.",
+      "authors": [
+        "Maria Tsakeni",
+        "S. C. Nwafor",
+        "Moeketsi Mosia"
+      ],
+      "venue": "Journal of Intelligence",
+      "published": "2025-11-01",
+      "url": "https://doi.org/10.3390/jintelligence13110148",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "ad9cf63bfef0e3e3de1393b0f2b662f41a54b22e",
+      "title": "The cognitive mirror: a framework for AI-powered metacognition and self-regulated learning",
+      "abstract": "The dominant paradigm of generative artificial intelligence (AI) in education positions it as an omniscient oracle, a model that risks hindering genuine learning by fostering cognitive offloading.This study proposes a fundamental shift from “AI as Oracle” model to a “Cognitive Mirror” paradigm, which reconceptualizes AI as a teachable novice engineered to reflect the quality of a learner’s explanation. The core innovation is the repurposing of AI safety guardrails as didactic mechanisms to deliberately sculpt AI’s ignorance, creating a “pedagogically useful deficit.” This conceptual shift enables a detailed implementation of the “learning by teaching” principle.Within this paradigm, a framework driven by a Teaching Quality Index is introduced. This metric assesses the learner’s explanation and activates an instructional guidance level to modulate the AI’s responses, from feigning confusion to asking clarifying questions.Grounded in learning science principles, such as the Protégé Effect and Reflective Practice, this approach positions the AI as a metacognitive partner. It may support a shift from knowledge transfer to knowledge construction, and a re-orientation from answer correctness to explanation quality in the contexts we describe.By re-centering human agency, the “Cognitive Mirror” externalizes the learner’s thought processes, making their misconceptions objects of repair. This study discusses the implications on assessment, addresses critical risks, including algorithmic bias, and outlines a research agenda for a symbiotic human-AI coexistence that promotes effortful work at the heart of deep learning.",
+      "authors": [
+        "Hayato Tomisu",
+        "Junya Ueda",
+        "Tsukasa Yamanaka"
+      ],
+      "venue": "Frontiers in Education",
+      "published": "2025-10-09",
+      "url": "https://doi.org/10.3389/feduc.2025.1697554",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "5cc59cd8a20745bdcdb0221b6e35fffeec8ed8c7",
+      "title": "Generative AI tool use enhances academic achievement in sustainable education through shared metacognition and cognitive offloading among preservice teachers",
+      "abstract": "The integration of generative artificial intelligence tools in education has emerged as a transformative approach to enhancing learning outcomes, particularly in the context of sustainable development goals (SDG4). Therefore, the present study investigates the connection between generative artificial intelligence tool usage (GenAITU) and academic achievement (AA) in the context of SDG4. We assessed the mediating role of shared metacognition (SMC) and cognitive offloading (COL) in this relationship among preservice teachers (PSTs). The indicators, including performance expectancy (PE), effort expectancy (EE), facilitating conditions (FC), and use behavior (UB), are derived from adapting the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) for GenAITU. The authors surveyed 465 students from five universities in Wuhan, China, using a 7-point Likert scale through a time-lag design. Statistical analysis was performed through partial least squares structural equation modeling (PLS-SEM), to determine the relationship between variables. Findings indicated that two components of GenAITU, namely PE and UB, showed significant positive associations with AA, while the other two, EE and FC, did not show significant and positive relationships with AA. Results also showed that three dimensions of GenAITU, namely EE, FC, and UB have a positive and significant association with SMC while PE has a positive and significant connection with SMC. All four components of GenAITU like PE, EE, FC, and UB have positive and significant links with COL. SMC and COL have a positive and significant relationship with AA. Results also indicated that SMC mediated the connections between GenAITU (EE, FC, and UB) and AA. Outcomes also indicated that COL mediated the connections between GenAITU (PE, EE, FC, and UB) and AA. The current study shows that SMC and COL were strong mediators of the association between GenAITU and AA. The results of our study provide guidance to teachers, curriculum planners, and university management to successfully integrate GenAITU into the education for PSTs.",
+      "authors": [
+        "Javed Iqbal",
+        "Zarqa Farooq Hashmi",
+        "Muhammad Zaheer Asghar"
+      ],
+      "venue": "Scientific Reports",
+      "published": "2025-05-13",
+      "url": "https://doi.org/10.1038/s41598-025-01676-x",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "e24ec2cbc33efb4466e961b082e19f85ed20370c",
+      "title": "Leveraging generative AI to foster metacognition and self-directed learning",
+      "abstract": "ABSTRACT With the ever-expanding amount of data, students increasingly find themselves needing to engage in self-directed learning to be successful. Students studying science, technology, engineering, and mathematics often struggle with self-directed learning and are often discouraged, leading to higher attrition within these disciplines. There is a lack of opportunities for students to develop and practice self-directed learning skills within traditional curricula. This research explored the ways in which a generative artificial intelligence model could be used to cultivate metacognition and promote readiness for self-directed learning among graduate students. By leveraging the relationship between metacognition and self-directed learning, with the customizability of the artificial intelligence model, we sought to facilitate conversations between students and the model to enhance metacognitive awareness and self-directed learning readiness. Using the Metacognition Awareness Inventory and Self-Directed Learning Instrument, we found that students improved significantly on both pre- and post-assessment comparisons. Students needed to interact with the model twice a week, for 10 minutes per session. Our findings demonstrate a novel application of generative artificial intelligence in supporting students’ personal development and expand our understanding of how artificial intelligence can be leveraged to generate a supportive process, rather than solely as a mechanism for generating answers or some other product.",
+      "authors": [
+        "Brandon Lowry",
+        "Samantha McGrath",
+        "C. Eitel"
+      ],
+      "venue": "Journal of Microbiology & Biology Education",
+      "published": "2025-11-26",
+      "url": "https://doi.org/10.1128/jmbe.00153-25",
+      "query": "metacognition AI learning"
     }
   ],
   "hot_topics": [
@@ -1085,12 +1157,13 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 59,
+      "count": 64,
       "keywords": [
         "AR",
         "virtual reality",
         "VR",
-        "immersive"
+        "immersive",
+        "mixed reality"
       ]
     },
     {
@@ -1098,13 +1171,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 24,
+      "count": 29,
       "keywords": [
-        "school",
         "teacher",
         "classroom",
-        "parent",
-        "family"
+        "school",
+        "family",
+        "preschool teacher"
       ]
     },
     {
@@ -1112,26 +1185,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 18,
+      "count": 28,
       "keywords": [
+        "generative AI",
         "artificial intelligence",
-        "ChatGPT",
         "GPT",
         "machine learning",
-        "generative AI"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 10,
-      "keywords": [
-        "intelligent tutoring",
-        "robot",
-        "voice assistant",
-        "chatbot"
+        "ChatGPT"
       ]
     },
     {
@@ -1139,13 +1199,13 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 9,
+      "count": 14,
       "keywords": [
         "cognitive development",
-        "attention",
-        "self-regulation",
+        "metacognition",
         "cognitive load",
-        "executive function"
+        "attention",
+        "self-regulation"
       ]
     },
     {
@@ -1153,26 +1213,27 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 9,
+      "count": 13,
       "keywords": [
         "personalized learning",
+        "adaptive learning",
         "play",
         "game-based",
         "game"
       ]
     },
     {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 6,
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 9,
       "keywords": [
-        "reading",
-        "writing",
-        "vocabulary",
-        "early literacy",
-        "language development"
+        "robot",
+        "voice assistant",
+        "conversational agent",
+        "intelligent tutoring",
+        "chatbot"
       ]
     },
     {
@@ -1180,10 +1241,10 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 6,
+      "count": 8,
       "keywords": [
-        "computational thinking",
         "algorithm",
+        "computational thinking",
         "programming",
         "coding"
       ]
@@ -1193,10 +1254,24 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 3,
+      "count": 7,
       "keywords": [
         "emotion",
+        "social-emotional",
         "empathy"
+      ]
+    },
+    {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 6,
+      "keywords": [
+        "writing",
+        "vocabulary",
+        "early literacy",
+        "language development"
       ]
     },
     {
@@ -1204,7 +1279,7 @@
       "name": "数字媒体与屏幕使用",
       "subtitle": "Digital Media & Screen Time",
       "icon": "📱",
-      "count": 2,
+      "count": 1,
       "keywords": [
         "mobile"
       ]
