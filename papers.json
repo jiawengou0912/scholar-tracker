@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 04:11 UTC",
+  "updated_at": "2026-08-22 04:01 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -389,6 +389,32 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "AI literacy profiles for human–AI collaboration in a GenAI-enabled learning environment: governance readiness and perceived course outcomes",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2716835",
+        "url": "https://doi.org/10.1080/10494820.2026.2716835",
+        "authors": [
+          "Xiao-Pan Li",
+          "Rong Rong"
+        ],
+        "published": "2026-8-21",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "Person-context predictors of pre-service teachers’ intentions to support creativity and entrepreneurship in future STEAM learning environments",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2709675",
+        "url": "https://doi.org/10.1080/10494820.2026.2709675",
+        "authors": [
+          "Zerong Xie",
+          "Xiaojing Weng"
+        ],
+        "published": "2026-8-21",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Cultivating preservice teachers’ GenAI competencies in a grammar methodology course",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2715568",
@@ -426,33 +452,6 @@
           "Marta Montenegro-Rueda"
         ],
         "published": "2026-8-18",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Role of artificial intelligence in enhancing English language proficiency among engineering students: opportunities, challenges, and pedagogical shifts",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2706560",
-        "url": "https://doi.org/10.1080/10494820.2026.2706560",
-        "authors": [
-          "Maharudra Kapse",
-          "Gajanan Bonsale"
-        ],
-        "published": "2026-8-17",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "AI-driven assessment in higher education: a systematic review",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2711402",
-        "url": "https://doi.org/10.1080/10494820.2026.2711402",
-        "authors": [
-          "Zhijie Jin",
-          "Xiaohan Li",
-          "Xuan Chen"
-        ],
-        "published": "2026-8-17",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -528,6 +527,18 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Sequence-based analysis of learner interactions in generative AI-supported interactive video programming tasks: insights from novice and experienced learners",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14129-3",
+        "url": "https://doi.org/10.1007/s10639-026-14129-3",
+        "authors": [
+          "Ömer Arpacık"
+        ],
+        "published": "2026-8-21",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "From pen to prompt: costs of AI overreliance on students’ cognitive endurance, self-efficacy and social engagement in writing tasks",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14131-9",
@@ -580,23 +591,22 @@
         "published": "2026-8-14",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Evaluating the hybrid interactive learning with GenAI (HILG) model: a multi-agent framework for enhanced programming education",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14125-7",
-        "url": "https://doi.org/10.1007/s10639-026-14125-7",
-        "authors": [
-          "Nurassyl Kerimbayev",
-          "Rustam Shadiev",
-          "Zhanbota Menlibay"
-        ],
-        "published": "2026-8-14",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
       }
     ],
     "Journal of Educational Computing Research": [
+      {
+        "title": "Co-Reflection Versus Self-Reflection in Graphic Organizer-Facilitated Training in the Metaverse: Evidence From Students’ Knowledge Gains, Perceptions, and Case-Handling Performances",
+        "abstract": "In vocational education and training, developing students’ communication, teamwork, reflection, and problem-solving skills has become increasingly important. Previous studies have integrated practical cases into metaverse-based courses using the Problem-Guiding, Exploration, and Reflection (PER) process supported by graphic organizers; however, students’ critical thinking depth has remained limited. To address this issue, this study proposed a graphic organizer-supported, co-reflection-based PER metaverse (GCR-PERM) learning model. An experimental study was conducted with 81 third-year nursing students enrolled in a Pediatric Epilepsy Management course at a university of science and technology in northern Taiwan. Forty-two students in the experimental group used GCR-PERM, while 39 students in the control group used a graphic organizer-supported self-reflection-based PER model (GSR-PERM). The results showed that GCR-PERM significantly improved students’ learning achievement, problem-solving tendencies, and collaboration tendencies compared with GSR-PERM. In terms of cognitive load, GCR-PERM did not increase mental workload, although it required greater mental effort. Regarding case-handling performance, the experimental group demonstrated significant improvements in judgment, accuracy, and application, but no significant difference was found in analysis. These findings indicate that GCR-PERM is an effective approach for enhancing nursing students’ case-handling and problem-solving abilities in metaverse-based learning environments.",
+        "doi": "10.1177/07356331261479576",
+        "url": "https://doi.org/10.1177/07356331261479576",
+        "authors": [
+          "Gwo-Jen Hwang",
+          "Chun-Chun Chang"
+        ],
+        "published": "2026-8-21",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
       {
         "title": "Virtual Reality-Facilitated Creative Thinking Mapping to Enhance Performance Skills, Choreographic Creative Expression, and Collective Self-Efficacy in Performing Arts Programs: An Experiential Learning Theory Perspective",
         "abstract": "Grounded in experiential learning theory, this study proposed a virtual reality-facilitated creative thinking mapping (VR-CTM) approach, designed to guide learning through immersive experiences. To evaluate its effectiveness, a quasi-experimental design was implemented to compare the VR-CTM approach with a conventional creative thinking mapping (C-CTM) approach. Two classes of students enrolled in elective university performing arts courses were recruited. One class (N = 45) was the experimental group adopting the VR-CTM approach; the other class (N = 40) was the control group adopting the C-CTM approach. Results indicated that students adopting the VR-CTM approach demonstrated significantly better performance skills than those adopting the C-CTM approach. Furthermore, for learners with higher initial levels of choreographic creative expression, students in the VR-CTM group demonstrated better post-intervention performance than those in the C-CTM group. For learners with lower initial collective self-efficacy, students in the VR-CTM group demonstrated greater post-intervention self-efficacy than those in the C-CTM group. Finally, the creative thinking maps produced by the VR-CTM group contained more specific and comprehensive creative planning than those produced by the C-CTM group.",
@@ -650,18 +660,6 @@
           "Qingtang Liu"
         ],
         "published": "2026-7-25",
-        "journal": "Journal of Educational Computing Research",
-        "venue": "Journal of Educational Computing Research"
-      },
-      {
-        "title": "Complementary Tools or Competitors? ChatGPT-Generated and Peer-Delivered Formative Feedback in EFL Writing Classes: Effectiveness, Perceptions, and Recommendations",
-        "abstract": "There has been growing interest in EFL writing classrooms regarding the use of ChatGPT for giving feedback. Peer-delivered feedback, long celebrated for its collaborative and motivational advantages, now coexists with ChatGPT’s promise of instant, technically precise corrections. This mixed-methods study, designed as a convergent parallel design, tracked 48 Turkish university EFL learners across a semester, analyzing eight writing tasks reviewed by both peers and ChatGPT, alongside student reflections from structured written interviews. The results revealed that peer feedback excelled in nurturing coherence, structure, and idea development, while ChatGPT-generated feedback proved stronger for grammar and vocabulary corrections. Participants appreciated ChatGPT’s speed and objectivity but perceived it as tone-deaf to cultural nuance and rhetorical purpose. Although peer-delivered feedback was regarded as occasionally inconsistent, it provided authentic engagement and a sense of audience. Building on these converging findings, this study offers a reasoned pedagogical implication, rather than an empirically tested model, termed\n                    feedback sequencing\n                    : using ChatGPT first for technical cleanup, then peers for higher-order concerns such as clarity and impact. This staged proposal, which warrants direct experimental verification in future research, is theoretically grounded in cognitive load theory and sociocognitive perspectives on formative feedback. The findings urge educators to weave AI literacy into curricula, not as a replacement for peer interaction, but as a complement that preserves the irreplaceable human dimensions of learning to write.",
-        "doi": "10.1177/07356331261469720",
-        "url": "https://doi.org/10.1177/07356331261469720",
-        "authors": [
-          "Harun Çiftci"
-        ],
-        "published": "2026-7-22",
         "journal": "Journal of Educational Computing Research",
         "venue": "Journal of Educational Computing Research"
       }
@@ -754,6 +752,20 @@
         "venue": "Early Childhood Education Journal"
       },
       {
+        "title": "From Data Collection to Data Use: a Systematic Review of Early Childhood Educators’ Practices and Perspectives",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02330-5",
+        "url": "https://doi.org/10.1007/s10643-026-02330-5",
+        "authors": [
+          "Qunshan Zheng",
+          "Caleb Edney",
+          "Margo Rizkallah"
+        ],
+        "published": "2026-8-21",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
         "title": "Design Principles and Pedagogical Practices in Literacy Apps for Young Children: Insights from a Synthesis of Experimental Research",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10643-026-02326-1",
@@ -791,20 +803,6 @@
           "Patricia A. Crawford"
         ],
         "published": "2026-8-19",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Recommended Practices in Early Intervention: a Mixed Methods Exploration of Provider Perspectives on Family-Centered and Capacity-Building Practices",
-        "abstract": "Abstract\n                  Early intervention providers work with children 0–3 and their families and come from a variety of disciplines. To better understand how providers enact family-centered and capacity-building practices in their work, we surveyed 95 providers in Illinois and conducted 19 follow-up interviews. Within the survey, participants responded to 15 Likert-type items. We analyzed the qualitative survey and interview data to determine themes, showing that (1) EI providers have expectations that families be both passive and active participants in services; (2) EI providers hold both strengths-based and judgment-based views of families; (3) EI providers value routines-based and specialized materials when providing services to children and families; (4) EI providers value connecting families to resources but may view some resources as outside their role; (5) EI providers collaborate with families by getting their input and building their capacities; and (6) EI providers’ professional and personal qualities set the stage for family-centered and capacity-building practices. We analyzed data quantitatively, including looking at differences among types of providers (i.e., from different disciplines, with different years of experience, and independent vs. agency-affiliated providers) and found statistically significant differences for only one statement. We mixed the data and developed joint displays to provide a more nuanced perspective. Findings of this study indicated a need to build a shared understanding among providers about how to partner with families effectively and use strengths-based practices. We need to better understand how providers reflect family-centered and capacity-building practices, because these ultimately profoundly impact families’ experiences in early intervention.",
-        "doi": "10.1007/s10643-026-02319-0",
-        "url": "https://doi.org/10.1007/s10643-026-02319-0",
-        "authors": [
-          "Jessica K. Hardy",
-          "Crystal S. Williams",
-          "Grace E. Sawyer"
-        ],
-        "published": "2026-8-18",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
       }
@@ -1004,218 +1002,85 @@
       "query": "machine learning young children education"
     },
     {
-      "paperId": "c4fcdc96bd7ce77b97a74cba10871559615b152b",
-      "title": "INTERACTIVE LEARNING THROUGH TECHNOLOGY: A MACHINE LEARNING-BASED TRAFFIC SIGN RECOGNITION SYSTEM FOR YOUNG LEARNERS",
-      "abstract": "Vocabulary should be presented to young learners in context with the help of real objects that surround them. Helping them get aware of the recognition of traffic signs could reduce accidents. The current study developed a traffic sign recognition system based on Machine Learning through which the ability of young learners to recognize traffic signs would improve, along with their vocabulary acquisition. The developed system, based on the ADDIE model, was piloted and tested in the Interactive Learning Environment among kindergarten and primary school students. Children can scan and name signs of traffic using mobile devices instantly, having some hands-on experience. The results have shown significant development regarding knowledge of road safety, along with the acquisition of traffic vocabulary and long-term retention that considerably outperformed the state of the art. Parents' feedback strengthened the practicality, interactivity, and usability of the system within young learners' education. This research thus provides evidence for machine learning's role in transforming early education and providing an incredibly effective tool for teaching some of life's most important skills. The development that will be done in the future should be geared towards generalizing the system, adding auditory features of pronunciation, and other sections of vocabulary.",
+      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
+      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
+      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
       "authors": [
-        "Tri Pujiani",
-        "Ida Dian Sukmawati",
-        "Firman Sah"
+        "L. Aquini",
+        "Júlia Veiga",
+        "T. T. Primo"
       ],
-      "venue": "Intensive Journal",
-      "published": "2025-04-21",
-      "url": "https://doi.org/10.31602/intensive.v8i1.17398",
+      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
+      "published": "2025-11-24",
+      "url": "https://doi.org/10.5753/sbie.2025.12590",
       "query": "machine learning young children education"
     },
     {
-      "paperId": "caf6aa70ef4346c8bef1544a751cc619dc55065b",
-      "title": "Game-based learning in early childhood education: a systematic review and meta-analysis",
-      "abstract": "Game-based learning has gained popularity in recent years as a tool for enhancing learning outcomes in children. This approach uses games to teach various subjects and skills, promoting engagement, motivation, and fun. In early childhood education, game-based learning has the potential to promote cognitive, social, and emotional development. This systematic review and meta-analysis aim to summarize the existing literature on the effectiveness of game-based learning in early childhood education This systematic review and meta-analysis examine the effectiveness of game-based learning in early childhood education. The results show that game-based learning has a moderate to large effect on cognitive, social, emotional, motivation, and engagement outcomes. The findings suggest that game-based learning can be a promising tool for early childhood educators to promote children’s learning and development. However, further research is needed to address the remaining gaps in the literature. The study’s findings have implications for educators, policymakers, and game developers who aim to promote positive child development and enhance learning outcomes in early childhood education.",
+      "paperId": "e6373f71a3ea60b2f0c0e9e38f9b6d4217719c19",
+      "title": "The impact of educational robot R1 on the development of emotional intelligence in preschool-aged children",
+      "abstract": "The study investigates the impact of the educational robot R1 on the development of emotional intelligence in preschool-aged children. Employing a convergent mixed methods design with a quasi-experimental pre-test/post-test structure and elements of an embedded case study, the research was conducted in a kindergarten in Athens with 21 children aged 4 to 6 years, including both typically and atypically developing children. Quantitative data were collected through rating rubrics, evaluation sheets, and worksheets, while qualitative insights were obtained via semi-structured interviews and observation. The findings revealed a significant increase in children's emotional intelligence scores across four domains—recognition of emotions, expression of emotions, regulation of emotions, and social skills—following the interventions. Children demonstrated enhanced emotional vocabulary, self-awareness, management of emotions, and collaborative behaviors. The robot served as a socially engaging tool, promoting both affective learning and peer interaction. These results support the integration of educational robotics into early childhood education to foster emotional and social development in inclusive and diverse classroom environments.",
       "authors": [
-        "Manar S. Alotaibi"
+        "Mavrogianni Gregoria",
+        "Chara Papoutsi",
+        "Konstantinos Skordoulis"
       ],
-      "venue": "Frontiers in Psychology",
-      "published": "2024-04-02",
-      "url": "https://doi.org/10.3389/fpsyg.2024.1307881",
-      "query": "game-based learning early childhood"
+      "venue": "GSC Advanced Research and Reviews",
+      "published": "2025-07-30",
+      "url": "https://doi.org/10.30574/gscarr.2025.24.1.0188",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "a6e15d12f9478bcc3adb6c274fbe1b09718d312b",
-      "title": "Enhancing Early Childhood Mathematics Skills Learning through Digital Game-Based Learning",
-      "abstract": "The present study investigates the unique impact of digital game-based learning (DGBL) on children's mathematical problem-solving skills, with a particular focus on both immediate and long-term effects. While much of the existing research on DGBL explores its general benefits, this study differentiates itself by examining how DGBL specifically enhances cognitive skills. The study included 120 students, 61 of whom were assigned to an experimental group taught using digital games, and 59 to a control group taught through traditional methods. The research design incorporated the development of a customized game-based learning material and a comprehensive mathematical problem-solving assessment. The results revealed that the experimental group significantly outperformed the control group in both immediate and delayed post-tests, which underscores the effectiveness of DGBL in enhancing students' retention of mathematics well beyond the initial learning phase. This suggests that DGBL is not only effective in helping students grasp mathematical concepts in the short term but also in strengthening their ability to retain and apply these concepts over time. Moreover, the study goes further by highlighting the long-term cognitive benefits of DGBL, such as the development of critical thinking, quick decision-making, and problem-solving skills. This aspect of the study distinguishes it from other research in the field as it emphasizes not just short-term academic performance, but also lasting improvements in key cognitive abilities. Based on these findings, it is recommended that teachers integrate digital game-based learning into their teaching strategies. This integration can enhance student engagement, motivate learners, and facilitate understanding of mathematical concepts.",
+      "paperId": "1f85242eef40b860dc772c551839c64f9805021c",
+      "title": "Object Recognition-Based Second Language Learning Educational Robot System for Chinese Preschool Children",
+      "abstract": "Research in psychology, pedagogy, and physiology has shown that learning a second language will be a great benefit to preschool children. Compared with adults, children have more advantages in learning, such as better pronunciation and intonation. However, because of children’s inattention, the effects of the second language education in many preschools are not ideal in China. To make children learn the second language effectively, it should be integrated into their daily lives and in line with their interests. In this paper, an educational robot system with object recognition technology is introduced, which aims to provide innovative second language learning services for preschool children in China. The proposed system combines object recognition and projection with English teaching and makes objects in daily life more interesting with projected animation to attract children’s attention. On the projection screen, children can interact with a robot by touch or movement and can easily trigger more interactive effects. To evaluate the effectiveness of the proposed system, we conducted an experiment, and the results showed that the system can improve the language learning efficiency for the Chinese preschool children by interacting with objects under proper guidance.",
       "authors": [
-        "Omayya M. Al-Hassan",
-        "Layla Alhasan",
-        "R. AlAli"
+        "Qin Wu",
+        "Sirui Wang",
+        "Jiashuo Cao"
       ],
-      "venue": "International Journal of Learning, Teaching and Educational Research",
-      "published": "2025-02-28",
-      "url": "https://doi.org/10.26803/ijlter.24.2.10",
-      "query": "game-based learning early childhood"
+      "venue": "IEEE Access",
+      "published": "2019",
+      "url": "https://doi.org/10.1109/ACCESS.2018.2890438",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "dfefdb7fc29ba0e9d799c0d5fcf75ec49e253855",
-      "title": "Enhancing Early Childhood Cognitive Development via Mobile Game-Based Learning Applications: Insights and Practical Experiences",
-      "abstract": "Early childhood cognitive development is foundational for future academic and personal success. While traditional teaching approaches often overlook technology’s potential, gamebased learning applications offer an innovative solution to enhance cognitive abilities in young children. This study evaluates the feasibility and effectiveness of a game-based learning (GBL) application for enhancing early childhood cognitive abilities. Using Research and Development (R&D) methodology, 40 children aged 5–6 were randomly assigned to experimental and control groups for an eight-week intervention. The application was developed through systematic needs analysis, design, development, implementation, and evaluation. ANCOVA analysis of pre- and post-test assessments demonstrated highly significant effects (F = 2154.89, p < 0.001, partial η2 = 0.966), explaining 96.6% of score variations. Expert validation scores exceeded 4.6 out of 5.0, confirming the application’s quality. Qualitative feedback from teachers and parents noted substantial improvements in children’s problem-solving skills, memory retention, and critical thinking. These findings suggest that integrating GBL applications could enhance educational equity and improve cognitive development outcomes across diverse educational settings.",
+      "paperId": "8f512823204abb6b2fa951f6210922118b682fbd",
+      "title": "The Impact of Educational Robotics on the Executive Functions of Preschool Children",
+      "abstract": "This quasi-experimental study examines the impact of an educational robotics program on the development of executive functions (EF) in preschool children in Morocco. Throughout the school year, 84 pupils from two schools in Rabat and Salé participated in a progressive program that combined unplugged activities with the exploration of the Bee-Bot robot. Five key dimensions (planning, working memory, cognitive flexibility, problem-solving, and collaboration) were assessed using a 22-indicator grid to measure the children’s progress in these areas. Data collection occurred over a seven-day period. Statistical analysis highlighted significant inter-dimensional correlations (0.533 ≤ r ≤ 0.931, p < 0.001), indicating a strong interdependence between the skills developed and higher mean scores for the early stages of the program (notably spatial planning and getting to grips with the Bee-Bot). Conversely, problem-solving and collaboration, although more demanding, appeared to be closely linked (r = 0.931), suggesting that the consolidation of individual problem-solving skills creates favorable conditions for mutual aid and collective work. These results confirm that the gradual, supervised integration of educational robotics can enhance executive functions in early childhood by engaging working memory, inhibitory control, and cognitive flexibility through structured, interactive activities. This study thus contributes to a better understanding of the potential of educational robotics in a non-Western context and lays the groundwork for future longitudinal and comparative research exploring how cultural and pedagogical factors influence early childhood learning outcomes.",
       "authors": [
-        "Haerul Annuar",
-        "E. Solihatin",
-        "Khaerudin"
+        "M. Zemzami",
+        "Majda Zbat"
       ],
-      "venue": "International Journal of Interactive Mobile Technologies",
-      "published": "2025-02-27",
-      "url": "https://doi.org/10.3991/ijim.v19i04.51897",
-      "query": "game-based learning early childhood"
+      "venue": "Journal of Hunan University Natural Sciences",
+      "published": "2025-05-31",
+      "url": "https://doi.org/10.55463/issn.1674-2974.52.4.7",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "6bf8e67c1d1898809a0845dd2807c1e54315a628",
-      "title": "Phygital Game-Based Learning in Early Childhood Education: An Exploratory Review",
-      "abstract": "This paper examines the role of phygital game-based learning (PGBL) in early childhood education, with a specific focus on its potential to foster critical thinking and problem-solving skills in children aged 3 to 8 years. PGBL refers to hybrid educational tools that combine physical manipulatives with interactive digital interfaces, offering multisensory and responsive learning experiences that aim to enhance cognitive engagement and symbolic reasoning. Through a literature-based qualitative review, the study analyzes five representative tools—Osmo Tangram, KIBO Robot, LEGO DUPLO Stories, Marbotic Smart Letters, and PlayShifu Orboot Earth—selected for their pedagogical relevance, documented educational use, and theoretical grounding. Drawing from constructivist and socio-cultural learning theories, particularly those of Piaget, Papert, and Vygotsky, the paper explores how these tools embody principles such as hands-on learning, scaffolding, iterative exploration, and meaningful play. Each tool is evaluated in terms of its support for higher-order cognitive functions, including sequencing, spatial reasoning, emergent literacy, and collaborative learning. The findings reveal that while PGBL tools show promise in promoting engagement and foundational executive functions, their effectiveness depends on factors such as design flexibility, ease of integration into pedagogical practice, and inclusivity. Implementation challenges such as limited open-ended play, cognitive overload, unequal access to digital infrastructure, and the need for educator training are critically examined using Universal Design for Learning (UDL) and Technological Pedagogical Content Knowledge (TPACK) frameworks. Rather than presenting definitive causal claims, this review provides a structured synthesis of current academic literature, highlighting both the affordances and limitations of phygital tools in early education. The analysis also underscores the importance of aligning PGBL tools with developmentally appropriate practices and culturally responsive pedagogy. By offering insights across tool design, implementation, and impact, the paper aims to inform educators, researchers, and policymakers seeking to enhance early learning environments through evidence-based, interactive technologies.",
-      "authors": [
-        "Tanmoyee Rajkhowa"
-      ],
-      "venue": "European Conference on Games Based Learning",
-      "published": "2025-09-26",
-      "url": "https://doi.org/10.34190/ecgbl.19.2.4140",
-      "query": "game-based learning early childhood"
-    },
-    {
-      "paperId": "5d382519939f533d299ce6c1fc88e8cc7a1e3d1d",
-      "title": "Development of Digital Puzzle Game-Based Learning Media to Improve Linguistic Intelligence in Early Childhood",
-      "abstract": "Linguistic intelligence is crucial for children's early communication skills, enabling them to effectively understand and express thoughts, feelings, and needs. Digital games, accessible via Android and web platforms, offer an engaging way for children to enhance their linguistic abilities. This study aims to develop and evaluate digital puzzle game-based learning media to improve linguistic intelligence in young children. This research follows a Research and Development (RD) approach using the ADDIE model, which includes Analysis, Design, Development, Implementation, and Evaluation. The study involved 15 children as experiment participants, two lecturers as validators, one teacher as an effectiveness tester, and the researcher. Instruments used include expert validation sheets, questionnaires, and practicality test sheets. The developed digital puzzle game-based learning media was validated by experts, achieving 100% validity from material experts and 97.92% from media experts, indicating a \"very valid\" rating. In terms of practicality, the teacher’s response yielded a score of 92.59%, categorizing it as \"very practical.\" Effectiveness testing resulted in a score of 4.2 on a scale of 3.6–4.5, demonstrating its effectiveness in improving linguistic intelligence. The findings suggest that the digital puzzle game is a valid, practical, and effective learning tool for enhancing linguistic intelligence in young children. Future research could explore broader sample sizes and long-term impacts on language development.",
-      "authors": [
-        "Nur Fitriya Zulkarnain",
-        "Eva Selva Nirwana"
-      ],
-      "venue": "Al-Ishlah: Jurnal Pendidikan",
-      "published": "2025-02-17",
-      "url": "https://doi.org/10.35445/alishlah.v17i1.6024",
-      "query": "game-based learning early childhood"
-    },
-    {
-      "paperId": "62c2fdf86acfbb92f00559cec843b3d3d273f7d2",
-      "title": "Effects of screen-based task learning and geographical environment on the cognitive performance of primary school students: Assessment of working memory",
-      "abstract": "Understanding the neurocognitive impact of digital integration in education is essential, particularly in sub-Saharan Africa, where socio-economic and geographical disparities amplify the need for effective learning strategies. This study investigated how visuospatial working memory performance is affected by the modality of task presentation (screen versus print) and geographical context (urban, economically advantaged region versus rural, economically disadvantaged region) in Ivorian primary school students. We employed a behavioural approach with 222 students (aged 4–13). Students from urban (Abidjan) and rural (Man) schools were assigned to perform a visuospatial working memory task presented either on a computer screen or using printed physical materials. An analysis of covariance, with age as a covariate, revealed that students performing the task on-screen showed significantly better performance (fewer errors) compared to those using printed materials (p < 0.001). A significant interaction between presentation modality and geographical context was also found (p = 0.009). Specifically, the performance difference between screen and print modalities was larger in the urban setting, primarily due to urban students performing more poorly with printed materials compared to rural students in that same condition; rural students using printed materials outperformed urban students using printed materials (post hoc, p = 0.002). No significant difference in performance on screen-based tasks was found between urban and rural students. The main effect of geographical context was not significant. These findings suggest potential cognitive benefits of screen-based presentation but highlight a complex interplay with geographical context, which itself is intertwined with socio-economic factors and initial age differences that were statistically controlled. Future research should further incorporate direct socio-economic status controls and explore factors like motivation and task engagement, alongside neuroimaging approaches, to elucidate the underlying mechanisms.",
-      "authors": [
-        "Yacouba Ouattara",
-        "Prisca Joëlle Djoman Doubran",
-        "K. M. Yao"
-      ],
-      "venue": "Brain and Neuroscience Advances",
-      "published": "2025-07-01",
-      "url": "https://doi.org/10.1177/23982128251356029",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "704fc114279aa0e0bb66cab23a65a5d74d081876",
-      "title": "Embodied learning in the digital age: assessing the impact of gesture-based educational technology on working memory capacity, spatial reasoning, and engagement",
-      "abstract": "Embodied cognition theory underscores the close coupling of bodily action and cognition, suggesting that learning can be strengthened when language is enacted. However, in English as a Foreign Language (EFL) education, the instructional value of gesture-based digital interfaces remains underexamined beyond vocabulary outcomes, particularly in relation to working memory capacity, spatial reasoning, and learner engagement. Addressing this gap, the present study examined how gesture-mediated interactions shape cognitive and affective outcomes in an EFL context using a convergent parallel mixed-methods design. A total of 143 Grade 12 students participated in the study, with 74 were allocated to the experimental group (EG) and 69 to the control group (CG). Over a period of six weeks, EG participated in language tasks using Leap Motion, while CG received traditional instruction. Using a convergent parallel mixed-methods design, we administered three validated scales pre/post and collected open-ended responses from the experimental group; findings were integrated to interpret convergent quantitative and qualitative patterns. Working memory capacity, spatial reasoning, and engagement were measured using validated scales The quantitative analyses indicated that EG made significantly larger improvements in working memory capacity, spatial reasoning, and engagement compared to CG. Qualitative narratives supported these findings, highlighting increased motivation, deeper understanding, and greater agency among participants in EG, despite some initial technical challenges. These results approve that gesture-based instruction may offer a promising approach for enhancing EFL instruction, boosting cognitive abilities and strengthening classroom engagement.",
-      "authors": [
-        "W. Chang",
-        "Amhara Aberash"
-      ],
-      "venue": "BMC Psychology",
-      "published": "2026-02-06",
-      "url": "https://doi.org/10.1186/s40359-026-04089-1",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "d7b407ac033d2af04724a4a285f71f10ec2b27a0",
-      "title": "Screen inferiority in L2 reading: The role of working memory, proficiency, and digital device usage",
-      "abstract": "\n \n Screen-based reading has frequently been associated with lower comprehension than reading on paper, a phenomenon known as\n screen inferiority\n . Although cognitive capacity, linguistic knowledge, and digital usage vary across learners, it remains underexplored how individual-difference factors shape medium effects in second-language (L2) reading among adolescents. We investigated how reading on paper versus tablets affects L2 reading comprehension among 240 Korean eighth graders learning English and whether medium effects are moderated by working memory, L2 proficiency, and tablet experience. Participants completed comprehension tests under both conditions, along with a reading span task, a proficiency test, and a tablet-usage questionnaire. Results showed that participants performed worse on tablets than on paper; these gaps were larger among learners with higher spans and proficiency. In contrast, tablet experience did not interact with reading medium. These findings underscore the need for explicit instruction to support effective L2 reading on digital devices, even for high-performing learners.\n",
-      "authors": [
-        "Hyeran Ryu",
-        "Ekaterina Sudina"
-      ],
-      "venue": "Studies in Second Language Acquisition",
-      "published": "2026-06-09",
-      "url": "https://doi.org/10.1017/s0272263126101752",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "90b93437e4dd4c811c8e3672bd7795d10391147d",
-      "title": "Does digital slide accessibility matter? Considering undergraduates’ differences in external-storage effects of note-taking and working memory",
+      "paperId": "8cfad96bdc417260bea5e5a7771fe1efe57f96d8",
+      "title": "Educators' perspectives on working with a humanoid robot in a French preschool class for autistic children",
       "abstract": "Abstract not available.",
       "authors": [
-        "Hyeyoun Kim"
+        "Philippe Garnier",
+        "K. Martel",
+        "Julie Dachez"
       ],
-      "venue": "Instructional Science",
-      "published": "2026-05-11",
-      "url": "https://doi.org/10.1007/s11251-026-09798-z",
-      "query": "working memory digital learning"
+      "venue": "Journal of Research in Special Educational Needs",
+      "published": "2023-01-06",
+      "url": "https://doi.org/10.1111/1471-3802.12588",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "bd51e509e553f8ff9512c70b4df8f038b27f3ef1",
-      "title": "Combining working memory and speech data in a digital app for early detection of cognitive impairment in primary care",
-      "abstract": "Cognitive screening to detect mild cognitive impairment (MCI) and dementia in primary care settings has proven to be a challenging task. The ideal solution would be a brief, low‐burden assessment tool appropriate for use with individuals from diverse educational and cultural backgrounds that requires limited time and expertise from primary care providers. The purpose of this project was to develop a digital cognitive screening app derived from widely used cognitive and speech tasks using machine learning techniques.",
+      "paperId": "6cb24b8afd09742a74b5af2a25607ccf1db876ec",
+      "title": "The Impact of AI-based Smart Robot Education on the Sociality of Preschool Children Mediated by Creative Problem-solving and Linguistic Expression",
+      "abstract": "This research investigates the educational effectiveness of a smart robot program integrated with Artificial Intelligence (AI) on the sociality of preschool children, particularly focusing on the mediating roles of creative problem-solving and linguistic expression. As the Fourth Industrial Revolution reshapes the educational landscape, AI-driven media have emerged as a ‘Social catalyst’ that significantly accelerates early childhood development. This study employed a quantitative experimental design involving a large-scale sample of 300 preschool children (150 boys and 150 girls) aged 5 to 6 years from various kindergartens in Sejong City. The participants were divided into an experimental group (n=150) that engaged in a 12-week AI-based smart robot program and a control group (n=150) that followed a traditional curriculum. Data were collected through the Social Skills Rating System (SSRS), Torrance Tests of Creative Thinking (TTCT), and standardized linguistic assessments. The results demonstrate that the AI voice-interactive robot program significantly augmented children's sociality scores across all sub-factors. Notably, mediation analysis confirmed that linguistic expression acted as a more potent mediator (<i>b</i> =.45, <i>p</i> <.001) compared to creative problem-solving (<i>b</i> =.38, <i>p </i><.01), identifying vocal interaction as the primary driver of social development. Statistical analysis further revealed that these variables partially mediated the relationship between AI interaction and sociality. Furthermore, while both genders showed significant improvement, girls demonstrated higher engagement in emotional rapport via voice interaction, whereas boys exhibited greater gains in task-oriented problem-solving. This study concludes that pedagogically sound AI voice-interactive tools are effective for fostering social development in young learners. These findings provide practical implications for educators and media content developers to design immersive and interactive AI educational environments.",
       "authors": [
-        "R. Hilsabeck",
-        "Jeffrey N. Keller",
-        "Maya L. Henry"
+        "Hong Yun"
       ],
-      "venue": "Alzheimer's &amp; Dementia",
-      "published": "2023-12-01",
-      "url": "https://doi.org/10.1002/alz.079664",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
-      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
-      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
-      "authors": [
-        "Deabashis Sarker Tamal",
-        "MD. Mehedi Zaman Khan",
-        "Fahim Shahriar Prottoy"
-      ],
-      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
-      "published": "2026-04-16",
-      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
-      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
-      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
-      "authors": [
-        "I. Khan",
-        "Hema Kumar Goru",
-        "G. L. Madhumati"
-      ],
-      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
-      "published": "2024-05-03",
-      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
-      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
-      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
-      "authors": [
-        "Z. Pap",
-        "Z. Čović",
-        "Janos Simon"
-      ],
-      "venue": "Symposium on Intelligent Systems and Informatics",
-      "published": "2021-09-16",
-      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
-      "title": "Children's trust in and learning from voice assistants.",
-      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
-      "authors": [
-        "Lauren N. Girouard-Hallam",
-        "Judith H. Danovitch"
-      ],
-      "venue": "Developmental Psychology",
-      "published": "2022-04-01",
-      "url": "https://doi.org/10.1037/dev0001318",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
-      "title": "Virtual Voice Assistant In Python (Friday)",
-      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
-      "authors": [
-        "S. Uke",
-        "Hrishikesh Lokhande",
-        "Durva Lohar"
-      ],
-      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
-      "published": "2022-10-08",
-      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
-      "query": "voice assistant children learning"
+      "venue": "Humanities and Social Sciences",
+      "published": "2026-03-31",
+      "url": "https://doi.org/10.11648/j.hss.20261402.18",
+      "query": "educational robot children preschool"
     }
   ],
   "hot_topics": [
@@ -1224,12 +1089,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 69,
+      "count": 60,
       "keywords": [
         "AR",
+        "immersive",
         "virtual reality",
-        "VR",
-        "immersive"
+        "VR"
       ]
     },
     {
@@ -1237,13 +1102,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 32,
+      "count": 30,
       "keywords": [
         "teacher",
         "parent",
         "school",
         "classroom",
-        "family"
+        "preschool teacher"
       ]
     },
     {
@@ -1251,13 +1116,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 24,
+      "count": 20,
       "keywords": [
         "machine learning",
         "artificial intelligence",
+        "generative AI",
         "ChatGPT",
-        "GPT",
-        "generative AI"
+        "GPT"
       ]
     },
     {
@@ -1265,12 +1130,12 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 18,
+      "count": 11,
       "keywords": [
         "play",
         "game",
-        "game-based",
-        "personalized learning"
+        "personalized learning",
+        "game-based"
       ]
     },
     {
@@ -1278,39 +1143,13 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 16,
+      "count": 10,
       "keywords": [
-        "cognitive development",
+        "attention",
         "executive function",
         "working memory",
         "cognitive load",
-        "attention"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 9,
-      "keywords": [
-        "chatbot",
-        "robot",
-        "voice assistant"
-      ]
-    },
-    {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 9,
-      "keywords": [
-        "vocabulary",
-        "language development",
-        "reading",
-        "writing",
-        "early literacy"
+        "self-regulation"
       ]
     },
     {
@@ -1318,22 +1157,23 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 8,
+      "count": 9,
       "keywords": [
         "emotion",
+        "social development",
         "wellbeing",
         "empathy"
       ]
     },
     {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 5,
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 8,
       "keywords": [
-        "tablet",
-        "mobile"
+        "chatbot",
+        "robot"
       ]
     },
     {
@@ -1341,12 +1181,36 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 5,
+      "count": 6,
       "keywords": [
         "coding",
         "algorithm",
+        "computer science",
         "computational thinking",
         "programming"
+      ]
+    },
+    {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 5,
+      "keywords": [
+        "vocabulary",
+        "writing",
+        "early literacy",
+        "language development"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 1,
+      "keywords": [
+        "tablet"
       ]
     }
   ]
