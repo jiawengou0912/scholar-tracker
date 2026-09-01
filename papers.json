@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 02:01 UTC",
+  "updated_at": "2026-09-01 02:01 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -126,6 +126,20 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Towards minding the disability achievement gap: the case of technology-enhanced inclusive embodied design for integer arithmetic",
+        "abstract": "Abstract\n                  \n                    Whereas constructivist pedagogy promotes the use of interactive learning materials for students to make sense of new concepts, some concepts are difficult to concretize, and consequently educators might rely instead on axiomatic procedural rules. Such compromised educational design most affects students with disabilities. We maintain that any mathematical concept can be rendered accessible for all students. Here we examine the case study of basic arithmetic with positive and negative numbers, which often confuses students due to these numbers’ non-intuitive ontological constitution (e.g., What ‘thing’ is “− 3”?) and procedural complexity (e.g., What does “2– − 3” mean?). Leveraging the Special Education Embodied Design framework (SpEED), we developed an inclusive, technologically enabled educational activity centered on navigating the number line. 30 middle-school students, both with cognitive disabilities (\n                    n\n                    =9) and without (\n                    n\n                    =21) participated individually in a 45 min evaluation trial of our design. Audio–video data, demographics, teacher testimonials, and assessment scores were gathered. While participants with disabilities scored significantly lower than their non-disabled peers on an integer arithmetic pre-test, exploratory patterns suggest no evidence of a difference in achievement levels on the post-test. Microgenetic case studies indicate conceptual advantages enjoyed by participants in both groups who successfully coordinated egocentric proximal actions (walking a floor-based number line) with perception of distal semiotic enactment (of an avatar mirror-walking their action on its own number line). Enacting dynamically instantiated mathematical concepts, it appears, may offer benefits across learning profiles. If corroborated through future research, SpEED could bear broadly across instructional contexts and concepts.",
+        "doi": "10.1007/s11423-026-10704-0",
+        "url": "https://doi.org/10.1007/s11423-026-10704-0",
+        "authors": [
+          "Jacqueline Anton",
+          "Giulia Cosentino",
+          "Mirko Gelsomini"
+        ],
+        "published": "2026-8-31",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Do large language models stimulate student motivation? A meta-analysis of experimental studies",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10687-y",
@@ -171,18 +185,6 @@
         "authors": [
           "Rebecca Clark-Stallkamp",
           "Barbara B. Lockee"
-        ],
-        "published": "2026-8-24",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Comparing the effectiveness of mind mapping and guided worksheets as scaffolding strategies in VR music education",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10700-4",
-        "url": "https://doi.org/10.1007/s11423-026-10700-4",
-        "authors": [
-          "Yi-Hsuan Wang"
         ],
         "published": "2026-8-24",
         "journal": "Educational Technology Research and Development",
@@ -949,140 +951,138 @@
   },
   "keyword_papers": [
     {
-      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
-      "title": "Learning machine learning with young children: exploring informal settings in an African context",
-      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
+      "paperId": "350cc5144179f49812a5fe80aae6aac8fdbe2e74",
+      "title": "Developmentally aligned AI: a framework for translating the science of child development into AI design",
+      "abstract": "What would it mean to design AI not for the average user, but for the child whose fingers still miss the screen, who forgets the instructions halfway through, and who greets the voice in the box as a friend? This paper proposes Developmentally Aligned Design (DAD) as a practical and ethical framework for building AI systems that meet children where they are—cognitively, socially, and emotionally. Building on the long-standing principle of developmentally appropriate practice in early childhood education, it theorises four principles of developmentally-aligned design: (1) perceptual fit (e.g., anonymised phoneme‑error tuning in early‑reading apps that respects toddlers’ speech‑production limits) (2) cognitive scaffolding (e.g. Zone‑of‑Proximal‑Development (ZPD) progressions that govern when a tutoring agent introduces harder tasks) (3) interface simplicity (e.g., storybook apps that cap menu depth and visual clutter to match preschoolers’ working‑memory span) and (4) relational integrity (e.g., conversational agents that introduce themselves with a developmentally clear disclaimer—“I’m a computer helper, not a real friend”). Through illustrative examples, it demonstrates how developmental science can serve as a validation layer on AI dataset curation, model fine‑tuning, and user experience choices. Adopting Developmentally Aligned Design can therefore sensitise AI systems to the distinct perceptual, cognitive, and socio‑emotional needs of young children; shift the responsibility of “proof of safety” from parents and early‑years practitioners to AI developers and vendors; and help the science of child development become a core intellectual engine of next‑generation AI innovation.",
       "authors": [
-        "I. Sanusi",
-        "Kissinger Sunday",
-        "S. Oyelere"
+        "Nomisha Kurian"
       ],
-      "venue": "Computer Science Education",
-      "published": "2023-02-07",
-      "url": "https://doi.org/10.1080/08993408.2023.2175559",
-      "query": "machine learning young children education"
+      "venue": "AI, Brain and Child",
+      "published": "2025-08-06",
+      "url": "https://doi.org/10.1007/s44436-025-00009-z",
+      "query": "AI child development"
     },
     {
-      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
-      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
-      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
+      "paperId": "da6d7f820c3bce984be69de74d09a7587126fb68",
+      "title": "The Future of Child Development in the AI Era. Cross-Disciplinary Perspectives Between AI and Child Development Experts",
+      "abstract": "This report explores the potential implications of rapidly integrating Artificial Intelligence (AI) applications into children's environments. The introduction of AI in our daily lives necessitates scrutiny considering the significant role of the environment in shaping cognition, socio-emotional skills, and behaviors, especially during the first 25 years of cerebral development. As AI becomes prevalent in educational and leisure activities, it will significantly modify the experiences of children and adolescents, presenting both challenges and opportunities for their developmental trajectories. This analysis was informed by consulting with 15 experts from pertinent disciplines (AI, product development, child development, and neurosciences), along with a comprehensive review of scientific literature on children development and child-technology interactions. Overall, AI experts anticipate that AI will transform leisure activities, revolutionize education, and redefine human-machine interactions. While AI offers substantial benefits in fostering interactive engagement, it also poses risks that require careful considerations, especially during sensitive developmental periods. The report advocates for proactive international collaboration across multiple disciplines and increased research into how technological innovations affect child development. Such efforts are crucial for designing a sustainable and ethical future for the next generation through specific child-centered regulations, and helping to educate all potential stakeholders (regulators, developers, parents and educators, children) about responsible AI use and its potential impacts on child development.",
       "authors": [
-        "Apittha Unahalekhaka",
-        "M. Bers"
+        "Mathilde Neugnot-Cerioli",
+        "Olga Muss Laurenty"
       ],
-      "venue": "IEEE Global Engineering Education Conference",
-      "published": "2022-03-28",
-      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
-      "query": "machine learning young children education"
+      "venue": "arXiv.org",
+      "published": "2024-05-29",
+      "url": "https://doi.org/10.48550/arXiv.2405.19275",
+      "query": "AI child development"
     },
     {
-      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
-      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
-      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
+      "paperId": "378c59359f151a0e68bd6b749abc1f14d886766d",
+      "title": "AI, Brain, and Child: navigating the intersection of artificial intelligence, neuroscience, and child development",
+      "abstract": "In an era marked by rapid advancements in artificial intelligence (AI) and cognitive neuroscience, the intersection of these fields holds transformative potential for child development and educational practices. This launch editorial introduces AI, Brain and Child (ABC), an open-access journal dedicated to exploring the dynamic interplay between AI, neuroscience, and child education. By fostering an interdisciplinary dialogue among educators, researchers, clinicians, and policymakers, ABC aims to examine the multifaceted roles of AI and neuroscience in shaping cognitive, social, and emotional growth among children. The journal seeks to democratize access to high-quality research, addressing both the beneficial applications and ethical challenges posed by AI and neuroscience technologies. Through this platform, ABC aspires to promote evidence-based practices, enhance educational outcomes, and tackle pressing developmental and educational issues. By welcoming diverse contributions—from empirical research to policy analysis—ABC endeavors to bridge the gaps between theory and practice, equipping stakeholders with the insights needed to navigate the complexities of educating children within a technologically enriched landscape. This new scholarly endeavor marks a new era of global community to partake in the crucial conversation surrounding the opportunities and responsibilities inherent in integrating AI and neuroscience into education.",
       "authors": [
-        "Chu Thi Hong Nhung",
-        "V. Giang",
-        "N. Dung"
+        "Philip Hui Li",
+        "J. C. Lee"
       ],
-      "venue": "Journal of Posthumanism",
-      "published": "2025-04-09",
-      "url": "https://doi.org/10.63332/joph.v5i3.705",
-      "query": "machine learning young children education"
+      "venue": "AI, Brain and Child",
+      "published": "2025-03-11",
+      "url": "https://doi.org/10.1007/s44436-025-00004-4",
+      "query": "AI child development"
     },
     {
-      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
-      "title": "Learning machine learning with very young children: Who is teaching whom?",
-      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
+      "paperId": "a0094342d67f6cd381e8955dcc1fc23def1c47c9",
+      "title": "AI-Driven Design of Emotionally Supportive Toys for Child Development: An Iterative Process",
+      "abstract": "Background Emotional support is critical for children's social skills and well-being. Children exposed to emotional support at an early age can foster resilience and interpersonal skills. As traditional support methods lack interactive and personalized engagement, innovative, technology-driven solutions are consequently developed. Objective This project aimed to develop an AI-driven “emotional mentor” embodied in a plush bear whose inherent characteristic is comfort and companionship. The goal was to create a visually appealing and emotionally supportive tool that encourages children to recognize and express their feelings through gentle interaction. The design specifically targets children aged 3-11, a critical period of emotional development defined by Freudian psychology. Method The project utilized AI visual generation models guided by precise prompts, following a systematic, iterative design process. Initial design concepts were generated by AI visual generation models with precise prompts. Early outputs were critically evaluated for inconsistencies, excessive detail, and unwanted features. After iterative updates, the prompts can finally output simplicity, warmth, and an inviting appearance. LoRA fine-tuning was used to balance function and aesthetics. Market research informed the incorporation of subtle “breathing” motion effects, and user perception testing also informed the design. Results The iterative design process yielded a prototype of an emotionally supportive plush toy with refined visual aesthetics and glowing interactive features. The AI-assisted design facilitated the exploration of a range of design concepts and the systematic improvement of the toy's visual and interactive elements. Conclusion This study presents a detailed, AI-assisted iterative approach to designing an emotionally supportive plush toy. The design process and interactive visual features are the core. Future work may explore additional functionalities to further enhance the system's emotional support capabilities.",
       "authors": [
-        "Henriikka Vartiainen",
-        "M. Tedre",
-        "Teemu Valtonen"
+        "Xinwei Guan",
+        "Dengkai Chen",
+        "Suihuai Yu"
       ],
-      "venue": "Int. J. Child Comput. Interact.",
-      "published": "2020-09-01",
-      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
-      "query": "machine learning young children education"
+      "venue": "",
+      "published": "2025-04-25",
+      "url": "https://doi.org/10.1145/3744367.3744393",
+      "query": "AI child development"
     },
     {
-      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
-      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
-      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
-      "authors": [
-        "L. Aquini",
-        "Júlia Veiga",
-        "T. T. Primo"
-      ],
-      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
-      "published": "2025-11-24",
-      "url": "https://doi.org/10.5753/sbie.2025.12590",
-      "query": "machine learning young children education"
-    },
-    {
-      "paperId": "e6373f71a3ea60b2f0c0e9e38f9b6d4217719c19",
-      "title": "The impact of educational robot R1 on the development of emotional intelligence in preschool-aged children",
-      "abstract": "The study investigates the impact of the educational robot R1 on the development of emotional intelligence in preschool-aged children. Employing a convergent mixed methods design with a quasi-experimental pre-test/post-test structure and elements of an embedded case study, the research was conducted in a kindergarten in Athens with 21 children aged 4 to 6 years, including both typically and atypically developing children. Quantitative data were collected through rating rubrics, evaluation sheets, and worksheets, while qualitative insights were obtained via semi-structured interviews and observation. The findings revealed a significant increase in children's emotional intelligence scores across four domains—recognition of emotions, expression of emotions, regulation of emotions, and social skills—following the interventions. Children demonstrated enhanced emotional vocabulary, self-awareness, management of emotions, and collaborative behaviors. The robot served as a socially engaging tool, promoting both affective learning and peer interaction. These results support the integration of educational robotics into early childhood education to foster emotional and social development in inclusive and diverse classroom environments.",
-      "authors": [
-        "Mavrogianni Gregoria",
-        "Chara Papoutsi",
-        "Konstantinos Skordoulis"
-      ],
-      "venue": "GSC Advanced Research and Reviews",
-      "published": "2025-07-30",
-      "url": "https://doi.org/10.30574/gscarr.2025.24.1.0188",
-      "query": "educational robot children preschool"
-    },
-    {
-      "paperId": "1f85242eef40b860dc772c551839c64f9805021c",
-      "title": "Object Recognition-Based Second Language Learning Educational Robot System for Chinese Preschool Children",
-      "abstract": "Research in psychology, pedagogy, and physiology has shown that learning a second language will be a great benefit to preschool children. Compared with adults, children have more advantages in learning, such as better pronunciation and intonation. However, because of children’s inattention, the effects of the second language education in many preschools are not ideal in China. To make children learn the second language effectively, it should be integrated into their daily lives and in line with their interests. In this paper, an educational robot system with object recognition technology is introduced, which aims to provide innovative second language learning services for preschool children in China. The proposed system combines object recognition and projection with English teaching and makes objects in daily life more interesting with projected animation to attract children’s attention. On the projection screen, children can interact with a robot by touch or movement and can easily trigger more interactive effects. To evaluate the effectiveness of the proposed system, we conducted an experiment, and the results showed that the system can improve the language learning efficiency for the Chinese preschool children by interacting with objects under proper guidance.",
-      "authors": [
-        "Qin Wu",
-        "Sirui Wang",
-        "Jiashuo Cao"
-      ],
-      "venue": "IEEE Access",
-      "published": "2019",
-      "url": "https://doi.org/10.1109/ACCESS.2018.2890438",
-      "query": "educational robot children preschool"
-    },
-    {
-      "paperId": "8f512823204abb6b2fa951f6210922118b682fbd",
-      "title": "The Impact of Educational Robotics on the Executive Functions of Preschool Children",
-      "abstract": "This quasi-experimental study examines the impact of an educational robotics program on the development of executive functions (EF) in preschool children in Morocco. Throughout the school year, 84 pupils from two schools in Rabat and Salé participated in a progressive program that combined unplugged activities with the exploration of the Bee-Bot robot. Five key dimensions (planning, working memory, cognitive flexibility, problem-solving, and collaboration) were assessed using a 22-indicator grid to measure the children’s progress in these areas. Data collection occurred over a seven-day period. Statistical analysis highlighted significant inter-dimensional correlations (0.533 ≤ r ≤ 0.931, p < 0.001), indicating a strong interdependence between the skills developed and higher mean scores for the early stages of the program (notably spatial planning and getting to grips with the Bee-Bot). Conversely, problem-solving and collaboration, although more demanding, appeared to be closely linked (r = 0.931), suggesting that the consolidation of individual problem-solving skills creates favorable conditions for mutual aid and collective work. These results confirm that the gradual, supervised integration of educational robotics can enhance executive functions in early childhood by engaging working memory, inhibitory control, and cognitive flexibility through structured, interactive activities. This study thus contributes to a better understanding of the potential of educational robotics in a non-Western context and lays the groundwork for future longitudinal and comparative research exploring how cultural and pedagogical factors influence early childhood learning outcomes.",
-      "authors": [
-        "M. Zemzami",
-        "Majda Zbat"
-      ],
-      "venue": "Journal of Hunan University Natural Sciences",
-      "published": "2025-05-31",
-      "url": "https://doi.org/10.55463/issn.1674-2974.52.4.7",
-      "query": "educational robot children preschool"
-    },
-    {
-      "paperId": "8cfad96bdc417260bea5e5a7771fe1efe57f96d8",
-      "title": "Educators' perspectives on working with a humanoid robot in a French preschool class for autistic children",
+      "paperId": "6e0feaafb805a0b8245333e393068327b565895f",
+      "title": "AI, Parenting, and Child Development.",
       "abstract": "Abstract not available.",
       "authors": [
-        "Philippe Garnier",
-        "K. Martel",
-        "Julie Dachez"
+        "Jenny S. Radesky"
       ],
-      "venue": "Journal of Research in Special Educational Needs",
-      "published": "2023-01-06",
-      "url": "https://doi.org/10.1111/1471-3802.12588",
-      "query": "educational robot children preschool"
+      "venue": "Journal of Developmental and Behavioral Pediatrics",
+      "published": "2024-02-09",
+      "url": "https://doi.org/10.1097/DBP.0000000000001256",
+      "query": "AI child development"
     },
     {
-      "paperId": "6cb24b8afd09742a74b5af2a25607ccf1db876ec",
-      "title": "The Impact of AI-based Smart Robot Education on the Sociality of Preschool Children Mediated by Creative Problem-solving and Linguistic Expression",
-      "abstract": "This research investigates the educational effectiveness of a smart robot program integrated with Artificial Intelligence (AI) on the sociality of preschool children, particularly focusing on the mediating roles of creative problem-solving and linguistic expression. As the Fourth Industrial Revolution reshapes the educational landscape, AI-driven media have emerged as a ‘Social catalyst’ that significantly accelerates early childhood development. This study employed a quantitative experimental design involving a large-scale sample of 300 preschool children (150 boys and 150 girls) aged 5 to 6 years from various kindergartens in Sejong City. The participants were divided into an experimental group (n=150) that engaged in a 12-week AI-based smart robot program and a control group (n=150) that followed a traditional curriculum. Data were collected through the Social Skills Rating System (SSRS), Torrance Tests of Creative Thinking (TTCT), and standardized linguistic assessments. The results demonstrate that the AI voice-interactive robot program significantly augmented children's sociality scores across all sub-factors. Notably, mediation analysis confirmed that linguistic expression acted as a more potent mediator (<i>b</i> =.45, <i>p</i> <.001) compared to creative problem-solving (<i>b</i> =.38, <i>p </i><.01), identifying vocal interaction as the primary driver of social development. Statistical analysis further revealed that these variables partially mediated the relationship between AI interaction and sociality. Furthermore, while both genders showed significant improvement, girls demonstrated higher engagement in emotional rapport via voice interaction, whereas boys exhibited greater gains in task-oriented problem-solving. This study concludes that pedagogically sound AI voice-interactive tools are effective for fostering social development in young learners. These findings provide practical implications for educators and media content developers to design immersive and interactive AI educational environments.",
+      "paperId": "e9567e933934c4d12567a736d23fcd9008562c4e",
+      "title": "Beyond efficiency: Empirical insights on generative AI's impact on cognition, metacognition and epistemic agency in learning",
+      "abstract": "Generative AI (GenAI) promises to reshape education, yet, beyond gains in efficiency and scalability, crucial questions remain regarding its deeper cognitive, epistemic, socio‐emotional and ethical implications for learners. This special section collects emerging empirical evidence from diverse educational settings to examine how interactions with advanced GenAI systems—ranging from intelligent tutors and conversational agents to AI‐generated feedback providers—shape learners' cognitive engagement, epistemic agency, metacognitive regulation and emotional relationships with technology. While studies reveal evidence of positive effects in personalised guidance, collaborative inquiry and enhanced self‐reflection, findings also highlight risks such as diminished epistemic vigilance, superficial learning and emotional dependence on AI interlocutors. These insights advocate for an educational re‐imagining that actively experiments with novel AI technologies while continuously gathering and critically evaluating evidence—envisioning education not merely as a spectrum ranging from fully human‐ or AI‐led activities but also as genuinely collaborative endeavours that balance human intelligence and AI capabilities in meaningful and ethically grounded partnerships. Looking ahead, in this editorial, we propose an interdisciplinary research roadmap that urges deeper examination of the cognitive and neural consequences associated with sustained AI exposure, together with the development of comprehensive frameworks to cultivate AI literacy and evaluative judgement. It also encourages rigorous assessment of the long‐term ethical implications of increasingly blurred human‐AI boundaries. Ultimately, advancing education in GenAI‐infused contexts requires proactive engagement with these emerging complexities, so that teachers and learners not only survive in an AI‐infused future but also creatively, critically and ethically co‐author it.",
       "authors": [
-        "Hong Yun"
+        "Lixiang Yan",
+        "Viktoria Pammer-Schindler",
+        "Caitlin Mills"
       ],
-      "venue": "Humanities and Social Sciences",
-      "published": "2026-03-31",
-      "url": "https://doi.org/10.11648/j.hss.20261402.18",
-      "query": "educational robot children preschool"
+      "venue": "British Journal of Educational Technology",
+      "published": "2025-07-24",
+      "url": "https://doi.org/10.1111/bjet.70000",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "1192e1968a26114ec854e2bb46ecbe4cbda8c238",
+      "title": "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)",
+      "abstract": "This study comprehensively analyses how AI tools scaffold and share metacognitive processes, thereby facilitating students’ learning in STEM classrooms through a mixed-method research synthesis combining bibliometric analysis and systematic review. Using a convergent parallel mixed-methods design, the study draws on 135 peer-reviewed articles published between 2005 and 2025 to map publication trends, author and journal productivity, keyword patterns, and theoretical frameworks. Data were retrieved from Scopus and Web of Science using structured Boolean searches and analysed using Biblioshiny and VOSviewer. Guided by PRISMA 2020 protocols, 24 studies were selected for in-depth qualitative review. Findings show that while most research remains grounded in human-centred conceptualisations of metacognition, there are emerging indications of posthumanist framings, where AI systems are positioned as co-regulators of learning. Tools like learning analytics, intelligent tutoring systems, and generative AI platforms have shifted the discourse from individual reflection to system-level regulation and distributed cognition. The study is anchored in Flavell’s theory of metacognition, General Systems Theory, and posthumanist perspectives to interpret this evolution. Educational implications highlight the need to reconceptualise pedagogical roles, integrate AI literacy in teacher preparation, and prioritise ethical, reflective AI design. The review provides a structured synthesis of theoretical, empirical, and conceptual trends, offering insights into how human–machine collaboration is reshaping learning by scaffolding and co-regulating students’ metacognitive development in STEM education.",
+      "authors": [
+        "Maria Tsakeni",
+        "S. C. Nwafor",
+        "Moeketsi Mosia"
+      ],
+      "venue": "Journal of Intelligence",
+      "published": "2025-11-01",
+      "url": "https://doi.org/10.3390/jintelligence13110148",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "ad9cf63bfef0e3e3de1393b0f2b662f41a54b22e",
+      "title": "The cognitive mirror: a framework for AI-powered metacognition and self-regulated learning",
+      "abstract": "The dominant paradigm of generative artificial intelligence (AI) in education positions it as an omniscient oracle, a model that risks hindering genuine learning by fostering cognitive offloading.This study proposes a fundamental shift from “AI as Oracle” model to a “Cognitive Mirror” paradigm, which reconceptualizes AI as a teachable novice engineered to reflect the quality of a learner’s explanation. The core innovation is the repurposing of AI safety guardrails as didactic mechanisms to deliberately sculpt AI’s ignorance, creating a “pedagogically useful deficit.” This conceptual shift enables a detailed implementation of the “learning by teaching” principle.Within this paradigm, a framework driven by a Teaching Quality Index is introduced. This metric assesses the learner’s explanation and activates an instructional guidance level to modulate the AI’s responses, from feigning confusion to asking clarifying questions.Grounded in learning science principles, such as the Protégé Effect and Reflective Practice, this approach positions the AI as a metacognitive partner. It may support a shift from knowledge transfer to knowledge construction, and a re-orientation from answer correctness to explanation quality in the contexts we describe.By re-centering human agency, the “Cognitive Mirror” externalizes the learner’s thought processes, making their misconceptions objects of repair. This study discusses the implications on assessment, addresses critical risks, including algorithmic bias, and outlines a research agenda for a symbiotic human-AI coexistence that promotes effortful work at the heart of deep learning.",
+      "authors": [
+        "H. Tomisu",
+        "Junya Ueda",
+        "Tsukasa Yamanaka"
+      ],
+      "venue": "Frontiers in Education",
+      "published": "2025-10-09",
+      "url": "https://doi.org/10.3389/feduc.2025.1697554",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "5cc59cd8a20745bdcdb0221b6e35fffeec8ed8c7",
+      "title": "Generative AI tool use enhances academic achievement in sustainable education through shared metacognition and cognitive offloading among preservice teachers",
+      "abstract": "The integration of generative artificial intelligence tools in education has emerged as a transformative approach to enhancing learning outcomes, particularly in the context of sustainable development goals (SDG4). Therefore, the present study investigates the connection between generative artificial intelligence tool usage (GenAITU) and academic achievement (AA) in the context of SDG4. We assessed the mediating role of shared metacognition (SMC) and cognitive offloading (COL) in this relationship among preservice teachers (PSTs). The indicators, including performance expectancy (PE), effort expectancy (EE), facilitating conditions (FC), and use behavior (UB), are derived from adapting the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) for GenAITU. The authors surveyed 465 students from five universities in Wuhan, China, using a 7-point Likert scale through a time-lag design. Statistical analysis was performed through partial least squares structural equation modeling (PLS-SEM), to determine the relationship between variables. Findings indicated that two components of GenAITU, namely PE and UB, showed significant positive associations with AA, while the other two, EE and FC, did not show significant and positive relationships with AA. Results also showed that three dimensions of GenAITU, namely EE, FC, and UB have a positive and significant association with SMC while PE has a positive and significant connection with SMC. All four components of GenAITU like PE, EE, FC, and UB have positive and significant links with COL. SMC and COL have a positive and significant relationship with AA. Results also indicated that SMC mediated the connections between GenAITU (EE, FC, and UB) and AA. Outcomes also indicated that COL mediated the connections between GenAITU (PE, EE, FC, and UB) and AA. The current study shows that SMC and COL were strong mediators of the association between GenAITU and AA. The results of our study provide guidance to teachers, curriculum planners, and university management to successfully integrate GenAITU into the education for PSTs.",
+      "authors": [
+        "Javed Iqbal",
+        "Zarqa Farooq Hashmi",
+        "Muhammad Zaheer Asghar"
+      ],
+      "venue": "Scientific Reports",
+      "published": "2025-05-13",
+      "url": "https://doi.org/10.1038/s41598-025-01676-x",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "e24ec2cbc33efb4466e961b082e19f85ed20370c",
+      "title": "Leveraging generative AI to foster metacognition and self-directed learning",
+      "abstract": "ABSTRACT With the ever-expanding amount of data, students increasingly find themselves needing to engage in self-directed learning to be successful. Students studying science, technology, engineering, and mathematics often struggle with self-directed learning and are often discouraged, leading to higher attrition within these disciplines. There is a lack of opportunities for students to develop and practice self-directed learning skills within traditional curricula. This research explored the ways in which a generative artificial intelligence model could be used to cultivate metacognition and promote readiness for self-directed learning among graduate students. By leveraging the relationship between metacognition and self-directed learning, with the customizability of the artificial intelligence model, we sought to facilitate conversations between students and the model to enhance metacognitive awareness and self-directed learning readiness. Using the Metacognition Awareness Inventory and Self-Directed Learning Instrument, we found that students improved significantly on both pre- and post-assessment comparisons. Students needed to interact with the model twice a week, for 10 minutes per session. Our findings demonstrate a novel application of generative artificial intelligence in supporting students’ personal development and expand our understanding of how artificial intelligence can be leveraged to generate a supportive process, rather than solely as a mechanism for generating answers or some other product.",
+      "authors": [
+        "Brandon Lowry",
+        "Samantha McGrath",
+        "C. Eitel"
+      ],
+      "venue": "Journal of Microbiology & Biology Education",
+      "published": "2025-11-26",
+      "url": "https://doi.org/10.1128/jmbe.00153-25",
+      "query": "metacognition AI learning"
     }
   ],
   "hot_topics": [
@@ -1091,12 +1091,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 63,
+      "count": 64,
       "keywords": [
         "AR",
-        "immersive",
         "VR",
-        "virtual reality"
+        "virtual reality",
+        "immersive"
       ]
     },
     {
@@ -1104,27 +1104,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 31,
+      "count": 29,
       "keywords": [
-        "teacher",
         "parent",
         "school",
+        "teacher",
         "classroom",
         "family"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 14,
-      "keywords": [
-        "play",
-        "game",
-        "personalized learning",
-        "adaptive learning",
-        "gamification"
       ]
     },
     {
@@ -1132,13 +1118,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 13,
+      "count": 14,
       "keywords": [
-        "machine learning",
         "artificial intelligence",
+        "generative AI",
+        "deep learning",
         "large language model",
-        "ChatGPT",
-        "GPT"
+        "ChatGPT"
       ]
     },
     {
@@ -1146,13 +1132,13 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 11,
+      "count": 14,
       "keywords": [
-        "attention",
-        "executive function",
-        "working memory",
         "metacognition",
-        "cognitive load"
+        "cognitive development",
+        "cognitive load",
+        "attention",
+        "self-regulation"
       ]
     },
     {
@@ -1160,11 +1146,24 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 10,
+      "count": 13,
       "keywords": [
         "emotion",
-        "social development",
         "empathy"
+      ]
+    },
+    {
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 12,
+      "keywords": [
+        "play",
+        "personalized learning",
+        "game",
+        "adaptive learning",
+        "gamification"
       ]
     },
     {
@@ -1172,11 +1171,11 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 9,
+      "count": 6,
       "keywords": [
-        "chatbot",
-        "robot",
-        "intelligent tutoring"
+        "conversational agent",
+        "intelligent tutoring",
+        "chatbot"
       ]
     },
     {
@@ -1186,7 +1185,7 @@
       "icon": "📚",
       "count": 6,
       "keywords": [
-        "vocabulary",
+        "reading",
         "writing",
         "early literacy",
         "language development"
@@ -1197,12 +1196,11 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 5,
+      "count": 4,
       "keywords": [
-        "coding",
         "algorithm",
-        "computer science",
         "computational thinking",
+        "coding",
         "programming"
       ]
     },
@@ -1211,9 +1209,8 @@
       "name": "数字媒体与屏幕使用",
       "subtitle": "Digital Media & Screen Time",
       "icon": "📱",
-      "count": 2,
+      "count": 1,
       "keywords": [
-        "tablet",
         "digital learning"
       ]
     }
