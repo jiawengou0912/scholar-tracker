@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04 02:02 UTC",
+  "updated_at": "2026-09-05 02:02 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -533,6 +533,19 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Digital literacy and student engagement in online learning: a mediated model of self-efficacy, IT mindfulness, and techno-eustress",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14142-6",
+        "url": "https://doi.org/10.1007/s10639-026-14142-6",
+        "authors": [
+          "Thean Pheng Lim",
+          "Wee Chuan Teh"
+        ],
+        "published": "2026-9-4",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Implementation of VR learning activities for assessment purposes in teacher education: an evaluation approach using converging item response tree models",
         "abstract": "Abstract\n                  Although virtual reality (VR) classroom simulations are recognised as an effective way of promoting teaching skills, they are rarely used for assessment purposes in teacher training. This study examines an analysis strategy rooted in Item Response Tree (IRTree) modelling for estimating the psychometric quality of VR classroom simulations and to identify its implications for designing VR classroom simulations in teacher education, thereby making explicit how the structural properties of a VR classroom simulation determine the requirements of its psychometric evaluation. Data from 200 student teachers who participated in the VR classroom simulation CLASIVIR 1.0 were analysed. The results revealed good model fit and stable estimates, demonstrating a high level of measurement accuracy and strong potential of IRTree models replicating the expected structures of psychological constructs. Thus, the applicability of the proposed analysis strategy was proven, indicating that CLASIVIR 1.0 can be used to reliably measure classroom management competence. Implications derived from the study include suggestions regarding the structure of decision tree-based classroom simulations, sustainability considerations, and issues relating to digital skills.",
         "doi": "10.1007/s10639-026-14121-x",
@@ -585,23 +598,36 @@
         "published": "2026-8-29",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Development and validation of the adolescent artificial intelligence literacy scales",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14136-4",
-        "url": "https://doi.org/10.1007/s10639-026-14136-4",
-        "authors": [
-          "Xiaochun Xie",
-          "Pengyun Ma",
-          "Yang Li"
-        ],
-        "published": "2026-8-24",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
       }
     ],
     "Journal of Educational Computing Research": [
+      {
+        "title": "Metaverse-Based Self-Regulated Learning in Nursing Dietary Education: Effects on Learning Achievement, Self-Efficacy, Critical Thinking Awareness, and Behavioral Patterns",
+        "abstract": "A central goal of foundational dietary education is to enhance nursing students’ learning achievement, self-efficacy, and critical thinking awareness. However, providing personalized guidance in conventional instructional settings remains challenging. To address these limitations, the present study introduces a structured metaverse-based self-regulated learning framework designed to promote personalized, immersive, and contextually rich learning experiences in dietary education. A quasi-experimental study was conducted with 44 undergraduate nursing students enrolled in an introductory course on cancer-preventive dietary practices. Participants were assigned to either a metaverse-based self-regulated learning condition (experimental group) or a conventional 2D video-based instruction condition (control group). Findings indicate that students in the metaverse-based condition demonstrated significantly higher levels of learning achievement, self-efficacy, and critical thinking awareness than peers in the conventional instruction group. Exploratory behavioral analyses of the 22 experimental-group participants, categorized by a median split, suggested that learners with higher critical thinking awareness exhibited more structured, reflective, and proactive learning patterns, whereas those with lower awareness relied more on feedback-dependent strategies. Overall, metaverse-based self-regulated learning enhanced learning achievement, self-efficacy, and critical thinking awareness, while providing preliminary insights into learners’ behavioral patterns in nursing education.",
+        "doi": "10.1177/07356331261486325",
+        "url": "https://doi.org/10.1177/07356331261486325",
+        "authors": [
+          "Ching-Yi Chang",
+          "Husni Mubarok",
+          "Pei-Yu Cheng"
+        ],
+        "published": "2026-9-4",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
+        "title": "Investigating the Effects of Game-Based Learning on Vocabulary Acquisition Across Genders",
+        "abstract": "This study investigates the effectiveness of\n                    Animal Crossing: New Horizons\n                    as a game-based learning tool for English vocabulary acquisition among elementary-level EFL learners in Taiwan, with particular attention to gender differences. While previous research on game-based language learning has largely focused on purpose-built educational games or reported ungendered outcomes, little is known about how commercial entertainment games support vocabulary learning across genders in formal classroom settings. To address this gap, a quasi-experimental mixed-methods design was employed with 130 sixth-grade students (aged 11–12). Participants completed vocabulary pre- and post-tests, self-report questionnaires, and guided gameplay activities supported by structured checklists and teacher-led discussions. Quantitative data were analyzed using paired- and independent-samples\n                    t\n                    -tests, while qualitative data were examined using qualitative content analysis of learner reflections. Results showed that gameplay significantly enhanced vocabulary acquisition for both genders; however, female learners demonstrated substantially larger and more consistent gains than male learners. In contrast, male learners reported higher perceived learning and enjoyment despite showing smaller measurable improvements. These findings suggest that pedagogical scaffolding plays a critical role in moderating gender-related motivational tendencies in game-based learning contexts. The study contributes empirical evidence that commercial narrative-based games, when systematically scaffolded, can function as effective and inclusive tools for situated vocabulary learning in elementary EFL classrooms.",
+        "doi": "10.1177/07356331261486327",
+        "url": "https://doi.org/10.1177/07356331261486327",
+        "authors": [
+          "Chiu-Jung Chen",
+          "Pei-Lin Liu"
+        ],
+        "published": "2026-9-4",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
       {
         "title": "A Q Methodology Study: Exploring Attitudes Toward “AI Hallucinations” in Human–AI Collaborative Academic Writing in Higher Education",
         "abstract": "While generative artificial intelligence (GenAI) is increasingly integrated into higher education academic writing, it introduces profound epistemic challenges such as AI hallucinations, including fabricated citations and data. Current literature predominantly focuses on macro-level technology acceptance, leaving students’ micro-level subjective perspectives relatively underexplored. This study investigates the subjective perspectives and evaluative orientations of university students when navigating AI hallucinations during human–AI collaborative writing. Employing Q methodology structurally anchored in the Cognitive Process Theory of Writing, 45 humanities and social science students prioritized a refined set of 40 statements. Quantitative factor analysis complemented by qualitative post-sort interviews identified five factor-defined perspectives: Autonomous Directors, Pragmatic Operators, Epistemic Sentinels, Conflicted Compromisers, and Creative Opportunists. These perspectives reflect shared configurations of epistemic trust, authorship control, and verification responsibility, which are interpreted in relation to cognitive agency rather than treated as separately measured constructs or fixed categories of students. The findings offer empirical material for formulating tentative, data-informed pedagogical hypotheses concerning different patterns of epistemic and cognitive support in AI-assisted academic writing; these hypotheses require validation through future intervention-based research.",
@@ -642,36 +668,49 @@
         "published": "2026-9-1",
         "journal": "Journal of Educational Computing Research",
         "venue": "Journal of Educational Computing Research"
-      },
-      {
-        "title": "Beyond AI Literacy: Exploring Pre-Service Teachers’ Pedagogical and Ethical Reasoning in Generative AI Integration in Education",
-        "abstract": "Generative artificial intelligence (GenAI) offers opportunities for innovative teaching but also raises ethical concerns. While pre-service teachers are expected to integrate GenAI responsibly, little is known about how they engage in reasoning processes that guide such integration. This study investigates pre-service teachers’ pedagogical and ethical reasoning through case-based scenarios involving GenAI. Pre-service teachers (N = 49) from two Finnish universities reflected on GenAI-related pedagogical ethical cases. Their reflections were analyzed using Shulman’s Pedagogical Reasoning and Action Model and Rest’s Four-Component Model. Findings show that participants’ pedagogical reasoning focused on aligning GenAI with curricula, adapting outputs, and critical evaluation while deeper reflections were less frequent. Ethical reasoning was strongest in fairness cases and motivation-related dimensions, but weaker in accountability cases and policy-related dimensions. This study contributes to understanding pre-service teachers’ pedagogical and ethical reasoning for GenAI integration and informs the development of teacher education programs.",
-        "doi": "10.1177/07356331261479569",
-        "url": "https://doi.org/10.1177/07356331261479569",
-        "authors": [
-          "Alanur Ahsen Dalyanci",
-          "Ismail Celik",
-          "Sini Kontkanen"
-        ],
-        "published": "2026-8-22",
-        "journal": "Journal of Educational Computing Research",
-        "venue": "Journal of Educational Computing Research"
-      },
-      {
-        "title": "Co-Reflection Versus Self-Reflection in Graphic Organizer-Facilitated Training in the Metaverse: Evidence From Students’ Knowledge Gains, Perceptions, and Case-Handling Performances",
-        "abstract": "In vocational education and training, developing students’ communication, teamwork, reflection, and problem-solving skills has become increasingly important. Previous studies have integrated practical cases into metaverse-based courses using the Problem-Guiding, Exploration, and Reflection (PER) process supported by graphic organizers; however, students’ critical thinking depth has remained limited. To address this issue, this study proposed a graphic organizer-supported, co-reflection-based PER metaverse (GCR-PERM) learning model. An experimental study was conducted with 81 third-year nursing students enrolled in a Pediatric Epilepsy Management course at a university of science and technology in northern Taiwan. Forty-two students in the experimental group used GCR-PERM, while 39 students in the control group used a graphic organizer-supported self-reflection-based PER model (GSR-PERM). The results showed that GCR-PERM significantly improved students’ learning achievement, problem-solving tendencies, and collaboration tendencies compared with GSR-PERM. In terms of cognitive load, GCR-PERM did not increase mental workload, although it required greater mental effort. Regarding case-handling performance, the experimental group demonstrated significant improvements in judgment, accuracy, and application, but no significant difference was found in analysis. These findings indicate that GCR-PERM is an effective approach for enhancing nursing students’ case-handling and problem-solving abilities in metaverse-based learning environments.",
-        "doi": "10.1177/07356331261479576",
-        "url": "https://doi.org/10.1177/07356331261479576",
-        "authors": [
-          "Gwo-Jen Hwang",
-          "Chun-Chun Chang"
-        ],
-        "published": "2026-8-21",
-        "journal": "Journal of Educational Computing Research",
-        "venue": "Journal of Educational Computing Research"
       }
     ],
     "International Journal of Human-Computer Interaction": [
+      {
+        "title": "From Cognitive-Emotional Interaction to Identity Construction: How Personality and Technology of Religious Virtual Influencer Affect Behavioral Intention",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2711547",
+        "url": "https://doi.org/10.1080/10447318.2026.2711547",
+        "authors": [
+          "Wenkui Jin",
+          "Lu Chen"
+        ],
+        "published": "2026-9-4",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Safety Paradox: How Uncertainty Shapes Immersive Engagement and Social Bonding in Location-Based Virtual Reality",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2722788",
+        "url": "https://doi.org/10.1080/10447318.2026.2722788",
+        "authors": [
+          "Zhiyun Lei",
+          "Shuyue Li"
+        ],
+        "published": "2026-9-4",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "The Effect of Robot-Initiated Self-Assessment on Children’s Motivation and User Experience During Seven Weeks of Musical Instrument Practice",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2721910",
+        "url": "https://doi.org/10.1080/10447318.2026.2721910",
+        "authors": [
+          "Heqiu Song",
+          "Panos Markopoulos",
+          "Andy Ajubi Awa"
+        ],
+        "published": "2026-9-4",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
       {
         "title": "Influence of Explanation Timing and Content on Passenger Trust and Risk Perception in Autonomous UAM",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -695,45 +734,6 @@
           "Zhengbei Niu",
           "Pingping Fang",
           "Ziyou Wang"
-        ],
-        "published": "2026-9-2",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "RAD-MRM: A Multi-Source Data-Integrated Methodology for Mining User Requirements in Industrial-Heritage Tourism",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2721898",
-        "url": "https://doi.org/10.1080/10447318.2026.2721898",
-        "authors": [
-          "Zhi Qiao",
-          "Shuai Yuan",
-          "Yanmin Xue"
-        ],
-        "published": "2026-9-2",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Negotiating Everyday Geodata: A User-Centered Typology of Geovisibility Practices on Digital Platforms in China",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2723652",
-        "url": "https://doi.org/10.1080/10447318.2026.2723652",
-        "authors": [
-          "Yiming Chen",
-          "Liming Liu"
-        ],
-        "published": "2026-9-2",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Validating and Testing the Simulated Sports and Fitness Gaming Intentions (SSFGI) Framework",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2719103",
-        "url": "https://doi.org/10.1080/10447318.2026.2719103",
-        "authors": [
-          "Chantel Muller"
         ],
         "published": "2026-9-2",
         "journal": "International Journal of Human-Computer Interaction",
@@ -952,214 +952,136 @@
   },
   "keyword_papers": [
     {
-      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
-      "title": "Learning machine learning with young children: exploring informal settings in an African context",
-      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
+      "paperId": "caf6aa70ef4346c8bef1544a751cc619dc55065b",
+      "title": "Game-based learning in early childhood education: a systematic review and meta-analysis",
+      "abstract": "Game-based learning has gained popularity in recent years as a tool for enhancing learning outcomes in children. This approach uses games to teach various subjects and skills, promoting engagement, motivation, and fun. In early childhood education, game-based learning has the potential to promote cognitive, social, and emotional development. This systematic review and meta-analysis aim to summarize the existing literature on the effectiveness of game-based learning in early childhood education This systematic review and meta-analysis examine the effectiveness of game-based learning in early childhood education. The results show that game-based learning has a moderate to large effect on cognitive, social, emotional, motivation, and engagement outcomes. The findings suggest that game-based learning can be a promising tool for early childhood educators to promote children’s learning and development. However, further research is needed to address the remaining gaps in the literature. The study’s findings have implications for educators, policymakers, and game developers who aim to promote positive child development and enhance learning outcomes in early childhood education.",
       "authors": [
-        "I. Sanusi",
-        "Kissinger Sunday",
-        "S. Oyelere"
+        "Manar S. Alotaibi"
       ],
-      "venue": "Computer Science Education",
-      "published": "2023-02-07",
-      "url": "https://doi.org/10.1080/08993408.2023.2175559",
-      "query": "machine learning young children education"
+      "venue": "Frontiers in Psychology",
+      "published": "2024-04-02",
+      "url": "https://doi.org/10.3389/fpsyg.2024.1307881",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
-      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
-      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
+      "paperId": "a6e15d12f9478bcc3adb6c274fbe1b09718d312b",
+      "title": "Enhancing Early Childhood Mathematics Skills Learning through Digital Game-Based Learning",
+      "abstract": "The present study investigates the unique impact of digital game-based learning (DGBL) on children's mathematical problem-solving skills, with a particular focus on both immediate and long-term effects. While much of the existing research on DGBL explores its general benefits, this study differentiates itself by examining how DGBL specifically enhances cognitive skills. The study included 120 students, 61 of whom were assigned to an experimental group taught using digital games, and 59 to a control group taught through traditional methods. The research design incorporated the development of a customized game-based learning material and a comprehensive mathematical problem-solving assessment. The results revealed that the experimental group significantly outperformed the control group in both immediate and delayed post-tests, which underscores the effectiveness of DGBL in enhancing students' retention of mathematics well beyond the initial learning phase. This suggests that DGBL is not only effective in helping students grasp mathematical concepts in the short term but also in strengthening their ability to retain and apply these concepts over time. Moreover, the study goes further by highlighting the long-term cognitive benefits of DGBL, such as the development of critical thinking, quick decision-making, and problem-solving skills. This aspect of the study distinguishes it from other research in the field as it emphasizes not just short-term academic performance, but also lasting improvements in key cognitive abilities. Based on these findings, it is recommended that teachers integrate digital game-based learning into their teaching strategies. This integration can enhance student engagement, motivate learners, and facilitate understanding of mathematical concepts.",
       "authors": [
-        "L. Aquini",
-        "Júlia Veiga",
-        "T. T. Primo"
+        "Omayya M. Al-Hassan",
+        "Layla Alhasan",
+        "R. AlAli"
       ],
-      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
-      "published": "2025-11-24",
-      "url": "https://doi.org/10.5753/sbie.2025.12590",
-      "query": "machine learning young children education"
+      "venue": "International Journal of Learning, Teaching and Educational Research",
+      "published": "2025-02-28",
+      "url": "https://doi.org/10.26803/ijlter.24.2.10",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "c4fcdc96bd7ce77b97a74cba10871559615b152b",
-      "title": "INTERACTIVE LEARNING THROUGH TECHNOLOGY: A MACHINE LEARNING-BASED TRAFFIC SIGN RECOGNITION SYSTEM FOR YOUNG LEARNERS",
-      "abstract": "Vocabulary should be presented to young learners in context with the help of real objects that surround them. Helping them get aware of the recognition of traffic signs could reduce accidents. The current study developed a traffic sign recognition system based on Machine Learning through which the ability of young learners to recognize traffic signs would improve, along with their vocabulary acquisition. The developed system, based on the ADDIE model, was piloted and tested in the Interactive Learning Environment among kindergarten and primary school students. Children can scan and name signs of traffic using mobile devices instantly, having some hands-on experience. The results have shown significant development regarding knowledge of road safety, along with the acquisition of traffic vocabulary and long-term retention that considerably outperformed the state of the art. Parents' feedback strengthened the practicality, interactivity, and usability of the system within young learners' education. This research thus provides evidence for machine learning's role in transforming early education and providing an incredibly effective tool for teaching some of life's most important skills. The development that will be done in the future should be geared towards generalizing the system, adding auditory features of pronunciation, and other sections of vocabulary.",
+      "paperId": "dfefdb7fc29ba0e9d799c0d5fcf75ec49e253855",
+      "title": "Enhancing Early Childhood Cognitive Development via Mobile Game-Based Learning Applications: Insights and Practical Experiences",
+      "abstract": "Early childhood cognitive development is foundational for future academic and personal success. While traditional teaching approaches often overlook technology’s potential, gamebased learning applications offer an innovative solution to enhance cognitive abilities in young children. This study evaluates the feasibility and effectiveness of a game-based learning (GBL) application for enhancing early childhood cognitive abilities. Using Research and Development (R&D) methodology, 40 children aged 5–6 were randomly assigned to experimental and control groups for an eight-week intervention. The application was developed through systematic needs analysis, design, development, implementation, and evaluation. ANCOVA analysis of pre- and post-test assessments demonstrated highly significant effects (F = 2154.89, p < 0.001, partial η2 = 0.966), explaining 96.6% of score variations. Expert validation scores exceeded 4.6 out of 5.0, confirming the application’s quality. Qualitative feedback from teachers and parents noted substantial improvements in children’s problem-solving skills, memory retention, and critical thinking. These findings suggest that integrating GBL applications could enhance educational equity and improve cognitive development outcomes across diverse educational settings.",
       "authors": [
-        "Tri Pujiani",
-        "Ida Dian Sukmawati",
-        "Firman Sah"
+        "Haerul Annuar",
+        "E. Solihatin",
+        "Khaerudin"
       ],
-      "venue": "Intensive Journal",
-      "published": "2025-04-21",
-      "url": "https://doi.org/10.31602/intensive.v8i1.17398",
-      "query": "machine learning young children education"
+      "venue": "International Journal of Interactive Mobile Technologies",
+      "published": "2025-02-27",
+      "url": "https://doi.org/10.3991/ijim.v19i04.51897",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "1cd9d7985b427070bfac16d30c75b73c3b3ef912",
-      "title": "Analysis of mothers’ perceptions affecting eating habits of young children with/without disabilities: A machine learning method",
-      "abstract": "Abstract",
+      "paperId": "6bf8e67c1d1898809a0845dd2807c1e54315a628",
+      "title": "Phygital Game-Based Learning in Early Childhood Education: An Exploratory Review",
+      "abstract": "This paper examines the role of phygital game-based learning (PGBL) in early childhood education, with a specific focus on its potential to foster critical thinking and problem-solving skills in children aged 3 to 8 years. PGBL refers to hybrid educational tools that combine physical manipulatives with interactive digital interfaces, offering multisensory and responsive learning experiences that aim to enhance cognitive engagement and symbolic reasoning. Through a literature-based qualitative review, the study analyzes five representative tools—Osmo Tangram, KIBO Robot, LEGO DUPLO Stories, Marbotic Smart Letters, and PlayShifu Orboot Earth—selected for their pedagogical relevance, documented educational use, and theoretical grounding. Drawing from constructivist and socio-cultural learning theories, particularly those of Piaget, Papert, and Vygotsky, the paper explores how these tools embody principles such as hands-on learning, scaffolding, iterative exploration, and meaningful play. Each tool is evaluated in terms of its support for higher-order cognitive functions, including sequencing, spatial reasoning, emergent literacy, and collaborative learning. The findings reveal that while PGBL tools show promise in promoting engagement and foundational executive functions, their effectiveness depends on factors such as design flexibility, ease of integration into pedagogical practice, and inclusivity. Implementation challenges such as limited open-ended play, cognitive overload, unequal access to digital infrastructure, and the need for educator training are critically examined using Universal Design for Learning (UDL) and Technological Pedagogical Content Knowledge (TPACK) frameworks. Rather than presenting definitive causal claims, this review provides a structured synthesis of current academic literature, highlighting both the affordances and limitations of phygital tools in early education. The analysis also underscores the importance of aligning PGBL tools with developmentally appropriate practices and culturally responsive pedagogy. By offering insights across tool design, implementation, and impact, the paper aims to inform educators, researchers, and policymakers seeking to enhance early learning environments through evidence-based, interactive technologies.",
       "authors": [
-        "So-Young Park",
-        "Saahoon Hong",
-        "Cynthia Y. Yoon"
+        "Tanmoyee Rajkhowa"
       ],
-      "venue": "Korean Journal of Early Childhood Special Education",
-      "published": "2022-03-31",
-      "url": "https://doi.org/10.21214/kecse.2022.22.1.113",
-      "query": "machine learning young children education"
+      "venue": "European Conference on Games Based Learning",
+      "published": "2025-09-26",
+      "url": "https://doi.org/10.34190/ecgbl.19.2.4140",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "55eb61ea6cf9c19c0e6c8500f2e240b06a5033c7",
-      "title": "Exploring the Dynamics of Scaffolding in K-12 ML/AI Education: Insights from a Machine Learning Workshop",
-      "abstract": "This study investigates the rarely-explored scaffolding processes in teaching artificial intelligence (AI), more specifically machine learning (ML), to K-12 students using educational technology. Focusing on a ML workshop within a children’s science camp, we observed 7-12 year-olds interacting with image classifiers using their own drawings, guided by an experienced computing teacher. Our analysis highlights the importance of the teacher’s role in a technology-rich environment in using diagnostic questions to reveal and address students’ misconceptions, aligning with the concept of contingent support. By linking theoretical concepts to practical activities, the teacher helped shift the focus from surface features to deeper processes, promoting advanced reasoning. The paper discusses a distributed scaffolding system combining teacher guidance, technological affordances, and peer interaction, crucial for making complex concepts accessible to young learners. These insights are important for educators and technology developers in enhancing K-12 ML/AI education.",
+      "paperId": "7ffc6b748a24fa632c94c4bebf6d906abc356e5a",
+      "title": "Rural-Urban Digital Divide Discourse: Exploring the Efficacy of Game-Based Learning in Early Childhood Development in Zimbabwe",
+      "abstract": "This qualitative study explores the impact of Game-Based Learning (GBL) on the holistic development of young learners within the framework of a game-based spiral Early Childhood Development (ECD) curriculum. Focusing on the rural-urban internet divide in Zimbabwe, the research involved 80 participants from 16 ECD centres, including administrators, learners, and classroom practitioners. Data were collected through interviews, focus groups, and in-situ observations. Thematic analysis revealed that the effectiveness of GBL varied based on the suitability of games for specific developmental domains. Findings indicate that modern educational games were significantly more effective in urban ECD centres, where internet access was available as compared to ECD centres in rural areas, which often struggled with poor connectivity. Consequently, the study recommends the use of low-cost offline games in internet-constrained rural schools. Implementing these games as teaching aids can enhance the holistic development of ECD learners, bridging the gap created by the rural-urban internet divide. This research contributes valuable insights to the ongoing discourse surrounding internet adoption in the field of education, particularly relating to the implementation of GBL in digitally underserved ECD settings.",
       "authors": [
-        "I. Jormanainen",
-        "Henriikka Vartiainen",
-        "J. Kahila"
+        "Christopher Zishiri",
+        "L. Mataruka",
+        "Gladman Jekese"
       ],
-      "venue": "International Conference on Advanced Learning Technologies",
-      "published": "2024-07-01",
-      "url": "https://doi.org/10.1109/ICALT61570.2024.00067",
-      "query": "machine learning young children education"
+      "venue": "International journal of research and innovation in social science",
+      "published": "2025",
+      "url": "https://doi.org/10.47772/ijriss.2025.903sedu0064",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
-      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
-      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "paperId": "62c2fdf86acfbb92f00559cec843b3d3d273f7d2",
+      "title": "Effects of screen-based task learning and geographical environment on the cognitive performance of primary school students: Assessment of working memory",
+      "abstract": "Understanding the neurocognitive impact of digital integration in education is essential, particularly in sub-Saharan Africa, where socio-economic and geographical disparities amplify the need for effective learning strategies. This study investigated how visuospatial working memory performance is affected by the modality of task presentation (screen versus print) and geographical context (urban, economically advantaged region versus rural, economically disadvantaged region) in Ivorian primary school students. We employed a behavioural approach with 222 students (aged 4–13). Students from urban (Abidjan) and rural (Man) schools were assigned to perform a visuospatial working memory task presented either on a computer screen or using printed physical materials. An analysis of covariance, with age as a covariate, revealed that students performing the task on-screen showed significantly better performance (fewer errors) compared to those using printed materials (p < 0.001). A significant interaction between presentation modality and geographical context was also found (p = 0.009). Specifically, the performance difference between screen and print modalities was larger in the urban setting, primarily due to urban students performing more poorly with printed materials compared to rural students in that same condition; rural students using printed materials outperformed urban students using printed materials (post hoc, p = 0.002). No significant difference in performance on screen-based tasks was found between urban and rural students. The main effect of geographical context was not significant. These findings suggest potential cognitive benefits of screen-based presentation but highlight a complex interplay with geographical context, which itself is intertwined with socio-economic factors and initial age differences that were statistically controlled. Future research should further incorporate direct socio-economic status controls and explore factors like motivation and task engagement, alongside neuroimaging approaches, to elucidate the underlying mechanisms.",
       "authors": [
-        "S. Muppalla",
-        "Sravya Vuppalapati",
-        "Apeksha Reddy Pulliahgaru"
+        "Yacouba Ouattara",
+        "P. Doubran",
+        "K. M. Yao"
       ],
-      "venue": "Cureus",
-      "published": "2023-06-01",
-      "url": "https://doi.org/10.7759/cureus.40608",
-      "query": "screen time child development"
+      "venue": "Brain and Neuroscience Advances",
+      "published": "2025-07-01",
+      "url": "https://doi.org/10.1177/23982128251356029",
+      "query": "working memory digital learning"
     },
     {
-      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
-      "title": "Impact of excessive use of screen time on child development: A review",
+      "paperId": "704fc114279aa0e0bb66cab23a65a5d74d081876",
+      "title": "Embodied learning in the digital age: assessing the impact of gesture-based educational technology on working memory capacity, spatial reasoning, and engagement",
+      "abstract": "Embodied cognition theory underscores the close coupling of bodily action and cognition, suggesting that learning can be strengthened when language is enacted. However, in English as a Foreign Language (EFL) education, the instructional value of gesture-based digital interfaces remains underexamined beyond vocabulary outcomes, particularly in relation to working memory capacity, spatial reasoning, and learner engagement. Addressing this gap, the present study examined how gesture-mediated interactions shape cognitive and affective outcomes in an EFL context using a convergent parallel mixed-methods design. A total of 143 Grade 12 students participated in the study, with 74 were allocated to the experimental group (EG) and 69 to the control group (CG). Over a period of six weeks, EG participated in language tasks using Leap Motion, while CG received traditional instruction. Using a convergent parallel mixed-methods design, we administered three validated scales pre/post and collected open-ended responses from the experimental group; findings were integrated to interpret convergent quantitative and qualitative patterns. Working memory capacity, spatial reasoning, and engagement were measured using validated scales The quantitative analyses indicated that EG made significantly larger improvements in working memory capacity, spatial reasoning, and engagement compared to CG. Qualitative narratives supported these findings, highlighting increased motivation, deeper understanding, and greater agency among participants in EG, despite some initial technical challenges. These results approve that gesture-based instruction may offer a promising approach for enhancing EFL instruction, boosting cognitive abilities and strengthening classroom engagement.",
+      "authors": [
+        "W. Chang",
+        "Amhara Aberash"
+      ],
+      "venue": "BMC Psychology",
+      "published": "2026-02-06",
+      "url": "https://doi.org/10.1186/s40359-026-04089-1",
+      "query": "working memory digital learning"
+    },
+    {
+      "paperId": "90b93437e4dd4c811c8e3672bd7795d10391147d",
+      "title": "Does digital slide accessibility matter? Considering undergraduates’ differences in external-storage effects of note-taking and working memory",
       "abstract": "Abstract not available.",
       "authors": [
-        "Anuradha",
-        "Ragini Mishra",
-        "Arti"
+        "Hyeyoun Kim"
       ],
-      "venue": "International journal of agriculture extension and social development",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
-      "query": "screen time child development"
+      "venue": "Instructional Science",
+      "published": "2026-05-11",
+      "url": "https://doi.org/10.1007/s11251-026-09798-z",
+      "query": "working memory digital learning"
     },
     {
-      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
-      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
-      "abstract": "Abstract not available.",
+      "paperId": "d7b407ac033d2af04724a4a285f71f10ec2b27a0",
+      "title": "Screen inferiority in L2 reading: The role of working memory, proficiency, and digital device usage",
+      "abstract": "\n \n Screen-based reading has frequently been associated with lower comprehension than reading on paper, a phenomenon known as\n screen inferiority\n . Although cognitive capacity, linguistic knowledge, and digital usage vary across learners, it remains underexplored how individual-difference factors shape medium effects in second-language (L2) reading among adolescents. We investigated how reading on paper versus tablets affects L2 reading comprehension among 240 Korean eighth graders learning English and whether medium effects are moderated by working memory, L2 proficiency, and tablet experience. Participants completed comprehension tests under both conditions, along with a reading span task, a proficiency test, and a tablet-usage questionnaire. Results showed that participants performed worse on tablets than on paper; these gaps were larger among learners with higher spans and proficiency. In contrast, tablet experience did not interact with reading medium. These findings underscore the need for explicit instruction to support effective L2 reading on digital devices, even for high-performing learners.\n",
       "authors": [
-        "Midori Yamamoto",
-        "H. Mezawa",
-        "Kenichi Sakurai"
+        "Hyeran Ryu",
+        "Ekaterina Sudina"
       ],
-      "venue": "JAMA pediatrics",
-      "published": "2024-01-22",
-      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
-      "query": "screen time child development"
+      "venue": "Studies in Second Language Acquisition",
+      "published": "2026-06-09",
+      "url": "https://doi.org/10.1017/s0272263126101752",
+      "query": "working memory digital learning"
     },
     {
-      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
-      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
-      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "paperId": "bd51e509e553f8ff9512c70b4df8f038b27f3ef1",
+      "title": "Combining working memory and speech data in a digital app for early detection of cognitive impairment in primary care",
+      "abstract": "Cognitive screening to detect mild cognitive impairment (MCI) and dementia in primary care settings has proven to be a challenging task. The ideal solution would be a brief, low‐burden assessment tool appropriate for use with individuals from diverse educational and cultural backgrounds that requires limited time and expertise from primary care providers. The purpose of this project was to develop a digital cognitive screening app derived from widely used cognitive and speech tasks using machine learning techniques.",
       "authors": [
-        "X. Wan",
-        "Xiao-Qing Kang",
-        "Shunli Chen"
+        "Robin C. Hilsabeck",
+        "Jeffrey N. Keller",
+        "Maya L. Henry"
       ],
-      "venue": "Frontiers in Pediatrics",
-      "published": "2025-08-28",
-      "url": "https://doi.org/10.3389/fped.2025.1667048",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "41aacbf4544af81186f5b2c4e5a229a020291e9c",
-      "title": "Impact of Screen Time on Development of Children",
-      "abstract": "Background: Children today are growing up in a digital environment where screen-based technology is a central part of everyday life. While screens can offer educational and recreational benefits, there is growing concern about their influence on different areas of child development. Objective: This review explored how screen time affects developmental outcomes in children and adolescents aged 0 to 18 years, focusing on physical, cognitive, emotional, and social domains. Methods: A structured search was carried out across databases such as PubMed, Scopus, Web of Science and PsycINFO to identify relevant studies published between 2014 and 2024. Studies were included if they examined the relationship between screen time and at least one area of child development, involved participants within the target age group, and were peer-reviewed and published in English. The review followed PRISMA guidelines, and articles were independently screened and evaluated for quality by two reviewers. Results: A total of 46 studies met the inclusion criteria. Overall, the evidence points to a link between higher levels of screen use and negative outcomes such as reduced physical activity, poorer sleep, attention difficulties, and challenges in emotional and social functioning. However, some studies indicated that limited or educational screen use, especially with parental involvement, may have neutral or even positive effects in certain contexts. Conclusions: Screen time can have both positive and negative effects on child development, depending on factors like duration, type of content, and the context in which screens are used. Managing screen use through age-appropriate guidelines and adult supervision may help reduce risks and promote healthier development. More longitudinal research is needed to establish clearer recommendations for screen use in childhood.",
-      "authors": [
-        "Subhranshu Sekhar Kar",
-        "R. Dube",
-        "B. M. Goud"
-      ],
-      "venue": "Children",
-      "published": "2025-09-25",
-      "url": "https://doi.org/10.3390/children12101297",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "e9567e933934c4d12567a736d23fcd9008562c4e",
-      "title": "Beyond efficiency: Empirical insights on generative AI's impact on cognition, metacognition and epistemic agency in learning",
-      "abstract": "Generative AI (GenAI) promises to reshape education, yet, beyond gains in efficiency and scalability, crucial questions remain regarding its deeper cognitive, epistemic, socio‐emotional and ethical implications for learners. This special section collects emerging empirical evidence from diverse educational settings to examine how interactions with advanced GenAI systems—ranging from intelligent tutors and conversational agents to AI‐generated feedback providers—shape learners' cognitive engagement, epistemic agency, metacognitive regulation and emotional relationships with technology. While studies reveal evidence of positive effects in personalised guidance, collaborative inquiry and enhanced self‐reflection, findings also highlight risks such as diminished epistemic vigilance, superficial learning and emotional dependence on AI interlocutors. These insights advocate for an educational re‐imagining that actively experiments with novel AI technologies while continuously gathering and critically evaluating evidence—envisioning education not merely as a spectrum ranging from fully human‐ or AI‐led activities but also as genuinely collaborative endeavours that balance human intelligence and AI capabilities in meaningful and ethically grounded partnerships. Looking ahead, in this editorial, we propose an interdisciplinary research roadmap that urges deeper examination of the cognitive and neural consequences associated with sustained AI exposure, together with the development of comprehensive frameworks to cultivate AI literacy and evaluative judgement. It also encourages rigorous assessment of the long‐term ethical implications of increasingly blurred human‐AI boundaries. Ultimately, advancing education in GenAI‐infused contexts requires proactive engagement with these emerging complexities, so that teachers and learners not only survive in an AI‐infused future but also creatively, critically and ethically co‐author it.",
-      "authors": [
-        "Lixiang Yan",
-        "Viktoria Pammer-Schindler",
-        "Caitlin Mills"
-      ],
-      "venue": "British Journal of Educational Technology",
-      "published": "2025-07-24",
-      "url": "https://doi.org/10.1111/bjet.70000",
-      "query": "metacognition AI learning"
-    },
-    {
-      "paperId": "1192e1968a26114ec854e2bb46ecbe4cbda8c238",
-      "title": "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)",
-      "abstract": "This study comprehensively analyses how AI tools scaffold and share metacognitive processes, thereby facilitating students’ learning in STEM classrooms through a mixed-method research synthesis combining bibliometric analysis and systematic review. Using a convergent parallel mixed-methods design, the study draws on 135 peer-reviewed articles published between 2005 and 2025 to map publication trends, author and journal productivity, keyword patterns, and theoretical frameworks. Data were retrieved from Scopus and Web of Science using structured Boolean searches and analysed using Biblioshiny and VOSviewer. Guided by PRISMA 2020 protocols, 24 studies were selected for in-depth qualitative review. Findings show that while most research remains grounded in human-centred conceptualisations of metacognition, there are emerging indications of posthumanist framings, where AI systems are positioned as co-regulators of learning. Tools like learning analytics, intelligent tutoring systems, and generative AI platforms have shifted the discourse from individual reflection to system-level regulation and distributed cognition. The study is anchored in Flavell’s theory of metacognition, General Systems Theory, and posthumanist perspectives to interpret this evolution. Educational implications highlight the need to reconceptualise pedagogical roles, integrate AI literacy in teacher preparation, and prioritise ethical, reflective AI design. The review provides a structured synthesis of theoretical, empirical, and conceptual trends, offering insights into how human–machine collaboration is reshaping learning by scaffolding and co-regulating students’ metacognitive development in STEM education.",
-      "authors": [
-        "Maria Tsakeni",
-        "S. C. Nwafor",
-        "Moeketsi Mosia"
-      ],
-      "venue": "Journal of Intelligence",
-      "published": "2025-11-01",
-      "url": "https://doi.org/10.3390/jintelligence13110148",
-      "query": "metacognition AI learning"
-    },
-    {
-      "paperId": "ad9cf63bfef0e3e3de1393b0f2b662f41a54b22e",
-      "title": "The cognitive mirror: a framework for AI-powered metacognition and self-regulated learning",
-      "abstract": "The dominant paradigm of generative artificial intelligence (AI) in education positions it as an omniscient oracle, a model that risks hindering genuine learning by fostering cognitive offloading.This study proposes a fundamental shift from “AI as Oracle” model to a “Cognitive Mirror” paradigm, which reconceptualizes AI as a teachable novice engineered to reflect the quality of a learner’s explanation. The core innovation is the repurposing of AI safety guardrails as didactic mechanisms to deliberately sculpt AI’s ignorance, creating a “pedagogically useful deficit.” This conceptual shift enables a detailed implementation of the “learning by teaching” principle.Within this paradigm, a framework driven by a Teaching Quality Index is introduced. This metric assesses the learner’s explanation and activates an instructional guidance level to modulate the AI’s responses, from feigning confusion to asking clarifying questions.Grounded in learning science principles, such as the Protégé Effect and Reflective Practice, this approach positions the AI as a metacognitive partner. It may support a shift from knowledge transfer to knowledge construction, and a re-orientation from answer correctness to explanation quality in the contexts we describe.By re-centering human agency, the “Cognitive Mirror” externalizes the learner’s thought processes, making their misconceptions objects of repair. This study discusses the implications on assessment, addresses critical risks, including algorithmic bias, and outlines a research agenda for a symbiotic human-AI coexistence that promotes effortful work at the heart of deep learning.",
-      "authors": [
-        "H. Tomisu",
-        "Junya Ueda",
-        "Tsukasa Yamanaka"
-      ],
-      "venue": "Frontiers in Education",
-      "published": "2025-10-09",
-      "url": "https://doi.org/10.3389/feduc.2025.1697554",
-      "query": "metacognition AI learning"
-    },
-    {
-      "paperId": "5cc59cd8a20745bdcdb0221b6e35fffeec8ed8c7",
-      "title": "Generative AI tool use enhances academic achievement in sustainable education through shared metacognition and cognitive offloading among preservice teachers",
-      "abstract": "The integration of generative artificial intelligence tools in education has emerged as a transformative approach to enhancing learning outcomes, particularly in the context of sustainable development goals (SDG4). Therefore, the present study investigates the connection between generative artificial intelligence tool usage (GenAITU) and academic achievement (AA) in the context of SDG4. We assessed the mediating role of shared metacognition (SMC) and cognitive offloading (COL) in this relationship among preservice teachers (PSTs). The indicators, including performance expectancy (PE), effort expectancy (EE), facilitating conditions (FC), and use behavior (UB), are derived from adapting the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) for GenAITU. The authors surveyed 465 students from five universities in Wuhan, China, using a 7-point Likert scale through a time-lag design. Statistical analysis was performed through partial least squares structural equation modeling (PLS-SEM), to determine the relationship between variables. Findings indicated that two components of GenAITU, namely PE and UB, showed significant positive associations with AA, while the other two, EE and FC, did not show significant and positive relationships with AA. Results also showed that three dimensions of GenAITU, namely EE, FC, and UB have a positive and significant association with SMC while PE has a positive and significant connection with SMC. All four components of GenAITU like PE, EE, FC, and UB have positive and significant links with COL. SMC and COL have a positive and significant relationship with AA. Results also indicated that SMC mediated the connections between GenAITU (EE, FC, and UB) and AA. Outcomes also indicated that COL mediated the connections between GenAITU (PE, EE, FC, and UB) and AA. The current study shows that SMC and COL were strong mediators of the association between GenAITU and AA. The results of our study provide guidance to teachers, curriculum planners, and university management to successfully integrate GenAITU into the education for PSTs.",
-      "authors": [
-        "Javed Iqbal",
-        "Zarqa Farooq Hashmi",
-        "Muhammad Zaheer Asghar"
-      ],
-      "venue": "Scientific Reports",
-      "published": "2025-05-13",
-      "url": "https://doi.org/10.1038/s41598-025-01676-x",
-      "query": "metacognition AI learning"
-    },
-    {
-      "paperId": "e24ec2cbc33efb4466e961b082e19f85ed20370c",
-      "title": "Leveraging generative AI to foster metacognition and self-directed learning",
-      "abstract": "ABSTRACT With the ever-expanding amount of data, students increasingly find themselves needing to engage in self-directed learning to be successful. Students studying science, technology, engineering, and mathematics often struggle with self-directed learning and are often discouraged, leading to higher attrition within these disciplines. There is a lack of opportunities for students to develop and practice self-directed learning skills within traditional curricula. This research explored the ways in which a generative artificial intelligence model could be used to cultivate metacognition and promote readiness for self-directed learning among graduate students. By leveraging the relationship between metacognition and self-directed learning, with the customizability of the artificial intelligence model, we sought to facilitate conversations between students and the model to enhance metacognitive awareness and self-directed learning readiness. Using the Metacognition Awareness Inventory and Self-Directed Learning Instrument, we found that students improved significantly on both pre- and post-assessment comparisons. Students needed to interact with the model twice a week, for 10 minutes per session. Our findings demonstrate a novel application of generative artificial intelligence in supporting students’ personal development and expand our understanding of how artificial intelligence can be leveraged to generate a supportive process, rather than solely as a mechanism for generating answers or some other product.",
-      "authors": [
-        "Brandon Lowry",
-        "Samantha McGrath",
-        "C. Eitel"
-      ],
-      "venue": "Journal of Microbiology & Biology Education",
-      "published": "2025-11-26",
-      "url": "https://doi.org/10.1128/jmbe.00153-25",
-      "query": "metacognition AI learning"
+      "venue": "Alzheimer's &amp; Dementia",
+      "published": "2023-12-01",
+      "url": "https://doi.org/10.1002/alz.079664",
+      "query": "working memory digital learning"
     }
   ],
   "hot_topics": [
@@ -1168,11 +1090,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 66,
+      "count": 63,
       "keywords": [
         "AR",
         "virtual reality",
-        "VR"
+        "VR",
+        "immersive"
       ]
     },
     {
@@ -1180,41 +1103,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 33,
+      "count": 29,
       "keywords": [
-        "school",
-        "parent",
         "teacher",
-        "family",
-        "classroom"
-      ]
-    },
-    {
-      "id": "ai_tools",
-      "name": "AI工具与教育应用",
-      "subtitle": "AI Tools in Education",
-      "icon": "🤖",
-      "count": 22,
-      "keywords": [
-        "machine learning",
-        "artificial intelligence",
-        "generative AI",
-        "deep learning",
-        "LLM"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 17,
-      "keywords": [
-        "executive function",
-        "attention",
-        "metacognition",
-        "cognitive development",
-        "self-regulation"
+        "parent",
+        "classroom",
+        "school",
+        "preschool teacher"
       ]
     },
     {
@@ -1222,13 +1117,27 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 14,
+      "count": 19,
       "keywords": [
+        "game-based",
+        "game",
         "play",
         "personalized learning",
-        "game",
-        "game-based",
         "gamification"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 16,
+      "keywords": [
+        "cognitive development",
+        "executive function",
+        "working memory",
+        "metacognition",
+        "attention"
       ]
     },
     {
@@ -1239,9 +1148,24 @@
       "count": 12,
       "keywords": [
         "vocabulary",
-        "language development",
+        "reading",
         "writing",
-        "early literacy"
+        "early literacy",
+        "language development"
+      ]
+    },
+    {
+      "id": "ai_tools",
+      "name": "AI工具与教育应用",
+      "subtitle": "AI Tools in Education",
+      "icon": "🤖",
+      "count": 11,
+      "keywords": [
+        "machine learning",
+        "LLM",
+        "large language model",
+        "artificial intelligence",
+        "deep learning"
       ]
     },
     {
@@ -1249,9 +1173,8 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 12,
+      "count": 10,
       "keywords": [
-        "social-emotional",
         "emotion",
         "empathy"
       ]
@@ -1263,10 +1186,9 @@
       "icon": "💬",
       "count": 7,
       "keywords": [
-        "conversational agent",
-        "intelligent tutoring",
+        "robot",
         "chatbot",
-        "robot"
+        "conversational agent"
       ]
     },
     {
@@ -1274,10 +1196,10 @@
       "name": "数字媒体与屏幕使用",
       "subtitle": "Digital Media & Screen Time",
       "icon": "📱",
-      "count": 6,
+      "count": 2,
       "keywords": [
         "mobile",
-        "screen time"
+        "tablet"
       ]
     },
     {
@@ -1285,10 +1207,8 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 4,
+      "count": 2,
       "keywords": [
-        "computer science",
-        "algorithm",
         "computational thinking",
         "programming"
       ]
