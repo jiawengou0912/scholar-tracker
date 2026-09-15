@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14 07:18 UTC",
+  "updated_at": "2026-09-15 06:53 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -127,6 +127,20 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Ethical legitimacy and pedagogical activation: generational sensemaking of GenAI in language teaching",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10712-0",
+        "url": "https://doi.org/10.1007/s11423-026-10712-0",
+        "authors": [
+          "Sun Qian",
+          "Zhang Heng",
+          "Li Ruyang"
+        ],
+        "published": "2026-9-14",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "A humorous social-affective instructional style in generative AI pedagogical agents: effects on cognitive load, immediate learning performance, and learner perceptions",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10715-x",
@@ -177,20 +191,6 @@
           "Husni Mubarok"
         ],
         "published": "2026-9-3",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Instructors’ perceptions of a large language model framework for generating automated multiple-choice questions from video transcripts",
-        "abstract": "Abstract\n                  Video-Based Learning has become a central modality in digital education, with embedded Multiple-Choice Questions (MCQs) recognized as an effective strategy for promoting engagement and assessing comprehension. However, manually creating high-quality MCQs is challenging for instructors. This study presents a framework that leverages Large Language Models (LLM) to automate MCQ generation from video transcripts while ensuring alignment with established item-writing criteria. Unlike most prior approaches, the framework explicitly integrates the Item-Writing Flaws (IWF) checklist into the generation prompt, rather than using it solely for post-hoc evaluation. It segments video transcripts into topics, extracts and classifies key concepts, and applies structured prompting strategies to generate MCQs adhering to the IWF checklist and additional criteria from the literature, including relevance, difficulty, contextual specificity, and answerability. The framework was evaluated through a mixed-methods study involving seven instructors from diverse disciplines who assessed 257 generated MCQs. The results indicate that the majority of items met established quality guidelines. Specifically, 84.05% of the questions were rated as clear, 86.38% contained plausible distractors, and 93.39% were directly answerable based on the video content. The main issues identified concerned relevance, reflecting occasional difficulty in distinguishing illustrative examples from core instructional content, and linguistic precision, with a tendency to overgeneralize instructors’ statements. In semi-structured interviews, instructors reported that the framework could substantially reduce MCQ preparation time while requiring only minor refinements to improve question specificity. Overall, the findings suggest that embedding pedagogical quality principles directly into LLM prompting represents a viable and promising direction for assessment automation.",
-        "doi": "10.1007/s11423-026-10646-7",
-        "url": "https://doi.org/10.1007/s11423-026-10646-7",
-        "authors": [
-          "Giacomo Cassano",
-          "Daniel Ebbert",
-          "Negin Mirriahi"
-        ],
-        "published": "2026-9-2",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
       }
@@ -268,20 +268,6 @@
         "venue": "Computers in Human Behavior"
       },
       {
-        "title": "Creative or uncreative partner: Comparing humans and AI in collaborative creative tasks",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109172",
-        "url": "https://doi.org/10.1016/j.chb.2026.109172",
-        "authors": [
-          "Clin K.Y. Lai",
-          "Simone A. Luchini",
-          "Nina Lauharatanahirun"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
         "title": "Autonomy-supportive mediation and scam susceptibility: The role of literacy among middle-aged and older adults",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.chb.2026.109178",
@@ -290,6 +276,20 @@
           "Yunsha Pu",
           "Hongliang Chen",
           "Yijin Guo"
+        ],
+        "published": "2027-2",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Creative or uncreative partner: Comparing humans and AI in collaborative creative tasks",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109172",
+        "url": "https://doi.org/10.1016/j.chb.2026.109172",
+        "authors": [
+          "Clin K.Y. Lai",
+          "Simone A. Luchini",
+          "Nina Lauharatanahirun"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -480,6 +480,20 @@
         "venue": "Learning and Instruction"
       },
       {
+        "title": "Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102462",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102462",
+        "authors": [
+          "Heike Russ",
+          "Tino Endres",
+          "Leonie Sibley"
+        ],
+        "published": "2027-2",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
         "title": "The underestimated role of effort in ability self-concept formation: Preliminary evidence for another major comparison process",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.learninstruc.2026.102471",
@@ -518,20 +532,6 @@
           "Lena Heine"
         ],
         "published": "2027-2",
-        "journal": "Learning and Instruction",
-        "venue": "Learning and Instruction"
-      },
-      {
-        "title": "Childhood spatial skills and adolescent STEM achievement in maths and science: The role of visuospatial working memory",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.learninstruc.2026.102421",
-        "url": "https://doi.org/10.1016/j.learninstruc.2026.102421",
-        "authors": [
-          "Dominic P. Kelly",
-          "Laura A. Outhwaite",
-          "Sammy F. Ahmed"
-        ],
-        "published": "2026-12",
         "journal": "Learning and Instruction",
         "venue": "Learning and Instruction"
       }
@@ -679,66 +679,71 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "A Decade in Review: Situation-Awareness-Based Agent Transparency and Human-Machine Teaming",
+        "title": "Choosing Between AI Responses: How Valence, Arousal, and Dominance Shape User Preference",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2724199",
-        "url": "https://doi.org/10.1080/10447318.2026.2724199",
+        "doi": "10.1080/10447318.2026.2727770",
+        "url": "https://doi.org/10.1080/10447318.2026.2727770",
         "authors": [
-          "Jessie Y.C. Chen",
-          "Julia L. Wright"
+          "Petr Parshakov",
+          "Sofiia Paklina"
         ],
-        "published": "2026-9-11",
+        "published": "2026-9-14",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "QN-MHPV2: A Physiologically Grounded Cognitive Model of Takeover Time in Conditionally Automated Driving",
+        "title": "Design and Evaluation of OnlinePal: A Digital Behavior Change Intervention to Support Healthy Internet Use and Parental Mediation",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2728522",
-        "url": "https://doi.org/10.1080/10447318.2026.2728522",
+        "doi": "10.1080/10447318.2026.2730820",
+        "url": "https://doi.org/10.1080/10447318.2026.2730820",
         "authors": [
-          "Honghao Wu",
-          "Kefei Tian",
-          "Lishengsa Yue"
+          "Yansen Theopilus",
+          "Abdullah Al Mahmud",
+          "Hilary Davis"
         ],
-        "published": "2026-9-11",
+        "published": "2026-9-14",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "“The End Justifies the Fake”: Public Sense-Making of Deepfake Pro-Social Campaigns",
+        "title": "Extended Reality (XR) for Cynophobia: A Comprehensive Review on Animal Phobia Treatments and Future Directions",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2728938",
-        "url": "https://doi.org/10.1080/10447318.2026.2728938",
+        "doi": "10.1080/10447318.2026.2728236",
+        "url": "https://doi.org/10.1080/10447318.2026.2728236",
         "authors": [
-          "Nili Steinfeld",
-          "Hila Lowenstein",
-          "Hananel Rosenberg"
+          "Inês Alves",
+          "Nuno Conceição",
+          "Augusto Esteves"
         ],
-        "published": "2026-9-11",
+        "published": "2026-9-14",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "When Trust Disarms Vigilance: Integrating Protection Motivation Theory and Technology Threat Avoidance Theory to Explain Cybersecurity-Protective Behavior in Social Commerce",
+        "title": "Perceived AI Legitimacy and Trust in Human–AI Decision Assistance: A Dual-Path Perspective on Psychological and Normative Evaluation",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2727330",
-        "url": "https://doi.org/10.1080/10447318.2026.2727330",
+        "doi": "10.1080/10447318.2026.2728939",
+        "url": "https://doi.org/10.1080/10447318.2026.2728939",
         "authors": [
-          "Giang Thi Truong Nguyen",
-          "Pham Chien Thang"
+          "Beomsoo Kim",
+          "Dayoung Lee",
+          "Hyeonjeong Kim"
         ],
-        "published": "2026-9-11",
+        "published": "2026-9-14",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Correction",
+        "title": "Result-Oriented Generation Meets Process-Oriented Creation: Understanding the Tension Between Generative AI and Craft Practice",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2731671",
-        "url": "https://doi.org/10.1080/10447318.2026.2731671",
-        "authors": [],
-        "published": "2026-9-11",
+        "doi": "10.1080/10447318.2026.2732483",
+        "url": "https://doi.org/10.1080/10447318.2026.2732483",
+        "authors": [
+          "Haiqing Xu",
+          "Jing Li",
+          "Naixin Hou"
+        ],
+        "published": "2026-9-14",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
@@ -784,6 +789,19 @@
         "venue": "Early Childhood Education Journal"
       },
       {
+        "title": "Enacting Scientific Curiosity in a Kindergarten Learning Garden: Children’s Inquiry, Talk, and Plant Sensemaking",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02348-9",
+        "url": "https://doi.org/10.1007/s10643-026-02348-9",
+        "authors": [
+          "Naji Kortam",
+          "Soheer Nabil-Hanna"
+        ],
+        "published": "2026-9-8",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
         "title": "Examining Influence on Early Care and Education Teachers’ Intention to Leave: Compensation, Workplace Support, and Depressive Symptoms",
         "abstract": "Abstract\n                  \n                    High turnover among early care and education (ECE) teachers threatens workforce stability and may have negative implications for ECE program quality and children’s early learning and development. Previous research limited to specific regions or small samples has linked low compensation, workplace support, and mental well-being to teacher’ turnover intentions. However, these associations have not yet been examined within nationally representative data. This preregistered study examined the extent to which compensation, workplace support, and depressive symptoms were associated with turnover intention among a nationally representative sample of center-based ECE teachers. It also explore whether depressive symptoms moderated the links between compensation and workplace support and turnover intention. The study relied on data from the 2019 National Survey of Early Care and Education (NSECE) Workforce Questionnaire (\n                    N\n                     = 3,379). Weighted binary logistic regression analyses were conducted, as well as tests of two interaction effects between depressive symptoms and workplace support and between depressive symptoms and hourly wage. Results demonstrated that greater workplace support was associated with lower odds of turnover intention, and more depressive symptoms was associated with greater odds of turnover intention. Hourly wage was not significantly associated with turnover intention. Moreover, we did not find evidence of depressive symptoms moderating the associations between workplace support or hourly wage and turnover intention. Ultimately, the findings from this study suggest that workplace support and mental well-being may be particularly important to target to improve retention in the ECE workforce.",
         "doi": "10.1007/s10643-026-02329-y",
@@ -792,19 +810,6 @@
           "Erin G. Fox",
           "Sarah N. Lang",
           "Kelly M. Purtell"
-        ],
-        "published": "2026-9-8",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Enacting Scientific Curiosity in a Kindergarten Learning Garden: Children’s Inquiry, Talk, and Plant Sensemaking",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02348-9",
-        "url": "https://doi.org/10.1007/s10643-026-02348-9",
-        "authors": [
-          "Naji Kortam",
-          "Soheer Nabil-Hanna"
         ],
         "published": "2026-9-8",
         "journal": "Early Childhood Education Journal",
@@ -821,6 +826,20 @@
           "Gladys Aguilar",
           "Adriana J. Umaña-Taylor",
           "Laudan B. Jahromi"
+        ],
+        "published": "2027",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "From kindergarten to second grade: Socioeconomic pathways to academic performance in South Korea",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2026.08.004",
+        "url": "https://doi.org/10.1016/j.ecresq.2026.08.004",
+        "authors": [
+          "Hwajin Lee",
+          "Jiyoung Lim",
+          "Ashley Boros"
         ],
         "published": "2027",
         "journal": "Early Childhood Research Quarterly",
@@ -863,19 +882,6 @@
           "Mélodie Bulinski",
           "Carole Berger",
           "Sonia Angonin"
-        ],
-        "published": "2027",
-        "journal": "Early Childhood Research Quarterly",
-        "venue": "Early Childhood Research Quarterly"
-      },
-      {
-        "title": "Early educator depressive symptoms and responses to challenging behaviors",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.ecresq.2026.08.007",
-        "url": "https://doi.org/10.1016/j.ecresq.2026.08.007",
-        "authors": [
-          "Anna J. Markowitz",
-          "Flora S. Ziprin"
         ],
         "published": "2027",
         "journal": "Early Childhood Research Quarterly",
@@ -956,138 +962,74 @@
   },
   "keyword_papers": [
     {
-      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
-      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
-      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
+      "paperId": "7e4dfefcbacb639faa8a6fc8224ab7e0d7acf827",
+      "title": "Investigating the higher education institutions’ guidelines and policies regarding the use of generative AI in teaching, learning, research, and administration",
+      "abstract": "This study examined the guidelines issued by the top 50 U.S. universities regarding the use of Generative AI (GenAI) in academic and administrative activities. Employing a mixed methods approach, the research combined topic modeling, sentiment analysis, and qualitative thematic analysis to provide a comprehensive understanding of institutional responses to GenAI. Topic modeling identified four core topics: Integration of GenAI in Learning and Assessment, GenAI in Visual and Multimodal Media, Security and Ethical Considerations in GenAI, and GenAI in Academic Integrity. These themes were further explored through sentiment analysis, which revealed highly positive attitudes towards GenAI across all institution types, with significant differences between faculty and student-targeted guidelines. Qualitative thematic analysis corroborated these findings and provided deeper insights, revealing that 94% of universities had faculty guidelines emphasizing the importance of establishing and communicating course-specific GenAI policies. This analysis also highlighted recurring themes such as academic integrity and privacy concerns, which aligned with the security and ethical considerations identified in the topic modeling. The study highlights the rapid evolution of GenAI guidelines in higher education and the need for flexible, stakeholder-specific policies that address both the opportunities and challenges presented by this technology.",
       "authors": [
-        "Walayat Hussain",
-        "Machi Raju Varanasi",
-        "Liam New"
+        "Yunjo An",
+        "J. Yu",
+        "Shadarra James"
       ],
-      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
-      "published": "2025-11-18",
-      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
-      "query": "large language model education"
+      "venue": "International Journal of Educational Technology in Higher Education",
+      "published": "2025-02-21",
+      "url": "https://doi.org/10.1186/s41239-025-00507-3",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
-      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
-      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
+      "paperId": "c3cf3882ef339e3f5734c4c8008d9df228fcbf04",
+      "title": "A Systematic Review of Responses, Attitudes, and Utilization Behaviors on Generative AI for Teaching and Learning in Higher Education",
+      "abstract": "The utilization of Generative AI (GenAI) in higher education classrooms has significantly increased in recent years. Studies show that GenAI holds promise in impacting the learning experiences of both students and teachers, offering personalized learning and assessment opportunities. This study conducts a systematic review of the responses, attitudes, and behaviors related to the application of GenAI within higher education classrooms. To this end, we synthesized 99 papers published between 2020 and August 2024, focusing on the utilization of GenAI in higher education settings. The analysis addresses three key inquiries: responses, attitudes, and behaviors. This systematic review provides an updated understanding from psychological perspectives of GenAI’s role in the teaching and learning processes of higher education, with a particular emphasis on GenAI technologies.",
       "authors": [
-        "S. Guizani",
-        "Tehseen Mazhar",
-        "Tariq Shahzad"
+        "Fan-Fan Wu",
+        "Yang Dang",
+        "Manli Li"
       ],
-      "venue": "Discover Education",
-      "published": "2025-02-15",
-      "url": "https://doi.org/10.1007/s44217-025-00424-7",
-      "query": "large language model education"
+      "venue": "Behavioral Science",
+      "published": "2025-04-01",
+      "url": "https://doi.org/10.3390/bs15040467",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
-      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
-      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
+      "paperId": "1e05df4cb4c1761cb52ef33caafb12bf27544ada",
+      "title": "Exploring How AI Literacy and Self-Regulated Learning Relate to Student Writing Performance and Well-Being in Generative AI-Supported Higher Education",
+      "abstract": "The integration of generative artificial intelligence (GAI) into higher education is transforming students’ learning processes, academic performance, and psychological well-being. Despite the increasing adoption of GAI tools, the mechanisms through which students’ AI literacy and self-regulated learning (SRL) relate to their academic and emotional experiences remain underexplored. This study investigates how AI literacy and SRL are associated with writing performance and digital well-being among university students in GAI-supported higher learning contexts. A survey was administered to 257 students from universities in China, and structural equation modeling was used to examine the hypothesized relationships. Results show that both AI literacy and SRL significantly and positively predict students’ writing performance, with SRL having a stronger effect. Moreover, AI literacy shows a positive association with GAI-driven well-being, with writing performance serving as a partial mediator in this relationship. These findings suggest that fostering both technological competencies and effective learning strategies may support students’ academic outcomes while supporting their psychological well-being in AI-enriched educational environments. By integrating AI literacy and SRL into a unified model, this study contributes to the growing body of research on GAI-driven well-being in higher education and offers practical implications for cultivating balanced and sustainable learning experiences in the age of GAI.",
       "authors": [
-        "James C. L. Chow",
-        "Kay Li"
+        "Jia-Jia Shi",
+        "Wei-Tong Liu",
+        "Ke Hu"
       ],
-      "venue": "JMIR Cancer",
-      "published": "2025-02-18",
-      "url": "https://doi.org/10.2196/66633",
-      "query": "large language model education"
+      "venue": "Behavioral Science",
+      "published": "2025-05-01",
+      "url": "https://doi.org/10.3390/bs15050705",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
-      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
-      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
+      "paperId": "d44b39279750970c9dd4c7151df49e0f9faef87a",
+      "title": "Machine Learning and Generative AI in Learning Analytics for Higher Education: A Systematic Review of Models, Trends, and Challenges",
+      "abstract": "This systematic review examines how machine learning (ML) and generative AI (GenAI) have been integrated into learning analytics (LA) in higher education (2018–2025). Following PRISMA 2020, we screened 9590 records and included 101 English-language, peer-reviewed empirical studies that applied ML or GenAI within LA contexts. Records came from 12 databases (last search 15 March 2025), and the results were synthesized via thematic clustering. ML approaches dominate LA tasks, such as engagement prediction, dropout-risk modelling, and academic-performance forecasting, whereas GenAI—mainly transformer models like GPT-4 and BERT—is emerging in real-time feedback, adaptive learning, and sentiment analysis. Studies spanned world regions. Most ML papers (n = 75) examined engagement or dropout, while GenAI papers (n = 26) focused on adaptive feedback and sentiment analysis. No formal risk-of-bias assessment was conducted due to heterogeneity. While ML methods are well-established, GenAI applications remain experimental and face challenges related to transparency, pedagogical grounding, and implementation feasibility. This review offers a comparative synthesis of paradigms and outlines future directions for responsible, inclusive, theory-informed AI use in education.",
       "authors": [
-        "Jian-Wen Zeng",
-        "Wenhao Qi",
-        "Shi-Ying Shen"
-      ],
-      "venue": "Journal of Medical Internet Research",
-      "published": "2025-11-13",
-      "url": "https://doi.org/10.2196/79091",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
-      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
-      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
-      "authors": [
-        "V. Nikolovski",
-        "D. Trajanov",
-        "Ivan Chorbev"
-      ],
-      "venue": "Algorithms",
-      "published": "2025-03-04",
-      "url": "https://doi.org/10.3390/a18030144",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "ba0eb96237abaf50c6cb72852385b11867100a0c",
-      "title": "Effectiveness of Robot-Mediated Learning in Fostering Children’s Social and Cognitive Development",
-      "abstract": "Engaging with social robots has been recognized as potentially beneficial for children facing social communication challenges, especially in developing skills such as joint attention. This systematic review examines the effectiveness of robot-mediated learning in enhancing children’s cognitive abilities, emotional resilience, and self-confidence, based on an analysis of research conducted between 2018 and 2025. While social robots show promise in delivering personalized and engaging educational experiences, challenges such as emotional dependence, accessibility, and ethical concerns persist. The review concludes that further research, particularly longitudinal studies and cross-cultural comparisons, is necessary to fully understand the long-term impacts of robot-mediated learning on children’s cognitive and social development. It explores the application of robotic technology in relation to children’s educational progress across different age groups. The review includes studies of various types, such as experimental, non-experimental, and research articles, covering diverse research fields, robots, contexts of use, target audiences, and outcomes. The findings highlight the growing potential of social robots to support children’s cognitive development by providing interactive and stimulating learning experiences. This review offers valuable insights for researchers and designers aiming to improve robotic interventions and tailor them to meet diverse developmental needs and educational settings.",
-      "authors": [
-        "Zainab Salma",
-        "Raquel Hijón-Neira",
-        "C. Pizarro"
+        "M. Rodriguez-Ortiz",
+        "P. C. Santana-Mancilla",
+        "Luis E. Anido-Rifón"
       ],
       "venue": "Applied Sciences",
-      "published": "2025-03-25",
-      "url": "https://doi.org/10.3390/app15073567",
-      "query": "cognitive development technology children"
+      "published": "2025-08-05",
+      "url": "https://doi.org/10.3390/app15158679",
+      "query": "generative AI learning education"
     },
     {
-      "paperId": "ba52abab3168dee9f58384d206874173cf50b4f3",
-      "title": "IMPACT OF TECHNOLOGY ON SOCIAL AND COGNITIVE DEVELOPMENT IN CHILDREN",
-      "abstract": "Technology has inuenced children's social and cognitive development in recent years. This article explores both the\npositive and negative impacts of technology on children's social and cognitive development. On the one hand, technology\ncan provide children with the opportunity to learn and engage in activities that may not be available in their home environment. This can lead to\nincreased condence and improved problem-solving skills. On the other hand, technology can lead to a decrease in physical activity, an increase in\nfeelings of isolation and loneliness, an over-dependence on technology, and a decrease in creativity and problem-solving skills. The article also\ndiscusses technology's potential implications on children's social and cognitive development. It looks at how technology can both positively and\nnegatively affect children's development. It also looks at how it can be used to help them grow and develop healthily. Ultimately, this article\nprovides insight into the impact of technology on children's social and cognitive development and the potential implications of technology on\ntheir lives",
+      "paperId": "b65f5186212078a458dcff903faeeb779cef5d0f",
+      "title": "The impact of generative AI on health professional education: A systematic review in the context of student learning",
+      "abstract": "Generative Artificial Intelligence (GenAI) is increasingly integrated into health professions education (HPE), offering new opportunities for student learning. However, current research lacks a comprehensive understanding of how HPE students actually use GenAI in practice. Laurillard's Conversational Framework outlines six learning types—acquisition, inquiry, practice, production, discussion and collaboration—commonly used to categorise learning activities supported by conventional and digital technologies. Gaining insight into how GenAI aligns with these six learning types could assist HPE academics in integrating it more thoughtfully and effectively into teaching and learning.",
       "authors": [
-        "Rani Maria Joy"
+        "Thai Duong Pham",
+        "N. Karunaratne",
+        "Betty Exintaris"
       ],
-      "venue": "Indian Journal Of Applied Research",
-      "published": "2023-04-01",
-      "url": "https://doi.org/10.36106/ijar/2913763",
-      "query": "cognitive development technology children"
-    },
-    {
-      "paperId": "874200b9fe1a78d212f6f6410bdc0b743178f577",
-      "title": "Effects of Robotics Education on Young Children’s Cognitive Development: a Pilot Study with Eye-Tracking",
-      "abstract": "The emerging field of robotics education (RE) is a new and rapidly growing subject area worldwide. It may provide a playful and novel learning environment for children to engage with all aspects of science, technology, engineering, and mathematics (STEM) learning. The purpose of this research is to examine how robotics learning activities may affect the cognitive abilities and cognitive processes of 6–8 years old children. The study adopted the mixed methods approach with a repeated measures design; three waves of data collection over 6 months, including quantitative data obtained from cognitive assessments and eye-tracking, and qualitative data from the interviews. A total of 31 children were recruited from an afterschool robotics program. To the best of our knowledge, this study is the first RE research that used a combination of eye-tracking, cognitive assessments, and interviews for examining the effect of RE on children. Using linear growth models, the results of cognitive assessments showed that children’s visuospatial working memory as well as logical and abstract reasoning skills improved over time. The interview data were analyzed by a thematic analysis. The results revealed that children perceived RE activities as game play, which made children more engaged in their study; parents found their children to be more focused on activities comparing to six months ago. Additionally, the visualization of the eye-tracking data suggested that children became more focused on RE activities and got faster to process the information across six months in general, which echoed the findings in assessments and interviews. Our findings may help educators and policymakers better understand the benefits of RE for young children.",
-      "authors": [
-        "Y. Liu",
-        "Darko Odic",
-        "Xuyan Tang"
-      ],
-      "venue": "Journal of Science Education and Technology",
-      "published": "2023-03-07",
-      "url": "https://doi.org/10.1007/s10956-023-10028-1",
-      "query": "cognitive development technology children"
-    },
-    {
-      "paperId": "29668a9ae33e347970b9e69b40e79d776c3b8bab",
-      "title": "The Impact of Technology on Cognitive Development in Early Childhood",
-      "abstract": "Technology integration into everyday life is deeper than ever in this age of fast technological innovation. This is particularly true for young children exposed to numerous digital instruments from an early age. Such integration has sparked concerns about how technology may affect young childrens cognitive growth, a crucial time when mental capacities like thinking, reasoning, and understanding are still developing. Recognizing the significance of this conversation, the background for this study is the growing anxiety among parents, teachers, and lawmakers over the influence of technology on childrens brains. This study uses a literature review methodology to examine previously published academic studies to understand the complex connection between technology and cognitive development. It aims to grasp both the rewarding possibilities and the dangers it offers. The conclusion summarizes the results and highlights methods for maximizing technologys positive effects while minimizing its possible drawbacks, providing a comprehensive understanding of the subject.",
-      "authors": [
-        "Yichao Ren"
-      ],
-      "venue": "Lecture Notes in Education Psychology and Public Media",
-      "published": "2023-11-20",
-      "url": "https://doi.org/10.54254/2753-7048/23/20230496",
-      "query": "cognitive development technology children"
-    },
-    {
-      "paperId": "6f4734c2ae1a22f6e0af70a5deecde9fcd58784d",
-      "title": "The Use of Technology in the Cognitive Development of Early Children",
-      "abstract": "This study was conducted to analyze how the effect of gadget use in early childhood on children's cognitive development. This research is a qualitative descriptive study. the source of the data used is the result of observations of children and parents regarding the use of gadgets in children's cognitive development at Kindergarten Risanti I, West Jakarta. The research result show use of gadgets in children can improve cognitive development of children. through gadgets, children can learn independently about language or mathematics. children's learning through gadgets must be under the supervision of parents. children should not be allowed to use gadgets as they wish. The positive impact of using gadgets on children, consisting of: Improved cognitive skills, More fun for kids, and Educating young ones. The negative impact of using gadgets on children, consisting of: Learning problems, Anxiety, Lazy thinking, Decreased concentration, and hyperactivity.",
-      "authors": [
-        "Linda Pertiwi",
-        "Fajar Prakosa"
-      ],
-      "venue": "I-STATEMENT",
-      "published": "2021-01-14",
-      "url": "https://doi.org/10.46371/ISTATEMENT.V6I1.272",
-      "query": "cognitive development technology children"
+      "venue": "Medical Education",
+      "published": "2025-06-18",
+      "url": "https://doi.org/10.1111/medu.15746",
+      "query": "generative AI learning education"
     },
     {
       "paperId": "5fdf2c038a7377dda75bb4401c47bc358ec11492",
@@ -1122,7 +1064,7 @@
       "abstract": "SIGNIFICANCE Mobile devices such as tablet computers have become widely available as mainstream devices and are also used in some schools, but there is an absence of robust information regarding the efficacy of any optical/electronic low vision device or tablet computer in supporting education of young people with low vision. PURPOSE A randomized controlled trial (RCT) is needed to measure the impact of tablet computers on education, specifically on independent access to educational material, in children and young people with low vision. We conducted a pilot RCT to determine the feasibility of conducting a full-scale trial. METHODS This was a randomized multicenter pilot trial across two sites in the United Kingdom and one site in India. Forty children and young people aged 10 to 18 years with low vision (best-corrected visual acuity for distance between <20/60 [0.48 logMAR] and 20/400 [1.30 logMAR] in the better eye) in the United Kingdom (n = 20) and India (n = 20) were randomized to two parallel arms, with a 1:1 allocation ratio, to control (n = 20) or intervention (n = 20). Control group participants received standard low vision care. The intervention group received a tablet computer (iPad) with low vision applications and instruction in its use, including accessibility features. Four primary outcomes included (1) 6-month recruitment rate, (2) retention of participants for 3 months, (3) acceptance/usage of device, and (4) accessibility of device. RESULTS Nineteen participants (95%) enrolled within 6 months in the United Kingdom, and 20 participants (100%), in India. Retention at 3 months was 85% (n = 17) in the United Kingdom and 95% (n = 19) in India. More than one half of participants reported using a tablet computer at school at least once every day. The majority (90%) found it easily accessible. CONCLUSIONS This study demonstrated that it is feasible to recruit children and young people with low vision into an international multicenter RCT of electronic assistive technology. Regardless of geographical location, children and young people with low vision reported using tablet computers at least once a day at school and accessed them easily.",
       "authors": [
         "V. Gothwal",
-        "Rachel Thomas",
+        "R. Thomas",
         "M. Crossland"
       ],
       "venue": "Optometry and Vision Science",
@@ -1165,12 +1107,11 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 65,
+      "count": 60,
       "keywords": [
         "AR",
-        "immersive",
         "virtual reality",
-        "mixed reality"
+        "immersive"
       ]
     },
     {
@@ -1178,27 +1119,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 31,
+      "count": 29,
       "keywords": [
-        "parent",
         "teacher",
-        "school",
         "classroom",
+        "parent",
+        "school",
         "preschool teacher"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 17,
-      "keywords": [
-        "attention",
-        "cognitive development",
-        "working memory",
-        "self-regulation",
-        "metacognition"
       ]
     },
     {
@@ -1206,13 +1133,13 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 16,
+      "count": 15,
       "keywords": [
         "personalized learning",
-        "game",
+        "adaptive learning",
         "play",
-        "game-based",
-        "adaptive learning"
+        "game",
+        "game-based"
       ]
     },
     {
@@ -1222,22 +1149,25 @@
       "icon": "🤖",
       "count": 14,
       "keywords": [
-        "ChatGPT",
+        "generative AI",
+        "artificial intelligence",
         "GPT",
-        "LLM",
-        "large language model",
-        "artificial intelligence"
+        "machine learning",
+        "ChatGPT"
       ]
     },
     {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 8,
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 10,
       "keywords": [
-        "chatbot",
-        "robot"
+        "self-regulation",
+        "attention",
+        "metacognition",
+        "cognitive load",
+        "executive function"
       ]
     },
     {
@@ -1248,7 +1178,6 @@
       "count": 7,
       "keywords": [
         "emotion",
-        "social development",
         "empathy"
       ]
     },
@@ -1287,6 +1216,17 @@
         "computational thinking",
         "algorithm",
         "coding"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 3,
+      "keywords": [
+        "chatbot",
+        "robot"
       ]
     }
   ]
