@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17 06:51 UTC",
+  "updated_at": "2026-09-18 06:49 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -127,6 +127,34 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Evaluating the usability of AR and VR combined application in electronic component education for vocational high school students",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10719-7",
+        "url": "https://doi.org/10.1007/s11423-026-10719-7",
+        "authors": [
+          "Resa Pramudita",
+          "Roer Eka Pawinanto",
+          "Muhammad Adli Rizqulloh"
+        ],
+        "published": "2026-9-17",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "AI-assisted data extraction for systematic reviews in education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10710-2",
+        "url": "https://doi.org/10.1007/s11423-026-10710-2",
+        "authors": [
+          "Noah Schroeder",
+          "Chris Davis Jaldi",
+          "Shan Zhang"
+        ],
+        "published": "2026-9-17",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Designing an intelligent language tutoring system for learning Chinese characters",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10721-z",
@@ -165,35 +193,23 @@
         "published": "2026-9-14",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "A humorous social-affective instructional style in generative AI pedagogical agents: effects on cognitive load, immediate learning performance, and learner perceptions",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10715-x",
-        "url": "https://doi.org/10.1007/s11423-026-10715-x",
-        "authors": [
-          "Xinjie Xie",
-          "Xiangen Hu"
-        ],
-        "published": "2026-9-12",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Academics’ (Re) construction of teacher identities in the context of technology integration at a South African university",
-        "abstract": "Abstract\n                  Integrating technology into higher education teaching is reshaping pedagogical practices and prompting academics to (re)construct their professional identities. This qualitative case study explores how academics at a South African university respond to these changes, drawing on identity theory and the Technological Pedagogical Content Knowledge (TPACK) model to analyse the data. Data were collected from 12 purposively selected academics through semi-structured interviews and were analysed thematically. Findings indicate that academics are compelled to transition from traditional to interactive, student-centred teaching, requiring ongoing adaptation to emerging digital tools, multimedia integration, and data analytics for student monitoring. However, this shift also introduced identity tensions driven by increased workload, student disengagement, and recurring technical issues. Despite these challenges, the participants reported enhanced pedagogical effectiveness and renewed engagement through digital methods. The study highlights the dual nature of technology integration as both a disruptor and an enabler of professional growth and argues for comprehensive institutional support structures, including professional development and technical assistance. The findings contribute to the discourse on teacher identity in digitally evolving higher education environments and offer practical implications for policies and professional learning.",
-        "doi": "10.1007/s11423-026-10708-w",
-        "url": "https://doi.org/10.1007/s11423-026-10708-w",
-        "authors": [
-          "Novel Lena Folabit",
-          "Loyiso Currell Jita"
-        ],
-        "published": "2026-9-10",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
       }
     ],
     "Journal of Computer Assisted Learning": [
+      {
+        "title": "The Effects of a Computerised Teacher‐Mediated Intervention on the Emotional Understanding of Autistic Children",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Autism spectrum disorder is associated with persistent challenges in emotional understanding, encompassing difficulties in recognising emotions from nonverbal cues, interpreting others' affective and mental states, as well as in emotional language. These challenges may impede the social functioning of autistic children.\n                  \n                  \n                    Objectives\n                    This study evaluated the effectiveness of EmotiPlay, a computer‐based, research‐supported intervention designed to enhance emotion understanding, which was adapted into a teacher‐mediated format for autistic children in special education classrooms.\n                  \n                  \n                    Methods\n                    \n                      A total of 116 autistic children (17 girls), aged 7–10, were randomly assigned at the class level to either an intervention group (\n                      n\n                       = 59), which received two EmotiPlay lessons per week for 22 weeks or a control group (\n                      n\n                       = 57), which maintained a standard special education curriculum. Outcome measures included emotion recognition from nonverbal cues, cognitive empathy and emotional language. Social functioning was additionally assessed through observation during free play.\n                    \n                  \n                  \n                    Results and Conclusions\n                    Compared to the control group, children in the intervention group showed significant improvements in interpreting emotions from nonverbal cues and social context, as well as in their emotional language. However, these improvements did not generalise to emotions beyond the programme or to broader social behaviours. These findings demonstrate the potential and limitations of integrating computer‐based interventions targeting socio‐emotional learning in special education settings.\n                    \n                      Trial Registration:\n                      ClinicalTrials.gov identifier: NCT05902832",
+        "doi": "10.1002/jcal.70332",
+        "url": "https://doi.org/10.1002/jcal.70332",
+        "authors": [
+          "Ifat Bar",
+          "Ofer Golan",
+          "Sigal Eden"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
       {
         "title": "Learning Dynamics in Asynchronous Online Higher Education: Instructional Design, Self‐Regulated Learning Supports, and Academic Performance",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    Online learning has become a defining feature of higher education, expanding access while reshaping how students engage with knowledge, instructors, and peers. Despite its rapid growth, uncertainty persists regarding which instructional design features most effectively support academic achievement and digital competence in asynchronous, skills‐based courses. Prior studies often focus on perceptions or rely on small cross‐sectional samples, leaving limited clarity on how specific design features such as assignments, badges, and feedback influence measurable academic outcomes in asynchronous, skills‐based courses.\n                  \n                  \n                    Objectives\n                    This study examines how assignment structures, learning supports, pacing systems, and digital badges are associated with standardized academic performance in an asynchronous pre‐finance computer applications course, drawing on the community of inquiry framework (CoI) and self‐regulated learning (SRL) theory to interpret how instructional design features and regulatory processes interact to shape academic outcomes.\n                  \n                  \n                    Methods\n                    \n                      Data were collected from 742 undergraduates across six consecutive semesters in a certified asynchronous online course emphasizing Microsoft Excel proficiency. Survey responses on learning materials (e.g.,\n                      SimuTraining\n                      ,\n                      CapstoneProjects\n                      ) and instructional supports (e.g.,\n                      WeeklyUpdates\n                      ,\n                      QuizFeedback\n                      ) were matched with performance records (i.e.,\n                      Points\n                      : total points earned), which were standardized using\n                      z\n                      ‐scores (\n                      ZTP\n                      ) to ensure comparability across semesters while preserving students' relative standing within each term. A pooled regression with semester fixed effects and robust standard errors examined factors associated with performance while controlling cohort and seasonal differences.\n                    \n                  \n                  \n                    Results and Conclusions\n                    Earning a digital badge, resubmitting capstone projects, and receiving automated feedback were positively linked to performance, while valuing unlimited attempts on low‐stakes assignments and preferring end‐of‐course deadlines were negatively associated. These results reveal a disconnect between student perceptions and actual learning, suggesting that lower‐performing students may rely on repetition without mastering underlying skills. Findings underscore the importance of structured pacing, targeted feedback, and performance‐linked incentives such as badges. Collectively, this study advances technology‐enhanced education by clarifying which practices foster success and offering strategies to strengthen digital competence and learning outcomes in higher education.",
@@ -235,20 +251,6 @@
         "published": "2026-10",
         "journal": "Journal of Computer Assisted Learning",
         "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "The Disfluency Effect Revisited: Why Audiovisual Channel Manipulations Impair Motivation and Trigger Illusions Without Boosting Learning",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Previous research on multimedia learning has predominantly applied perceptual disfluency consistently across both visual and auditory channels within instructional materials. Such dual‐channel disfluency may impose excessive extraneous cognitive load (ECL), thereby undermining learning outcomes. The disfluency effect, however, posits that perceptual disruptions to processing fluency can, under specific conditions, facilitate learning. Nevertheless, empirical evidence regarding the efficacy of disfluency manipulations in audiovisual learning environments remains inconclusive.\n                  \n                  \n                    Objectives\n                    This study investigated whether a more nuanced application of disfluency, as a means of cognitive load manipulation, can yield positive effects in video‐based learning. Specifically, we examined how progressively reducing ECL through controlled disfluency manipulations influences learning performance, metacognitive judgements (judgements of learning), learning motivation and subjective learning experiences.\n                  \n                  \n                    Methods\n                    \n                      Experiment 1 examined the effects of varying degrees of disfluency in audiovisual channels (fully fluent, partially disfluent, fully disfluent) on multimedia learning outcomes (\n                      n\n                       = 48). Experiment 2 built upon these materials by further attempting to mitigate ECL through the separation of visual and auditory disfluent information. It employed a 2 (channel: visual channel; auditory channel) × 2 (fluency: partially disfluent; fully disfluent) between‐subjects design (\n                      n\n                       = 109).\n                    \n                  \n                  \n                    Results and Conclusions\n                    Results from Experiment 1 indicated that, although disfluency manipulations in audiovisual channels increased ECL, they reduced learning motivation and induced metacognitive overestimation, while having no significant effect on learning performance. In Experiment 2, all four experimental groups showed significantly higher ECL than the fully fluent dual‐channel group, whereas learning performance remained unaffected. Disfluency also led to metacognitive overestimation and a significant decrease in learning motivation across conditions. Overall, these findings do not support the disfluency effect in video‐based learning. Rather than enhancing learning performance, disfluency was associated with inflated metacognitive judgements (illusions) and reduced learner motivation.",
-        "doi": "10.1002/jcal.70328",
-        "url": "https://doi.org/10.1002/jcal.70328",
-        "authors": [
-          "Jingjing Xiao",
-          "Xueting Xiong",
-          "Boyang Cui"
-        ],
-        "published": "2026-10",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
       }
     ],
     "Computers in Human Behavior": [
@@ -261,20 +263,6 @@
           "Junhan Chen",
           "Shilin Xia",
           "Zexin Ma"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Creative or uncreative partner: Comparing humans and AI in collaborative creative tasks",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109172",
-        "url": "https://doi.org/10.1016/j.chb.2026.109172",
-        "authors": [
-          "Clin K.Y. Lai",
-          "Simone A. Luchini",
-          "Nina Lauharatanahirun"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -295,6 +283,34 @@
         "venue": "Computers in Human Behavior"
       },
       {
+        "title": "Creative or uncreative partner: Comparing humans and AI in collaborative creative tasks",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109172",
+        "url": "https://doi.org/10.1016/j.chb.2026.109172",
+        "authors": [
+          "Clin K.Y. Lai",
+          "Simone A. Luchini",
+          "Nina Lauharatanahirun"
+        ],
+        "published": "2027-2",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "From hostile feedback to withdrawal: Emotional exhaustion as a barrier to social media misinformation correction",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109179",
+        "url": "https://doi.org/10.1016/j.chb.2026.109179",
+        "authors": [
+          "Simone Moser",
+          "Stephanie Bührer",
+          "Diana Kostikova"
+        ],
+        "published": "2027-2",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
         "title": "“Can talking like you make it work?”: The role of linguistic convergence and maintenance in human–robot interaction",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.chb.2026.109151",
@@ -303,20 +319,6 @@
           "Jeongmin Lee",
           "Sukyung Yoon",
           "Hyorim Shin"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Symptom network structures of social media addiction and internet gaming addiction among school-aged youth: Undirected and Bayesian directed graph analyses",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109183",
-        "url": "https://doi.org/10.1016/j.chb.2026.109183",
-        "authors": [
-          "Hao Wen",
-          "Yuhang Liu",
-          "Yang Luo"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -678,6 +680,60 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "From Potential to Reality: Gaps in Realizing Human–AI Complementarity in Educational Tasks",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2732482",
+        "url": "https://doi.org/10.1080/10447318.2026.2732482",
+        "authors": [
+          "Bo Jiang",
+          "Jiatong Wang",
+          "Yijie Lu"
+        ],
+        "published": "2026-9-17",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2730083",
+        "url": "https://doi.org/10.1080/10447318.2026.2730083",
+        "authors": [
+          "Boxuan Ma",
+          "Yinjie Xie",
+          "Huiyong Li"
+        ],
+        "published": "2026-9-17",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "When Ground Truth Is the Bottleneck: How Self-Report Label Properties Constrain Multimodal User-State Estimation in Human–Robot Collaboration",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2732427",
+        "url": "https://doi.org/10.1080/10447318.2026.2732427",
+        "authors": [
+          "Wonjoon Kim"
+        ],
+        "published": "2026-9-17",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "The Impact of Intelligent Personal Assistant Usability and Privacy Empowerment on User’s Continuance Intention: An Integrated Model Based on Self-Determination Theory",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2712655",
+        "url": "https://doi.org/10.1080/10447318.2026.2712655",
+        "authors": [
+          "Bumho Lee",
+          "Yujong Hwang",
+          "Mun Yong Yi"
+        ],
+        "published": "2026-9-17",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "Swiping Control and Thematic Consistency in Short-Form Video Platforms: Implications for Perceived Agency and User Experience",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2730818",
@@ -685,56 +741,6 @@
         "authors": [
           "Taeyoung Kim",
           "Young June Sah"
-        ],
-        "published": "2026-9-16",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "When Vision Deceives: The Compensatory Role of Passive Haptics in Mitigating Sim2Real Gap During Teleoperation Assembly",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2729216",
-        "url": "https://doi.org/10.1080/10447318.2026.2729216",
-        "authors": [
-          "Jilong Bai",
-          "Weiping He",
-          "Yunzhi Zhong"
-        ],
-        "published": "2026-9-16",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Metacognitive–Algorithmic Readiness for Human–AI Interaction in Educational Supervision: Scale Development, Network Psychometric Validation, and Preliminary Responsiveness to Microlearning",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2730904",
-        "url": "https://doi.org/10.1080/10447318.2026.2730904",
-        "authors": [
-          "Rajeh Alshehri"
-        ],
-        "published": "2026-9-16",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Correction",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2732773",
-        "url": "https://doi.org/10.1080/10447318.2026.2732773",
-        "authors": [],
-        "published": "2026-9-16",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "The Boselt NoFix Notification-Checking Obsession Scale—Development of the Adolescent Form and Analysis of Its Psychometric Properties",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2723651",
-        "url": "https://doi.org/10.1080/10447318.2026.2723651",
-        "authors": [
-          "Deniz S. Yorulmaz Demir",
-          "Yalçın Kanbay",
-          "Aysun Akçam"
         ],
         "published": "2026-9-16",
         "journal": "International Journal of Human-Computer Interaction",
@@ -956,72 +962,143 @@
   },
   "keyword_papers": [
     {
-      "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
-      "title": "Applying Artificial Intelligence into Early Childhood Math Education: Lesson Design and Course Effect",
-      "abstract": "A growing trend has been observed in applying artificial intelligence (Al) for educational purposes. With emerging initiatives in adapting Al in early childhood education, greater effort can be made in providing empirical evidence to theoretically support the use of Al techniques for young children. This study aims to introduce an instructional unit of math instruction for children aged 3-8. The course was delivered by a learning app, Zebra Al, where an intelligent tutoring system was applied. Students were invited from social networking sites and 66 children from India agreed to participate. A four-week course (five lessons each week) was delivered, covering basic math concepts including recognizing patterns, identifying 2D shapes, dissecting 2D shapes, and counting. The effect of the course was assessed in both cognitive and attitudinal facets. The results indicated that the course was effective in improving math performance and sustaining math attitudes.",
+      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
+      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
+      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
       "authors": [
-        "Shuhang Zhang",
-        "Xuelian Chen"
+        "Walayat Hussain",
+        "Machi Raju Varanasi",
+        "Liam New"
       ],
-      "venue": "International Conference on Teaching, Assessment, and Learning for Engineering",
-      "published": "2022-12-01",
-      "url": "https://doi.org/10.1109/TALE54877.2022.00109",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
+      "published": "2025-11-18",
+      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
+      "query": "large language model education"
     },
     {
-      "paperId": "4f23ee7393a0f96819e51226989857ff867b4284",
-      "title": "Developmentally Appropriate Intelligent Spatial Tutoring for Mobile Devices",
+      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
+      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
+      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
+      "authors": [
+        "S. Guizani",
+        "Tehseen Mazhar",
+        "Tariq Shahzad"
+      ],
+      "venue": "Discover Education",
+      "published": "2025-02-15",
+      "url": "https://doi.org/10.1007/s44217-025-00424-7",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
+      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
+      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
+      "authors": [
+        "James C. L. Chow",
+        "Kay Li"
+      ],
+      "venue": "JMIR Cancer",
+      "published": "2025-02-18",
+      "url": "https://doi.org/10.2196/66633",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
+      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
+      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
+      "authors": [
+        "V. Nikolovski",
+        "D. Trajanov",
+        "Ivan Chorbev"
+      ],
+      "venue": "Algorithms",
+      "published": "2025-03-04",
+      "url": "https://doi.org/10.3390/a18030144",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
+      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
+      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
+      "authors": [
+        "Jian-Wen Zeng",
+        "Wenhao Qi",
+        "Shi-Ying Shen"
+      ],
+      "venue": "Journal of Medical Internet Research",
+      "published": "2025-11-13",
+      "url": "https://doi.org/10.2196/79091",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
+      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
+      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "authors": [
+        "S. Muppalla",
+        "Sravya Vuppalapati",
+        "Apeksha Reddy Pulliahgaru"
+      ],
+      "venue": "Cureus",
+      "published": "2023-06-01",
+      "url": "https://doi.org/10.7759/cureus.40608",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
+      "title": "Impact of excessive use of screen time on child development: A review",
       "abstract": "Abstract not available.",
       "authors": [
-        "Melissa A. Wiederrecht",
-        "Amy Banic"
+        "Anuradha",
+        "Ragini Mishra",
+        "Arti"
       ],
-      "venue": "International Conference on Intelligent Tutoring Systems",
-      "published": "2012-06-14",
-      "url": "https://doi.org/10.1007/978-3-642-30950-2_81",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "International journal of agriculture extension and social development",
+      "published": "2025-06-01",
+      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
+      "query": "screen time child development"
     },
     {
-      "paperId": "5454714cd3359fa759dc828bcad0c7c069268cad",
-      "title": "Context-sensitive Natural Language Generation for robot-assisted second language tutoring",
-      "abstract": "This paper describes the L2TOR intelligent tutoring system (ITS), focusing primarily on its output generation module. The L2TOR ITS is developed for the purpose of investigating the efficacy of robot-assisted second language tutoring in early childhood. We explain the process of generating contextually-relevant utterances, such as task-specific feedback messages, and discuss challenges regarding multimodality and multilingualism for situated natural language generation from a robot tutoring perspective.",
-      "authors": [
-        "Bram Willemsen",
-        "Jan de Wit",
-        "E. Krahmer"
-      ],
-      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
-      "published": "2018-11-08",
-      "url": "https://doi.org/10.18653/v1/W18-6901",
-      "query": "intelligent tutoring system early childhood"
-    },
-    {
-      "paperId": "d88a250737878889ff51dc43e717c6ee1caacb8d",
-      "title": "Learning environments : contributions from Dutch and German research",
+      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
+      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
       "abstract": "Abstract not available.",
       "authors": [
-        "J. Pieters",
-        "K. Breuer",
-        "P.Robert-Jan Simons"
+        "Midori Yamamoto",
+        "H. Mezawa",
+        "Kenichi Sakurai"
       ],
-      "venue": "",
-      "published": "1990",
-      "url": "https://doi.org/10.1007/978-3-642-84256-6",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "JAMA pediatrics",
+      "published": "2024-01-22",
+      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
+      "query": "screen time child development"
     },
     {
-      "paperId": "befbbb0e900878786f96fb7e08f2332a4eb477a5",
-      "title": "Engineering the Design of iSTART-Early: Adapting an Intelligent Tutoring System for 3rd, 4th, and 5th Grade Reading",
-      "abstract": "Abstract not available.",
+      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
+      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
+      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
       "authors": [
-        "Marissa A. Castellana",
-        "Erika B. Langley",
-        "Micah Watanabe"
+        "X. Wan",
+        "Xiao-Qing Kang",
+        "Shunli Chen"
       ],
-      "venue": "Journal of Formative Design in Learning",
-      "published": "2026-05-26",
-      "url": "https://doi.org/10.1007/s41686-026-00111-2",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Frontiers in Pediatrics",
+      "published": "2025-08-28",
+      "url": "https://doi.org/10.3389/fped.2025.1667048",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "41aacbf4544af81186f5b2c4e5a229a020291e9c",
+      "title": "Impact of Screen Time on Development of Children",
+      "abstract": "Background: Children today are growing up in a digital environment where screen-based technology is a central part of everyday life. While screens can offer educational and recreational benefits, there is growing concern about their influence on different areas of child development. Objective: This review explored how screen time affects developmental outcomes in children and adolescents aged 0 to 18 years, focusing on physical, cognitive, emotional, and social domains. Methods: A structured search was carried out across databases such as PubMed, Scopus, Web of Science and PsycINFO to identify relevant studies published between 2014 and 2024. Studies were included if they examined the relationship between screen time and at least one area of child development, involved participants within the target age group, and were peer-reviewed and published in English. The review followed PRISMA guidelines, and articles were independently screened and evaluated for quality by two reviewers. Results: A total of 46 studies met the inclusion criteria. Overall, the evidence points to a link between higher levels of screen use and negative outcomes such as reduced physical activity, poorer sleep, attention difficulties, and challenges in emotional and social functioning. However, some studies indicated that limited or educational screen use, especially with parental involvement, may have neutral or even positive effects in certain contexts. Conclusions: Screen time can have both positive and negative effects on child development, depending on factors like duration, type of content, and the context in which screens are used. Managing screen use through age-appropriate guidelines and adult supervision may help reduce risks and promote healthier development. More longitudinal research is needed to establish clearer recommendations for screen use in childhood.",
+      "authors": [
+        "Subhranshu Sekhar Kar",
+        "R. Dube",
+        "B. M. Goud"
+      ],
+      "venue": "Children",
+      "published": "2025-09-25",
+      "url": "https://doi.org/10.3390/children12101297",
+      "query": "screen time child development"
     }
   ],
   "hot_topics": [
@@ -1030,13 +1107,13 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 52,
+      "count": 57,
       "keywords": [
         "AR",
-        "augmented reality",
+        "immersive",
         "virtual reality",
-        "VR",
-        "immersive"
+        "mixed reality",
+        "VR"
       ]
     },
     {
@@ -1044,39 +1121,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 21,
+      "count": 25,
       "keywords": [
-        "teacher",
-        "school",
-        "classroom",
         "parent",
-        "family"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 10,
-      "keywords": [
-        "metacognition",
-        "cognitive load",
-        "attention",
-        "executive function",
-        "cognitive development"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 10,
-      "keywords": [
-        "personalized learning",
-        "game",
-        "play"
+        "teacher",
+        "family",
+        "school",
+        "classroom"
       ]
     },
     {
@@ -1084,13 +1135,39 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 9,
+      "count": 14,
       "keywords": [
-        "emotion",
         "social-emotional",
+        "emotion",
+        "empathy",
         "social emotional",
-        "wellbeing",
-        "empathy"
+        "wellbeing"
+      ]
+    },
+    {
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 13,
+      "keywords": [
+        "personalized learning",
+        "game",
+        "play"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 12,
+      "keywords": [
+        "attention",
+        "executive function",
+        "metacognition",
+        "cognitive load",
+        "cognitive development"
       ]
     },
     {
@@ -1098,12 +1175,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 8,
+      "count": 11,
       "keywords": [
-        "artificial intelligence",
-        "generative AI",
         "ChatGPT",
-        "GPT"
+        "GPT",
+        "LLM",
+        "large language model",
+        "artificial intelligence"
       ]
     },
     {
@@ -1111,11 +1189,20 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
+      "count": 6,
+      "keywords": [
+        "chatbot",
+        "robot"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
       "count": 5,
       "keywords": [
-        "intelligent tutoring",
-        "robot",
-        "chatbot"
+        "screen time"
       ]
     },
     {
@@ -1123,11 +1210,11 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 4,
+      "count": 5,
       "keywords": [
-        "reading",
+        "language development",
         "vocabulary",
-        "language development"
+        "reading"
       ]
     },
     {
@@ -1139,17 +1226,7 @@
       "keywords": [
         "computational thinking",
         "coding",
-        "algorithm"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 1,
-      "keywords": [
-        "mobile"
+        "programming"
       ]
     }
   ]
