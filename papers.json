@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 07:21 UTC",
+  "updated_at": "2026-09-22 06:58 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -195,6 +195,34 @@
     ],
     "Journal of Computer Assisted Learning": [
       {
+        "title": "Mapping Research on Generative Artificial Intelligence for Programming Education: A Systematic Review",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Generative artificial intelligence (AI) has the potential to transform programming education, yet existing research on its integration and impact remains fragmented, underscoring the need for a comprehensive synthesis.\n                  \n                  \n                    Objectives\n                    This systematic review aims to consolidate empirical evidence on the use of generative AI in programming education within higher education, examining research objectives, AI tools, instructional strategies, programming languages and publication trends.\n                  \n                  \n                    Methods\n                    Following PRISMA guidelines, 46 peer‐reviewed empirical studies were analysed to identify patterns in tool usage, pedagogical approaches and research dissemination.\n                  \n                  \n                    Results and Conclusion\n                    ChatGPT dominated the literature, featuring in 76% of studies, while Java and Python were the most frequently targeted programming languages. Research spanned 28 countries, with nearly 70% of studies published in conference proceedings, indicating the exploratory nature of the field. Most studies investigated student‐level outcomes, including learning performance and engagement, and examined generative AI as a pedagogical aid. However, more than half lacked explicit pedagogical frameworks. Reported benefits included enhanced engagement, feedback, and learning support, but concerns emerged regarding over‐reliance, reduced conceptual understanding, and threats to academic integrity. Gaps were identified in research on instructors' roles, institutional practices, and comparative evaluation of AI tools. This review highlights both the promise and challenges of generative AI in programming education. It emphasises the need for thoughtful instructional design, ethical guidelines and rigorous evaluation. By synthesising current evidence, the study provides a foundation to guide future research, pedagogical innovation and policy development in the evolving landscape of AI‐driven programming education.",
+        "doi": "10.1002/jcal.70341",
+        "url": "https://doi.org/10.1002/jcal.70341",
+        "authors": [
+          "Yasin Yalçın",
+          "Eda Bakır‐Yalçın",
+          "Hakan İslamoğlu"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "Trace Data of Secondary Students and Linguistic Analysis to Predict Learner Performance in a Multi‐Text Writing Task",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Writing from multiple sources is a cognitively demanding task that requires students to integrate reading, planning, and composition processes. While prior research has demonstrated the importance of self‐regulated learning (SRL) and linguistic features in predicting writing performance, most studies have focused on university students, with limited research targeting secondary school learners, particularly across multilingual contexts.\n                  \n                  \n                    Objective\n                    This study examined whether SRL processes derived from trace data and linguistic features from essays as learning products can be used to predict writing performance among secondary students from different countries and language backgrounds.\n                  \n                  \n                    Methods\n                    A total of 257 secondary students from Australia, Colombia, Germany, and Finland completed a multi‐source essay task in their school language within a digital learning environment. SRL processes were inferred from interaction trace data, while essay features—topic coverage, cohesion, and word count—were extracted using language‐specific analysis models. These data sources were then used to train several machine learning models to predict students' performance on essay writing.\n                  \n                  \n                    Results\n                    Among the machine learning models tested, the Random Forest classifier achieved the highest accuracy (0.80) and recall (0.71). The most influential predictors were elaboration/organisation (process), topic coverage and cohesion (product), and country. Results revealed distinct engagement patterns across countries, suggesting that language and educational context were associated with differences in both SRL processes and writing quality.\n                  \n                  \n                    Conclusions\n                    This study extends prior work by demonstrating that combining process and product features can support the prediction of writing performance across multilingual secondary education contexts. Findings emphasise the need for further research on younger learners and the role of linguistic background in SRL engagement.",
+        "doi": "10.1002/jcal.70331",
+        "url": "https://doi.org/10.1002/jcal.70331",
+        "authors": [
+          "Halima Alnashiri",
+          "Mladen Raković",
+          "Sadia Nawaz"
+        ],
+        "published": "2026-10",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
         "title": "The Effects of a Computerised Teacher‐Mediated Intervention on the Emotional Understanding of Autistic Children",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    Autism spectrum disorder is associated with persistent challenges in emotional understanding, encompassing difficulties in recognising emotions from nonverbal cues, interpreting others' affective and mental states, as well as in emotional language. These challenges may impede the social functioning of autistic children.\n                  \n                  \n                    Objectives\n                    This study evaluated the effectiveness of EmotiPlay, a computer‐based, research‐supported intervention designed to enhance emotion understanding, which was adapted into a teacher‐mediated format for autistic children in special education classrooms.\n                  \n                  \n                    Methods\n                    \n                      A total of 116 autistic children (17 girls), aged 7–10, were randomly assigned at the class level to either an intervention group (\n                      n\n                       = 59), which received two EmotiPlay lessons per week for 22 weeks or a control group (\n                      n\n                       = 57), which maintained a standard special education curriculum. Outcome measures included emotion recognition from nonverbal cues, cognitive empathy and emotional language. Social functioning was additionally assessed through observation during free play.\n                    \n                  \n                  \n                    Results and Conclusions\n                    Compared to the control group, children in the intervention group showed significant improvements in interpreting emotions from nonverbal cues and social context, as well as in their emotional language. However, these improvements did not generalise to emotions beyond the programme or to broader social behaviours. These findings demonstrate the potential and limitations of integrating computer‐based interventions targeting socio‐emotional learning in special education settings.\n                    \n                      Trial Registration:\n                      ClinicalTrials.gov identifier: NCT05902832",
         "doi": "10.1002/jcal.70332",
@@ -217,34 +245,6 @@
           "Chan Hyeon Hur",
           "Tena B. Crews",
           "Samuel López‐Carril"
-        ],
-        "published": "2026-10",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "The Complexity of Visual Learning Materials Moderates the Effects of Instructors' Facial Expressions in Instructional Videos",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Research shows that instructors' happy facial expressions can evoke students' positive emotions and enhance their learning motivation. Nevertheless, debate persists in the literature regarding the impact of instructors' happy facial expressions on students' learning performance. This may be attributed to the potential social benefits of instructors' happy facial expressions being counterbalanced by the concurrent attentional costs.\n                  \n                  \n                    Objectives\n                    This study examined whether the visual complexity of learning materials (simple vs. complex) moderated the effect of instructors' facial expressions (happy vs. bored) on students' learning performance.\n                  \n                  \n                    Methods\n                    \n                      Participants (\n                      n\n                       = 58) watched two instructional videos featuring an instructor displaying either happy or bored facial expressions while presenting either complex or simple visual materials.\n                    \n                  \n                  \n                    Result and Conclusions\n                    The experimental results revealed that, when simple visual learning materials were used, the instructor's happy facial expressions significantly improved students' learning performance. In contrast, when complex visual learning materials were used, differences in the instructor's facial expressions did not significantly affect students' learning performance.\n                  \n                  \n                    Implications\n                    Our findings suggest that instructors should consider both the complexity of the visual learning materials and their facial expressions when teaching English vocabulary as a foreign language through instructional videos, particularly when teaching female students. Specifically, when using simple visual learning materials, instructors should display happy facial expressions to enhance student performance. Conversely, when using complex visual learning materials, instructors should avoid overly expressive facial expressions that may distract students from the learning content.",
-        "doi": "10.1002/jcal.70336",
-        "url": "https://doi.org/10.1002/jcal.70336",
-        "authors": [
-          "Xuemei Huang",
-          "Yuan Yang",
-          "Xin Zhao"
-        ],
-        "published": "2026-10",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Virtual Reality and Augmented Reality Technology for Safety Training in High‐Risk Environments: A Systematic Literature Review on Perspectives and Challenges",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Effective safety training in high‐risk industries including construction, mining, manufacturing, aviation and nuclear energy is critically important, as inadequate hazard awareness and human error consistently contribute to occupational fatalities and severe incidents.\n                  \n                  \n                    Method\n                    This systematic review synthesises evidence from 66 studies published between 2015 and 2026 across 29 countries to evaluate the application and effectiveness of virtual reality (VR) and augmented reality (AR) technologies for safety training in these sectors. A comprehensive literature search was conducted across Scopus and Web of Science.\n                  \n                  \n                    Results and Conclusions\n                    The findings show that VR demonstrates consistent effectiveness for deep skill acquisition and hazard recognition through high‐fidelity simulation of environments too dangerous for real‐world practice, evidenced by its universal adoption in mining and predominant use in nuclear emergency training. AR provides complementary value for situated learning and just‐in‐time performance support, enhancing procedural accuracy and situational awareness in construction, manufacturing and railway contexts. Extended reality (XR) configurations facilitate collaborative training for dynamic risk scenarios requiring integration of real and simulated elements. Sector‐specific adoption patterns reflect strategic alignment between technological affordances and industrial priorities, with aviation exhibiting the most sophisticated behavioural assessment frameworks. However, critical gaps constrain the evidence base: longitudinal assessments examining knowledge retention beyond immediate post‐training remain exceptionally rare; the predominance of student samples limits ecological validity; assessment beyond Kirkpatrick Level 2 (learning) is exceptional; and the absence of standardised competency metrics hinders cross‐study synthesis. This review concludes that immersive technologies represent promising complementary tools for safety training, offering distinctive pedagogical affordances that address limitations of conventional methods.",
-        "doi": "10.1002/jcal.70324",
-        "url": "https://doi.org/10.1002/jcal.70324",
-        "authors": [
-          "Xintian Li",
-          "Yihui Zheng",
-          "Jianyu Chen"
         ],
         "published": "2026-10",
         "journal": "Journal of Computer Assisted Learning",
@@ -308,13 +308,13 @@
         "venue": "Computers in Human Behavior"
       },
       {
-        "title": "From facial synchronization to social conformity: A computational analysis of emotional contagion in online co-viewing",
+        "title": "Organizational responsibility attribution: Public responses to AI versus human failures in government services",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109173",
-        "url": "https://doi.org/10.1016/j.chb.2026.109173",
+        "doi": "10.1016/j.chb.2026.109190",
+        "url": "https://doi.org/10.1016/j.chb.2026.109190",
         "authors": [
-          "Yoojin Chung",
-          "Yun-Jung Choi"
+          "Di Zhou",
+          "Zepeng Gong"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -392,6 +392,18 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "AI-differentiated experiential learning design: Delphi evaluation of conceptual soundness and operational applicability",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2734309",
+        "url": "https://doi.org/10.1080/10494820.2026.2734309",
+        "authors": [
+          "Fatih Karatas"
+        ],
+        "published": "2026-9-21",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Generative AI feedback in EFL writing instruction: a mixed-methods study on performance, motivation, and self-regulated learning",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2732233",
@@ -419,20 +431,6 @@
         "venue": "Interactive Learning Environments"
       },
       {
-        "title": "GenAI dependency and psychological distress among Chinese university students: a cross-sectional examination of the serial mediating roles of fear of missing out and derailment",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2734315",
-        "url": "https://doi.org/10.1080/10494820.2026.2734315",
-        "authors": [
-          "Mingyue Cui",
-          "Xi Chen",
-          "Pu Sun"
-        ],
-        "published": "2026-9-18",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
         "title": "Expert evaluation of AI-assisted scenario design for interactive problem based learning environments in medical education",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2734312",
@@ -447,16 +445,16 @@
         "venue": "Interactive Learning Environments"
       },
       {
-        "title": "A dual path cognitive model of academic well-being: the mediation of creative problem-solving ability and generative AI use self-efficacy",
+        "title": "GenAI dependency and psychological distress among Chinese university students: a cross-sectional examination of the serial mediating roles of fear of missing out and derailment",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2732234",
-        "url": "https://doi.org/10.1080/10494820.2026.2732234",
+        "doi": "10.1080/10494820.2026.2734315",
+        "url": "https://doi.org/10.1080/10494820.2026.2734315",
         "authors": [
-          "Princy Pappachan",
-          "Yu-chu Yeh",
-          "Chua Ming Wei Gabriel"
+          "Mingyue Cui",
+          "Xi Chen",
+          "Pu Sun"
         ],
-        "published": "2026-9-16",
+        "published": "2026-9-18",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -535,6 +533,18 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Research on the impact mechanism of university students' online learning platforms on learning engagement: an integrated model based on self-determination and social cognitive theory",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14155-1",
+        "url": "https://doi.org/10.1007/s10639-026-14155-1",
+        "authors": [
+          "Lihong Guo"
+        ],
+        "published": "2026-9-21",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Task demands and performance beliefs: disentangling task importance and complexity in students’ continuance intention toward generative AI",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14153-3",
@@ -581,20 +591,6 @@
           "Madugoda Gunaratnege Senali"
         ],
         "published": "2026-9-15",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Designing a CTML-based animated learning video for botany: a comparison with text-based materials in learning outcomes and learning experience",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14143-5",
-        "url": "https://doi.org/10.1007/s10639-026-14143-5",
-        "authors": [
-          "Yiting Wang",
-          "Mingyue Wang",
-          "Ziyi Guo"
-        ],
-        "published": "2026-9-14",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -671,72 +667,103 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "Effects of Human-AI Voice Interaction in Sports Commentary on Perceived Credibility, Emotional Response, and Cognitive Recall",
+        "title": "Research Hotspots and Trends in Smart Health and Aging Care for the Elderly: A Literature Review Analysis Using CiteSpace and VOSviewer",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2732386",
-        "url": "https://doi.org/10.1080/10447318.2026.2732386",
+        "doi": "10.1080/10447318.2026.2726582",
+        "url": "https://doi.org/10.1080/10447318.2026.2726582",
         "authors": [
-          "Fangni Li",
-          "Paul M. Pedersen"
+          "Na Liu",
+          "Xiyuan Wang"
         ],
-        "published": "2026-9-18",
+        "published": "2026-9-21",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Correction",
+        "title": "A Critical Review of Critical Thinking in HCI Research About AI",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2735537",
-        "url": "https://doi.org/10.1080/10447318.2026.2735537",
-        "authors": [],
-        "published": "2026-9-18",
+        "doi": "10.1080/10447318.2026.2722522",
+        "url": "https://doi.org/10.1080/10447318.2026.2722522",
+        "authors": [
+          "Nanna Inie",
+          "Anne Marie Kristensen",
+          "Morten Misfeldt"
+        ],
+        "published": "2026-9-21",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "An Emotion-Dependent Dissociation in Emoji Communication: Neurophysiological and Behavioral Evidence",
+        "title": "A Dominant Overall Evaluation Structure in Older Users’ Ratings of Social Application Interfaces: A Kansei Engineering Study",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2728934",
-        "url": "https://doi.org/10.1080/10447318.2026.2728934",
+        "doi": "10.1080/10447318.2026.2730086",
+        "url": "https://doi.org/10.1080/10447318.2026.2730086",
         "authors": [
-          "Jaechang Cha",
-          "Sanga Yeo",
-          "Chunghun Ha"
+          "Bo Yang",
+          "Irwan Syah Md Yusoff",
+          "Azrina Binti Kamaruddin"
         ],
-        "published": "2026-9-18",
+        "published": "2026-9-21",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "mUXSmellDetection: An LLM-Assisted Framework for Automated UX Smell Detection in Mobile Apps",
+        "title": "What Makes Generation Z Insist on Using Virtual Nurses? Merging ELM and CASA to Discover the Factors for Continued Use",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2730793",
-        "url": "https://doi.org/10.1080/10447318.2026.2730793",
+        "doi": "10.1080/10447318.2026.2731296",
+        "url": "https://doi.org/10.1080/10447318.2026.2731296",
         "authors": [
-          "Haifa Alshammare",
-          "Mohammad Alshayeb",
-          "Malak Baslyman"
+          "Xinyue Dong",
+          "Danlei Wang",
+          "Huijing Zhang"
         ],
-        "published": "2026-9-18",
+        "published": "2026-9-21",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "From Potential to Reality: Gaps in Realizing Human–AI Complementarity in Educational Tasks",
+        "title": "Defining and Detecting Distraction in Educational Virtual Reality: Intervention Effectiveness, Physiological Differentiation, and Individual Differences",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2732482",
-        "url": "https://doi.org/10.1080/10447318.2026.2732482",
+        "doi": "10.1080/10447318.2026.2731313",
+        "url": "https://doi.org/10.1080/10447318.2026.2731313",
         "authors": [
-          "Bo Jiang",
-          "Jiatong Wang",
-          "Yijie Lu"
+          "Nicholas Fisher",
+          "Arun K. Kulshreshth"
         ],
-        "published": "2026-9-17",
+        "published": "2026-9-21",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
     ],
     "Early Childhood Education Journal": [
+      {
+        "title": "Play Through Children’s Eyes—The Subjective Meaning of Play to Young Children",
+        "abstract": "Abstract\n                  Play is fundamental to children’s daily activities and provides a critical avenue for learning and development. However, attempts to describe and operationalize play are dominated by adults’ perspectives. This study aims to explore the subjective meaning of play to young children. Using a qualitative approach, semi-structured interviews were conducted with 327 children aged 4 to 8 years from [a Western European country]. These interviews were analyzed using both deductive and inductive content analysis methods to categorize children’s descriptions of play. Approximately half of the children provided coherent, differentiated descriptions of play. Results indicate that children’s perceptions align deductively with the features of play seminally defined by Krasnor and Pepler (1980) and expanded by Smith and Vollstedt (1985): positive affect, flexibility, intrinsic motivation, nonliterality, and means before end. The inductive analysis identified three additional categories, children’s business, social interactions, and object reference and therefore revealed additional features of play relevant for children. This study underscores the importance of recognizing children’s voices in research and highlights the complex, multifaceted nature of play from a child’s perspective. These insights into children’s perspectives contribute to a deeper understanding of play and inform educators, parents, and policymakers about the elements to play in early childhood. Future research should continue to explore the nuanced views of children to better support their developmental needs through play.",
+        "doi": "10.1007/s10643-026-02359-6",
+        "url": "https://doi.org/10.1007/s10643-026-02359-6",
+        "authors": [
+          "Patricia Lannen",
+          "Lena Nora Pritz",
+          "Isabelle Duss"
+        ],
+        "published": "2026-9-21",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "When Parity Comes to Play: A Comparative Study of New and Experienced Mothers’ Relationships with Early Childhood Educators",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02355-w",
+        "url": "https://doi.org/10.1007/s10643-026-02355-w",
+        "authors": [
+          "Jennifer K. Chapman",
+          "Jes Fyall Cardenas",
+          "Malinda J. Colwell"
+        ],
+        "published": "2026-9-21",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
       {
         "title": "Sensor Technology to Measure Social Engagement for Children with Behavioral Challenges",
         "abstract": "Abstract\n                  Social engagement is crucial for preschool children’s social, cognitive, and language development. Children with behavioral challenges or children who are English Language Learners (ELL) may experience difficulty in making meaningful social connections in inclusive preschool classrooms. Teachers often face challenges in continuously observing each child’s social engagement in early childhood education settings. Therefore, this exploratory study examined the social engagement patterns of preschool children across structured and unstructured activity periods using the Wearable Human Interaction Tracker (WHIT) sensor system. The study was conducted in an inclusive preschool classroom and included one target child with behavioral challenges who was also an ELL and five of his peers without social challenges. We compared the social engagement patterns of the target child with those of his peers. Results showed that the target child exhibited distinct patterns of social connectivity, peer-specific interactions, initiation and termination behaviors, and classroom area preferences compared to those of his peers. Findings explicitly showed that the target child had shorter interactions with peers but had stronger engagement during structured, teacher-guided activities. Study results suggest that using the WHIT sensor system can support monitoring of social engagement among preschoolers. The WHIT sensor system can provide objective data to complement teachers’ classroom observations in order to inform targeted interventions and teacher adaptations in inclusive preschool settings to support children who are ELL and/or have behavioral challenges.",
@@ -776,33 +803,6 @@
           "Karin Lifter"
         ],
         "published": "2026-9-17",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "School Readiness and Home Visiting: A Scoping Review of Definitions, Outcomes, and Contextual Moderators",
-        "abstract": "Abstract\n                  This scoping review examined empirical research on the relationship between participation in home visiting programs and children’s school readiness at the time of school entry. Specifically, we explored how school readiness is defined across studies, which domains are assessed as outcomes, and what contextual factors moderate the effects of home visiting on school readiness. School readiness is a multidimensional construct encompassing physical well-being, social-emotional development, language and literacy, approaches to learning, and cognitive skills. Home visiting programs aim to promote early development and family well-being, yet evidence remains mixed regarding their impact on school readiness and the contextual factors that shape these outcomes. This review addresses these gaps by mapping the scope and characteristics of existing research. A systematic search of CINAHL Plus, Embase, PubMed, and Scopus was conducted for articles published between January 2016 and April 2025. Guided by PRISMA-ScR, studies were included if they examined U.S. based- home visiting or home-based interventions for children from birth through kindergarten and assessed school readiness at school entry. Twenty studies met inclusion criteria. Definitions of school readiness and the developmental domains assessed varied widely across studies, with language and literacy and social emotional development most frequently examined. Evidence of home visiting effectiveness was mixed but generally indicated positive impacts on child language, social emotional development, and early cognitive skills. Five studies identified contextual moderators of program effectiveness, including parent academic expectations, program language, child sex and temperament, implementation fidelity, and home visiting intensity. These moderators shaped the strength of intervention effects on school readiness outcomes. Findings indicate that while home visiting programs can strengthen key domains of early development, variation in the definition of school readiness limits comparability across studies. Contextual moderators at the individual and program levels emerged as important drivers of effectiveness, yet no studies assessed community or structural-level factors despite their known influence on school readiness. These gaps highlight the need for a shared conceptual model of school readiness and for research that incorporates broader ecological contexts to better understand how home visiting achieves its impacts. Overall, home visiting programs show potential to strengthen key domains of early development, but inconsistent definitions and measures of school readiness limit comparability across studies. The evidence base centers largely on individual and program-level moderators, leaving broader ecological and structural influences unexamined. Future research should adopt shared readiness frameworks and incorporate multilevel contextual factors to more fully understand how home visiting contributes to school readiness.",
-        "doi": "10.1007/s10643-026-02343-0",
-        "url": "https://doi.org/10.1007/s10643-026-02343-0",
-        "authors": [
-          "Heather H. Johnson",
-          "Alejandra Powers",
-          "Matthew Fifolt"
-        ],
-        "published": "2026-9-17",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Latent Profiles and Predictors of Young Children’s Peer Relationships",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02352-z",
-        "url": "https://doi.org/10.1007/s10643-026-02352-z",
-        "authors": [
-          "Soohyeon Kang",
-          "Nary Shin"
-        ],
-        "published": "2026-9-15",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
       }
@@ -953,73 +953,72 @@
   },
   "keyword_papers": [
     {
-      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
-      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
-      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
+      "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
+      "title": "Applying Artificial Intelligence into Early Childhood Math Education: Lesson Design and Course Effect",
+      "abstract": "A growing trend has been observed in applying artificial intelligence (Al) for educational purposes. With emerging initiatives in adapting Al in early childhood education, greater effort can be made in providing empirical evidence to theoretically support the use of Al techniques for young children. This study aims to introduce an instructional unit of math instruction for children aged 3-8. The course was delivered by a learning app, Zebra Al, where an intelligent tutoring system was applied. Students were invited from social networking sites and 66 children from India agreed to participate. A four-week course (five lessons each week) was delivered, covering basic math concepts including recognizing patterns, identifying 2D shapes, dissecting 2D shapes, and counting. The effect of the course was assessed in both cognitive and attitudinal facets. The results indicated that the course was effective in improving math performance and sustaining math attitudes.",
       "authors": [
-        "Deabashis Sarker Tamal",
-        "MD. Mehedi Zaman Khan",
-        "Fahim Shahriar Prottoy"
+        "Shuhang Zhang",
+        "Xuelian Chen"
       ],
-      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
-      "published": "2026-04-16",
-      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
-      "query": "voice assistant children learning"
+      "venue": "International Conference on Teaching, Assessment, and Learning for Engineering",
+      "published": "2022-12-01",
+      "url": "https://doi.org/10.1109/TALE54877.2022.00109",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
-      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
-      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
+      "paperId": "4f23ee7393a0f96819e51226989857ff867b4284",
+      "title": "Developmentally Appropriate Intelligent Spatial Tutoring for Mobile Devices",
+      "abstract": "Abstract not available.",
       "authors": [
-        "I. Khan",
-        "Hema Kumar Goru",
-        "G. L. Madhumati"
+        "Melissa A. Wiederrecht",
+        "Amy Banic"
       ],
-      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
-      "published": "2024-05-03",
-      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
-      "query": "voice assistant children learning"
+      "venue": "International Conference on Intelligent Tutoring Systems",
+      "published": "2012-06-14",
+      "url": "https://doi.org/10.1007/978-3-642-30950-2_81",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
-      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
-      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
+      "paperId": "5454714cd3359fa759dc828bcad0c7c069268cad",
+      "title": "Context-sensitive Natural Language Generation for robot-assisted second language tutoring",
+      "abstract": "This paper describes the L2TOR intelligent tutoring system (ITS), focusing primarily on its output generation module. The L2TOR ITS is developed for the purpose of investigating the efficacy of robot-assisted second language tutoring in early childhood. We explain the process of generating contextually-relevant utterances, such as task-specific feedback messages, and discuss challenges regarding multimodality and multilingualism for situated natural language generation from a robot tutoring perspective.",
       "authors": [
-        "Z. Pap",
-        "Z. Čović",
-        "Janos Simon"
+        "Bram Willemsen",
+        "Jan de Wit",
+        "E. Krahmer"
       ],
-      "venue": "Symposium on Intelligent Systems and Informatics",
-      "published": "2021-09-16",
-      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
-      "query": "voice assistant children learning"
+      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
+      "published": "2018-11-08",
+      "url": "https://doi.org/10.18653/v1/W18-6901",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
-      "title": "Children's trust in and learning from voice assistants.",
-      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
+      "paperId": "d88a250737878889ff51dc43e717c6ee1caacb8d",
+      "title": "Learning environments : contributions from Dutch and German research",
+      "abstract": "Abstract not available.",
       "authors": [
-        "Lauren N. Girouard-Hallam",
-        "Judith H. Danovitch"
+        "J. Pieters",
+        "K. Breuer",
+        "P.Robert-Jan Simons"
       ],
-      "venue": "Developmental Psychology",
-      "published": "2022-04-01",
-      "url": "https://doi.org/10.1037/dev0001318",
-      "query": "voice assistant children learning"
+      "venue": "",
+      "published": "1990",
+      "url": "https://doi.org/10.1007/978-3-642-84256-6",
+      "query": "intelligent tutoring system early childhood"
     },
     {
-      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
-      "title": "Virtual Voice Assistant In Python (Friday)",
-      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
+      "paperId": "befbbb0e900878786f96fb7e08f2332a4eb477a5",
+      "title": "Engineering the Design of iSTART-Early: Adapting an Intelligent Tutoring System for 3rd, 4th, and 5th Grade Reading",
+      "abstract": "Abstract not available.",
       "authors": [
-        "S. Uke",
-        "Hrishikesh Lokhande",
-        "Durva Lohar"
+        "Marissa A. Castellana",
+        "Erika B. Langley",
+        "Micah Watanabe"
       ],
-      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
-      "published": "2022-10-08",
-      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
-      "query": "voice assistant children learning"
+      "venue": "Journal of Formative Design in Learning",
+      "published": "2026-05-26",
+      "url": "https://doi.org/10.1007/s41686-026-00111-2",
+      "query": "intelligent tutoring system early childhood"
     }
   ],
   "hot_topics": [
@@ -1028,13 +1027,11 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 57,
+      "count": 59,
       "keywords": [
         "AR",
         "VR",
-        "augmented reality",
-        "virtual reality",
-        "immersive"
+        "virtual reality"
       ]
     },
     {
@@ -1044,10 +1041,10 @@
       "icon": "🏫",
       "count": 21,
       "keywords": [
-        "school",
         "teacher",
         "parent",
         "classroom",
+        "school",
         "family"
       ]
     },
@@ -1056,27 +1053,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 14,
+      "count": 12,
       "keywords": [
+        "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "artificial intelligence",
-        "machine learning",
-        "generative AI"
-      ]
-    },
-    {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
-      "count": 11,
-      "keywords": [
-        "emotion",
-        "empathy",
-        "social-emotional",
-        "social emotional",
-        "wellbeing"
+        "generative AI",
+        "machine learning"
       ]
     },
     {
@@ -1093,14 +1076,38 @@
       ]
     },
     {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 7,
+      "keywords": [
+        "reading",
+        "writing",
+        "language development"
+      ]
+    },
+    {
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 6,
+      "keywords": [
+        "emotion",
+        "empathy",
+        "wellbeing"
+      ]
+    },
+    {
       "id": "cognitive",
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 6,
+      "count": 4,
       "keywords": [
-        "cognitive development",
-        "attention"
+        "attention",
+        "cognitive development"
       ]
     },
     {
@@ -1108,24 +1115,22 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 6,
+      "count": 4,
       "keywords": [
+        "intelligent tutoring",
         "robot",
-        "voice assistant",
         "chatbot"
       ]
     },
     {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 6,
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 3,
       "keywords": [
-        "writing",
-        "vocabulary",
-        "reading",
-        "language development"
+        "coding",
+        "programming"
       ]
     },
     {
@@ -1135,17 +1140,8 @@
       "icon": "📱",
       "count": 2,
       "keywords": [
-        "mobile"
-      ]
-    },
-    {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 2,
-      "keywords": [
-        "coding"
+        "mobile",
+        "digital learning"
       ]
     }
   ]
