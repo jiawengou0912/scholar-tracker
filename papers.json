@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 06:58 UTC",
+  "updated_at": "2026-09-23 06:52 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -73,6 +73,33 @@
     ],
     "British Journal of Educational Technology": [
       {
+        "title": "The role of digital media in the home learning environment and associations with children's early language and literacy skills",
+        "abstract": "Abstract\n                  \n                    \n                    \n                      Young children increasingly engage with digital media tools for purposes of education, entertainment and communication. This study examines children's digital media activities within the context of their larger home learning environment (HLE). Using data from two different samples (\n                      N\n                       = 289), we looked at digital media use and found that caregivers reported that children most frequently engaged in watching content and playing literacy games compared to STEM‐related activities. This more comprehensive view of the HLE aligned with three distinct factors: analog activities, digital learning and watching content. Analog activities were significantly and positively associated with children's language comprehension and vocabulary skills, whereas digital learning activities were significantly and negatively associated with their vocabulary skills. Watching content showed no significant associations with children's learning outcomes. In our data, digital learning activities, as currently used, did not confer the same benefits as analog activities; guidance on selecting high‐quality tools and on supporting co‐use may be required to realize digital benefits.\n                    \n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              In this digital age, young children engage with digital media tools (smartphones, tablets, e‐readers and apps) more often than in the past.\n                            \n                            \n                              Digital media is often used as part of children's home learning environment (HLE).\n                            \n                            \n                              There are concerns that too much digital media is negatively related to children's outcomes.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              Young children who are from low‐income households are more likely to engage in watching content and playing literacy games in comparison to STEM‐related activities and games.\n                            \n                            \n                              Data uncovered three factors associated with the HLE: analog activities, watching digital content and using digital learning activities.\n                            \n                            \n                              Analog activities were positively associated with children's language skills, but digital learning activities were negatively associated with their vocabulary. Watching content was not associated with any child skills.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              Educators and families may benefit from guidance on prioritizing analog learning activities while also carefully incorporating digital activities. Future research should investigate the quality and the characteristics of the digital activities children engage in to better understand their role in supporting children's skills.",
+        "doi": "10.1111/bjet.70086",
+        "url": "https://doi.org/10.1111/bjet.70086",
+        "authors": [
+          "Burcu H. Tatar",
+          "Lori E. Skibbe",
+          "Ryan P. Bowles"
+        ],
+        "published": "2026-9-22",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
+        "title": "A helping hand or a dominant partner? Individual perceptions of\n                    <scp>GenAI</scp>\n                    reliance and human agency in collaborative learning",
+        "abstract": "Abstract\n                  Generative artificial intelligence (GenAI) has become a routine source of feedback, explanation, drafting support and task guidance in higher education. This study examined how individual students' self‐reported GenAI reliance and perceived human agency co‐varied over time in an AI‐supported collaborative writing course. Three‐wave data were collected from 342 undergraduates working in 85 fixed groups. A traditional cross‐lagged panel model (CLPM) and a random intercept cross‐lagged panel model (RI‐CLPM) were estimated to distinguish observed‐level associations from within‐person temporal relations after stable between‐person differences were separated. The CLPM indicated reciprocal observed‐level associations. In the RI‐CLPM, higher‐than‐usual reliance was associated with lower subsequent agency, whereas agency‐to‐reliance paths were weaker and not statistically supported. Equality‐constraint tests were consistent with directional asymmetry, while 95% confidence intervals and Monte Carlo sensitivity analyses showed that small reverse effects remain possible. Backend logs showed that self‐reported reliance corresponded to AI‐use intensity, although log indicators could not distinguish strategic consultation from cognitive offloading or deference. The findings highlight the importance of designing AI‐supported collaboration so that students' responsibility for interpretation, judgement and authorship remains visible.\n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              GenAI systems can provide timely feedback, explanation and drafting support in collaborative learning environments.\n                            \n                            \n                              AI support may help students generate ideas and revise work, but reliance on system‐generated suggestions can reduce opportunities for judgement, negotiation and ownership.\n                            \n                            \n                              Traditional cross‐lagged models can conflate stable between‐person differences with within‐person temporal associations.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              The study examines individual students' self‐reported GenAI reliance and perceived human agency across three waves in an AI‐supported collaborative writing course.\n                            \n                            \n                              After stable between‐person differences were separated, RI‐CLPM estimates provided stronger evidence for paths from higher‐than‐usual reliance to lower subsequent agency than for the reverse direction.\n                            \n                            \n                              Equality‐constraint tests were consistent with directional pattern asymmetry, while confidence intervals and Monte Carlo sensitivity analyses indicated that small agency‐to‐reliance effects remain possible.\n                            \n                            \n                              Backend logs showed that self‐reported reliance corresponded to AI‐use intensity, but log indicators could not distinguish strategic consultation from cognitive offloading or deference.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            \n                              AI‐supported collaborative tasks should make students' responsibility for interpretation, judgement and authorship visible throughout the learning process.\n                            \n                            \n                              Instructors can ask groups to form an initial position before invoking AI and to explain why AI suggestions are accepted, revised or rejected.\n                            \n                            \n                              GenAI tools may better support agency by offering critics, asking questions and prompting reflection while leaving decisions about task direction to students.\n                            \n                            \n                              Learning analytics dashboards should not equate high AI‐use intensity with over‐reliance unless log data are interpreted alongside discourse, reflection, revision or decision‐making evidence.",
+        "doi": "10.1111/bjet.70090",
+        "url": "https://doi.org/10.1111/bjet.70090",
+        "authors": [
+          "Yanyi Wu",
+          "Xinyu Lu"
+        ],
+        "published": "2026-9-22",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
         "title": "Authentic and functional dialogue with\n                    <scp>AI</scp>\n                    ‐based student avatars: Evidence from a practice‐based teacher education program",
         "abstract": "Abstract\n                  \n                    \n                    \n                      Interactions with AI‐based student avatars offer scalable opportunities to practice educational dialogue in practice‐based teacher education (PBTE), yet little is known about the interaction quality of such simulations. This exploratory case study examined whether avatar‐mediated exchanges provide authentic and functional learning opportunities for teacher education.\n                      N\n                       = 21 preservice teachers completed a 10‐minute, one‐to‐one conversation with an AI student avatar embedded in a PBTE module on leading educational dialogue. The study combined post‐session questionnaires, system metadata, transcript coding and interviews. Participants perceived the exchanges as clearly functional and moderately authentic. Metadata indicated balanced participation, with slightly longer teacher turns. Transcript analyses likewise pointed to high functional dialogue alongside moderate authentic dialogue. Further speaker‐differentiated analyses showed the avatar acting as a responsive counter‐voice, while preservice teachers applied dialogic talk moves. Interview data supported these findings, with participants describing the avatar's language and stance as plausible and highlighting the avatar's contingent uptake of prior turns, while also noting limits to full classroom realism. Taken together, the findings suggest that avatar‐mediated dialogues can provide a meaningful learning opportunity for novices in PBTE. Implications for the design and educational use of AI‐based avatars in teacher education are discussed.\n                    \n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Practice‐based teacher education (PBTE) uses approximations of practice to help preservice teachers rehearse core teaching practices.\n                            \n                            \n                              Dialogic pedagogy (eg, pressing for reasons, building on ideas and taking up students' contributions) supports deeper understanding and participation.\n                            \n                            \n                              AI‐driven avatars are emerging as low‐cost, scalable tools for simulated practice, but evidence on the quality of avatar–teacher interaction is still limited.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              Implementation‐based evidence that short, one‐to‐one conversations with an AI student avatar are experienced as clearly functional and moderately authentic by preservice teachers.\n                            \n                            \n                              Mixed data (self‐reports, system metadata, transcript coding, interview excerpts) show balanced turn‐taking and reveal the avatar's role as a responsive ‘counter‐voice’, while preservice teachers applied dialogic talk moves to develop ideas, elicit reasoning, and challenge claims.\n                            \n                            \n                              A transparent description of the scenario design and prompts that educators can replicate or adapt.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              AI avatars can provide a manageable and accessible opportunity to practice educational dialogue before moving to more complex classroom interactions.\n                            \n                            \n                              Scenario design matters: controversy‐ready prompts and contingent uptake may support explanation, justification and dialogic engagement in avatar‐mediated rehearsals.\n                            \n                            \n                              PBTE programs should combine avatar‐based rehearsal with guided debriefing and opportunities for repeated cycles of rehearsal and reflection.",
         "doi": "10.1111/bjet.70087",
@@ -97,30 +124,6 @@
           "Shi‐Ying Wang"
         ],
         "published": "2026-8-7",
-        "journal": "British Journal of Educational Technology",
-        "venue": "British Journal of Educational Technology"
-      },
-      {
-        "title": "Effects of\n                    <scp>AI</scp>\n                    chatbot‐supported cooperative flipped classroom on student collaboration, self‐regulated learning and academic performance: A mastery learning perspective",
-        "abstract": "Abstract\n                  \n                    Despite the increasing application of AI chatbots, few studies have examined the effectiveness of AI chatbot‐supported cooperative‐flipped classrooms in university teaching. Based on mastery learning theory, this study employed a quasi‑experimental design to examine how an AI chatbot‐supported cooperative‑flipped classroom influences students' collaboration, self‐regulated learning and academic performance, and whether students with different prior knowledge levels demonstrate distinct patterns under AI‐supported flipped learning. This study involved 154 junior students from a normal university, including an experimental group (\n                    n\n                     = 87) and a control group (\n                    n\n                     = 67), who were taught by the same instructor over an 11‐week period. Quantitative data from pretest and posttest scores and self‑report scales were analysed using\n                    t\n                    ‐tests and ANCOVA, whereas qualitative interview data from 10 experimental group students were analysed using Epistemic Network Analysis to compare collaboration and self‑regulated learning patterns across prior knowledge groups. The results showed that, compared to the control group, the experimental group demonstrated significantly higher posttest scores in collaboration, self‐regulated learning and academic performance. Within the experimental group, students with higher levels of AI chatbot interaction also significantly outperformed those with lower interaction levels in academic performance. Further, Epistemic Network Analysis results revealed that in AI chatbot‑supported flipped learning, students with lower prior knowledge exhibited denser collaboration networks, requiring more cognitive input and more frequent dimension switching to coordinate collaborative processes. In contrast, students with higher prior knowledge demonstrated stronger connections between the seeking, engaging and reflecting dimensions in their self‐regulated learning networks, reflecting more integrated self‐regulatory behaviour. This study provides empirical support for mastery learning theory and demonstrates the effectiveness of AI chatbot‐supported cooperative‐flipped classrooms, offering implications for differentiated teaching based on students' prior knowledge levels.\n                  \n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Flipped classrooms are associated with improvements in students' self‐regulated learning, motivation and academic performance compared with traditional instruction.\n                            \n                            \n                              Group cooperation during pre‐class activities can enhance peer interaction and collaboration, but is often constrained by uneven participation and limited instructional support.\n                            \n                            \n                              AI chatbots have been applied as learning assistants in higher education to provide feedback and learning resources, yet their role in structured pre‐class group cooperation remains insufficiently examined.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              AI chatbot‐supported cooperative‐flipped classrooms significantly enhance students' collaboration, self‐regulated learning and academic performance compared with traditional group‐based flipped learning.\n                            \n                            \n                              Epistemic network analysis shows that students with different levels of prior knowledge exhibit distinct collaboration and self‐regulation patterns when supported by an AI chatbot.\n                            \n                            \n                              The findings demonstrate that AI chatbots can function as mastery‐oriented scaffolds by guiding task division, clarifying learning goals and supporting feedback during pre‐class group discussions, thereby strengthening students' readiness for subsequent in‐class learning.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            \n                              Practitioners are encouraged to integrate AI chatbots into pre‐class group discussions to provide structured guidance, timely feedback and support for collaborative knowledge construction.\n                            \n                            \n                              Instructional support should be differentiated by prior knowledge: learners with lower prior knowledge benefit from clearer goals and stronger cognitive scaffolding, whereas higher‐achieving learners benefit from tasks emphasizing integration, reflection and assessment.\n                            \n                            \n                              For large‐scale or resource‐constrained teaching contexts, AI chatbot‐supported cooperative‐flipped classrooms offer a scalable approach to implementing mastery learning and differentiated instruction in technology‐enhanced pedagogy.",
-        "doi": "10.1111/bjet.70079",
-        "url": "https://doi.org/10.1111/bjet.70079",
-        "authors": [
-          "Kai Wang",
-          "Sihan Qin",
-          "Yue Shen"
-        ],
-        "published": "2026-8-7",
-        "journal": "British Journal of Educational Technology",
-        "venue": "British Journal of Educational Technology"
-      },
-      {
-        "title": "Issue Information",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1111/bjet.70085",
-        "url": "https://doi.org/10.1111/bjet.70085",
-        "authors": [],
-        "published": "2026-9",
         "journal": "British Journal of Educational Technology",
         "venue": "British Journal of Educational Technology"
       }
@@ -280,20 +283,6 @@
         "venue": "Computers in Human Behavior"
       },
       {
-        "title": "Autonomy-supportive mediation and scam susceptibility: The role of literacy among middle-aged and older adults",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109178",
-        "url": "https://doi.org/10.1016/j.chb.2026.109178",
-        "authors": [
-          "Yunsha Pu",
-          "Hongliang Chen",
-          "Yijin Guo"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
         "title": "Creative or uncreative partner: Comparing humans and AI in collaborative creative tasks",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.chb.2026.109172",
@@ -302,6 +291,20 @@
           "Clin K.Y. Lai",
           "Simone A. Luchini",
           "Nina Lauharatanahirun"
+        ],
+        "published": "2027-2",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Autonomy-supportive mediation and scam susceptibility: The role of literacy among middle-aged and older adults",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109178",
+        "url": "https://doi.org/10.1016/j.chb.2026.109178",
+        "authors": [
+          "Yunsha Pu",
+          "Hongliang Chen",
+          "Yijin Guo"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -392,6 +395,33 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "AI-supported interactive learning environments and students’ AI-related digital competence and perceived innovation capability: longitudinal and experimental evidence",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2735913",
+        "url": "https://doi.org/10.1080/10494820.2026.2735913",
+        "authors": [
+          "Hailan Meng",
+          "Jing Yao"
+        ],
+        "published": "2026-9-22",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "From AI learning self-efficacy to perceived digital creativity: a four-wave time-lagged study of digital technology adoption and online collaborative learning among university students",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2732232",
+        "url": "https://doi.org/10.1080/10494820.2026.2732232",
+        "authors": [
+          "Weida Zhang",
+          "Shiyu Gu",
+          "Di Lu"
+        ],
+        "published": "2026-9-22",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "AI-differentiated experiential learning design: Delphi evaluation of conceptual soundness and operational applicability",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2734309",
@@ -427,34 +457,6 @@
           "Seçkin Gök"
         ],
         "published": "2026-9-20",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Expert evaluation of AI-assisted scenario design for interactive problem based learning environments in medical education",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2734312",
-        "url": "https://doi.org/10.1080/10494820.2026.2734312",
-        "authors": [
-          "Burcu Kucuk Bicer",
-          "Yavuz Selim Kıyak",
-          "Özlem Coşkun"
-        ],
-        "published": "2026-9-18",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "GenAI dependency and psychological distress among Chinese university students: a cross-sectional examination of the serial mediating roles of fear of missing out and derailment",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2734315",
-        "url": "https://doi.org/10.1080/10494820.2026.2734315",
-        "authors": [
-          "Mingyue Cui",
-          "Xi Chen",
-          "Pu Sun"
-        ],
-        "published": "2026-9-18",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -667,6 +669,19 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "FrottarX: An Effortful Visual Logging and Reflection System to Support Embodied Engagement with Physical Exhibits",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2720986",
+        "url": "https://doi.org/10.1080/10447318.2026.2720986",
+        "authors": [
+          "Woojae Kang",
+          "Bokyung Lee"
+        ],
+        "published": "2026-9-22",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "Research Hotspots and Trends in Smart Health and Aging Care for the Elderly: A Literature Review Analysis Using CiteSpace and VOSviewer",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2726582",
@@ -716,19 +731,6 @@
           "Xinyue Dong",
           "Danlei Wang",
           "Huijing Zhang"
-        ],
-        "published": "2026-9-21",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Defining and Detecting Distraction in Educational Virtual Reality: Intervention Effectiveness, Physiological Differentiation, and Individual Differences",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2731313",
-        "url": "https://doi.org/10.1080/10447318.2026.2731313",
-        "authors": [
-          "Nicholas Fisher",
-          "Arun K. Kulshreshth"
         ],
         "published": "2026-9-21",
         "journal": "International Journal of Human-Computer Interaction",
@@ -881,6 +883,18 @@
     ],
     "Journal of Early Childhood Research": [
       {
+        "title": "Strengthening the foundations: Practice priorities in early childhood settings",
+        "abstract": "With speech and language being a significant area of concern within England, the research upon which this paper focused aimed to explore how indoor and outdoor play and learning spaces impact on young children’s communication and language development. Eleven early years settings were asked to assess children’s baseline skills within this area (\n                    n\n                    = 76), then to undertake improvements to their environments using an environmental audit tool (\n                    n\n                    = 11). After the improvements were implemented and embedded, children were re-assessed 6 months later. Parents’ (\n                    n\n                    = 10) and practitioners’ (\n                    n\n                    = 29) views were also sought on the perceived benefits of the intervention. Through a mixed-method evaluation approach and by way of statistical analysis of observations (\n                    n\n                    = 11), questionnaires (\n                    n\n                    = 39), and interviews (\n                    n\n                    = 11), before and after the intervention, it was found that practitioner’s confidence in supporting speech and language development was enhanced (increase of 32%–44%). Further, improvements made in the play and learning environments also contributed towards a positive impact on speech and language outcomes (93%–97% improvement) and parents noted improvements in their children’s development in this area. Although the small-scale study was undertaken in England, it is asserted that the findings may be applicable to a wider international context. This project highlighted that practitioners require support in utilising their environments in a supportive manner and it is recommended that there needs to be an approach moving forward that focuses on ‘strengthening the foundations’ of early years practice.",
+        "doi": "10.1177/1476718x261477528",
+        "url": "https://doi.org/10.1177/1476718x261477528",
+        "authors": [
+          "Tanya Richardson"
+        ],
+        "published": "2026-9-21",
+        "journal": "Journal of Early Childhood Research",
+        "venue": "Journal of Early Childhood Research"
+      },
+      {
         "title": "Reimagining Froebelian principles to engage and support low-income families in early childhood policy",
         "abstract": "This paper makes three important contributions to the early years field in England. First, it highlights the barriers to play experienced by low-income families. Second, it illuminates parents’ affinity with Froebelian principles without prior knowledge of them. Third, it suggests how these affinities could be taken up in early years policy. This paper draws on previous research which revealed that many early years’ practitioners believe low-income families often do not value play. In so doing, it presents findings from our recent study which invited low-income families to reflect on and explore the potential of applying Froebel’s ideas in their interactions with their child(ren) during play. Through interviews, families shared their experiences, perceptions, and understandings of Froebelian approaches to play. Notably, parents engaged with Froebelian concepts in practice, even though they did not explicitly identify or label them as such. The findings suggest a need to adapt and extend Froebelian principles to be more inclusive and accessible to low-income families. This research offers valuable insights for practitioners by providing empirical evidence of diverse parental perspectives on play, highlighting opportunities to learn from families and support play-based learning at home. It also holds implications for policy, identifying areas where changes are needed to address the impact of socio-economic disadvantage on families with young children.",
         "doi": "10.1177/1476718x261478719",
@@ -935,90 +949,281 @@
         "published": "2026-8-10",
         "journal": "Journal of Early Childhood Research",
         "venue": "Journal of Early Childhood Research"
-      },
-      {
-        "title": "Children’s use of symbolic “anchors”: Color and shape in map-making activities",
-        "abstract": "This research study focuses on children’s symbolic development, especially looking at color and shape as symbolic anchors in children’s expressive communication. Framed by Vygotsky’s cognitive development theory, which includes the roles of social interaction, cultural tools, and the zone of proximal development (ZPD), as well as Mead’s social interactionism, the study was designed as mixed-methods research with data collection from children’s map artifacts, map-making video recording and audio transcriptions, and a data collection matrix. By tracking the performance of 10 children (n/x = 10) in creating maps for 2 years, when they were approximately 4 years old (year 1, mean age = 52.5 months), and in Pre-K (year 2, mean age = 71 months), when they were approximately 5 years old, we examined children’s symbol use. It was observed that exposure to and engagement with relational language promotes children’s analogical reasoning. We also found that the children’s use of symbols, and especially symbolic anchors, increased overtime, demonstrating expanded perspective-taking ability. Lastly, it is our observation that children’s use of shape as a symbolic anchor seems to appear prior to children’s use of color in the emergence of symbolic representation.",
-        "doi": "10.1177/1476718x261466158",
-        "url": "https://doi.org/10.1177/1476718x261466158",
-        "authors": [
-          "Wenjie Wang",
-          "Annabelle Black Delfin"
-        ],
-        "published": "2026-7-26",
-        "journal": "Journal of Early Childhood Research",
-        "venue": "Journal of Early Childhood Research"
       }
     ]
   },
   "keyword_papers": [
     {
-      "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
-      "title": "Applying Artificial Intelligence into Early Childhood Math Education: Lesson Design and Course Effect",
-      "abstract": "A growing trend has been observed in applying artificial intelligence (Al) for educational purposes. With emerging initiatives in adapting Al in early childhood education, greater effort can be made in providing empirical evidence to theoretically support the use of Al techniques for young children. This study aims to introduce an instructional unit of math instruction for children aged 3-8. The course was delivered by a learning app, Zebra Al, where an intelligent tutoring system was applied. Students were invited from social networking sites and 66 children from India agreed to participate. A four-week course (five lessons each week) was delivered, covering basic math concepts including recognizing patterns, identifying 2D shapes, dissecting 2D shapes, and counting. The effect of the course was assessed in both cognitive and attitudinal facets. The results indicated that the course was effective in improving math performance and sustaining math attitudes.",
+      "paperId": "350cc5144179f49812a5fe80aae6aac8fdbe2e74",
+      "title": "Developmentally aligned AI: a framework for translating the science of child development into AI design",
+      "abstract": "What would it mean to design AI not for the average user, but for the child whose fingers still miss the screen, who forgets the instructions halfway through, and who greets the voice in the box as a friend? This paper proposes Developmentally Aligned Design (DAD) as a practical and ethical framework for building AI systems that meet children where they are—cognitively, socially, and emotionally. Building on the long-standing principle of developmentally appropriate practice in early childhood education, it theorises four principles of developmentally-aligned design: (1) perceptual fit (e.g., anonymised phoneme‑error tuning in early‑reading apps that respects toddlers’ speech‑production limits) (2) cognitive scaffolding (e.g. Zone‑of‑Proximal‑Development (ZPD) progressions that govern when a tutoring agent introduces harder tasks) (3) interface simplicity (e.g., storybook apps that cap menu depth and visual clutter to match preschoolers’ working‑memory span) and (4) relational integrity (e.g., conversational agents that introduce themselves with a developmentally clear disclaimer—“I’m a computer helper, not a real friend”). Through illustrative examples, it demonstrates how developmental science can serve as a validation layer on AI dataset curation, model fine‑tuning, and user experience choices. Adopting Developmentally Aligned Design can therefore sensitise AI systems to the distinct perceptual, cognitive, and socio‑emotional needs of young children; shift the responsibility of “proof of safety” from parents and early‑years practitioners to AI developers and vendors; and help the science of child development become a core intellectual engine of next‑generation AI innovation.",
       "authors": [
-        "Shuhang Zhang",
-        "Xuelian Chen"
+        "Nomisha Kurian"
       ],
-      "venue": "International Conference on Teaching, Assessment, and Learning for Engineering",
-      "published": "2022-12-01",
-      "url": "https://doi.org/10.1109/TALE54877.2022.00109",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "AI, Brain and Child",
+      "published": "2025-08-06",
+      "url": "https://doi.org/10.1007/s44436-025-00009-z",
+      "query": "AI child development"
     },
     {
-      "paperId": "4f23ee7393a0f96819e51226989857ff867b4284",
-      "title": "Developmentally Appropriate Intelligent Spatial Tutoring for Mobile Devices",
-      "abstract": "Abstract not available.",
+      "paperId": "da6d7f820c3bce984be69de74d09a7587126fb68",
+      "title": "The Future of Child Development in the AI Era. Cross-Disciplinary Perspectives Between AI and Child Development Experts",
+      "abstract": "This report explores the potential implications of rapidly integrating Artificial Intelligence (AI) applications into children's environments. The introduction of AI in our daily lives necessitates scrutiny considering the significant role of the environment in shaping cognition, socio-emotional skills, and behaviors, especially during the first 25 years of cerebral development. As AI becomes prevalent in educational and leisure activities, it will significantly modify the experiences of children and adolescents, presenting both challenges and opportunities for their developmental trajectories. This analysis was informed by consulting with 15 experts from pertinent disciplines (AI, product development, child development, and neurosciences), along with a comprehensive review of scientific literature on children development and child-technology interactions. Overall, AI experts anticipate that AI will transform leisure activities, revolutionize education, and redefine human-machine interactions. While AI offers substantial benefits in fostering interactive engagement, it also poses risks that require careful considerations, especially during sensitive developmental periods. The report advocates for proactive international collaboration across multiple disciplines and increased research into how technological innovations affect child development. Such efforts are crucial for designing a sustainable and ethical future for the next generation through specific child-centered regulations, and helping to educate all potential stakeholders (regulators, developers, parents and educators, children) about responsible AI use and its potential impacts on child development.",
       "authors": [
-        "Melissa A. Wiederrecht",
-        "Amy Banic"
+        "Mathilde Neugnot-Cerioli",
+        "Olga Muss Laurenty"
       ],
-      "venue": "International Conference on Intelligent Tutoring Systems",
-      "published": "2012-06-14",
-      "url": "https://doi.org/10.1007/978-3-642-30950-2_81",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "arXiv.org",
+      "published": "2024-05-29",
+      "url": "https://doi.org/10.48550/arXiv.2405.19275",
+      "query": "AI child development"
     },
     {
-      "paperId": "5454714cd3359fa759dc828bcad0c7c069268cad",
-      "title": "Context-sensitive Natural Language Generation for robot-assisted second language tutoring",
-      "abstract": "This paper describes the L2TOR intelligent tutoring system (ITS), focusing primarily on its output generation module. The L2TOR ITS is developed for the purpose of investigating the efficacy of robot-assisted second language tutoring in early childhood. We explain the process of generating contextually-relevant utterances, such as task-specific feedback messages, and discuss challenges regarding multimodality and multilingualism for situated natural language generation from a robot tutoring perspective.",
+      "paperId": "378c59359f151a0e68bd6b749abc1f14d886766d",
+      "title": "AI, Brain, and Child: navigating the intersection of artificial intelligence, neuroscience, and child development",
+      "abstract": "In an era marked by rapid advancements in artificial intelligence (AI) and cognitive neuroscience, the intersection of these fields holds transformative potential for child development and educational practices. This launch editorial introduces AI, Brain and Child (ABC), an open-access journal dedicated to exploring the dynamic interplay between AI, neuroscience, and child education. By fostering an interdisciplinary dialogue among educators, researchers, clinicians, and policymakers, ABC aims to examine the multifaceted roles of AI and neuroscience in shaping cognitive, social, and emotional growth among children. The journal seeks to democratize access to high-quality research, addressing both the beneficial applications and ethical challenges posed by AI and neuroscience technologies. Through this platform, ABC aspires to promote evidence-based practices, enhance educational outcomes, and tackle pressing developmental and educational issues. By welcoming diverse contributions—from empirical research to policy analysis—ABC endeavors to bridge the gaps between theory and practice, equipping stakeholders with the insights needed to navigate the complexities of educating children within a technologically enriched landscape. This new scholarly endeavor marks a new era of global community to partake in the crucial conversation surrounding the opportunities and responsibilities inherent in integrating AI and neuroscience into education.",
       "authors": [
-        "Bram Willemsen",
-        "Jan de Wit",
-        "E. Krahmer"
+        "P. Li",
+        "J. C. Lee"
       ],
-      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
-      "published": "2018-11-08",
-      "url": "https://doi.org/10.18653/v1/W18-6901",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "AI, Brain and Child",
+      "published": "2025-03-11",
+      "url": "https://doi.org/10.1007/s44436-025-00004-4",
+      "query": "AI child development"
     },
     {
-      "paperId": "d88a250737878889ff51dc43e717c6ee1caacb8d",
-      "title": "Learning environments : contributions from Dutch and German research",
-      "abstract": "Abstract not available.",
+      "paperId": "a0094342d67f6cd381e8955dcc1fc23def1c47c9",
+      "title": "AI-Driven Design of Emotionally Supportive Toys for Child Development: An Iterative Process",
+      "abstract": "Background Emotional support is critical for children's social skills and well-being. Children exposed to emotional support at an early age can foster resilience and interpersonal skills. As traditional support methods lack interactive and personalized engagement, innovative, technology-driven solutions are consequently developed. Objective This project aimed to develop an AI-driven “emotional mentor” embodied in a plush bear whose inherent characteristic is comfort and companionship. The goal was to create a visually appealing and emotionally supportive tool that encourages children to recognize and express their feelings through gentle interaction. The design specifically targets children aged 3-11, a critical period of emotional development defined by Freudian psychology. Method The project utilized AI visual generation models guided by precise prompts, following a systematic, iterative design process. Initial design concepts were generated by AI visual generation models with precise prompts. Early outputs were critically evaluated for inconsistencies, excessive detail, and unwanted features. After iterative updates, the prompts can finally output simplicity, warmth, and an inviting appearance. LoRA fine-tuning was used to balance function and aesthetics. Market research informed the incorporation of subtle “breathing” motion effects, and user perception testing also informed the design. Results The iterative design process yielded a prototype of an emotionally supportive plush toy with refined visual aesthetics and glowing interactive features. The AI-assisted design facilitated the exploration of a range of design concepts and the systematic improvement of the toy's visual and interactive elements. Conclusion This study presents a detailed, AI-assisted iterative approach to designing an emotionally supportive plush toy. The design process and interactive visual features are the core. Future work may explore additional functionalities to further enhance the system's emotional support capabilities.",
       "authors": [
-        "J. Pieters",
-        "K. Breuer",
-        "P.Robert-Jan Simons"
+        "Xinwei Guan",
+        "Deng-Kai Chen",
+        "Sui-Huai Yu"
       ],
       "venue": "",
-      "published": "1990",
-      "url": "https://doi.org/10.1007/978-3-642-84256-6",
-      "query": "intelligent tutoring system early childhood"
+      "published": "2025-04-25",
+      "url": "https://doi.org/10.1145/3744367.3744393",
+      "query": "AI child development"
     },
     {
-      "paperId": "befbbb0e900878786f96fb7e08f2332a4eb477a5",
-      "title": "Engineering the Design of iSTART-Early: Adapting an Intelligent Tutoring System for 3rd, 4th, and 5th Grade Reading",
+      "paperId": "6e0feaafb805a0b8245333e393068327b565895f",
+      "title": "AI, Parenting, and Child Development.",
       "abstract": "Abstract not available.",
       "authors": [
-        "Marissa A. Castellana",
-        "Erika B. Langley",
-        "Micah Watanabe"
+        "J. Radesky"
       ],
-      "venue": "Journal of Formative Design in Learning",
-      "published": "2026-05-26",
-      "url": "https://doi.org/10.1007/s41686-026-00111-2",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Journal of Developmental and Behavioral Pediatrics",
+      "published": "2024-02-09",
+      "url": "https://doi.org/10.1097/DBP.0000000000001256",
+      "query": "AI child development"
+    },
+    {
+      "paperId": "a98862ffe4c18634a67a3df8a965a35e5e0d7ec8",
+      "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
+      "abstract": "Large language models represent a significant advancement in the field of AI. The underlying technology is key to further innovations and, despite critical views and even bans within communities and regions, large language models are here to stay. This position paper presents the potential benefits and challenges of educational applications of large language models, from student and teacher perspectives. We briefly discuss the current state of large language models and their applications. We then highlight how these models can be used to create educational content, improve student engagement and interaction, and personalize learning experiences. With regard to challenges, we argue that large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations and unexpected brittleness of such systems. In addition, a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required to integrate and take full advantage of large language models in learning settings and teaching curricula. Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios to acquaint students early on with potential societal biases, criticalities, and risks of AI applications. We conclude with recommendations for how to address these challenges and ensure that such models are used in a responsible and ethical manner in education.",
+      "authors": [
+        "Enkelejda Kasneci",
+        "Kathrin Seßler",
+        "S. Küchemann"
+      ],
+      "venue": "Learning and Individual Differences",
+      "published": "2023-04-01",
+      "url": "https://doi.org/10.1016/j.lindif.2023.102274",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "2f4803bf9025e67f01b9bb50ba7f48bc94f6b79e",
+      "title": "Student perceptions of ChatGPT: benefits, costs, and attitudinal differences between users and non-users toward AI integration in higher education",
+      "abstract": "Today, there is no doubt that Artificial Intelligence (AI) presents both opportunities and challenges in higher education. This study examines three key areas: (1) students’ use of ChatGPT, (2) their perceptions of its benefits and costs, and (3) the differences in attitudes toward AI integration in higher education between ChatGPT users and non-users. A sample of 737 undergraduate students at a Spanish university answered an online survey. The quantitative analysis revealed a high prevalence of ChatGPT use for academic and personal purposes, with students identifying its 24/7 accessibility as a major advantage, along with the time-saving benefits it offers. However, concerns were raised about potential costs, including the devaluation of university education when students rely on ChatGPT to complete assignments. Results indicate significant differences between ChatGPT users and non-users: users generally support AI integration in higher education, particularly in teaching methods, while non-users often oppose its integration, advocating for measures such as banning AI in universities. Our study provides valuable insights into student perspectives on the integration of ChatGPT in higher education, emphasizing the contrasting viewpoints of users and non-users. The findings underline the need for universities to actively involve students in shaping policies on artificial intelligence while offering targeted training to promote its responsible and ethical use. Furthermore, universities should support educators in adapting their teaching methodologies to the digital era by incorporating innovative strategies that enhance both teaching and learning.",
+      "authors": [
+        "Joanna Blahopoulou",
+        "Silvia Ortiz-Bonnin"
+      ],
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-04-16",
+      "url": "https://doi.org/10.1007/s10639-025-13575-9",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "9b3589c83765f94d07e89a751c05587c2144185f",
+      "title": "ChatGPT Early Adoption in Higher Education: Variation in Student Usage, Instructional Support, and Educational Equity",
+      "abstract": "This study examines the early adoption of ChatGPT in late 2022 and early 2023 by identifying variation in student awareness, academic use, and perceived instructional support for the technology at a diverse U.S. public research university. Specifically, we investigate (a) how individual awareness and academic use of ChatGPT vary by student characteristics and field of study, (b) how instructor encouragement or discouragement varies across courses and student demographics, and (c) how academic use patterns differ between science, technology, engineering, and mathematics (STEM) and non-STEM fields. Data from 938 undergraduates, merged with administrative records, revealed disparities in ChatGPT awareness and use, with underrepresented minority, first-generation, and international students less likely to know about or use the tool academically. Course-level analysis highlighted that instructor encouragement is more prevalent in STEM fields and upper-division courses but decreases in classes with higher underrepresented minority representation. Open-ended responses showed distinct patterns of ChatGPT use, with STEM students favoring conceptual assistance and coding and non-STEM students engaging in writing and instructor-assigned activities. These findings underscore early inequities in access and use of emerging educational technologies and call for institutional strategies to promote equitable awareness and skill development aligned with academic and professional goals.",
+      "authors": [
+        "Richard Arum",
+        "Maria Calderon Leon",
+        "Xun-Fei Li"
+      ],
+      "venue": "AERA Open",
+      "published": "2025-04-01",
+      "url": "https://doi.org/10.1177/23328584251331956",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "49fff1d586f5e05ba81bddf5caf528c67ea535cb",
+      "title": "Empowering student self-regulated learning and science education through ChatGPT: A pioneering pilot study",
+      "abstract": "In recent years, AI technologies have been developed to promote students' self‐regulated learning (SRL) and proactive learning in digital learning environments. This paper discusses a comparative study between generative AI‐based (SRLbot) and rule‐based AI chatbots (Nemobot) in a 3‐week science learning experience with 74 Secondary 4 students in Hong Kong. The experimental group used SRLbot to maintain a regular study habit and facilitate their SRL, while the control group utilized rule‐based AI chatbots. Results showed that SRLbot effectively enhanced students' science knowledge, behavioural engagement and motivation. Quantile regression analysis indicated that the number of interactions significantly predicted variations in SRL. Students appreciated the personalized recommendations and flexibility of SRLbot, which adjusted responses based on their specific learning and SRL scenarios. The ChatGPT‐enhanced instructional design reduced learning anxiety and promoted learning performance, motivation and sustained learning habits. Students' feedback on learning challenges, psychological support and self‐regulation behaviours provided insights into their progress and experience with this technology. SRLbot's adaptability and personalized approach distinguished it from rule‐based chatbots. The findings offer valuable evidence for AI developers and educators to consider generative AI settings and chatbot design, facilitating greater success in online science learning.\nWhat is already known about this topic\n\nAI technologies have been used to support student self‐regulated learning (SRL) across subjects.\nSRL has been identified as an important aspect of student learning that can be developed through technological support.\nGenerative AI technologies like ChatGPT have shown potential for enhancing student learning by providing personalized guidance and feedback.\nWhat this paper adds\n\nThis paper reports on a case study that specifically examines the effectiveness of ChatGPT in promoting SRL among secondary students.\nThe study provides evidence that ChatGPT can enhance students' science knowledge, motivation and SRL compared to a rule‐based AI chatbot.\nThe study offers insights into how ChatGPT can be used as a tool to facilitate SRL and promote sustained learning habits.\nImplications for practice and/or policy\n\nThe findings of this study suggest that educators should consider the potential of ChatGPT and other generative AI technologies to support student learning and SRL.\nEducators and students should be aware of the limitations of AI technologies and ensure that they are used appropriately to generate desired responses.\nIt is also important to equip teachers and students with AI competencies to enable them to use AI for learning and teaching.\n\n",
+      "authors": [
+        "D. Ng",
+        "C. Tan",
+        "J. Leung"
+      ],
+      "venue": "British Journal of Educational Technology",
+      "published": "2024-03-22",
+      "url": "https://doi.org/10.1111/bjet.13454",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "8a9f05cdfd0ea7411e83f95b39647167ee82c087",
+      "title": "ChatGPT in higher education: Considerations for academic integrity and student learning",
+      "abstract": "The release of ChatGPT has sparked significant academic integrity concerns in higher education. However, some commentators have pointed out that generative artificial intelligence (AI) tools such as ChatGPT can enhance student learning, and consequently, academics should adapt their teaching and assessment practices to embrace the new reality of living, working, and studying in a world where AI is freely available. Despite this important debate, there has been very little academic literature published on ChatGPT and other generative AI tools. This article uses content analysis to examine news articles (N=100) about how ChatGPT is disrupting higher education, concentrating specifically on Australia, New Zealand, the United States",
+      "authors": [
+        "M. Sullivan",
+        "Andrew Kelly",
+        "Paul Mclaughlan"
+      ],
+      "venue": "1",
+      "published": "2023-03-21",
+      "url": "https://doi.org/10.37074/jalt.2023.6.1.17",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "3ea0e7905db5e13f38bd54a848b15287c7b3fcfb",
+      "title": "Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis",
+      "abstract": "Despite the consensus that early identification leads to better outcomes for individuals with autism spectrum disorder (ASD), recent research reveals that the average age of diagnosis in the Greek population is approximately six years. However, this age of diagnosis is delayed by an additional two years for families from lower-income or minority backgrounds. These disparities result in adverse impacts on intervention outcomes, which are further burdened by the often time-consuming and labor-intensive language assessments for children with ASD. There is a crucial need for tools that increase access to early assessment and diagnosis that will be rigorous and objective. The current study leverages the capabilities of artificial intelligence to develop a reliable and practical model for distinguishing children with ASD from typically-developing peers based on their narrative and vocabulary skills. We applied natural language processing-based extraction techniques to automatically acquire language features (narrative and vocabulary skills) from storytelling in 68 children with ASD and 52 typically-developing children, and then trained machine learning models on the children’s combined narrative and expressive vocabulary data to generate behavioral targets that effectively differentiate ASD from typically-developing children. According to the findings, the model could distinguish ASD from typically-developing children, achieving an accuracy of 96%. Specifically, out of the models used, hist gradient boosting and XGBoost showed slightly superior performance compared to the decision trees and gradient boosting models, particularly regarding accuracy and F1 score. These results bode well for the deployment of machine learning technology for children with ASD, especially those with limited access to early identification services.",
+      "authors": [
+        "C. Themistocleous",
+        "Maria Andreou",
+        "E. Peristeri"
+      ],
+      "venue": "Behavioral Science",
+      "published": "2024-05-29",
+      "url": "https://doi.org/10.3390/bs14060459",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "3969efd26e1a833852e87ec2a3e805a0c42e69f3",
+      "title": "The significance of growing up in a hoarded home: using natural language processing to examine the experiences of adult children of hoarding parents on Reddit",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Oskar Kocol",
+        "I. Sabel",
+        "K. Timpano"
+      ],
+      "venue": "Journal of Obsessive-Compulsive and Related Disorders",
+      "published": "2025-02-01",
+      "url": "https://doi.org/10.1016/j.jocrd.2025.100938",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "214ff0f9e2f36c3bb1a28cb1e32e3bfb69a025d1",
+      "title": "Harnessing Natural Language Processing to Assess Quality of End-of-Life Care for Children with Cancer",
+      "abstract": "Purpose: Data on end-of-life care (EOLC) quality, assessed through evidence-based quality measures (EOLC-QMs), are difficult to obtain. Natural language processing (NLP) enables efficient quality measurement and has not yet been used for children with serious illness. We sought to validate a pediatric-specific EOLC-QM keyword library and evaluate EOLC-QM attainment among childhood cancer decedents. Methods: In a single-center cohort of children with cancer who died between 2014-2022, we piloted a rule-based NLP approach to examine content of clinical notes in the last six months of life. We identified documented discussions of five EOLC-QMs: goals of care, limitations to life-sustaining treatments, hospice, palliative care consultation, and preferred location of death. We assessed performance of NLP methods, compared to gold standard manual chart review. We then used NLP to characterize proportions of decedents with documented EOLC-QM discussions and timing of first documentation relative to death. Results: Among 101 decedents, nearly half were minorities [Hispanic/Latinx (24%), non-Hispanic Black/African American (20%)], female (48%), or diagnosed with solid tumors (43%). Through iterative refinement, our keyword library achieved robust performance statistics (for all EOLC-QMs, F1 score=1.0). Most decedents had documented discussions regarding goals of care (83%), limitations to life-sustaining treatments (83%), and hospice (74%). Fewer decedents had documented discussions regarding palliative care consultation (49%) or preferred location of death (36%). For all five EOLC-QMs, first documentation occurred, on average, >30 days before death. Conclusion: A high proportion of decedents attained specified EOLC-QMs more than 30 days before death. Our findings indicate that NLP is a feasible approach to measuring quality of care for children with cancer at the end of life and is ripe for multi-center research and quality improvement.",
+      "authors": [
+        "Meghan E. Lindsay",
+        "Sophia Vlieger de Oliveira",
+        "Kate Sciacca"
+      ],
+      "venue": "JCO Clinical Cancer Informatics",
+      "published": "2024-09-01",
+      "url": "https://doi.org/10.1200/CCI.24.00134",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "ac4058bb90d05d87d325bcb3616d13e05fdeccf4",
+      "title": "Deep Learning-Based Natural Language Processing Model and Optical Character Recognition for Detection of Online Grooming on Social Networking Services",
+      "abstract": ": The increased accessibility of social networking services (SNSs) has facilitated communication and information sharing among users. However, it has also heightened concerns about digital safety, particularly for children and adolescents who are increasingly exposed to online grooming crimes. Early and accurate identification of grooming conversations is crucial in preventing long-term harm to victims. However, research on grooming detection in South Korea remains limited, as existing models trained primarily on English text and fail to reflect the unique linguistic features of SNS conversations, leading to inaccurate classifications. To address these issues, this study proposes a novel framework that integrates optical character recognition (OCR) technology with KcELECTRA, a deep learning-based natural language processing (NLP) model that shows excellent performance in processing the colloquial Korean language. In the proposed framework, the KcELECTRA model is fine-tuned by an extensive dataset, including Korean social media conversations, Korean ethical verification data from AI-Hub, and Korean hate speech data from Hug-gingFace, to enable more accurate classification of text extracted from social media conversation images. Experimental results show that the proposed framework achieves an accuracy of 0.953, outperforming existing transformer-based models. Furthermore, OCR technology shows high accuracy in extracting text from images, demonstrating that the proposed framework is effective for online grooming detection. The proposed framework is expected to contribute to the more accurate detection of grooming text and the prevention of grooming-related crimes.",
+      "authors": [
+        "Sangmin Kim",
+        "Byeong Guk Lee",
+        "M. Maqsood"
+      ],
+      "venue": "Computer Modeling in Engineering &amp; Sciences",
+      "published": "2025",
+      "url": "https://doi.org/10.32604/cmes.2025.061653",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "61769c5bb5d5ac668c69d146385ccf09fd07ced4",
+      "title": "Early Identification of Language Disorders Using Natural Language Processing and Machine Learning: Challenges and Emerging Approaches.",
+      "abstract": "PURPOSE\nRecent advances in artificial intelligence provide opportunities to capture and represent complex features of human language in a more automated manner, offering potential means of improving the efficiency of language assessment. This review article presents computerized approaches for the analysis of narrative language and identification of language disorders in children.\n\n\nMETHOD\nWe first describe the current barriers to clinicians' use of language sample analysis, narrative language sampling approaches, and the data processing stages that precede analysis. We then present recent studies demonstrating the automated extraction of linguistic features and identification of developmental language disorder using natural language processing and machine learning. We explain how these tools operate and emphasize how the decisions made in construction impact their performance in important ways, especially in the analysis of child language samples. We conclude with a discussion of major challenges in the field with respect to bias, access, and generalizability across settings and applications.\n\n\nCONCLUSION\nGiven the progress that has occurred over the last decade, computer-automated approaches offer a promising opportunity to improve the efficiency and accessibility of language sample analysis and expedite the diagnosis and treatment of language disorders in children.",
+      "authors": [
+        "Jessica Lammert",
+        "Angela C. Roberts",
+        "Ken McRae"
+      ],
+      "venue": "Journal of Speech, Language and Hearing Research",
+      "published": "2025-01-09",
+      "url": "https://doi.org/10.1044/2024_JSLHR-24-00515",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
+      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
+      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
+      "authors": [
+        "Deabashis Sarker Tamal",
+        "MD. Mehedi Zaman Khan",
+        "Fahim Shahriar Prottoy"
+      ],
+      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+      "published": "2026-04-16",
+      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
+      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
+      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
+      "authors": [
+        "I. Khan",
+        "Hema Kumar Goru",
+        "G. L. Madhumati"
+      ],
+      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+      "published": "2024-05-03",
+      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
+      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
+      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
+      "authors": [
+        "Z. Pap",
+        "Z. Čović",
+        "Janos Simon"
+      ],
+      "venue": "Symposium on Intelligent Systems and Informatics",
+      "published": "2021-09-16",
+      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
+      "title": "Children's trust in and learning from voice assistants.",
+      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
+      "authors": [
+        "Lauren N. Girouard-Hallam",
+        "Judith H. Danovitch"
+      ],
+      "venue": "Developmental Psychology",
+      "published": "2022-04-01",
+      "url": "https://doi.org/10.1037/dev0001318",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
+      "title": "Virtual Voice Assistant In Python (Friday)",
+      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
+      "authors": [
+        "S. Uke",
+        "Hrishikesh Lokhande",
+        "Durva Lohar"
+      ],
+      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
+      "published": "2022-10-08",
+      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
+      "query": "voice assistant children learning"
     }
   ],
   "hot_topics": [
@@ -1027,11 +1232,10 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 59,
+      "count": 76,
       "keywords": [
         "AR",
-        "VR",
-        "virtual reality"
+        "VR"
       ]
     },
     {
@@ -1039,13 +1243,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 21,
+      "count": 29,
       "keywords": [
-        "teacher",
         "parent",
-        "classroom",
         "school",
-        "family"
+        "teacher",
+        "home learning",
+        "classroom"
       ]
     },
     {
@@ -1053,13 +1257,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 12,
+      "count": 25,
       "keywords": [
         "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "generative AI",
-        "machine learning"
+        "large language model",
+        "generative AI"
       ]
     },
     {
@@ -1067,12 +1271,12 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 10,
+      "count": 14,
       "keywords": [
-        "personalized learning",
         "play",
-        "game-based",
-        "game"
+        "personalized learning",
+        "game",
+        "game-based"
       ]
     },
     {
@@ -1080,10 +1284,11 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 7,
+      "count": 12,
       "keywords": [
         "reading",
         "writing",
+        "vocabulary",
         "language development"
       ]
     },
@@ -1092,11 +1297,38 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 6,
+      "count": 10,
       "keywords": [
         "emotion",
         "empathy",
         "wellbeing"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 7,
+      "keywords": [
+        "conversational agent",
+        "chatbot",
+        "robot",
+        "voice assistant"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 5,
+      "keywords": [
+        "digital learning",
+        "mobile",
+        "tablet",
+        "digital media",
+        "digital technology"
       ]
     },
     {
@@ -1106,20 +1338,8 @@
       "icon": "🧠",
       "count": 4,
       "keywords": [
-        "attention",
-        "cognitive development"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 4,
-      "keywords": [
-        "intelligent tutoring",
-        "robot",
-        "chatbot"
+        "cognitive development",
+        "attention"
       ]
     },
     {
@@ -1127,21 +1347,10 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 3,
+      "count": 4,
       "keywords": [
         "coding",
         "programming"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 2,
-      "keywords": [
-        "mobile",
-        "digital learning"
       ]
     }
   ]
