@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 06:47 UTC",
+  "updated_at": "2026-09-26 06:46 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -326,6 +326,20 @@
         "venue": "Internet and Higher Education"
       },
       {
+        "title": "Context-sensitive learning analytics in open and distance education: Identifying students' online learning behavior patterns in a large-scale Indonesian context",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101116",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101116",
+        "authors": [
+          "Dewi Juliah Ratnaningsih",
+          "Tian Belawati",
+          "Kristanti Ambar Puspitasari"
+        ],
+        "published": "2027-1",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      },
+      {
         "title": "Self-regulated learning strategy transitions and academic performance in blended learning: Insights from learning analytics",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.iheduc.2026.101106",
@@ -364,22 +378,36 @@
         "published": "2026-10",
         "journal": "Internet and Higher Education",
         "venue": "Internet and Higher Education"
-      },
-      {
-        "title": "The double-edged sword effect of AI use on college students' learning engagement",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.iheduc.2026.101103",
-        "url": "https://doi.org/10.1016/j.iheduc.2026.101103",
-        "authors": [
-          "Du Jingwen",
-          "Wang Jun"
-        ],
-        "published": "2026-10",
-        "journal": "Internet and Higher Education",
-        "venue": "Internet and Higher Education"
       }
     ],
     "Interactive Learning Environments": [
+      {
+        "title": "Integrating artificial intelligence in early childhood education: a systematic review of empirical studies",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2734311",
+        "url": "https://doi.org/10.1080/10494820.2026.2734311",
+        "authors": [
+          "Elif Gonulkirmaz",
+          "Funda Ergulec"
+        ],
+        "published": "2026-9-25",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "Preliminary investigation of personalized next-sentence prediction for EFL writing with authentic context and personalized writing portfolio",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2735914",
+        "url": "https://doi.org/10.1080/10494820.2026.2735914",
+        "authors": [
+          "Wu-Yuin Hwang",
+          "Rio Nurtantyana",
+          "Tsung-Wei Lin"
+        ],
+        "published": "2026-9-25",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
       {
         "title": "Instructional design of adaptive interactive videos: a quasi-experimental mixed-methods evaluation",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -417,32 +445,6 @@
           "Jing Yao"
         ],
         "published": "2026-9-22",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "From AI learning self-efficacy to perceived digital creativity: a four-wave time-lagged study of digital technology adoption and online collaborative learning among university students",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2732232",
-        "url": "https://doi.org/10.1080/10494820.2026.2732232",
-        "authors": [
-          "Weida Zhang",
-          "Shiyu Gu",
-          "Di Lu"
-        ],
-        "published": "2026-9-22",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "AI-differentiated experiential learning design: Delphi evaluation of conceptual soundness and operational applicability",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2734309",
-        "url": "https://doi.org/10.1080/10494820.2026.2734309",
-        "authors": [
-          "Fatih Karatas"
-        ],
-        "published": "2026-9-21",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -521,6 +523,34 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Correction to: Performance, interaction, and ethical evaluation in the use of generative artificial intelligence in engineering education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14147-1",
+        "url": "https://doi.org/10.1007/s10639-026-14147-1",
+        "authors": [
+          "Ascensión López-Vargas",
+          "Javier Rodríguez-Vidal",
+          "Ángel García-Beltrán"
+        ],
+        "published": "2026-9-26",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Fostering pair programming learning through grouping strategies: integrating ability levels and peer relationships",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14156-0",
+        "url": "https://doi.org/10.1007/s10639-026-14156-0",
+        "authors": [
+          "Xinyue Wang",
+          "Mengmeng Cheng",
+          "Yanan Zeng"
+        ],
+        "published": "2026-9-26",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "A socio-technical systems perspective on teachers’ AI adoption: the moderating roles of familiarity and cultural orientation",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14159-x",
@@ -557,31 +587,6 @@
           "Lihong Guo"
         ],
         "published": "2026-9-21",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Task demands and performance beliefs: disentangling task importance and complexity in students’ continuance intention toward generative AI",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14153-3",
-        "url": "https://doi.org/10.1007/s10639-026-14153-3",
-        "authors": [
-          "Jin Lo"
-        ],
-        "published": "2026-9-21",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Student engagement patterns in conversational AI tutoring: evidence from physics problem-solving",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14154-2",
-        "url": "https://doi.org/10.1007/s10639-026-14154-2",
-        "authors": [
-          "Eunhye Kim",
-          "Hunkoog Jho"
-        ],
-        "published": "2026-9-19",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -656,76 +661,89 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "Explanation Transparency and Trust Perception After Generative AI Failure: A Dual-Path Model",
+        "title": "Modeling Daily Digital Experiences in Adolescents: A Multilevel Latent Class Analysis of Social Media Engagement Patterns and Exposure to Alcohol-Related Content",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2734323",
-        "url": "https://doi.org/10.1080/10447318.2026.2734323",
+        "doi": "10.1080/10447318.2026.2734696",
+        "url": "https://doi.org/10.1080/10447318.2026.2734696",
         "authors": [
-          "Qiaoyun Yang",
-          "Huilin Dong"
+          "Xiangyu Tao",
+          "María E. Contreras-Pérez",
+          "Alex C. Clement"
         ],
-        "published": "2026-9-24",
+        "published": "2026-9-25",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Cognitive Load as a Hidden Cost of Empathy: Tradeoffs in Using VR for Inclusive Design",
+        "title": "Marker-Less Augmented Reality as a Catalyst for Digital Transformation in Furniture SMEs Through an Extension of the Cognitive–Affective–Conative Theory",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2730903",
-        "url": "https://doi.org/10.1080/10447318.2026.2730903",
+        "doi": "10.1080/10447318.2026.2734697",
+        "url": "https://doi.org/10.1080/10447318.2026.2734697",
         "authors": [
-          "Dawei Xiong",
-          "Zhijun Ma",
-          "Hao Ling"
+          "Aditya Nugroho",
+          "Afifah Nurrosyidah"
         ],
-        "published": "2026-9-24",
+        "published": "2026-9-25",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "What Makes a Robot Feel Affective? Verbal Cue Types and the Role of Agreeableness in Older Adults’ Perception of Robot Personality",
+        "title": "Morphological Characteristics and the Location-Dependent Variations of Thumb–Touchscreen Contact Areas in Two-Thumb Mobile Interaction",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2722790",
-        "url": "https://doi.org/10.1080/10447318.2026.2722790",
+        "doi": "10.1080/10447318.2026.2734679",
+        "url": "https://doi.org/10.1080/10447318.2026.2734679",
         "authors": [
-          "Hsiu-Ping Yueh",
-          "Hung-Chun Chang",
-          "Jia-Hsun Lo"
+          "Hayeon Yu",
+          "Yunha Park",
+          "Kyeongseo Min"
         ],
-        "published": "2026-9-24",
+        "published": "2026-9-25",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Comparing GenAI Summaries Versus Chatbots for Supporting Reflection in Healthcare Simulation",
+        "title": "Interpersonal Interaction in AR Mediated Informal Learning on Cultural Relics: The Effects of Goal, Asymmetry, Competition, and Proxemics",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2731321",
-        "url": "https://doi.org/10.1080/10447318.2026.2731321",
+        "doi": "10.1080/10447318.2026.2732424",
+        "url": "https://doi.org/10.1080/10447318.2026.2732424",
         "authors": [
-          "Mikaela Elizabeth Milesi",
-          "Viktoria Pammer-Schindler",
-          "Linxuan Zhao"
+          "Yongmeng Wu",
+          "Hao Zhong",
+          "Yiping Fan"
         ],
-        "published": "2026-9-24",
+        "published": "2026-9-25",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Evaluating In-Vehicle Drunk-Driving Warning Symbols Using Generative AI: A Comparison with Human Judgments",
+        "title": "Audience Reception of Simultaneous Speech-to-Text Translation Subtitles: A Mixed-Methods Study",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2735495",
-        "url": "https://doi.org/10.1080/10447318.2026.2735495",
+        "doi": "10.1080/10447318.2026.2734668",
+        "url": "https://doi.org/10.1080/10447318.2026.2734668",
         "authors": [
-          "Yein Park",
-          "Jaehyun Park",
-          "Daehui Kim"
+          "Yu Zhou",
+          "Fanglu Xie",
+          "Yang Zhou"
         ],
-        "published": "2026-9-24",
+        "published": "2026-9-25",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
     ],
     "Early Childhood Education Journal": [
+      {
+        "title": "Dialogic Reading: A Way to Support Early Literacy and Math Skills in Preschoolers",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02358-7",
+        "url": "https://doi.org/10.1007/s10643-026-02358-7",
+        "authors": [
+          "Erinç Ergenekon",
+          "Nesrin Işıkoğlu"
+        ],
+        "published": "2026-9-25",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
       {
         "title": "Play Through Children’s Eyes—The Subjective Meaning of Play to Young Children",
         "abstract": "Abstract\n                  Play is fundamental to children’s daily activities and provides a critical avenue for learning and development. However, attempts to describe and operationalize play are dominated by adults’ perspectives. This study aims to explore the subjective meaning of play to young children. Using a qualitative approach, semi-structured interviews were conducted with 327 children aged 4 to 8 years from [a Western European country]. These interviews were analyzed using both deductive and inductive content analysis methods to categorize children’s descriptions of play. Approximately half of the children provided coherent, differentiated descriptions of play. Results indicate that children’s perceptions align deductively with the features of play seminally defined by Krasnor and Pepler (1980) and expanded by Smith and Vollstedt (1985): positive affect, flexibility, intrinsic motivation, nonliterality, and means before end. The inductive analysis identified three additional categories, children’s business, social interactions, and object reference and therefore revealed additional features of play relevant for children. This study underscores the importance of recognizing children’s voices in research and highlights the complex, multifaceted nature of play from a child’s perspective. These insights into children’s perspectives contribute to a deeper understanding of play and inform educators, parents, and policymakers about the elements to play in early childhood. Future research should continue to explore the nuanced views of children to better support their developmental needs through play.",
@@ -781,20 +799,6 @@
         "published": "2026-9-18",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "WE PLAY for Parents: Community-Engaged Adaptation of an Online Physical Activity Intervention for Parents of Young Children with Autism",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02354-x",
-        "url": "https://doi.org/10.1007/s10643-026-02354-x",
-        "authors": [
-          "Haley V. Medeiros",
-          "Jessica Hoffman",
-          "Karin Lifter"
-        ],
-        "published": "2026-9-17",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
       }
     ],
     "Early Childhood Research Quarterly": [
@@ -807,6 +811,20 @@
           "Gladys Aguilar",
           "Adriana J. Umaña-Taylor",
           "Laudan B. Jahromi"
+        ],
+        "published": "2027",
+        "journal": "Early Childhood Research Quarterly",
+        "venue": "Early Childhood Research Quarterly"
+      },
+      {
+        "title": "Dynamic interplay between print form awareness and character recognition in Chinese preschoolers: A two-year longitudinal study",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.ecresq.2026.09.007",
+        "url": "https://doi.org/10.1016/j.ecresq.2026.09.007",
+        "authors": [
+          "Jiaxin Yuan",
+          "Feifei Li",
+          "Hui Jiang"
         ],
         "published": "2027",
         "journal": "Early Childhood Research Quarterly",
@@ -849,20 +867,6 @@
           "Johanna Romefort",
           "Mariana Grgic",
           "Susanne Kuger"
-        ],
-        "published": "2027",
-        "journal": "Early Childhood Research Quarterly",
-        "venue": "Early Childhood Research Quarterly"
-      },
-      {
-        "title": "Supporting young children impacted by trauma: A mixed-methods study of early childhood professionals’ trauma-informed knowledge, confidence and wellbeing",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.ecresq.2026.09.004",
-        "url": "https://doi.org/10.1016/j.ecresq.2026.09.004",
-        "authors": [
-          "Yihan Sun",
-          "Helen Skouteris",
-          "Emma Barrett"
         ],
         "published": "2027",
         "journal": "Early Childhood Research Quarterly",
@@ -1063,17 +1067,17 @@
       "query": "screen time child development"
     },
     {
-      "paperId": "e6df982fe909069fc0d597034daad7f0575f6ce4",
-      "title": "Screen on = development off? A systematic scoping review and a developmental psychology perspective on the effects of screen time on early childhood development",
-      "abstract": "Research on the associations between screen time and child development suggests that various forms of screen time might pose a risk for various aspects of child development. However, data on the impact of exposure to screen media on the development of children under 3 years of age is comparatively scarce. Although the evidence available on the topic is evolving rapidly, no review of existing literature has yet encompassed a comprehensive set of developmental outcomes with a focus in the first 3 years of life. To address this research gap, the present literature review focused on the influences of screen time on various developmental outcomes of children aged zero to 36 months. These outcomes were sleep-related parameters, physical health, cognition, learning efficiency, language, motor skills, socio-emotional skills, social interaction, and overall development. To this end, ten databases were searched systematically, and 158 studies that were published between the launch of the iPhone in early 2007 until 2024 were included. Only studies that reported specific results for the age range of zero to 36 months were examined, including longitudinal studies with samples of children aged zero to 36 months at the first wave of assessment. For most outcomes, a comparable amount of undesirable and non-significant associations was found with children's screen time, while few desirable associations were reported. In line with the notion of resilience, these results indicate that characteristics of the child, the context, and/or the content moderate the associations between screen time and child development in early childhood, thus contributing to mitigating the potential of displacement of learning opportunities or even creating new learning opportunities. More studies with designs that can examine the causal effect of screen time on child development and that explicitly address the role of child, content, and context variables are needed.",
+      "paperId": "41aacbf4544af81186f5b2c4e5a229a020291e9c",
+      "title": "Impact of Screen Time on Development of Children",
+      "abstract": "Background: Children today are growing up in a digital environment where screen-based technology is a central part of everyday life. While screens can offer educational and recreational benefits, there is growing concern about their influence on different areas of child development. Objective: This review explored how screen time affects developmental outcomes in children and adolescents aged 0 to 18 years, focusing on physical, cognitive, emotional, and social domains. Methods: A structured search was carried out across databases such as PubMed, Scopus, Web of Science and PsycINFO to identify relevant studies published between 2014 and 2024. Studies were included if they examined the relationship between screen time and at least one area of child development, involved participants within the target age group, and were peer-reviewed and published in English. The review followed PRISMA guidelines, and articles were independently screened and evaluated for quality by two reviewers. Results: A total of 46 studies met the inclusion criteria. Overall, the evidence points to a link between higher levels of screen use and negative outcomes such as reduced physical activity, poorer sleep, attention difficulties, and challenges in emotional and social functioning. However, some studies indicated that limited or educational screen use, especially with parental involvement, may have neutral or even positive effects in certain contexts. Conclusions: Screen time can have both positive and negative effects on child development, depending on factors like duration, type of content, and the context in which screens are used. Managing screen use through age-appropriate guidelines and adult supervision may help reduce risks and promote healthier development. More longitudinal research is needed to establish clearer recommendations for screen use in childhood.",
       "authors": [
-        "F. Sticca",
-        "Valérie Brauchli",
-        "Patricia Lannen"
+        "Subhranshu Sekhar Kar",
+        "R. Dube",
+        "B. M. Goud"
       ],
-      "venue": "Frontiers in Developmental Psychology",
-      "published": "2025-01-07",
-      "url": "https://doi.org/10.3389/fdpys.2024.1439040",
+      "venue": "Children",
+      "published": "2025-09-25",
+      "url": "https://doi.org/10.3390/children12101297",
       "query": "screen time child development"
     },
     {
@@ -1081,7 +1085,7 @@
       "title": "Beyond efficiency: Empirical insights on generative AI's impact on cognition, metacognition and epistemic agency in learning",
       "abstract": "Generative AI (GenAI) promises to reshape education, yet, beyond gains in efficiency and scalability, crucial questions remain regarding its deeper cognitive, epistemic, socio‐emotional and ethical implications for learners. This special section collects emerging empirical evidence from diverse educational settings to examine how interactions with advanced GenAI systems—ranging from intelligent tutors and conversational agents to AI‐generated feedback providers—shape learners' cognitive engagement, epistemic agency, metacognitive regulation and emotional relationships with technology. While studies reveal evidence of positive effects in personalised guidance, collaborative inquiry and enhanced self‐reflection, findings also highlight risks such as diminished epistemic vigilance, superficial learning and emotional dependence on AI interlocutors. These insights advocate for an educational re‐imagining that actively experiments with novel AI technologies while continuously gathering and critically evaluating evidence—envisioning education not merely as a spectrum ranging from fully human‐ or AI‐led activities but also as genuinely collaborative endeavours that balance human intelligence and AI capabilities in meaningful and ethically grounded partnerships. Looking ahead, in this editorial, we propose an interdisciplinary research roadmap that urges deeper examination of the cognitive and neural consequences associated with sustained AI exposure, together with the development of comprehensive frameworks to cultivate AI literacy and evaluative judgement. It also encourages rigorous assessment of the long‐term ethical implications of increasingly blurred human‐AI boundaries. Ultimately, advancing education in GenAI‐infused contexts requires proactive engagement with these emerging complexities, so that teachers and learners not only survive in an AI‐infused future but also creatively, critically and ethically co‐author it.",
       "authors": [
-        "Lixiang Yan",
+        "Li-Xiang Yan",
         "Viktoria Pammer-Schindler",
         "Caitlin Mills"
       ],
@@ -1156,7 +1160,7 @@
       "count": 66,
       "keywords": [
         "AR",
-        "VR"
+        "augmented reality"
       ]
     },
     {
@@ -1164,7 +1168,7 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 30,
+      "count": 32,
       "keywords": [
         "parent",
         "teacher",
@@ -1178,7 +1182,7 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 23,
+      "count": 22,
       "keywords": [
         "artificial intelligence",
         "generative AI",
@@ -1211,22 +1215,7 @@
         "attention",
         "executive function",
         "metacognition",
-        "cognitive development",
-        "cognitive load"
-      ]
-    },
-    {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
-      "count": 12,
-      "keywords": [
-        "social development",
-        "social-emotional",
-        "emotion",
-        "empathy",
-        "wellbeing"
+        "cognitive development"
       ]
     },
     {
@@ -1234,7 +1223,7 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 11,
+      "count": 13,
       "keywords": [
         "language development",
         "reading",
@@ -1244,16 +1233,16 @@
       ]
     },
     {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 7,
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 10,
       "keywords": [
-        "robot",
-        "conversational agent",
-        "intelligent tutoring",
-        "chatbot"
+        "social development",
+        "social-emotional",
+        "emotion",
+        "empathy"
       ]
     },
     {
@@ -1267,7 +1256,7 @@
         "tablet",
         "digital media",
         "digital learning",
-        "digital technology"
+        "mobile"
       ]
     },
     {
@@ -1275,11 +1264,25 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 6,
+      "count": 7,
       "keywords": [
         "algorithm",
         "computational thinking",
-        "coding"
+        "coding",
+        "programming"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 5,
+      "keywords": [
+        "robot",
+        "conversational agent",
+        "intelligent tutoring",
+        "chatbot"
       ]
     }
   ]
