@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01 07:55 UTC",
+  "updated_at": "2026-10-02 07:40 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -212,6 +212,33 @@
     ],
     "Journal of Computer Assisted Learning": [
       {
+        "title": "Which Evaluation Strategies Help Students Spot Visual Misinformation on Social Media?",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    The rapid spread of visual misinformation online, intensified by advances in generative artificial intelligence, presents new challenges for adolescents' digital information literacy. Although students' difficulties in evaluating online information are well documented, little is known about how they assess different forms of visual misinformation on social media.\n                  \n                  \n                    Objectives\n                    This study examined the extent to which lower secondary school students can successfully identify different types of visual misinformation on social media, the evaluation strategies they use, and whether these strategies predict misinformation detection across types of visual misinformation.\n                  \n                  \n                    Methods\n                    The participants were 272 students in Grades 7–9 who evaluated social media posts containing visual misinformation, including manipulated videos, manipulated images, and AI‐generated images. Students rated each item's credibility and provided written justifications. Evaluation strategies were coded using a theoretically grounded scheme.\n                  \n                  \n                    Results\n                    Students were moderately successful in identifying manipulated images and videos, but struggled to detect AI‐generated images, which were often perceived as credible. Students relied primarily on evaluation of visual appearance and content, while source evaluation and corroboration strategies were infrequently used. Across all visual misinformation types, examination of visual features, knowledge‐based evaluation, sourcing, and corroboration strategies predicted misinformation detection. However, corroboration was the only strategy that reliably predicted identification of AI‐generated images.\n                  \n                  \n                    Conclusions\n                    Students mostly rely on first‐hand evaluation of visual appearance and content, but these strategies are inadequate for detecting realistic AI‐generated visual misinformation. Instruction should emphasize active verification strategies, particularly corroboration, and support students in coordinating multiple evaluation strategies when engaging with online visual information.",
+        "doi": "10.1002/jcal.70344",
+        "url": "https://doi.org/10.1002/jcal.70344",
+        "authors": [
+          "Shai Goldfarb Cohen",
+          "Sarit Barzilai",
+          "Linor L. Hadar"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "Multimedia Learning Outcomes and Cognitive Load: The Roles of Spatial Ability, Enjoyment, Domain, and Resource Type",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Multimedia learning research has primarily emphasized cognitive predictors of learning, with less attention to affective engagement despite its potential relevance to effort allocation during learning tasks.\n                  \n                  \n                    Objectives\n                    This study examined the joint predictive associations of spatial ability, enjoyment, gender, and multimedia type (static versus animated) with learning outcomes and perceived cognitive load in parallel across two tasks (biology and mechanics).\n                  \n                  \n                    Methods\n                    Voluntary online participation was completed by 111 university students who were randomly assigned to static or animated resources. Participants completed a spatial ability measure (Paper Folding Test), two multimedia learning tasks, post‐task enjoyment ratings, and a cognitive load questionnaire assessing intrinsic, extraneous, and germane load. Multivariate multiple linear regression was used to model learning outcomes and cognitive load within each task.\n                  \n                  \n                    Results and Conclusions\n                    Across both domains, higher spatial ability predicted higher learning performance and lower perceived extraneous cognitive load. Enjoyment was positively associated with germane cognitive load in both tasks, with additional task‐specific associations with intrinsic and extraneous load. Multimedia type and gender did not significantly predict learning outcomes or cognitive load in either task. This study contributes to the literature by examining cognitive (spatial ability) and affective (enjoyment) learner characteristics jointly along with multimedia type, while modelling learning outcomes and cognitive load as complementary parallel outcomes. Through this approach, this study clarified the distinct roles of cognitive and affective learner characteristics when static and animated materials are instructionally equivalent. Specifically, it identified spatial ability as a reliable individual‐difference factor associated with more efficient multimedia processing and found that enjoyment was associated with higher reported germane cognitive load. These findings highlight the importance of considering both cognitive capacity and task‐level engagement in multimedia learning design.",
+        "doi": "10.1002/jcal.70345",
+        "url": "https://doi.org/10.1002/jcal.70345",
+        "authors": [
+          "Natalie Toomey",
+          "Misook Heo"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
         "title": "The Impact of Language Proficiency on\n                    <scp>MOOC</scp>\n                    Performance: Insights From Video Interactions and Forum Participation",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    Massive Open Online Courses or MOOCs have the potential to democratise education by making high‐quality learning opportunities accessible to students from diverse socioeconomic backgrounds and geographical locations. However, many courses on major platforms like EdX are offered exclusively in English, limiting accessibility for non‐native speakers. Beyond the simple native/non‐native divide, it remains unknown how different levels of English proficiency influence learners' performance in MOOCs.\n                  \n                  \n                    Objectives\n                    Our study investigates how language proficiency influences performance in English‐taught MOOCs and modulates the effect of participants' interactions with videos and discussion forums.\n                  \n                  \n                    Methods\n                    We retrieved the self‐assessed language proficiency from the pre‐ and post‐course surveys of 1268 participants for two MOOCs on EdX, viz., International Law and International Humanitarian Law. To capture these participants' interactions with videos and discussion forums, we generated measures of their use of pauses, closed captions, video playback rate, forum posts, etc. based on log data gathered automatically by EdX. Using mixed‐effects beta‐binomial regression, we relate these variables to their performance, calculated as the score they obtained on multiple‐choice questions throughout the course.\n                  \n                  \n                    Results and Conclusions\n                    In line with our expectations, interactions with discussion forums and especially videos have a positive effect on the performance of low‐proficiency participants, which could help them overcome the language barrier they face compared to more proficient and native participants. However, the majority of low‐proficiency participants do not make sufficient use of these video and discussion‐forum functionalities to fully benefit from their potential.",
         "doi": "10.1002/jcal.70338",
@@ -220,34 +247,6 @@
           "Tanguy Dubois",
           "Damien De Meyere",
           "Patrick Watrin"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "From Digital Competence to Collaborative Knowledge Construction: The Role of Social Presence in Online Learning Environments",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Collaborative knowledge construction (CKC) is an important process in online higher education, requiring students to communicate, share information, and collectively develop knowledge through digital environments. Although digital competence (DC) may be relevant to these processes, CKC also depends on the social and interpersonal conditions reflected in social presence (SP). However, limited research has examined how DC and SP jointly relate to CKC in online learning.\n                  \n                  \n                    Objective\n                    This study examined the relationships among university students' perceived DC, SP, and CKC and investigated whether SP accounted for part of the relationship between DC and CKC in online learning environments.\n                  \n                  \n                    Methods\n                    A total of 341 students at a public university in Iran reported on their overall synchronous online‐learning experiences during the 2024–2025 academic year. DC encompassed information and data literacy, communication and collaboration, and digital content creation, while SP included affective expression, open communication, and group cohesion. Structural equation modelling was used to examine the proposed relationships, and bootstrapping was employed to assess the indirect association between DC and CKC through SP.\n                  \n                  \n                    Results\n                    \n                      Perceived DC was positively associated with CKC (\n                      β\n                       = 0.27,\n                      p\n                       &lt; 0.001) and SP (\n                      β\n                       = 0.47,\n                      p\n                       &lt; 0.001), while SP was positively associated with CKC (\n                      β\n                       = 0.61,\n                      p\n                       &lt; 0.001). The model explained 21.6% of the variance in SP and 60.2% of the variance in CKC. DC also showed a significant indirect association with CKC through SP (\n                      β\n                       = 0.29, 95% BC CI [0.21, 0.38]), while the direct association remained significant, a pattern consistent with partial statistical mediation.\n                    \n                  \n                  \n                    Conclusions\n                    The findings suggest that the relationship between perceived DC and CKC is partly socially embedded. Perceived DC was related to CKC both directly and indirectly through SP, indicating that digital capabilities and interpersonal conditions may jointly matter for online CKC. Online learning may therefore benefit from combining support for students' DC with collaborative activities that foster meaningful interaction, interpersonal connection, and collective knowledge development.",
-        "doi": "10.1002/jcal.70348",
-        "url": "https://doi.org/10.1002/jcal.70348",
-        "authors": [
-          "Fahimeh Keshavarzi",
-          "Elham Heidari",
-          "Zahra Rafatjoo"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Investigating Synchronous Interaction Behaviours Among Open University Students: A Latent Profile Analysis and Epistemic Network Analysis",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Online education plays a pivotal role in contemporary higher education systems, particularly for distance learners at open universities, who often face challenges such as low learner engagement and perceived social isolation. However, the heterogeneity of interaction behaviours among open university students—a population whose learning ecology is shaped by work‐study conflicts and constrained synchronous availability—remains critically underexplored.\n                  \n                  \n                    Objectives\n                    This study aimed to investigate synchronous and asynchronous interaction behaviours among open university students, identify distinct interaction profiles, and provide evidence‐based, profile‐specific insights for differentiated instructional design.\n                  \n                  \n                    Methods\n                    A mixed‐methods approach was employed, combining latent profile analysis (LPA) and epistemic network analysis (ENA). Unlike prior studies, this study uses LPA to identify interaction profiles grounded in theoretically derived dimensions of teacher‐student and student–student interactions across synchronous and asynchronous modalities, and ENA to uncover the cognitive discourse structures underlying those profiles, thereby bridging self‐reported behavioural frequencies with actual epistemic engagement. Data were collected from 372 students at a Chinese open university over 12 weeks.\n                  \n                  \n                    Results\n                    \n                      Three distinct interaction profiles emerged: (1) Teacher‐student interaction enthusiasts (TIE): preferred real‐time interactions with instructors; (2) selective asynchronous collaborators (SAC): Balanced synchronous and asynchronous peer collaboration; and (3) high interaction achievers (HIA): Actively engaged in all interaction types. ENA revealed varying cognitive and social engagement patterns across profiles. One‐way ANOVA confirmed significant performance differences among the three groups (\n                      F\n                      (2, 369) = 107.14,\n                      p\n                       &lt; 0.001,\n                      η\n                      2\n                       = 0.367), with HIA &gt; SAC &gt; TIE.\n                    \n                  \n                  \n                    Conclusions\n                    The findings underscore the importance of learner‐centric instructional design and provide actionable profile‐specific strategies: scaffolded real‐time responses for TIE, flexible blended designs for SAC, and leadership roles for HIA. These evidence‐based profiles advocate for inclusive digital education models that accommodate cognitive diversity in open university settings.",
-        "doi": "10.1002/jcal.70339",
-        "url": "https://doi.org/10.1002/jcal.70339",
-        "authors": [
-          "Zhu Jin",
-          "Liu Jinglu",
-          "Wang Ran"
         ],
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
@@ -397,6 +396,20 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "From AI innovation to educational inclusion: comparative perspectives on AI-enabled personalized learning and transformative skill development across developed and developing country contexts",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2740687",
+        "url": "https://doi.org/10.1080/10494820.2026.2740687",
+        "authors": [
+          "Shouket Ahmad Tilwani",
+          "Anas Ali Alhur",
+          "Isa Spahiu"
+        ],
+        "published": "2026-10-1",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Construction of an evaluation index system for graduate students’ effective generative AI utilization ability: a meta-intelligence perspective",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2735923",
@@ -444,20 +457,6 @@
         "authors": [
           "Peng Wang",
           "Yunan Sun"
-        ],
-        "published": "2026-9-27",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Social humanoid autonomous robots in K–12 schools: a role–evidence–governance framework for distributed instructional capacity",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2739437",
-        "url": "https://doi.org/10.1080/10494820.2026.2739437",
-        "authors": [
-          "Michael J. Bossé",
-          "Kwaku Adu-Gyamfi",
-          "Özge Gün"
         ],
         "published": "2026-9-27",
         "journal": "Interactive Learning Environments",
@@ -538,6 +537,20 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Zero-shot prompting with GenAI for EFL cloze text generation: a mixed-methods evaluation for language assessment in China",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14163-1",
+        "url": "https://doi.org/10.1007/s10639-026-14163-1",
+        "authors": [
+          "Zhengqing Luo",
+          "Dunlai Lin",
+          "Tingting Liu"
+        ],
+        "published": "2026-10-2",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Investigating the role of GenAI dependency on university students’ critical thinking disposition: From the perspective of knowledge inertia",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14158-y",
@@ -590,20 +603,6 @@
           "Yanan Zeng"
         ],
         "published": "2026-9-26",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "A socio-technical systems perspective on teachers’ AI adoption: the moderating roles of familiarity and cultural orientation",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14159-x",
-        "url": "https://doi.org/10.1007/s10639-026-14159-x",
-        "authors": [
-          "Rob Kim Marjerison",
-          "Hee Kyung Jeun",
-          "Kelly Schwirzke"
-        ],
-        "published": "2026-9-24",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -679,6 +678,46 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "Gamification User Types in Professional Football: Implications for Personalized Training Systems",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2739129",
+        "url": "https://doi.org/10.1080/10447318.2026.2739129",
+        "authors": [
+          "Rasim Bayraktar",
+          "Mehmet İmamoğlu"
+        ],
+        "published": "2026-10-1",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Designing and Evaluating a Socratic-Scaffolded Conversational AI Assistant for Educational Tasks: Cross-Cohort Effectiveness, User Perception, and the Effort Signature",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2717500",
+        "url": "https://doi.org/10.1080/10447318.2026.2717500",
+        "authors": [
+          "Kuei-Hao Li",
+          "Chia-Kai Chang"
+        ],
+        "published": "2026-10-1",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Investigating the Effect of Spatial AR Linear Visual Cues on Positioning and Alignment in Teleoperated Robotic Manipulation",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2738103",
+        "url": "https://doi.org/10.1080/10447318.2026.2738103",
+        "authors": [
+          "Xiaoxiao Wang",
+          "Chunhui Wang",
+          "Ting Jiang"
+        ],
+        "published": "2026-10-1",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "Cognitive Friction and the Illusion of Control: An Empirical Study on Sense of Agency and Responsibility Attribution in Medical AI Interactions",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2737593",
@@ -702,46 +741,6 @@
           "Sou Hyun Jang"
         ],
         "published": "2026-9-30",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "More Than a Reminder: Alarms and Everyday Life",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2737541",
-        "url": "https://doi.org/10.1080/10447318.2026.2737541",
-        "authors": [
-          "Kasper Karlgren",
-          "Barry Brown"
-        ],
-        "published": "2026-9-30",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Comparative Study of User Experience with Digital Well-Being Apps for Problematic Smart Device Use: A Comparison of Gamification, Self-Control, and Parental-Control Mechanisms in Taiwan",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2737039",
-        "url": "https://doi.org/10.1080/10447318.2026.2737039",
-        "authors": [
-          "Wu Yi-Ying",
-          "Wen Huei Chou"
-        ],
-        "published": "2026-9-30",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Coding Technological Perfection: Mechanisms for the Development and Validation of Digital Perfectionism",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2734053",
-        "url": "https://doi.org/10.1080/10447318.2026.2734053",
-        "authors": [
-          "Yijing Xun",
-          "Xiabing Zheng",
-          "Matthew K. O. Lee"
-        ],
-        "published": "2026-9-28",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
@@ -956,156 +955,18 @@
       }
     ]
   },
-  "keyword_papers": [
-    {
-      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
-      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
-      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
-      "authors": [
-        "Walayat Hussain",
-        "Machi Raju Varanasi",
-        "Liam New"
-      ],
-      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
-      "published": "2025-11-18",
-      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
-      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
-      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
-      "authors": [
-        "S. Guizani",
-        "Tehseen Mazhar",
-        "Tariq Shahzad"
-      ],
-      "venue": "Discover Education",
-      "published": "2025-02-15",
-      "url": "https://doi.org/10.1007/s44217-025-00424-7",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
-      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
-      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
-      "authors": [
-        "James C. L. Chow",
-        "Kay Li"
-      ],
-      "venue": "JMIR Cancer",
-      "published": "2025-02-18",
-      "url": "https://doi.org/10.2196/66633",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
-      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
-      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
-      "authors": [
-        "V. Nikolovski",
-        "D. Trajanov",
-        "Ivan Chorbev"
-      ],
-      "venue": "Algorithms",
-      "published": "2025-03-04",
-      "url": "https://doi.org/10.3390/a18030144",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
-      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
-      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
-      "authors": [
-        "Jian-Wen Zeng",
-        "Wen-Hao Qi",
-        "Shi-Ying Shen"
-      ],
-      "venue": "Journal of Medical Internet Research",
-      "published": "2025-11-13",
-      "url": "https://doi.org/10.2196/79091",
-      "query": "large language model education"
-    },
-    {
-      "paperId": "62c2fdf86acfbb92f00559cec843b3d3d273f7d2",
-      "title": "Effects of screen-based task learning and geographical environment on the cognitive performance of primary school students: Assessment of working memory",
-      "abstract": "Understanding the neurocognitive impact of digital integration in education is essential, particularly in sub-Saharan Africa, where socio-economic and geographical disparities amplify the need for effective learning strategies. This study investigated how visuospatial working memory performance is affected by the modality of task presentation (screen versus print) and geographical context (urban, economically advantaged region versus rural, economically disadvantaged region) in Ivorian primary school students. We employed a behavioural approach with 222 students (aged 4–13). Students from urban (Abidjan) and rural (Man) schools were assigned to perform a visuospatial working memory task presented either on a computer screen or using printed physical materials. An analysis of covariance, with age as a covariate, revealed that students performing the task on-screen showed significantly better performance (fewer errors) compared to those using printed materials (p < 0.001). A significant interaction between presentation modality and geographical context was also found (p = 0.009). Specifically, the performance difference between screen and print modalities was larger in the urban setting, primarily due to urban students performing more poorly with printed materials compared to rural students in that same condition; rural students using printed materials outperformed urban students using printed materials (post hoc, p = 0.002). No significant difference in performance on screen-based tasks was found between urban and rural students. The main effect of geographical context was not significant. These findings suggest potential cognitive benefits of screen-based presentation but highlight a complex interplay with geographical context, which itself is intertwined with socio-economic factors and initial age differences that were statistically controlled. Future research should further incorporate direct socio-economic status controls and explore factors like motivation and task engagement, alongside neuroimaging approaches, to elucidate the underlying mechanisms.",
-      "authors": [
-        "Yacouba Ouattara",
-        "P. Doubran",
-        "K. M. Yao"
-      ],
-      "venue": "Brain and Neuroscience Advances",
-      "published": "2025-07-01",
-      "url": "https://doi.org/10.1177/23982128251356029",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "704fc114279aa0e0bb66cab23a65a5d74d081876",
-      "title": "Embodied learning in the digital age: assessing the impact of gesture-based educational technology on working memory capacity, spatial reasoning, and engagement",
-      "abstract": "Embodied cognition theory underscores the close coupling of bodily action and cognition, suggesting that learning can be strengthened when language is enacted. However, in English as a Foreign Language (EFL) education, the instructional value of gesture-based digital interfaces remains underexamined beyond vocabulary outcomes, particularly in relation to working memory capacity, spatial reasoning, and learner engagement. Addressing this gap, the present study examined how gesture-mediated interactions shape cognitive and affective outcomes in an EFL context using a convergent parallel mixed-methods design. A total of 143 Grade 12 students participated in the study, with 74 were allocated to the experimental group (EG) and 69 to the control group (CG). Over a period of six weeks, EG participated in language tasks using Leap Motion, while CG received traditional instruction. Using a convergent parallel mixed-methods design, we administered three validated scales pre/post and collected open-ended responses from the experimental group; findings were integrated to interpret convergent quantitative and qualitative patterns. Working memory capacity, spatial reasoning, and engagement were measured using validated scales The quantitative analyses indicated that EG made significantly larger improvements in working memory capacity, spatial reasoning, and engagement compared to CG. Qualitative narratives supported these findings, highlighting increased motivation, deeper understanding, and greater agency among participants in EG, despite some initial technical challenges. These results approve that gesture-based instruction may offer a promising approach for enhancing EFL instruction, boosting cognitive abilities and strengthening classroom engagement.",
-      "authors": [
-        "W. Chang",
-        "Amhara Aberash"
-      ],
-      "venue": "BMC Psychology",
-      "published": "2026-02-06",
-      "url": "https://doi.org/10.1186/s40359-026-04089-1",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "90b93437e4dd4c811c8e3672bd7795d10391147d",
-      "title": "Does digital slide accessibility matter? Considering undergraduates’ differences in external-storage effects of note-taking and working memory",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Hyeyoun Kim"
-      ],
-      "venue": "Instructional Science",
-      "published": "2026-05-11",
-      "url": "https://doi.org/10.1007/s11251-026-09798-z",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "d7b407ac033d2af04724a4a285f71f10ec2b27a0",
-      "title": "Screen inferiority in L2 reading: The role of working memory, proficiency, and digital device usage",
-      "abstract": "\n \n Screen-based reading has frequently been associated with lower comprehension than reading on paper, a phenomenon known as\n screen inferiority\n . Although cognitive capacity, linguistic knowledge, and digital usage vary across learners, it remains underexplored how individual-difference factors shape medium effects in second-language (L2) reading among adolescents. We investigated how reading on paper versus tablets affects L2 reading comprehension among 240 Korean eighth graders learning English and whether medium effects are moderated by working memory, L2 proficiency, and tablet experience. Participants completed comprehension tests under both conditions, along with a reading span task, a proficiency test, and a tablet-usage questionnaire. Results showed that participants performed worse on tablets than on paper; these gaps were larger among learners with higher spans and proficiency. In contrast, tablet experience did not interact with reading medium. These findings underscore the need for explicit instruction to support effective L2 reading on digital devices, even for high-performing learners.\n",
-      "authors": [
-        "Hyeran Ryu",
-        "Ekaterina Sudina"
-      ],
-      "venue": "Studies in Second Language Acquisition",
-      "published": "2026-06-09",
-      "url": "https://doi.org/10.1017/s0272263126101752",
-      "query": "working memory digital learning"
-    },
-    {
-      "paperId": "bd51e509e553f8ff9512c70b4df8f038b27f3ef1",
-      "title": "Combining working memory and speech data in a digital app for early detection of cognitive impairment in primary care",
-      "abstract": "Cognitive screening to detect mild cognitive impairment (MCI) and dementia in primary care settings has proven to be a challenging task. The ideal solution would be a brief, low‐burden assessment tool appropriate for use with individuals from diverse educational and cultural backgrounds that requires limited time and expertise from primary care providers. The purpose of this project was to develop a digital cognitive screening app derived from widely used cognitive and speech tasks using machine learning techniques.",
-      "authors": [
-        "Robin C. Hilsabeck",
-        "Jeffrey N. Keller",
-        "Maya L. Henry"
-      ],
-      "venue": "Alzheimer's &amp; Dementia",
-      "published": "2023-12-01",
-      "url": "https://doi.org/10.1002/alz.079664",
-      "query": "working memory digital learning"
-    }
-  ],
+  "keyword_papers": [],
   "hot_topics": [
     {
       "id": "ar_vr",
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 63,
+      "count": 53,
       "keywords": [
         "AR",
-        "immersive",
-        "virtual reality",
-        "mixed reality",
-        "VR"
+        "VR",
+        "immersive"
       ]
     },
     {
@@ -1113,27 +974,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 26,
+      "count": 20,
       "keywords": [
-        "parent",
         "teacher",
-        "school",
+        "home learning",
         "classroom",
-        "home learning"
-      ]
-    },
-    {
-      "id": "ai_tools",
-      "name": "AI工具与教育应用",
-      "subtitle": "AI Tools in Education",
-      "icon": "🤖",
-      "count": 16,
-      "keywords": [
-        "ChatGPT",
-        "GPT",
-        "LLM",
-        "large language model",
-        "artificial intelligence"
+        "school",
+        "parent"
       ]
     },
     {
@@ -1141,39 +988,26 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 16,
+      "count": 13,
       "keywords": [
-        "personalized learning",
         "play",
         "game",
+        "personalized learning",
         "game-based",
         "gamification"
       ]
     },
     {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 9,
+      "id": "ai_tools",
+      "name": "AI工具与教育应用",
+      "subtitle": "AI Tools in Education",
+      "icon": "🤖",
+      "count": 11,
       "keywords": [
-        "attention",
-        "working memory",
-        "self-regulation"
-      ]
-    },
-    {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 9,
-      "keywords": [
-        "vocabulary",
-        "reading",
-        "writing",
-        "early literacy",
-        "language development"
+        "artificial intelligence",
+        "GPT",
+        "generative AI",
+        "machine learning"
       ]
     },
     {
@@ -1190,14 +1024,29 @@
       ]
     },
     {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 5,
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 7,
       "keywords": [
-        "chatbot",
-        "robot"
+        "writing",
+        "reading",
+        "vocabulary",
+        "early literacy",
+        "language development"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 4,
+      "keywords": [
+        "attention",
+        "cognitive load",
+        "self-regulation"
       ]
     },
     {
@@ -1205,10 +1054,21 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 4,
+      "count": 3,
       "keywords": [
         "coding",
         "programming"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 2,
+      "keywords": [
+        "chatbot",
+        "robot"
       ]
     },
     {
@@ -1216,7 +1076,7 @@
       "name": "数字媒体与屏幕使用",
       "subtitle": "Digital Media & Screen Time",
       "icon": "📱",
-      "count": 3,
+      "count": 2,
       "keywords": [
         "tablet",
         "digital media",
