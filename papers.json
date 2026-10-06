@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05 07:49 UTC",
+  "updated_at": "2026-10-06 08:15 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -145,6 +145,34 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "A multimodal e-learning platform integrating artificial intelligence, game-based learning, and augmented reality to enhance reading comprehension in secondary language learning",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10736-6",
+        "url": "https://doi.org/10.1007/s11423-026-10736-6",
+        "authors": [
+          "Esti Swatika Sari",
+          "Ella Wulandari",
+          "Ratna Wardani"
+        ],
+        "published": "2026-10-5",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Impact of learning analytics-based personalized feedback: an experimental study on student behavior in a large introductory STEM course",
+        "abstract": "Abstract\n                  This study examined the impact of learning analytics-based personalized feedback on student engagement behavior, learning outcomes, and perceptions of the feedback in a large introductory STEM course. Students were randomly assigned to either an experimental group, which received four personalized feedback messages between Weeks 6 and 14, or a control group, which received generic messages consistent with the instructor’s previous teaching practices. The feedback was personalized based on students’ engagement with homework and practice problems and was designed to promote specific behaviors in these two areas. Results showed that the experimental group exhibited greater engagement in the targeted behaviors compared to the control group. However, no significant differences were found between the groups in perceived helpfulness of the feedback or learning outcomes. This study addresses the limitations of the current implementation of personalized feedback and highlights the value of integrating behavioral data with learning outcomes and self-report responses to more accurately evaluate its impact.",
+        "doi": "10.1007/s11423-026-10728-6",
+        "url": "https://doi.org/10.1007/s11423-026-10728-6",
+        "authors": [
+          "Jae-Eun Russell",
+          "Anna-Marie Smith",
+          "Salim George"
+        ],
+        "published": "2026-10-5",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "What does it mean to be “career ready”? A study of competencies important for instructional designers and educational technologists",
         "abstract": "Abstract\n                  This study considers the professional needs of instructional design (ID) and educational technology (ET) professionals, including not only the technical and domain-related knowledge and skills traditionally covered by most professional organizations and institutions, but also crucial professional and cross-disciplinary skills and dispositions, with a surprisingly large emphasis on the latter two themes. ID and ET program graduates seek to be competent to stay competitive in the workplace. However, the constantly expanding and evolving field and changing job expectations present a challenge. This leads to an important question of whether what current and recent graduates have learned in their program is sufficient to be considered competent and up-to-date and what other areas of need may be present in the curriculum. The study’s findings are based on the results of 31 interviews with ID and ET professionals from the three contexts (K12, higher education, and corporate environments). Data were analyzed using a collaborative Constant Comparative Method for Naturalistic Inquiry, involving iterative coding and thematic refinement to identify key professional competencies and dispositions. While the knowledge and skills identified aligned well with the current literature in the area, the cross-disciplinary and dispositions sections revealed findings that will help program directors and designers, faculty, employers, and current and future graduates.",
         "doi": "10.1007/s11423-026-10727-7",
@@ -181,32 +209,6 @@
           "Arif Altun"
         ],
         "published": "2026-9-28",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Expanding conceptual evidence-building with the science of learning: integrating evidence weights, alignment estimates and iterative updates for educational innovations",
-        "abstract": "Abstract\n                  Educational innovations should articulate a clear rationale that situates the innovation within existing literature. Current frameworks, such as ESSA Tier IV, emphasize this requirement, though they only mandate a general review of research. Consequently, the process for demonstrating this connection currently lacks standardization, leading to variability in the quality and depth of the rationale provided across different educational tools and interventions. The aim of this paper is to introduce a structured methodological approach for evaluating educational innovations in relation to their supporting literature, emphasizing a systematic process that balances conceptual rigor with methodological plurality. We present the development and refinement of our methodological approach and illustrate its application through the method of two case studies. Our findings are structured around five systematic steps, integrating rapid evidence reviews, a weighted assessment of findings, and alignment with established principles from the Science of Learning. We conclude that such an approach can form part of pathways to foster more effective collaboration between researchers and developers, thereby strengthening the design and impact assessments of educational innovations.",
-        "doi": "10.1007/s11423-026-10732-w",
-        "url": "https://doi.org/10.1007/s11423-026-10732-w",
-        "authors": [
-          "Natalia Kucirkova",
-          "Phil Vahey",
-          "David Patterson"
-        ],
-        "published": "2026-9-28",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Beyond the lab: ecological validation of classroom-native multimodal learning analytics in an active learning classroom",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10725-9",
-        "url": "https://doi.org/10.1007/s11423-026-10725-9",
-        "authors": [
-          "Kyung Kim"
-        ],
-        "published": "2026-9-26",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
       }
@@ -397,6 +399,32 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Supporting self-regulated learning through learner- and teacher-facing learning analytics dashboards: a systematic review",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2739435",
+        "url": "https://doi.org/10.1080/10494820.2026.2739435",
+        "authors": [
+          "Jahns Michael",
+          "Harry B. Santoso",
+          "Baginda Anggun Nan Cenka"
+        ],
+        "published": "2026-10-5",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "Comparing chatbot and peer interaction among trilingual students: effects on self-regulated learning, critical thinking, task engagement and reading comprehension",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2743759",
+        "url": "https://doi.org/10.1080/10494820.2026.2743759",
+        "authors": [
+          "Huiling Ma"
+        ],
+        "published": "2026-10-5",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "From AI innovation to educational inclusion: comparative perspectives on AI-enabled personalized learning and transformative skill development across developed and developing country contexts",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2740687",
@@ -433,33 +461,6 @@
           "King-Dow Su"
         ],
         "published": "2026-9-28",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Hands-on competencies in a virtual age: a systematic review of psychomotor, affective, and scientific-inquiry skills in K-12 virtual and hands-on science laboratories",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2736764",
-        "url": "https://doi.org/10.1080/10494820.2026.2736764",
-        "authors": [
-          "Rivan Gestiardi",
-          "Subanji",
-          "Ainun Nafisah"
-        ],
-        "published": "2026-9-27",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "From online interaction to creativity-related learning dispositions: a three-wave study of psychological need satisfaction",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2734310",
-        "url": "https://doi.org/10.1080/10494820.2026.2734310",
-        "authors": [
-          "Peng Wang",
-          "Yunan Sun"
-        ],
-        "published": "2026-9-27",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -536,6 +537,19 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Generative AI in the Global South: a PLS-SEM analysis of student perceptions and intentions",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14166-y",
+        "url": "https://doi.org/10.1007/s10639-026-14166-y",
+        "authors": [
+          "Anthony Aapia Korku Dzidzornu",
+          "Xukan Xu"
+        ],
+        "published": "2026-10-6",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Physical, virtual, and hybrid programming modalities in early childhood education: a randomized controlled study of computational thinking and programming behaviors",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14165-z",
@@ -586,20 +600,6 @@
           "Tingting Liu"
         ],
         "published": "2026-10-2",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Investigating the role of GenAI dependency on university students’ critical thinking disposition: From the perspective of knowledge inertia",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14158-y",
-        "url": "https://doi.org/10.1007/s10639-026-14158-y",
-        "authors": [
-          "Chunxiao Yin",
-          "Guixiang Chen",
-          "Canran Sheng"
-        ],
-        "published": "2026-9-29",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -675,74 +675,102 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "Exploring Dragging Interaction on Curved Displays in Virtual Reality",
+        "title": "Driver Responses to Mismatches Between Expected and Experienced Automated Vehicle Driving Styles",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2738094",
-        "url": "https://doi.org/10.1080/10447318.2026.2738094",
+        "doi": "10.1080/10447318.2026.2739750",
+        "url": "https://doi.org/10.1080/10447318.2026.2739750",
         "authors": [
-          "Baoni Xing",
-          "Jiachang Zhang",
-          "Huawei Tu"
+          "Myeongkyu Lee",
+          "Brandon J. Pitts"
         ],
-        "published": "2026-10-2",
+        "published": "2026-10-6",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Gamification User Types in Professional Football: Implications for Personalized Training Systems",
+        "title": "Role-Contingent Visual Decision Support for Age-Friendly Furniture in Conversational Recommendation Interfaces: Appraisal Pathways to Trust and Decision Confidence",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2739129",
-        "url": "https://doi.org/10.1080/10447318.2026.2739129",
+        "doi": "10.1080/10447318.2026.2739769",
+        "url": "https://doi.org/10.1080/10447318.2026.2739769",
         "authors": [
-          "Rasim Bayraktar",
-          "Mehmet İmamoğlu"
+          "Mingzhu Li",
+          "Junjie Shu",
+          "Fangyuan Chang"
         ],
-        "published": "2026-10-1",
+        "published": "2026-10-6",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Designing and Evaluating a Socratic-Scaffolded Conversational AI Assistant for Educational Tasks: Cross-Cohort Effectiveness, User Perception, and the Effort Signature",
+        "title": "When Generative AI “Thinks Visibly”: How Exposure to Chain-of-Thought Reasoning Influences Users’ Perceived Credibility",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2717500",
-        "url": "https://doi.org/10.1080/10447318.2026.2717500",
+        "doi": "10.1080/10447318.2026.2739361",
+        "url": "https://doi.org/10.1080/10447318.2026.2739361",
         "authors": [
-          "Kuei-Hao Li",
-          "Chia-Kai Chang"
+          "Hongliang Chen",
+          "Chengzhi Lin",
+          "Yunsha Pu"
         ],
-        "published": "2026-10-1",
+        "published": "2026-10-6",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Optimal Manipulation Plane for Individual Thumb and Its Inspiration for Future Ergonomic Developments of in-Palm Intelligent Devices",
+        "title": "Living with Risk: Folk Theories of AI Hallucinations Among Young Chinese Users",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2735578",
-        "url": "https://doi.org/10.1080/10447318.2026.2735578",
+        "doi": "10.1080/10447318.2026.2738104",
+        "url": "https://doi.org/10.1080/10447318.2026.2738104",
         "authors": [
-          "Le Xiong",
-          "Shiming Deng"
+          "Huili Liu",
+          "Ying Zhang"
         ],
-        "published": "2026-10-1",
+        "published": "2026-10-5",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Investigating the Effect of Spatial AR Linear Visual Cues on Positioning and Alignment in Teleoperated Robotic Manipulation",
+        "title": "Understanding Practices, Device Ecologies, and Challenges in Video-Based Software Learning: An Empirical Study and Design Opportunities",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2738103",
-        "url": "https://doi.org/10.1080/10447318.2026.2738103",
+        "doi": "10.1080/10447318.2026.2734326",
+        "url": "https://doi.org/10.1080/10447318.2026.2734326",
         "authors": [
-          "Xiaoxiao Wang",
-          "Chunhui Wang",
-          "Ting Jiang"
+          "Shengyang Luo",
+          "Xiaolei Guo",
+          "Jiahui Dong"
         ],
-        "published": "2026-10-1",
+        "published": "2026-10-5",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
     ],
     "Early Childhood Education Journal": [
+      {
+        "title": "Thinking in Three Dimensions: A Mixed-Methods Study on the Contribution of a 3D Modeling and Printing Program to Young Children’s Geometry Learning",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02360-z",
+        "url": "https://doi.org/10.1007/s10643-026-02360-z",
+        "authors": [
+          "İlkay Sel",
+          "Ümran Alan"
+        ],
+        "published": "2026-10-6",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
+      {
+        "title": "Transforming Language and Literacy: The Impact of Dialogic Reading Intervention on Young Dual Language Learners",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02333-2",
+        "url": "https://doi.org/10.1007/s10643-026-02333-2",
+        "authors": [
+          "Ekta Ghosh",
+          "Rashida Banerjee",
+          "Caroline James"
+        ],
+        "published": "2026-10-6",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
       {
         "title": "Children’s Perceptions of Early Experiences With a Multilingual Environment and Language Learning",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -778,32 +806,6 @@
           "Suzanne Infantino"
         ],
         "published": "2026-9-30",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "School Readiness as a Relational Transition Capacity: A Comparative Study of Stakeholder Perspectives Across Educational Levels",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02361-y",
-        "url": "https://doi.org/10.1007/s10643-026-02361-y",
-        "authors": [
-          "Esra Nur Demirtaş",
-          "Ahu Taneri"
-        ],
-        "published": "2026-9-28",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "Dialogic Reading: A Way to Support Early Literacy and Math Skills in Preschoolers",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10643-026-02358-7",
-        "url": "https://doi.org/10.1007/s10643-026-02358-7",
-        "authors": [
-          "Erinç Ergenekon",
-          "Nesrin Işıkoğlu"
-        ],
-        "published": "2026-9-25",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
       }
@@ -951,69 +953,71 @@
   },
   "keyword_papers": [
     {
-      "paperId": "697160c7052f890f464e65e3c2cbbc16ae4175fb",
-      "title": "Computational thinking: early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy",
-      "abstract": "Computational thinking (CT) is considered a group of problem-solving skills that the next generations are expected to possess. The most efficient way to make them acquire these skills is to incorporate CT into K-12 education. To this end, various education programs have been designed to improve teachers’ and prospective teachers’ competence in CT. Such programs designing educational experiences based on teachers’ and prospective teachers’ preexisting opinions and self-efficacy perceptions about CT could achieve better results. Although the acquisition of CT skills has been suggested to start early on, these beliefs of early childhood teachers and prospective teachers have been underexplored. Therefore, this exploratory study aims to examine early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy about CT. The study was conducted with 63 teachers and 78 prospective teachers in Turkey. Data were collected via an online survey in the spring of the 2020–2021 academic year. The preconceptions were assessed using a structured questionnaire, while the CT self-efficacy was measured with the Computational Thinking Scale. The findings showed similarities between teachers and prospective teachers in the preconceptions of CT. Both of them most strongly associated CT with logical thinking, problem-solving, using algorithms, coding/programming, doing mathematics, using technology in teaching, and using computers. Yet, teachers reported stronger associations between CT and logical thinking, using algorithms, and coding/programming. Furthermore, teachers’ self-efficacy perceptions in CT were significantly higher. The study findings provide some needed information to design professional development programs aiming to enhance CT practices in early education settings.",
+      "paperId": "e6373f71a3ea60b2f0c0e9e38f9b6d4217719c19",
+      "title": "The impact of educational robot R1 on the development of emotional intelligence in preschool-aged children",
+      "abstract": "The study investigates the impact of the educational robot R1 on the development of emotional intelligence in preschool-aged children. Employing a convergent mixed methods design with a quasi-experimental pre-test/post-test structure and elements of an embedded case study, the research was conducted in a kindergarten in Athens with 21 children aged 4 to 6 years, including both typically and atypically developing children. Quantitative data were collected through rating rubrics, evaluation sheets, and worksheets, while qualitative insights were obtained via semi-structured interviews and observation. The findings revealed a significant increase in children's emotional intelligence scores across four domains—recognition of emotions, expression of emotions, regulation of emotions, and social skills—following the interventions. Children demonstrated enhanced emotional vocabulary, self-awareness, management of emotions, and collaborative behaviors. The robot served as a socially engaging tool, promoting both affective learning and peer interaction. These results support the integration of educational robotics into early childhood education to foster emotional and social development in inclusive and diverse classroom environments.",
       "authors": [
-        "Canan Avcı",
-        "Mine Nur Deniz"
+        "Mavrogianni Gregoria",
+        "Chara Papoutsi",
+        "Konstantinos Skordoulis"
       ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2022-05-19",
-      "url": "https://doi.org/10.1007/s10639-022-11078-5",
-      "query": "computational thinking early childhood"
+      "venue": "GSC Advanced Research and Reviews",
+      "published": "2025-07-30",
+      "url": "https://doi.org/10.30574/gscarr.2025.24.1.0188",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "8eb0d99e7858007df6450c534f3444b7898038b6",
-      "title": "Robotics in early childhood STEM education (REC-STEMEd): The impact on preservice teachers’ attitudes and intentions toward computational thinking",
-      "abstract": "There is a large disconnect between the increasing need for computer science education in K-12 schools and the preservice teacher training provided. Consequently, preservice teachers may graduate feeling unprepared to infuse computer science concepts such as computational thinking (CT) into their teaching. To address this, we created Robotics in Early Childhood STEM Education (REC-STEMEd), a module that infuses computational thinking, robotics, and science content into an early childhood teacher education methods course. This study investigated changes in early childhood preservice teachers’ (n = 39) attitudes toward learning to teach CT and their intentions to teach CT. Findings revealed a statistically significant increase in participants’ positive affection and positive cognition, and a significant decrease in negative cognition toward learning to teach CT. A moderate but not significant decrease was found in their negative cognition. Moreover, participants reported moderately positive attitudes, subjective norms, perceived behavioral control, and intentions toward teaching CT in the future.",
+      "paperId": "1f85242eef40b860dc772c551839c64f9805021c",
+      "title": "Object Recognition-Based Second Language Learning Educational Robot System for Chinese Preschool Children",
+      "abstract": "Research in psychology, pedagogy, and physiology has shown that learning a second language will be a great benefit to preschool children. Compared with adults, children have more advantages in learning, such as better pronunciation and intonation. However, because of children’s inattention, the effects of the second language education in many preschools are not ideal in China. To make children learn the second language effectively, it should be integrated into their daily lives and in line with their interests. In this paper, an educational robot system with object recognition technology is introduced, which aims to provide innovative second language learning services for preschool children in China. The proposed system combines object recognition and projection with English teaching and makes objects in daily life more interesting with projected animation to attract children’s attention. On the projection screen, children can interact with a robot by touch or movement and can easily trigger more interactive effects. To evaluate the effectiveness of the proposed system, we conducted an experiment, and the results showed that the system can improve the language learning efficiency for the Chinese preschool children by interacting with objects under proper guidance.",
       "authors": [
-        "Lucas Vasconcelos",
-        "Ismahan Arslan‐Ari",
-        "Bridget Miller"
+        "Qin Wu",
+        "Sirui Wang",
+        "Jiashuo Cao"
       ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2025-03-31",
-      "url": "https://doi.org/10.1007/s10639-025-13529-1",
-      "query": "computational thinking early childhood"
+      "venue": "IEEE Access",
+      "published": "2019",
+      "url": "https://doi.org/10.1109/ACCESS.2018.2890438",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "8a40a2cc2f97915a61436a136dc7c60cff08f4d3",
-      "title": "Integrating computational thinking in children aged 3 to 6: challenges and opportunities in early childhood education",
-      "abstract": "Computational thinking (CT) has emerged as a crucial skill in 21st-century education. Although most research has focused on education levels beyond primary school, this article reviews the impact of its integration in early childhood education, specifically for children aged 3–6 years old. Through a systematic review of 84 studies published in Scopus and Web of Science between 2013 and 2023, pedagogical strategies and technological tools used to develop CT in early childhood are explored. The findings reveal that while CT fosters key cognitive and motor skills, the lack of appropriate materials and teacher training hinders effective implementation. The article highlights the need for continuous teacher training programs and the comprehensive inclusion of CT in early childhood curricula. Furthermore, it identifies a lack of consistent assessment tools that measure the long-term effects of these interventions on child development.",
+      "paperId": "8f512823204abb6b2fa951f6210922118b682fbd",
+      "title": "The Impact of Educational Robotics on the Executive Functions of Preschool Children",
+      "abstract": "This quasi-experimental study examines the impact of an educational robotics program on the development of executive functions (EF) in preschool children in Morocco. Throughout the school year, 84 pupils from two schools in Rabat and Salé participated in a progressive program that combined unplugged activities with the exploration of the Bee-Bot robot. Five key dimensions (planning, working memory, cognitive flexibility, problem-solving, and collaboration) were assessed using a 22-indicator grid to measure the children’s progress in these areas. Data collection occurred over a seven-day period. Statistical analysis highlighted significant inter-dimensional correlations (0.533 ≤ r ≤ 0.931, p < 0.001), indicating a strong interdependence between the skills developed and higher mean scores for the early stages of the program (notably spatial planning and getting to grips with the Bee-Bot). Conversely, problem-solving and collaboration, although more demanding, appeared to be closely linked (r = 0.931), suggesting that the consolidation of individual problem-solving skills creates favorable conditions for mutual aid and collective work. These results confirm that the gradual, supervised integration of educational robotics can enhance executive functions in early childhood by engaging working memory, inhibitory control, and cognitive flexibility through structured, interactive activities. This study thus contributes to a better understanding of the potential of educational robotics in a non-Western context and lays the groundwork for future longitudinal and comparative research exploring how cultural and pedagogical factors influence early childhood learning outcomes.",
       "authors": [
-        "Gineth Paola Perez Valdes",
-        "Oscar Boude Figueredo",
-        "A. V. Vargas Sánchez"
+        "M. Zemzami",
+        "Majda Zbat"
       ],
-      "venue": "Frontiers in Education",
-      "published": "2025-08-25",
-      "url": "https://doi.org/10.3389/feduc.2025.1535135",
-      "query": "computational thinking early childhood"
+      "venue": "Journal of Hunan University Natural Sciences",
+      "published": "2025-05-31",
+      "url": "https://doi.org/10.55463/issn.1674-2974.52.4.7",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "bb7096a30e4e9686b25b0ac73fb128dfba398de8",
-      "title": "A three-phase professional development approach to improving robotics pedagogical knowledge and computational thinking attitude of early childhood teachers",
+      "paperId": "8cfad96bdc417260bea5e5a7771fe1efe57f96d8",
+      "title": "Educators' perspectives on working with a humanoid robot in a French preschool class for autistic children",
       "abstract": "Abstract not available.",
       "authors": [
-        "Weipeng Yang"
+        "Philippe Garnier",
+        "K. Martel",
+        "Julie Dachez"
       ],
-      "venue": "Comput. Educ.",
-      "published": "2025",
-      "url": "https://doi.org/10.1016/j.compedu.2025.105282",
-      "query": "computational thinking early childhood"
+      "venue": "Journal of Research in Special Educational Needs",
+      "published": "2023-01-06",
+      "url": "https://doi.org/10.1111/1471-3802.12588",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "92b2cf311f025c9ae31c317b7d0c332cd7515ce2",
-      "title": "Development of Learning Strategies to Integrate Computational Thinking in Early Childhood Education Curriculum: A Study on 36 Early Childhood Education Units in Kudus",
-      "abstract": "Indonesia's low achievement in international assessments such as PISA shows the need to strengthen high-level thinking skills from an early age. One of the important competencies of the 21st century is computational thinking, which is a logical and systematic framework of thinking in solving problems. This research aims to develop a learning strategy to integrate computational thinking skills into the Early Childhood Education (PAUD) curriculum. The research was carried out in 36 partner PAUD units in Kudus Regency, Central Java, using the Research and Development (R&D) approach with the ADDIE (Analysis, Design, Development, Implementation, Evaluation) development model. The research subjects consisted of school principals and PAUD teachers. The development process lasted for eight months, starting with training related to the concept of computational thinking, its relationship with the Independent Curriculum, and its implementation strategy in classroom learning. The results of the study show that teachers need clear and practical guidance to integrate computational thinking skills into learning activities that are in line with the Independent Curriculum. This research does not produce a new curriculum product physically, but gives birth to a model of learning strategies that are conceptual and implementive. The strategy includes steps to prepare a plan, organize the play environment, and provide teacher support that encourages children's computational thinking skills. Implementation in the field showed a positive impact on teacher understanding, child involvement, and parental response, although challenges were still found in a small number of PAUD units. This research makes a concrete contribution to strengthening adaptive and future-oriented PAUD learning practices.",
+      "paperId": "6cb24b8afd09742a74b5af2a25607ccf1db876ec",
+      "title": "The Impact of AI-based Smart Robot Education on the Sociality of Preschool Children Mediated by Creative Problem-solving and Linguistic Expression",
+      "abstract": "This research investigates the educational effectiveness of a smart robot program integrated with Artificial Intelligence (AI) on the sociality of preschool children, particularly focusing on the mediating roles of creative problem-solving and linguistic expression. As the Fourth Industrial Revolution reshapes the educational landscape, AI-driven media have emerged as a ‘Social catalyst’ that significantly accelerates early childhood development. This study employed a quantitative experimental design involving a large-scale sample of 300 preschool children (150 boys and 150 girls) aged 5 to 6 years from various kindergartens in Sejong City. The participants were divided into an experimental group (n=150) that engaged in a 12-week AI-based smart robot program and a control group (n=150) that followed a traditional curriculum. Data were collected through the Social Skills Rating System (SSRS), Torrance Tests of Creative Thinking (TTCT), and standardized linguistic assessments. The results demonstrate that the AI voice-interactive robot program significantly augmented children's sociality scores across all sub-factors. Notably, mediation analysis confirmed that linguistic expression acted as a more potent mediator (<i>b</i> =.45, <i>p</i> <.001) compared to creative problem-solving (<i>b</i> =.38, <i>p </i><.01), identifying vocal interaction as the primary driver of social development. Statistical analysis further revealed that these variables partially mediated the relationship between AI interaction and sociality. Furthermore, while both genders showed significant improvement, girls demonstrated higher engagement in emotional rapport via voice interaction, whereas boys exhibited greater gains in task-oriented problem-solving. This study concludes that pedagogically sound AI voice-interactive tools are effective for fostering social development in young learners. These findings provide practical implications for educators and media content developers to design immersive and interactive AI educational environments.",
       "authors": [
-        "Irma Yuliantina"
+        "Hong Yun"
       ],
-      "venue": "JPUD - Jurnal Pendidikan Usia Dini",
-      "published": "2025-04-30",
-      "url": "https://doi.org/10.21009/jpud.v19i1.40841",
-      "query": "computational thinking early childhood"
+      "venue": "Humanities and Social Sciences",
+      "published": "2026-03-31",
+      "url": "https://doi.org/10.11648/j.hss.20261402.18",
+      "query": "educational robot children preschool"
     }
   ],
   "hot_topics": [
@@ -1022,12 +1026,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 58,
+      "count": 57,
       "keywords": [
         "AR",
-        "VR",
         "immersive",
-        "virtual reality"
+        "augmented reality",
+        "VR"
       ]
     },
     {
@@ -1035,27 +1039,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 26,
+      "count": 24,
       "keywords": [
-        "teacher",
-        "school",
-        "parent",
         "classroom",
+        "school",
+        "teacher",
+        "parent",
         "family"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 12,
-      "keywords": [
-        "play",
-        "personalized learning",
-        "game-based",
-        "game",
-        "gamification"
       ]
     },
     {
@@ -1063,10 +1053,10 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 11,
+      "count": 15,
       "keywords": [
-        "generative AI",
         "artificial intelligence",
+        "generative AI",
         "GPT",
         "machine learning"
       ]
@@ -1076,26 +1066,25 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 9,
+      "count": 11,
       "keywords": [
         "emotion",
+        "social development",
         "empathy",
-        "social-emotional",
-        "social development"
+        "social-emotional"
       ]
     },
     {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 8,
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 10,
       "keywords": [
-        "computational thinking",
-        "coding",
-        "programming",
-        "algorithm",
-        "computer science"
+        "play",
+        "game-based",
+        "game",
+        "personalized learning"
       ]
     },
     {
@@ -1103,25 +1092,12 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 6,
+      "count": 9,
       "keywords": [
+        "vocabulary",
         "writing",
         "reading",
-        "vocabulary",
-        "early literacy",
         "language development"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 4,
-      "keywords": [
-        "attention",
-        "cognitive load",
-        "self-regulation"
       ]
     },
     {
@@ -1129,10 +1105,36 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 4,
+      "count": 7,
       "keywords": [
         "robot",
         "chatbot"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 6,
+      "keywords": [
+        "attention",
+        "executive function",
+        "working memory",
+        "cognitive load",
+        "self-regulation"
+      ]
+    },
+    {
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 3,
+      "keywords": [
+        "coding",
+        "computational thinking",
+        "programming"
       ]
     },
     {
