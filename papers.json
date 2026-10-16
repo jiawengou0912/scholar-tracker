@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 06:38 UTC",
+  "updated_at": "2026-10-16 06:31 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -30,6 +30,20 @@
         "venue": "Computers & Education"
       },
       {
+        "title": "Disengaged conversational behaviors and learning in student-AI dialogues for mathematical problem solving",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105766",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105766",
+        "authors": [
+          "Jihyun Rho",
+          "Rui Guo",
+          "Hai Li"
+        ],
+        "published": "2027-2",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
         "title": "Development and validation of a game-based assessment tool for computational thinking practices in lower primary students",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.compedu.2026.105752",
@@ -50,20 +64,6 @@
         "authors": [
           "Shu Ching Yang",
           "Suwandi"
-        ],
-        "published": "2027-1",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Engagement with GenAI-Assisted L2 writing: Conceptualization, measurement, and associations with personality traits",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105751",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105751",
-        "authors": [
-          "Chengchen Li",
-          "Ye Han",
-          "Enhao Feng"
         ],
         "published": "2027-1",
         "journal": "Computers & Education",
@@ -406,6 +406,20 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "From digital interaction to social connection: AI virtual humans as interactive learning partners for older adults",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2748835",
+        "url": "https://doi.org/10.1080/10494820.2026.2748835",
+        "authors": [
+          "WeiCheng Pan",
+          "WanQing Zhang",
+          "Hong Chen"
+        ],
+        "published": "2026-10-15",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "ChatGPT as cognitive scaffold: computational thinking and metacognition in AI-embedded instruction",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2744894",
@@ -455,18 +469,6 @@
           "Luciano Hidalgo",
           "Mar Pérez Sanagustín",
           "Andre Nascimento"
-        ],
-        "published": "2026-10-8",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Evaluating a staged interactive research-based model for perceived research competence in future educational managers: a randomized pretest-posttest study",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2744900",
-        "url": "https://doi.org/10.1080/10494820.2026.2744900",
-        "authors": [
-          "Ruowei Zou"
         ],
         "published": "2026-10-8",
         "journal": "Interactive Learning Environments",
@@ -686,6 +688,33 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "EnjoyEAT: Embodied Interaction for Behavior-Aware, CBT-Informed Eating-Disorder Support",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2740424",
+        "url": "https://doi.org/10.1080/10447318.2026.2740424",
+        "authors": [
+          "Luyao Wang",
+          "Mengge Liu",
+          "Yilin Jiang"
+        ],
+        "published": "2026-10-15",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "The Blurring of Reality in the Age of AI: Development of the AI-Induced Reality Perception Confusion Scale and Its Association with Generative AI Literacy and AI Anxiety",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2747530",
+        "url": "https://doi.org/10.1080/10447318.2026.2747530",
+        "authors": [
+          "Bilal Kaya",
+          "Sezen Ateş Yaman"
+        ],
+        "published": "2026-10-15",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "Effects of Temporal and Spatial Characteristics of Tasks on Operator Performance in Multi-Vehicle Remote Monitoring",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2744843",
@@ -722,34 +751,6 @@
           "Niko Siameva Uletika",
           "Viansri Mawar Pitaloka",
           "Amanda Sofiana"
-        ],
-        "published": "2026-10-14",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Algorithm or Assembly? An Experimental Study of Recommendations by AI Versus Deliberative Mini-Publics in Democratic Decision-Making",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744841",
-        "url": "https://doi.org/10.1080/10447318.2026.2744841",
-        "authors": [
-          "Nuri Kim",
-          "Myojung Chung",
-          "S. Mo Jones-Jang"
-        ],
-        "published": "2026-10-14",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Does a Virtual Banquet Hall Stimulate Booking Intention? A Mixed-Method Approach",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2742588",
-        "url": "https://doi.org/10.1080/10447318.2026.2742588",
-        "authors": [
-          "A. Suganthi",
-          "R. Sumaya Nazhreen",
-          "Swamy Perumandla"
         ],
         "published": "2026-10-14",
         "journal": "International Journal of Human-Computer Interaction",
@@ -968,6 +969,75 @@
   },
   "keyword_papers": [
     {
+      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
+      "title": "Learning machine learning with young children: exploring informal settings in an African context",
+      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
+      "authors": [
+        "I. Sanusi",
+        "Kissinger Sunday",
+        "S. Oyelere"
+      ],
+      "venue": "Computer Science Education",
+      "published": "2023-02-07",
+      "url": "https://doi.org/10.1080/08993408.2023.2175559",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
+      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
+      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
+      "authors": [
+        "Apittha Unahalekhaka",
+        "M. Bers"
+      ],
+      "venue": "IEEE Global Engineering Education Conference",
+      "published": "2022-03-28",
+      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
+      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
+      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
+      "authors": [
+        "Chu Thi Hong Nhung",
+        "Giang Thị Hương Vũ",
+        "Dung Thi Phuong Nguyen"
+      ],
+      "venue": "Journal of Posthumanism",
+      "published": "2025-04-09",
+      "url": "https://doi.org/10.63332/joph.v5i3.705",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
+      "title": "Learning machine learning with very young children: Who is teaching whom?",
+      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
+      "authors": [
+        "Henriikka Vartiainen",
+        "M. Tedre",
+        "Teemu Valtonen"
+      ],
+      "venue": "Int. J. Child Comput. Interact.",
+      "published": "2020-09-01",
+      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
+      "query": "machine learning young children education"
+    },
+    {
+      "paperId": "c4fcdc96bd7ce77b97a74cba10871559615b152b",
+      "title": "INTERACTIVE LEARNING THROUGH TECHNOLOGY: A MACHINE LEARNING-BASED TRAFFIC SIGN RECOGNITION SYSTEM FOR YOUNG LEARNERS",
+      "abstract": "Vocabulary should be presented to young learners in context with the help of real objects that surround them. Helping them get aware of the recognition of traffic signs could reduce accidents. The current study developed a traffic sign recognition system based on Machine Learning through which the ability of young learners to recognize traffic signs would improve, along with their vocabulary acquisition. The developed system, based on the ADDIE model, was piloted and tested in the Interactive Learning Environment among kindergarten and primary school students. Children can scan and name signs of traffic using mobile devices instantly, having some hands-on experience. The results have shown significant development regarding knowledge of road safety, along with the acquisition of traffic vocabulary and long-term retention that considerably outperformed the state of the art. Parents' feedback strengthened the practicality, interactivity, and usability of the system within young learners' education. This research thus provides evidence for machine learning's role in transforming early education and providing an incredibly effective tool for teaching some of life's most important skills. The development that will be done in the future should be geared towards generalizing the system, adding auditory features of pronunciation, and other sections of vocabulary.",
+      "authors": [
+        "Tri Pujiani",
+        "Ida Dian Sukmawati",
+        "Firman Sah"
+      ],
+      "venue": "Intensive Journal",
+      "published": "2025-04-21",
+      "url": "https://doi.org/10.31602/intensive.v8i1.17398",
+      "query": "machine learning young children education"
+    },
+    {
       "paperId": "a98862ffe4c18634a67a3df8a965a35e5e0d7ec8",
       "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
       "abstract": "Large language models represent a significant advancement in the field of AI. The underlying technology is key to further innovations and, despite critical views and even bans within communities and regions, large language models are here to stay. This position paper presents the potential benefits and challenges of educational applications of large language models, from student and teacher perspectives. We briefly discuss the current state of large language models and their applications. We then highlight how these models can be used to create educational content, improve student engagement and interaction, and personalize learning experiences. With regard to challenges, we argue that large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations and unexpected brittleness of such systems. In addition, a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required to integrate and take full advantage of large language models in learning settings and teaching curricula. Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios to acquaint students early on with potential societal biases, criticalities, and risks of AI applications. We conclude with recommendations for how to address these challenges and ensure that such models are used in a responsible and ethical manner in education.",
@@ -1035,6 +1105,141 @@
       "published": "2023-03-21",
       "url": "https://doi.org/10.37074/jalt.2023.6.1.17",
       "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "697160c7052f890f464e65e3c2cbbc16ae4175fb",
+      "title": "Computational thinking: early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy",
+      "abstract": "Computational thinking (CT) is considered a group of problem-solving skills that the next generations are expected to possess. The most efficient way to make them acquire these skills is to incorporate CT into K-12 education. To this end, various education programs have been designed to improve teachers’ and prospective teachers’ competence in CT. Such programs designing educational experiences based on teachers’ and prospective teachers’ preexisting opinions and self-efficacy perceptions about CT could achieve better results. Although the acquisition of CT skills has been suggested to start early on, these beliefs of early childhood teachers and prospective teachers have been underexplored. Therefore, this exploratory study aims to examine early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy about CT. The study was conducted with 63 teachers and 78 prospective teachers in Turkey. Data were collected via an online survey in the spring of the 2020–2021 academic year. The preconceptions were assessed using a structured questionnaire, while the CT self-efficacy was measured with the Computational Thinking Scale. The findings showed similarities between teachers and prospective teachers in the preconceptions of CT. Both of them most strongly associated CT with logical thinking, problem-solving, using algorithms, coding/programming, doing mathematics, using technology in teaching, and using computers. Yet, teachers reported stronger associations between CT and logical thinking, using algorithms, and coding/programming. Furthermore, teachers’ self-efficacy perceptions in CT were significantly higher. The study findings provide some needed information to design professional development programs aiming to enhance CT practices in early education settings.",
+      "authors": [
+        "Canan Avcı",
+        "Mine Nur Deniz"
+      ],
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2022-05-19",
+      "url": "https://doi.org/10.1007/s10639-022-11078-5",
+      "query": "computational thinking early childhood"
+    },
+    {
+      "paperId": "8eb0d99e7858007df6450c534f3444b7898038b6",
+      "title": "Robotics in early childhood STEM education (REC-STEMEd): The impact on preservice teachers’ attitudes and intentions toward computational thinking",
+      "abstract": "There is a large disconnect between the increasing need for computer science education in K-12 schools and the preservice teacher training provided. Consequently, preservice teachers may graduate feeling unprepared to infuse computer science concepts such as computational thinking (CT) into their teaching. To address this, we created Robotics in Early Childhood STEM Education (REC-STEMEd), a module that infuses computational thinking, robotics, and science content into an early childhood teacher education methods course. This study investigated changes in early childhood preservice teachers’ (n = 39) attitudes toward learning to teach CT and their intentions to teach CT. Findings revealed a statistically significant increase in participants’ positive affection and positive cognition, and a significant decrease in negative cognition toward learning to teach CT. A moderate but not significant decrease was found in their negative cognition. Moreover, participants reported moderately positive attitudes, subjective norms, perceived behavioral control, and intentions toward teaching CT in the future.",
+      "authors": [
+        "Lucas Vasconcelos",
+        "Ismahan Arslan‐Ari",
+        "Bridget Miller"
+      ],
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-03-31",
+      "url": "https://doi.org/10.1007/s10639-025-13529-1",
+      "query": "computational thinking early childhood"
+    },
+    {
+      "paperId": "8a40a2cc2f97915a61436a136dc7c60cff08f4d3",
+      "title": "Integrating computational thinking in children aged 3 to 6: challenges and opportunities in early childhood education",
+      "abstract": "Computational thinking (CT) has emerged as a crucial skill in 21st-century education. Although most research has focused on education levels beyond primary school, this article reviews the impact of its integration in early childhood education, specifically for children aged 3–6 years old. Through a systematic review of 84 studies published in Scopus and Web of Science between 2013 and 2023, pedagogical strategies and technological tools used to develop CT in early childhood are explored. The findings reveal that while CT fosters key cognitive and motor skills, the lack of appropriate materials and teacher training hinders effective implementation. The article highlights the need for continuous teacher training programs and the comprehensive inclusion of CT in early childhood curricula. Furthermore, it identifies a lack of consistent assessment tools that measure the long-term effects of these interventions on child development.",
+      "authors": [
+        "Gineth Paola Perez Valdes",
+        "Ó. Boude-Figueredo",
+        "A. V. Vargas Sánchez"
+      ],
+      "venue": "Frontiers in Education",
+      "published": "2025-08-25",
+      "url": "https://doi.org/10.3389/feduc.2025.1535135",
+      "query": "computational thinking early childhood"
+    },
+    {
+      "paperId": "bb7096a30e4e9686b25b0ac73fb128dfba398de8",
+      "title": "A three-phase professional development approach to improving robotics pedagogical knowledge and computational thinking attitude of early childhood teachers",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Wei-Peng Yang"
+      ],
+      "venue": "Comput. Educ.",
+      "published": "2025",
+      "url": "https://doi.org/10.1016/j.compedu.2025.105282",
+      "query": "computational thinking early childhood"
+    },
+    {
+      "paperId": "92b2cf311f025c9ae31c317b7d0c332cd7515ce2",
+      "title": "Development of Learning Strategies to Integrate Computational Thinking in Early Childhood Education Curriculum: A Study on 36 Early Childhood Education Units in Kudus",
+      "abstract": "Indonesia's low achievement in international assessments such as PISA shows the need to strengthen high-level thinking skills from an early age. One of the important competencies of the 21st century is computational thinking, which is a logical and systematic framework of thinking in solving problems. This research aims to develop a learning strategy to integrate computational thinking skills into the Early Childhood Education (PAUD) curriculum. The research was carried out in 36 partner PAUD units in Kudus Regency, Central Java, using the Research and Development (R&D) approach with the ADDIE (Analysis, Design, Development, Implementation, Evaluation) development model. The research subjects consisted of school principals and PAUD teachers. The development process lasted for eight months, starting with training related to the concept of computational thinking, its relationship with the Independent Curriculum, and its implementation strategy in classroom learning. The results of the study show that teachers need clear and practical guidance to integrate computational thinking skills into learning activities that are in line with the Independent Curriculum. This research does not produce a new curriculum product physically, but gives birth to a model of learning strategies that are conceptual and implementive. The strategy includes steps to prepare a plan, organize the play environment, and provide teacher support that encourages children's computational thinking skills. Implementation in the field showed a positive impact on teacher understanding, child involvement, and parental response, although challenges were still found in a small number of PAUD units. This research makes a concrete contribution to strengthening adaptive and future-oriented PAUD learning practices.",
+      "authors": [
+        "Irma Yuliantina"
+      ],
+      "venue": "JPUD - Jurnal Pendidikan Usia Dini",
+      "published": "2025-04-30",
+      "url": "https://doi.org/10.21009/jpud.v19i1.40841",
+      "query": "computational thinking early childhood"
+    },
+    {
+      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
+      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
+      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "authors": [
+        "S. Muppalla",
+        "Sravya Vuppalapati",
+        "Apeksha Reddy Pulliahgaru"
+      ],
+      "venue": "Cureus",
+      "published": "2023-06-01",
+      "url": "https://doi.org/10.7759/cureus.40608",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
+      "title": "Impact of excessive use of screen time on child development: A review",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Anuradha",
+        "Ragini Mishra",
+        "Arti"
+      ],
+      "venue": "International journal of agriculture extension and social development",
+      "published": "2025-06-01",
+      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
+      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Midori Yamamoto",
+        "H. Mezawa",
+        "Kenichi Sakurai"
+      ],
+      "venue": "JAMA pediatrics",
+      "published": "2024-01-22",
+      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
+      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
+      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "authors": [
+        "X. Wan",
+        "Xiao-Qing Kang",
+        "Shunli Chen"
+      ],
+      "venue": "Frontiers in Pediatrics",
+      "published": "2025-08-28",
+      "url": "https://doi.org/10.3389/fped.2025.1667048",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "e6df982fe909069fc0d597034daad7f0575f6ce4",
+      "title": "Screen on = development off? A systematic scoping review and a developmental psychology perspective on the effects of screen time on early childhood development",
+      "abstract": "Research on the associations between screen time and child development suggests that various forms of screen time might pose a risk for various aspects of child development. However, data on the impact of exposure to screen media on the development of children under 3 years of age is comparatively scarce. Although the evidence available on the topic is evolving rapidly, no review of existing literature has yet encompassed a comprehensive set of developmental outcomes with a focus in the first 3 years of life. To address this research gap, the present literature review focused on the influences of screen time on various developmental outcomes of children aged zero to 36 months. These outcomes were sleep-related parameters, physical health, cognition, learning efficiency, language, motor skills, socio-emotional skills, social interaction, and overall development. To this end, ten databases were searched systematically, and 158 studies that were published between the launch of the iPhone in early 2007 until 2024 were included. Only studies that reported specific results for the age range of zero to 36 months were examined, including longitudinal studies with samples of children aged zero to 36 months at the first wave of assessment. For most outcomes, a comparable amount of undesirable and non-significant associations was found with children's screen time, while few desirable associations were reported. In line with the notion of resilience, these results indicate that characteristics of the child, the context, and/or the content moderate the associations between screen time and child development in early childhood, thus contributing to mitigating the potential of displacement of learning opportunities or even creating new learning opportunities. More studies with designs that can examine the causal effect of screen time on child development and that explicitly address the role of child, content, and context variables are needed.",
+      "authors": [
+        "F. Sticca",
+        "Valérie Brauchli",
+        "Patricia Lannen"
+      ],
+      "venue": "Frontiers in Developmental Psychology",
+      "published": "2025-01-07",
+      "url": "https://doi.org/10.3389/fdpys.2024.1439040",
+      "query": "screen time child development"
     },
     {
       "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
@@ -1111,7 +1316,7 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 62,
+      "count": 77,
       "keywords": [
         "AR",
         "virtual reality",
@@ -1123,13 +1328,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 24,
+      "count": 35,
       "keywords": [
         "teacher",
-        "family",
-        "classroom",
+        "parent",
         "school",
-        "parent"
+        "classroom",
+        "family"
       ]
     },
     {
@@ -1137,13 +1342,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 19,
+      "count": 25,
       "keywords": [
+        "machine learning",
+        "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "large language model",
-        "artificial intelligence",
-        "generative AI"
+        "large language model"
       ]
     },
     {
@@ -1151,12 +1356,12 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 11,
+      "count": 14,
       "keywords": [
-        "adaptive learning",
-        "game-based",
+        "play",
         "game",
-        "play"
+        "adaptive learning",
+        "game-based"
       ]
     },
     {
@@ -1164,11 +1369,11 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 11,
+      "count": 14,
       "keywords": [
+        "social-emotional",
         "emotion",
         "empathy",
-        "social-emotional",
         "social development"
       ]
     },
@@ -1177,12 +1382,27 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 8,
+      "count": 13,
       "keywords": [
         "coding",
+        "algorithm",
         "computational thinking",
         "programming",
-        "algorithm"
+        "computer science"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 11,
+      "keywords": [
+        "tablet",
+        "mobile",
+        "screen time",
+        "digital media",
+        "digital learning"
       ]
     },
     {
@@ -1190,8 +1410,9 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 6,
+      "count": 8,
       "keywords": [
+        "executive function",
         "attention",
         "cognitive load",
         "metacognition",
@@ -1203,9 +1424,11 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 6,
+      "count": 8,
       "keywords": [
+        "vocabulary",
         "writing",
+        "language development",
         "reading"
       ]
     },
@@ -1214,22 +1437,11 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 4,
+      "count": 7,
       "keywords": [
-        "intelligent tutoring",
-        "robot"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 4,
-      "keywords": [
-        "mobile",
-        "digital media",
-        "digital learning"
+        "chatbot",
+        "robot",
+        "intelligent tutoring"
       ]
     }
   ]
