@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 06:31 UTC",
+  "updated_at": "2026-10-17 06:20 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -143,6 +143,18 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Generative AI as a cognitive partner: personalised GPTs and differentiated learning in undergraduate teacher education",
+        "abstract": "Abstract\n                  Generative artificial intelligence is increasingly framed as a catalyst for deeper learning rather than simple automation. This design-based study investigated how personalised GPT agents were used as cognitive partners by pre-service teachers in an undergraduate Initial Teacher Education course in Digital Technologies within a Bachelor of Education (Secondary) programme. Drawing on distributed cognition, constructivism, cognitive load theory, and critical AI literacy, the intervention embedded personalised GPT agents within a university Canvas Learning Management System. Fourteen students configured and used agents aligned to curriculum goals, teaching contexts, pedagogical preferences, and weekly Prompt–Reflect–Refine tasks. Data included approximately 7,000 AI interactions, reflective journals, assessed lesson and assessment artefacts, and tutorial-group discussions. A hybrid inductive–deductive thematic analysis identified four recurrent functions in students’ use of the agents: conceptual tutor, co-designer, reflective mirror, and cognitive challenger. Across data sources, students reported clearer conceptual support, iterative planning, and reflective prompting, alongside risks of over-reliance, factual drift, and culturally narrow exemplars. The study contributes a context-specific model for LMS-integrated generative AI that foregrounds partnership, personalisation, judgement, and ethical reflexivity. Findings should be interpreted cautiously because the study was small-scale, single-site, and partly reliant on self-reported reflection.",
+        "doi": "10.1007/s11423-026-10746-4",
+        "url": "https://doi.org/10.1007/s11423-026-10746-4",
+        "authors": [
+          "Jason Zagami"
+        ],
+        "published": "2026-10-16",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Capturing emotional engagement in classrooms: a multimodal observational analysis across classroom contexts and its association with learning outcomes",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10740-w",
@@ -196,21 +208,50 @@
         "published": "2026-10-11",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Exploring learning in classic African board games: a review of recent literature",
-        "abstract": "Abstract\n                  A growing body of research on board games demonstrates that these games can function as learning environments and provide opportunities for learning across diverse contexts. Although learning is often conceptualized contextually within this literature, studies increasingly demonstrate that meaningful learning can occur through participation in board game environments. However, the relationship between board games and learning has been examined predominantly through the study of modern board games, with comparatively limited attention given to classic African board games. This literature review explores learning in classic African board games. This study serves two purposes as it highlights the state of research on classic African board games and the relationship of these games with learning. The fi ndings show that classic African board games are spaces where learning occurs and players engage in a constellation of literacies. The studies analyzed indicate that playing these games can facilitate mathematical learning, engage players in computational thinking and songoputation, and foster the development of skills related to science, engineering, and technology (i.e. STEM). These board games also allow for the exploration of artificial intelligence (AI), which results in the learning of new AI techniques. Classic African board games have the potential to simplify the learning of various subjects and the acquisition of skills relevant to the 21st century. As such, more empirical studies should be conducted to further investigate the connection between playing thesegames, their game mechanics and learning; and particularly the link between their gameplay and the learning of specific subjects such as mathematics, science, and engineering.",
-        "doi": "10.1007/s11423-026-10733-9",
-        "url": "https://doi.org/10.1007/s11423-026-10733-9",
-        "authors": [
-          "Rebecca Y. Bayeck"
-        ],
-        "published": "2026-10-9",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
       }
     ],
     "Journal of Computer Assisted Learning": [
+      {
+        "title": "The Nexus of Innovation: Technological, Organizational, and Environmental Influences on\n                    <scp>VR</scp>\n                    Adoption in Libraries",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Virtual reality (VR) technology offers immersive, interactive, and engaging educational experiences. It can significantly improve how well students understand and retain their learning for complex subjects.\n                  \n                  \n                    Purpose\n                    This study explores the nexus of technological, organizational, and environmental factors influencing the readiness to adopt and the adoption of VR in academic libraries.\n                  \n                  \n                    Methods\n                    Drawing on the Technological‐Organizational‐Environmental model as the theoretical foundation, data were collected from 232 Chinese Higher Education Institutions (HEIs) using the stratified random sampling method and analysed using Partial Least Squares–Structural Equation Modelling.\n                  \n                  \n                    Results\n                    Factors from all three categories, including perceived benefits, monetary resources, information and communication technology infrastructure, HEIs support, and market dynamics, had significant positive effects on VR technology readiness towards its adoption, whereas perceived complexity had a negative effect. Moreover, VR technology readiness was a significant mediator in the relationships between the factors and VR technology adoption. Control variables, including HEIs ranking and number of students, and the Importance‐Performance Map yielded mixed results.\n                  \n                  \n                    Conclusions\n                    This study is novel as it extends the investigation of VR adoption, which has been predominantly explored in commercial and industrial contexts, to the underexplored setting of academic libraries, particularly within the Chinese context. Additionally, by integrating VR technology readiness as a mediating variable, this study offers unique insights into technology adoption in academic libraries, thereby addressing critical research gaps. The findings can aid HEIs administrators, policy makers, and educators in planning, assessing, and implementing VR‐based technologies, enabling them to gain a more comprehensive understanding of users' satisfaction and promote the sustained use of advanced VR systems.",
+        "doi": "10.1002/jcal.70355",
+        "url": "https://doi.org/10.1002/jcal.70355",
+        "authors": [
+          "Yuping Shao",
+          "Abdullah Al Mamun",
+          "Mohammad Nurul Hassan Reza"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "The Influence of the Role of Peer Presence on Game‐Based Chemistry Learning: Evidence From\n                    <scp>EEG</scp>",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Game‐based learning (GBL) has become an important way to innovate chemistry teaching. However, it is still unclear how different peer roles in GBL shape learners' learning outcomes and cognitive processes.\n                  \n                  \n                    Objectives\n                    The study examined how different peer roles (individual vs. collaborators vs. competitors) influence learners' outcomes in game‐based chemistry learning. It also examined differences in theta and alpha power across these conditions.\n                  \n                  \n                    Methods\n                    The study employed a between‐subjects design with 69 ninth‐grade students from a secondary school in China who had not yet learned the target chemical concepts. Students were randomly assigned to individual, collaborative or competitive learning. Outcome measurement included immediate and delayed testing, motivation, cognitive load, interest and electroencephalography (EEG)‐based alpha and theta power.\n                  \n                  \n                    Results and Conclusions\n                    Both the collaborative and competitive conditions showed higher learning performance and interest than the individual condition. The collaborative condition also showed higher motivation than both the competitive and individual conditions and higher cognitive load than the individual condition. EEG analyses showed that the collaborative condition elicited higher theta and alpha power than the individual condition across both phases, although differences from the competitive condition were not consistently significant. These patterns may reflect greater demands on cognitive control and selective processing during collaborative learning.\n                  \n                  \n                    Implications\n                    The findings highlight the value of collaborative peer roles in game‐based chemistry learning. Teachers may consider incorporating structured collaborative activities to promote students' engagement and cognitive involvement. The findings also suggest that different peer roles may serve distinct motivational functions, which may inform the design of GBL activities.",
+        "doi": "10.1002/jcal.70361",
+        "url": "https://doi.org/10.1002/jcal.70361",
+        "authors": [
+          "Qian Huangfu",
+          "Yujia Guo",
+          "Tingting Deng"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "Writing Motivation and Self‐Efficacy in\n                    <scp>AI</scp>\n                    ‐Chatbot‐Supported\n                    <scp>EFL</scp>\n                    Writing: Exploratory Insights Across Proficiency Levels",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Writing motivation and self‐efficacy are critical factors of success in English as a Foreign Language (EFL) contexts, yet they are frequently undermined by learner anxiety and limited teacher feedback. While artificial intelligence (AI) chatbots offer potential for adaptive writing support, limited research has examined these affective constructs in parallel across learner proficiency levels.\n                  \n                  \n                    Objectives\n                    This study investigated changes in intrinsic motivation, extrinsic motivation, and writing self‐efficacy among high school EFL learners at higher‐ and lower‐proficiency levels following chatbot‐supported writing and examined whether these changes differed across proficiency levels.\n                  \n                  \n                    Methods\n                    Using an exploratory mixed‐methods design, the study involved 47 Vietnamese high school students divided into higher‐ and lower‐proficiency level groups. Over the 11‐week study, participants completed 8 weeks of AI‐supported writing activities using a chatbot designed in accordance with principles of Self‐Determination Theory, Self‐Regulated Learning Theory and Self‐Efficacy Theory. Changes in intrinsic motivation, extrinsic motivation, and writing self‐efficacy were examined using pre‐ and post‐questionnaires and semi‐structured interviews.\n                  \n                  \n                    Results and Conclusions\n                    The quantitative findings revealed that intrinsic motivation, extrinsic motivation, and writing self‐efficacy increased over time in both proficiency groups, with no significant differences in the magnitude of change between higher‐ and lower‐proficiency learners. This suggests that the affective changes observed during AI‐supported writing were not confined to one proficiency group. The qualitative findings indicated that learners linked their positive experiences to reduced anxiety, clearer guidance, and supportive interaction, although the types of support they valued differed by proficiency level. Overall, the findings suggest that when positioned as a supportive writing partner rather than an answer generator, AI chatbot feedback may be associated with positive motivational and self‐efficacy development in mixed‐ability EFL writing classrooms.",
+        "doi": "10.1002/jcal.70356",
+        "url": "https://doi.org/10.1002/jcal.70356",
+        "authors": [
+          "Thi‐Ngoc‐Anh Duong",
+          "Hsiu‐Ling Chen"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
       {
         "title": "Desktop Virtual Reality for Public First‐Aid Training: Effects on Cognitive Load and Learning Outcomes",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    Public first‐aid education must help learners apply procedural knowledge in emergencies, yet conventional instruction offers limited contextualized practice. Desktop virtual reality (DVR) can provide interactive, scenario‐based learning, but evidence regarding its effects on cognitive load and cardiopulmonary resuscitation (CPR) knowledge is inconclusive.\n                  \n                  \n                    Objectives\n                    Our study compared DVR‐based and video‐based CPR instruction in terms of learners' cognitive load and performance on CPR knowledge.\n                  \n                  \n                    Methods\n                    \n                      Eighty‐four university students were randomly allocated to DVR or video instruction. Complete‐case analyses included 64 participants (32 per condition) with valid cognitive‐load, pre‐test and post‐test data. Between‐group differences were examined using two‐sided independent‐samples\n                      t\n                      ‐tests and Mann–Whitney\n                      U\n                      tests; interviews with six DVR participants were analysed deductively to contextualize their experiences.\n                    \n                  \n                  \n                    Results and Conclusions\n                    \n                      The DVR group reported lower overall cognitive load (\n                      p\n                       = 0.010) and lower scores on both prespecified cognitive load dimensions, cognitive behavioural assessment (\n                      p\n                       = 0.033) and cognitive efficiency assessment (\n                      p\n                       = 0.015), than the video group. At post‐test, DVR participants performed better on the four‐item CPR detail set (\n                      p\n                       = 0.038), while the groups did not differ on basic items. The tested DVR condition, which combined signal guidance, spatial visualization, multisensory stimulation, self‐paced progression, scenario simulation and prompt feedback, was associated with lower reported cognitive load and better performance on the CPR detail knowledge than video instruction, while performance on the basic knowledge did not differ. These findings support the use of DVR as a structured supplement to CPR instruction, enabling learners to rehearse spatial and procedural relations at their own pace and receive prompt feedback. They also suggest that designers should evaluate guidance, navigation, feedback and scenario features as an integrated instructional configuration.",
@@ -219,45 +260,6 @@
         "authors": [
           "Yang Wang",
           "Jiaqi Li"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Beyond the Algorithm: Fostering Inclusive and Culturally Responsive Education for Multilingual and Multicultural Learners",
-        "abstract": "ABSTRACT\n                  \n                    Background of the Study\n                    Artificial intelligence (AI) has transformed the way teaching and learning occur in formal and informal settings. Simultaneously, classrooms across global contexts continue to welcome students from various linguistic and cultural backgrounds due to the shifting global dynamics around us. With a wide range of AI platforms currently utilised worldwide, the question of whether AI is creating inclusive spaces for multilingual and multicultural students remains unanswered. AI tools can support multilingual and multicultural students by personalising learning journeys, enhancing efficiency and access to resources and differentiating instruction. Despite that, AI tools are influenced by social, cultural and institutional factors, and there is growing concern that AI might cause further inequalities among traditionally marginalised students, especially when dominant languages and cultures are privileged and algorithmic bias is embedded.\n                  \n                  \n                    Objectives\n                    This study critically examines the extent to which AI supports or undermines equity, diversity and inclusion in multilingual and multicultural educational settings, grounded in culturally responsive pedagogy, translanguaging theory and critical digital pedagogy.\n                  \n                  \n                    Methods\n                    Utilising a systematic literature review informed by PRISMA guidelines, the study examines how AI use overlaps with issues of equity, diversity and inclusion in multilingual and multicultural settings.\n                  \n                  \n                    Results\n                    Findings identified recurring concerns across literature related to monolingual design bias, cultural misrepresentation in AI‐generated content, algorithmic representational harm and constraints on learner agency and access. These findings informed the development of the IHSAN Framework (Identity, Humanity, Safety, Access and Nuance), presented as a conceptual model in the Discussion.\n                  \n                  \n                    Conclusions\n                    The study recommends shared accountability among educators, AI developers, educational institutions and policymakers through culturally responsive AI design, equitable implementation practises and governance structures that protect linguistic diversity and learner access.",
-        "doi": "10.1002/jcal.70357",
-        "url": "https://doi.org/10.1002/jcal.70357",
-        "authors": [
-          "Salma Waly"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "The Effects of Bionic Reading on\n                    <scp>EFL</scp>\n                    Learners' Academic English Reading: Evidence From Behavioural and Eye‐Tracking Studies",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Academic reading in a foreign language poses significant challenges, often increasing cognitive load and reducing reading efficiency. Bionic Reading (BR), a visual input enhancement tool, has emerged as a potential strategy to support readers by guiding the eyes through optimized text formatting. However, empirical evidence regarding the effects of BR on English as a Foreign Language (EFL) learners, particularly in the context of academic reading, remains limited.\n                  \n                  \n                    Objectives\n                    This study aimed to investigate the effects of BR on the academic reading performance and cognitive load of EFL learners with different proficiencies. Specifically, it explored BR's influence on behavioural reading measures and eye movement patterns.\n                  \n                  \n                    Methods\n                    Two experiments were conducted. Experiment 1 assessed the impact of BR on behavioural outcomes, including reading comprehension accuracy, reading time, and cognitive load. Experiment 2 employed eye‐tracking technology to examine the effects of BR on eye‐tracking metrics such as fixation duration, regression path duration, and regression‐out counts. Additionally, follow‐up interviews were conducted to explore participants' perceptions and attitudes toward BR.\n                  \n                  \n                    Results\n                    BR significantly improved reading comprehension accuracy and reduced total fixation duration, regression path duration, and regression‐out counts, indicating enhanced reading efficiency and reduced cognitive load. Interview findings revealed that most participants reported positive attitudes toward BR and expressed a willingness to integrate it into their future reading and language learning activities.\n                  \n                  \n                    Conclusions\n                    Digital tools like BR have great potential to enhance academic reading performance and reduce cognitive load among EFL learners. These results provide preliminary evidence for the development of personalized reading support technologies in language education and highlight BR's promise as a supportive aid for improving reading skills.",
-        "doi": "10.1002/jcal.70354",
-        "url": "https://doi.org/10.1002/jcal.70354",
-        "authors": [
-          "Yizhen Wang",
-          "Jinpeng Chen",
-          "Wei Zheng"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Ethical Generative\n                    <scp>AI</scp>\n                    Use in Higher Education: An Action Research Study Using the Think Aloud Method",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    As generative AI becomes increasingly embedded in higher education, it presents significant challenges related to ethical use, academic integrity and students' potential over‐reliance on AI‐generated outputs. The Think Aloud method offers a pedagogical approach for making students' reasoning visible as they interact with generative AI tools.\n                  \n                  \n                    Objective\n                    This mixed‐methods action research study explored the role of the Think Aloud method as a pedagogical intervention in supporting students' metacognitive awareness and ethical engagement with generative AI tools in a first‐year entrepreneurship course.\n                  \n                  \n                    Method\n                    Data were collected through reflective journals, classroom observations and a post‐intervention survey. The study involved 44 first‐year undergraduate students, with 38 students completing the post‐intervention survey. Qualitative data were analysed thematically, while survey responses were examined using descriptive statistics and an exploratory correlation analysis.\n                  \n                  \n                    Results and Conclusions\n                    Findings suggested that Think Aloud supported students' emerging awareness of prompt construction, verification practices and ethical decision‐making when using generative AI. However, students' critical evaluation of AI‐generated content often remained at a surface level, particularly among students requiring additional support. The study indicates that Think Aloud can make students' AI‐related reasoning more visible and can support more intentional engagement with generative AI, but it should not be viewed as a stand‐alone solution. Rather, it appears most effective when embedded within a broader pedagogical framework that includes AI literacy, prompt engineering, verification strategies and evaluative judgement. The study contributes classroom‐based evidence on process‐oriented approaches to ethical generative AI use in higher education and highlights the need for sustained instructional scaffolding to support deeper critical engagement with AI tools.",
-        "doi": "10.1002/jcal.70352",
-        "url": "https://doi.org/10.1002/jcal.70352",
-        "authors": [
-          "Suha Karaki",
-          "Sandra Baroudi"
         ],
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
@@ -406,6 +408,47 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Exploring collaborative problem-solving in AI-assisted robotics education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2749410",
+        "url": "https://doi.org/10.1080/10494820.2026.2749410",
+        "authors": [
+          "Christian Basil Omeh",
+          "Elias Oupa Mashile"
+        ],
+        "published": "2026-10-16",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "Comparing expert guided training and self-learning with virtual patients in emergency management training: a randomized controlled trial",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2745728",
+        "url": "https://doi.org/10.1080/10494820.2026.2745728",
+        "authors": [
+          "Dilek Kitapcioglu",
+          "Feray Guven",
+          "Emel Gur"
+        ],
+        "published": "2026-10-16",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
+        "title": "GenAI-supported interactive learning and Chinese language arts (Yuwen) engagement: the mediating role of grit in an explanatory mixed-methods study",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2749408",
+        "url": "https://doi.org/10.1080/10494820.2026.2749408",
+        "authors": [
+          "Li-Ching Hung",
+          "Zhitong Yu",
+          "Meng-Te Hung"
+        ],
+        "published": "2026-10-16",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "From digital interaction to social connection: AI virtual humans as interactive learning partners for older adults",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2748835",
@@ -429,48 +472,6 @@
           "Joel Trudeau"
         ],
         "published": "2026-10-13",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "A new spiral model of AI literacy and competency in higher education developed through a systematic literature review",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2735920",
-        "url": "https://doi.org/10.1080/10494820.2026.2735920",
-        "authors": [
-          "Zubair Ahmad",
-          "Nafilah Abdul Latheef",
-          "Almaas Sultana"
-        ],
-        "published": "2026-10-12",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Enhancing student engagement through contextualised physics instruction",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2745724",
-        "url": "https://doi.org/10.1080/10494820.2026.2745724",
-        "authors": [
-          "Femi Emmanuel Babalola",
-          "Sina Joshua Fakoyede",
-          "Folasade Busayo Ojobola"
-        ],
-        "published": "2026-10-12",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "How does conversation unfold? analyzing learner–LLM dialogues through multiple analytical lenses",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2739434",
-        "url": "https://doi.org/10.1080/10494820.2026.2739434",
-        "authors": [
-          "Luciano Hidalgo",
-          "Mar Pérez Sanagustín",
-          "Andre Nascimento"
-        ],
-        "published": "2026-10-8",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -503,20 +504,6 @@
         "venue": "Learning and Instruction"
       },
       {
-        "title": "Can elementary schools compensate for disparities across Europe?",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.learninstruc.2026.102458",
-        "url": "https://doi.org/10.1016/j.learninstruc.2026.102458",
-        "authors": [
-          "Thomas Brüggemann",
-          "Ulrich Ludewig",
-          "Jakob Schwerter"
-        ],
-        "published": "2027-2",
-        "journal": "Learning and Instruction",
-        "venue": "Learning and Instruction"
-      },
-      {
         "title": "Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.learninstruc.2026.102462",
@@ -525,6 +512,20 @@
           "Heike Russ",
           "Tino Endres",
           "Leonie Sibley"
+        ],
+        "published": "2027-2",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
+        "title": "Can elementary schools compensate for disparities across Europe?",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102458",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102458",
+        "authors": [
+          "Thomas Brüggemann",
+          "Ulrich Ludewig",
+          "Jakob Schwerter"
         ],
         "published": "2027-2",
         "journal": "Learning and Instruction",
@@ -688,6 +689,33 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "Effect of Acoustic Congruency in Binaural Audio on the Film-Viewing Experience",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2744839",
+        "url": "https://doi.org/10.1080/10447318.2026.2744839",
+        "authors": [
+          "Tudor Petrea",
+          "Hyunkook Lee"
+        ],
+        "published": "2026-10-15",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "SpaceMates: A Tabletop Robotic Tangible Programming System Designed to Cultivate Spatial Reasoning Skills in Middle Childhood",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2741975",
+        "url": "https://doi.org/10.1080/10447318.2026.2741975",
+        "authors": [
+          "Hongli Xi",
+          "Cheng Yao",
+          "Hang Chen"
+        ],
+        "published": "2026-10-15",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "EnjoyEAT: Embodied Interaction for Behavior-Aware, CBT-Informed Eating-Disorder Support",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2740424",
@@ -696,6 +724,20 @@
           "Luyao Wang",
           "Mengge Liu",
           "Yilin Jiang"
+        ],
+        "published": "2026-10-15",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Measuring Successful Cooperation in Human-AI Teamwork: Development and Validation of the Perceived Cooperativity and Teaming Perception Scales",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2739657",
+        "url": "https://doi.org/10.1080/10447318.2026.2739657",
+        "authors": [
+          "Christiane Attig",
+          "Christiane Wiebel-Herboth",
+          "Patricia Wollstadt"
         ],
         "published": "2026-10-15",
         "journal": "International Journal of Human-Computer Interaction",
@@ -713,51 +755,22 @@
         "published": "2026-10-15",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Effects of Temporal and Spatial Characteristics of Tasks on Operator Performance in Multi-Vehicle Remote Monitoring",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744843",
-        "url": "https://doi.org/10.1080/10447318.2026.2744843",
-        "authors": [
-          "Yanyi Li",
-          "Wei Zhang",
-          "Zhengyin Gu"
-        ],
-        "published": "2026-10-14",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "The Hand-Proximity Effect in Virtual Learning: How Interaction Design Influences Knowledge Acquisition",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744535",
-        "url": "https://doi.org/10.1080/10447318.2026.2744535",
-        "authors": [
-          "Xuefei Ji",
-          "Huang Yao",
-          "Di Chen"
-        ],
-        "published": "2026-10-14",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Integrating Heuristic Evaluation and UTAUT2: Uncovering Usability Friction and Behavioral Intention in Public EV Charging Infrastructure",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744842",
-        "url": "https://doi.org/10.1080/10447318.2026.2744842",
-        "authors": [
-          "Niko Siameva Uletika",
-          "Viansri Mawar Pitaloka",
-          "Amanda Sofiana"
-        ],
-        "published": "2026-10-14",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
       }
     ],
     "Early Childhood Education Journal": [
+      {
+        "title": "How Illustration Presentation Strategies Across Picture-Book Versions from Four Publishing Markets Shape Chinese Preschoolers’ Judgments of Story Comprehensibility and Version Choice",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10643-026-02356-9",
+        "url": "https://doi.org/10.1007/s10643-026-02356-9",
+        "authors": [
+          "Chengxing Xu",
+          "Ying Fu"
+        ],
+        "published": "2026-10-16",
+        "journal": "Early Childhood Education Journal",
+        "venue": "Early Childhood Education Journal"
+      },
       {
         "title": "Thinking in Three Dimensions: A Mixed-Methods Study on the Contribution of a 3D Modeling and Printing Program to Young Children’s Geometry Learning",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -807,19 +820,6 @@
           "Salih Çepni"
         ],
         "published": "2026-10-3",
-        "journal": "Early Childhood Education Journal",
-        "venue": "Early Childhood Education Journal"
-      },
-      {
-        "title": "‘It’s my Absolute Favourite thing to do’: Nature Playgroups Building Families' Connections with Nature and Each Other",
-        "abstract": "Abstract\n                  A growing body of research advocates for very young children to engage in playful nature-based learning in outdoor environments. In Australia, there is a rapidly growing number of nature playgroups, where young children engage in self-directed, play-based learning. Play is supported by adults and facilitated by trained professionals that predominantly work for private organisations. Nature playgroups, in general, provide families with the chance to socialise and gain valuable peer support with raising children. They are seen to be a valuable aspect of a child’s upbringing particularly at a time when it has been identified that modern parenting occurs within increasingly complex social and environmental contexts. Nature playgroups occur in contexts such as forests, parklands, and beaches, forming a collective approach to nature-based early childhood education approaches globally. This paper draws upon fieldwork undertaken in 2024 at one nature playgroup, informed by ethnographic methods. Observations were taken of facilitators, parents and children and include the interactions between the researchers and the playgroup participants. Vignettes were used to describe the experience of how parents benefit from time spent as active participants in facilitated nature playgroup sessions. Through analysing research in parents’ roles in children’s nature-based teaching and learning, we propose that facilitated nature playgroups are as valuable for parents as they are for young children to interact with nature as an avenue to build their knowledge of the world around them and grow family support networks.",
-        "doi": "10.1007/s10643-026-02363-w",
-        "url": "https://doi.org/10.1007/s10643-026-02363-w",
-        "authors": [
-          "Christopher Speldewinde",
-          "Suzanne Infantino"
-        ],
-        "published": "2026-9-30",
         "journal": "Early Childhood Education Journal",
         "venue": "Early Childhood Education Journal"
       }
@@ -969,345 +969,208 @@
   },
   "keyword_papers": [
     {
-      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
-      "title": "Learning machine learning with young children: exploring informal settings in an African context",
-      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
+      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
+      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
+      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
       "authors": [
-        "I. Sanusi",
-        "Kissinger Sunday",
-        "S. Oyelere"
+        "Walayat Hussain",
+        "Machi Raju Varanasi",
+        "Liam New"
       ],
-      "venue": "Computer Science Education",
-      "published": "2023-02-07",
-      "url": "https://doi.org/10.1080/08993408.2023.2175559",
-      "query": "machine learning young children education"
+      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
+      "published": "2025-11-18",
+      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
+      "query": "large language model education"
     },
     {
-      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
-      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
-      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
+      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
+      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
+      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
       "authors": [
-        "Apittha Unahalekhaka",
-        "M. Bers"
+        "S. Guizani",
+        "Tehseen Mazhar",
+        "Tariq Shahzad"
       ],
-      "venue": "IEEE Global Engineering Education Conference",
-      "published": "2022-03-28",
-      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
-      "query": "machine learning young children education"
+      "venue": "Discover Education",
+      "published": "2025-02-15",
+      "url": "https://doi.org/10.1007/s44217-025-00424-7",
+      "query": "large language model education"
     },
     {
-      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
-      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
-      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
+      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
+      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
+      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
       "authors": [
-        "Chu Thi Hong Nhung",
-        "Giang Thị Hương Vũ",
-        "Dung Thi Phuong Nguyen"
+        "James C. L. Chow",
+        "Kay Li"
       ],
-      "venue": "Journal of Posthumanism",
-      "published": "2025-04-09",
-      "url": "https://doi.org/10.63332/joph.v5i3.705",
-      "query": "machine learning young children education"
+      "venue": "JMIR Cancer",
+      "published": "2025-02-18",
+      "url": "https://doi.org/10.2196/66633",
+      "query": "large language model education"
     },
     {
-      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
-      "title": "Learning machine learning with very young children: Who is teaching whom?",
-      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
+      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
+      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
+      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
       "authors": [
-        "Henriikka Vartiainen",
-        "M. Tedre",
-        "Teemu Valtonen"
+        "V. Nikolovski",
+        "D. Trajanov",
+        "Ivan Chorbev"
       ],
-      "venue": "Int. J. Child Comput. Interact.",
-      "published": "2020-09-01",
-      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
-      "query": "machine learning young children education"
+      "venue": "Algorithms",
+      "published": "2025-03-04",
+      "url": "https://doi.org/10.3390/a18030144",
+      "query": "large language model education"
     },
     {
-      "paperId": "c4fcdc96bd7ce77b97a74cba10871559615b152b",
-      "title": "INTERACTIVE LEARNING THROUGH TECHNOLOGY: A MACHINE LEARNING-BASED TRAFFIC SIGN RECOGNITION SYSTEM FOR YOUNG LEARNERS",
-      "abstract": "Vocabulary should be presented to young learners in context with the help of real objects that surround them. Helping them get aware of the recognition of traffic signs could reduce accidents. The current study developed a traffic sign recognition system based on Machine Learning through which the ability of young learners to recognize traffic signs would improve, along with their vocabulary acquisition. The developed system, based on the ADDIE model, was piloted and tested in the Interactive Learning Environment among kindergarten and primary school students. Children can scan and name signs of traffic using mobile devices instantly, having some hands-on experience. The results have shown significant development regarding knowledge of road safety, along with the acquisition of traffic vocabulary and long-term retention that considerably outperformed the state of the art. Parents' feedback strengthened the practicality, interactivity, and usability of the system within young learners' education. This research thus provides evidence for machine learning's role in transforming early education and providing an incredibly effective tool for teaching some of life's most important skills. The development that will be done in the future should be geared towards generalizing the system, adding auditory features of pronunciation, and other sections of vocabulary.",
+      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
+      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
+      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
       "authors": [
-        "Tri Pujiani",
-        "Ida Dian Sukmawati",
-        "Firman Sah"
+        "Jian-Wen Zeng",
+        "Wen-Hao Qi",
+        "Shi-Ying Shen"
       ],
-      "venue": "Intensive Journal",
-      "published": "2025-04-21",
-      "url": "https://doi.org/10.31602/intensive.v8i1.17398",
-      "query": "machine learning young children education"
+      "venue": "Journal of Medical Internet Research",
+      "published": "2025-11-13",
+      "url": "https://doi.org/10.2196/79091",
+      "query": "large language model education"
     },
     {
-      "paperId": "a98862ffe4c18634a67a3df8a965a35e5e0d7ec8",
-      "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
-      "abstract": "Large language models represent a significant advancement in the field of AI. The underlying technology is key to further innovations and, despite critical views and even bans within communities and regions, large language models are here to stay. This position paper presents the potential benefits and challenges of educational applications of large language models, from student and teacher perspectives. We briefly discuss the current state of large language models and their applications. We then highlight how these models can be used to create educational content, improve student engagement and interaction, and personalize learning experiences. With regard to challenges, we argue that large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations and unexpected brittleness of such systems. In addition, a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required to integrate and take full advantage of large language models in learning settings and teaching curricula. Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios to acquaint students early on with potential societal biases, criticalities, and risks of AI applications. We conclude with recommendations for how to address these challenges and ensure that such models are used in a responsible and ethical manner in education.",
+      "paperId": "ba0eb96237abaf50c6cb72852385b11867100a0c",
+      "title": "Effectiveness of Robot-Mediated Learning in Fostering Children’s Social and Cognitive Development",
+      "abstract": "Engaging with social robots has been recognized as potentially beneficial for children facing social communication challenges, especially in developing skills such as joint attention. This systematic review examines the effectiveness of robot-mediated learning in enhancing children’s cognitive abilities, emotional resilience, and self-confidence, based on an analysis of research conducted between 2018 and 2025. While social robots show promise in delivering personalized and engaging educational experiences, challenges such as emotional dependence, accessibility, and ethical concerns persist. The review concludes that further research, particularly longitudinal studies and cross-cultural comparisons, is necessary to fully understand the long-term impacts of robot-mediated learning on children’s cognitive and social development. It explores the application of robotic technology in relation to children’s educational progress across different age groups. The review includes studies of various types, such as experimental, non-experimental, and research articles, covering diverse research fields, robots, contexts of use, target audiences, and outcomes. The findings highlight the growing potential of social robots to support children’s cognitive development by providing interactive and stimulating learning experiences. This review offers valuable insights for researchers and designers aiming to improve robotic interventions and tailor them to meet diverse developmental needs and educational settings.",
       "authors": [
-        "Enkelejda Kasneci",
-        "Kathrin Seßler",
-        "S. Küchemann"
+        "Zainab Salma",
+        "Raquel Hijón-Neira",
+        "C. Pizarro"
       ],
-      "venue": "Learning and Individual Differences",
+      "venue": "Applied Sciences",
+      "published": "2025-03-25",
+      "url": "https://doi.org/10.3390/app15073567",
+      "query": "cognitive development technology children"
+    },
+    {
+      "paperId": "ba52abab3168dee9f58384d206874173cf50b4f3",
+      "title": "IMPACT OF TECHNOLOGY ON SOCIAL AND COGNITIVE DEVELOPMENT IN CHILDREN",
+      "abstract": "Technology has inuenced children's social and cognitive development in recent years. This article explores both the\npositive and negative impacts of technology on children's social and cognitive development. On the one hand, technology\ncan provide children with the opportunity to learn and engage in activities that may not be available in their home environment. This can lead to\nincreased condence and improved problem-solving skills. On the other hand, technology can lead to a decrease in physical activity, an increase in\nfeelings of isolation and loneliness, an over-dependence on technology, and a decrease in creativity and problem-solving skills. The article also\ndiscusses technology's potential implications on children's social and cognitive development. It looks at how technology can both positively and\nnegatively affect children's development. It also looks at how it can be used to help them grow and develop healthily. Ultimately, this article\nprovides insight into the impact of technology on children's social and cognitive development and the potential implications of technology on\ntheir lives",
+      "authors": [
+        "Rani Maria Joy"
+      ],
+      "venue": "Indian Journal Of Applied Research",
       "published": "2023-04-01",
-      "url": "https://doi.org/10.1016/j.lindif.2023.102274",
-      "query": "ChatGPT education student"
+      "url": "https://doi.org/10.36106/ijar/2913763",
+      "query": "cognitive development technology children"
     },
     {
-      "paperId": "2f4803bf9025e67f01b9bb50ba7f48bc94f6b79e",
-      "title": "Student perceptions of ChatGPT: benefits, costs, and attitudinal differences between users and non-users toward AI integration in higher education",
-      "abstract": "Today, there is no doubt that Artificial Intelligence (AI) presents both opportunities and challenges in higher education. This study examines three key areas: (1) students’ use of ChatGPT, (2) their perceptions of its benefits and costs, and (3) the differences in attitudes toward AI integration in higher education between ChatGPT users and non-users. A sample of 737 undergraduate students at a Spanish university answered an online survey. The quantitative analysis revealed a high prevalence of ChatGPT use for academic and personal purposes, with students identifying its 24/7 accessibility as a major advantage, along with the time-saving benefits it offers. However, concerns were raised about potential costs, including the devaluation of university education when students rely on ChatGPT to complete assignments. Results indicate significant differences between ChatGPT users and non-users: users generally support AI integration in higher education, particularly in teaching methods, while non-users often oppose its integration, advocating for measures such as banning AI in universities. Our study provides valuable insights into student perspectives on the integration of ChatGPT in higher education, emphasizing the contrasting viewpoints of users and non-users. The findings underline the need for universities to actively involve students in shaping policies on artificial intelligence while offering targeted training to promote its responsible and ethical use. Furthermore, universities should support educators in adapting their teaching methodologies to the digital era by incorporating innovative strategies that enhance both teaching and learning.",
+      "paperId": "874200b9fe1a78d212f6f6410bdc0b743178f577",
+      "title": "Effects of Robotics Education on Young Children’s Cognitive Development: a Pilot Study with Eye-Tracking",
+      "abstract": "The emerging field of robotics education (RE) is a new and rapidly growing subject area worldwide. It may provide a playful and novel learning environment for children to engage with all aspects of science, technology, engineering, and mathematics (STEM) learning. The purpose of this research is to examine how robotics learning activities may affect the cognitive abilities and cognitive processes of 6–8 years old children. The study adopted the mixed methods approach with a repeated measures design; three waves of data collection over 6 months, including quantitative data obtained from cognitive assessments and eye-tracking, and qualitative data from the interviews. A total of 31 children were recruited from an afterschool robotics program. To the best of our knowledge, this study is the first RE research that used a combination of eye-tracking, cognitive assessments, and interviews for examining the effect of RE on children. Using linear growth models, the results of cognitive assessments showed that children’s visuospatial working memory as well as logical and abstract reasoning skills improved over time. The interview data were analyzed by a thematic analysis. The results revealed that children perceived RE activities as game play, which made children more engaged in their study; parents found their children to be more focused on activities comparing to six months ago. Additionally, the visualization of the eye-tracking data suggested that children became more focused on RE activities and got faster to process the information across six months in general, which echoed the findings in assessments and interviews. Our findings may help educators and policymakers better understand the benefits of RE for young children.",
       "authors": [
-        "Joanna Blahopoulou",
-        "Silvia Ortiz-Bonnin"
+        "Y. Liu",
+        "Darko Odic",
+        "Xuyan Tang"
       ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2025-04-16",
-      "url": "https://doi.org/10.1007/s10639-025-13575-9",
-      "query": "ChatGPT education student"
+      "venue": "Journal of Science Education and Technology",
+      "published": "2023-03-07",
+      "url": "https://doi.org/10.1007/s10956-023-10028-1",
+      "query": "cognitive development technology children"
     },
     {
-      "paperId": "75d5c8164b766eef775006cf0b2ef9c017501c01",
-      "title": "Assessing Student Readiness and Perceptions of ChatGPT in Learning: A Case Study in Indonesian Higher Education",
-      "abstract": "Aim/Purpose: This study investigates the readiness of higher education students in Indonesia to use ChatGPT for learning and explores its perceived benefits in academic settings. The research aims to identify challenges and opportunities in integrating generative AI into education.\n\nBackground: As a rapidly evolving AI technology, ChatGPT presents both opportunities and challenges in higher education. While it offers convenience and personalized support, concerns regarding ethical use, academic integrity, and student dependency remain. Understanding student readiness and attitudes toward ChatGPT is essential for effective and responsible implementation in learning environments. \n\nMethodology: This study employs a mixed-methods convergent parallel design, collecting both quantitative and qualitative data simultaneously but analyzing them separately. A total of 373 students from diverse universities and disciplines in Indonesia participated. Quantitative data were analyzed using the Rasch measurement model and Winsteps software, while qualitative responses were transcribed and examined through summative content analysis using Quirkos 2.5.3 software. Participants were selected through a purposive sampling approach to ensure a representative distribution across institutions and fields of study.\n\nContribution: This study contributes to the growing discourse on AI in education by offering clear, data-driven insights into Indonesian students’ readiness and perceptions of ChatGPT. It reveals that students across diverse regions view ChatGPT as a helpful academic tool, particularly for clarifying complex concepts, reducing stress, and supporting independent learning. These findings provide actionable guidance for educators and policymakers, highlighting the urgent need for AI literacy programs and ethical use policies. The study lays a strong empirical foundation for larger-scale, longitudinal research on AI integration in higher education by presenting these concrete patterns.\n\nFindings: The findings indicate a generally high level of student readiness to use ChatGPT in learning contexts. Students perceive ChatGPT as a valuable tool for completing assignments, clarifying complex concepts, and reducing academic stress. However, concerns were also raised regarding its potential impact on critical thinking skills and the need for clear ethical guidelines. These findings provide preliminary evidence that can support the development of institutional strategies and future research directions.\n\nRecommendations for Practitioners: For educators and institutions, it is crucial to develop structured policies and ethical guidelines for ChatGPT use in academic contexts. Assignments should be designed to promote higher-order thinking skills, such as creativity and problem-solving, rather than mere fact recall. Additionally, AI literacy training should be incorporated into curricula to help students critically evaluate AI-generated content.\n\nRecommendation for Researchers: For researchers, future studies should explore the readiness of educators to integrate ChatGPT into teaching and assess its long-term impact on student learning outcomes, including critical thinking and problem-solving skills. Investigating how ChatGPT can be effectively embedded within existing learning management systems could further enhance its educational potential.\n\nImpact on Society: By identifying both the benefits and challenges of ChatGPT in higher education, this study informs policies and best practices for AI adoption in academia. Addressing issues of digital equity, ethical concerns, and pedagogical strategies can help create a more balanced and effective AI-assisted learning environment, ultimately improving the quality of education and teaching methodologies.\n\nFuture Research: Further research should investigate how ChatGPT influences long-term student engagement, skill development, and academic performance. Studies should also examine institutional readiness, faculty perspectives, and AI’s role in fostering more interactive and adaptive learning experiences.\n\n",
+      "paperId": "29668a9ae33e347970b9e69b40e79d776c3b8bab",
+      "title": "The Impact of Technology on Cognitive Development in Early Childhood",
+      "abstract": "Technology integration into everyday life is deeper than ever in this age of fast technological innovation. This is particularly true for young children exposed to numerous digital instruments from an early age. Such integration has sparked concerns about how technology may affect young childrens cognitive growth, a crucial time when mental capacities like thinking, reasoning, and understanding are still developing. Recognizing the significance of this conversation, the background for this study is the growing anxiety among parents, teachers, and lawmakers over the influence of technology on childrens brains. This study uses a literature review methodology to examine previously published academic studies to understand the complex connection between technology and cognitive development. It aims to grasp both the rewarding possibilities and the dangers it offers. The conclusion summarizes the results and highlights methods for maximizing technologys positive effects while minimizing its possible drawbacks, providing a comprehensive understanding of the subject.",
       "authors": [
-        "Ati Suci Dian Martha",
-        "Sri Widowati",
-        "Desy Puspa Rahayu"
+        "Yichao Ren"
       ],
-      "venue": "J. Inf. Technol. Educ. Res.",
+      "venue": "Lecture Notes in Education Psychology and Public Media",
+      "published": "2023-11-20",
+      "url": "https://doi.org/10.54254/2753-7048/23/20230496",
+      "query": "cognitive development technology children"
+    },
+    {
+      "paperId": "6f4734c2ae1a22f6e0af70a5deecde9fcd58784d",
+      "title": "The Use of Technology in the Cognitive Development of Early Children",
+      "abstract": "This study was conducted to analyze how the effect of gadget use in early childhood on children's cognitive development. This research is a qualitative descriptive study. the source of the data used is the result of observations of children and parents regarding the use of gadgets in children's cognitive development at Kindergarten Risanti I, West Jakarta. The research result show use of gadgets in children can improve cognitive development of children. through gadgets, children can learn independently about language or mathematics. children's learning through gadgets must be under the supervision of parents. children should not be allowed to use gadgets as they wish. The positive impact of using gadgets on children, consisting of: Improved cognitive skills, More fun for kids, and Educating young ones. The negative impact of using gadgets on children, consisting of: Learning problems, Anxiety, Lazy thinking, Decreased concentration, and hyperactivity.",
+      "authors": [
+        "Linda Pertiwi",
+        "Fajar Prakosa"
+      ],
+      "venue": "I-STATEMENT",
+      "published": "2021-01-14",
+      "url": "https://doi.org/10.46371/ISTATEMENT.V6I1.272",
+      "query": "cognitive development technology children"
+    },
+    {
+      "paperId": "3ea0e7905db5e13f38bd54a848b15287c7b3fcfb",
+      "title": "Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis",
+      "abstract": "Despite the consensus that early identification leads to better outcomes for individuals with autism spectrum disorder (ASD), recent research reveals that the average age of diagnosis in the Greek population is approximately six years. However, this age of diagnosis is delayed by an additional two years for families from lower-income or minority backgrounds. These disparities result in adverse impacts on intervention outcomes, which are further burdened by the often time-consuming and labor-intensive language assessments for children with ASD. There is a crucial need for tools that increase access to early assessment and diagnosis that will be rigorous and objective. The current study leverages the capabilities of artificial intelligence to develop a reliable and practical model for distinguishing children with ASD from typically-developing peers based on their narrative and vocabulary skills. We applied natural language processing-based extraction techniques to automatically acquire language features (narrative and vocabulary skills) from storytelling in 68 children with ASD and 52 typically-developing children, and then trained machine learning models on the children’s combined narrative and expressive vocabulary data to generate behavioral targets that effectively differentiate ASD from typically-developing children. According to the findings, the model could distinguish ASD from typically-developing children, achieving an accuracy of 96%. Specifically, out of the models used, hist gradient boosting and XGBoost showed slightly superior performance compared to the decision trees and gradient boosting models, particularly regarding accuracy and F1 score. These results bode well for the deployment of machine learning technology for children with ASD, especially those with limited access to early identification services.",
+      "authors": [
+        "C. Themistocleous",
+        "Maria Andreou",
+        "E. Peristeri"
+      ],
+      "venue": "Behavioral Science",
+      "published": "2024-05-29",
+      "url": "https://doi.org/10.3390/bs14060459",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "3969efd26e1a833852e87ec2a3e805a0c42e69f3",
+      "title": "The significance of growing up in a hoarded home: using natural language processing to examine the experiences of adult children of hoarding parents on Reddit",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Oskar Kocol",
+        "I. Sabel",
+        "K. Timpano"
+      ],
+      "venue": "Journal of Obsessive-Compulsive and Related Disorders",
+      "published": "2025-02-01",
+      "url": "https://doi.org/10.1016/j.jocrd.2025.100938",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "214ff0f9e2f36c3bb1a28cb1e32e3bfb69a025d1",
+      "title": "Harnessing Natural Language Processing to Assess Quality of End-of-Life Care for Children with Cancer",
+      "abstract": "Purpose: Data on end-of-life care (EOLC) quality, assessed through evidence-based quality measures (EOLC-QMs), are difficult to obtain. Natural language processing (NLP) enables efficient quality measurement and has not yet been used for children with serious illness. We sought to validate a pediatric-specific EOLC-QM keyword library and evaluate EOLC-QM attainment among childhood cancer decedents. Methods: In a single-center cohort of children with cancer who died between 2014-2022, we piloted a rule-based NLP approach to examine content of clinical notes in the last six months of life. We identified documented discussions of five EOLC-QMs: goals of care, limitations to life-sustaining treatments, hospice, palliative care consultation, and preferred location of death. We assessed performance of NLP methods, compared to gold standard manual chart review. We then used NLP to characterize proportions of decedents with documented EOLC-QM discussions and timing of first documentation relative to death. Results: Among 101 decedents, nearly half were minorities [Hispanic/Latinx (24%), non-Hispanic Black/African American (20%)], female (48%), or diagnosed with solid tumors (43%). Through iterative refinement, our keyword library achieved robust performance statistics (for all EOLC-QMs, F1 score=1.0). Most decedents had documented discussions regarding goals of care (83%), limitations to life-sustaining treatments (83%), and hospice (74%). Fewer decedents had documented discussions regarding palliative care consultation (49%) or preferred location of death (36%). For all five EOLC-QMs, first documentation occurred, on average, >30 days before death. Conclusion: A high proportion of decedents attained specified EOLC-QMs more than 30 days before death. Our findings indicate that NLP is a feasible approach to measuring quality of care for children with cancer at the end of life and is ripe for multi-center research and quality improvement.",
+      "authors": [
+        "Meghan E. Lindsay",
+        "Sophia Vlieger de Oliveira",
+        "Kate Sciacca"
+      ],
+      "venue": "JCO Clinical Cancer Informatics",
+      "published": "2024-09-01",
+      "url": "https://doi.org/10.1200/CCI.24.00134",
+      "query": "natural language processing children"
+    },
+    {
+      "paperId": "ac4058bb90d05d87d325bcb3616d13e05fdeccf4",
+      "title": "Deep Learning-Based Natural Language Processing Model and Optical Character Recognition for Detection of Online Grooming on Social Networking Services",
+      "abstract": ": The increased accessibility of social networking services (SNSs) has facilitated communication and information sharing among users. However, it has also heightened concerns about digital safety, particularly for children and adolescents who are increasingly exposed to online grooming crimes. Early and accurate identification of grooming conversations is crucial in preventing long-term harm to victims. However, research on grooming detection in South Korea remains limited, as existing models trained primarily on English text and fail to reflect the unique linguistic features of SNS conversations, leading to inaccurate classifications. To address these issues, this study proposes a novel framework that integrates optical character recognition (OCR) technology with KcELECTRA, a deep learning-based natural language processing (NLP) model that shows excellent performance in processing the colloquial Korean language. In the proposed framework, the KcELECTRA model is fine-tuned by an extensive dataset, including Korean social media conversations, Korean ethical verification data from AI-Hub, and Korean hate speech data from Hug-gingFace, to enable more accurate classification of text extracted from social media conversation images. Experimental results show that the proposed framework achieves an accuracy of 0.953, outperforming existing transformer-based models. Furthermore, OCR technology shows high accuracy in extracting text from images, demonstrating that the proposed framework is effective for online grooming detection. The proposed framework is expected to contribute to the more accurate detection of grooming text and the prevention of grooming-related crimes.",
+      "authors": [
+        "Sangmin Kim",
+        "Byeong Guk Lee",
+        "M. Maqsood"
+      ],
+      "venue": "Computer Modeling in Engineering &amp; Sciences",
       "published": "2025",
-      "url": "https://doi.org/10.28945/5599",
-      "query": "ChatGPT education student"
+      "url": "https://doi.org/10.32604/cmes.2025.061653",
+      "query": "natural language processing children"
     },
     {
-      "paperId": "9b3589c83765f94d07e89a751c05587c2144185f",
-      "title": "ChatGPT Early Adoption in Higher Education: Variation in Student Usage, Instructional Support, and Educational Equity",
-      "abstract": "This study examines the early adoption of ChatGPT in late 2022 and early 2023 by identifying variation in student awareness, academic use, and perceived instructional support for the technology at a diverse U.S. public research university. Specifically, we investigate (a) how individual awareness and academic use of ChatGPT vary by student characteristics and field of study, (b) how instructor encouragement or discouragement varies across courses and student demographics, and (c) how academic use patterns differ between science, technology, engineering, and mathematics (STEM) and non-STEM fields. Data from 938 undergraduates, merged with administrative records, revealed disparities in ChatGPT awareness and use, with underrepresented minority, first-generation, and international students less likely to know about or use the tool academically. Course-level analysis highlighted that instructor encouragement is more prevalent in STEM fields and upper-division courses but decreases in classes with higher underrepresented minority representation. Open-ended responses showed distinct patterns of ChatGPT use, with STEM students favoring conceptual assistance and coding and non-STEM students engaging in writing and instructor-assigned activities. These findings underscore early inequities in access and use of emerging educational technologies and call for institutional strategies to promote equitable awareness and skill development aligned with academic and professional goals.",
+      "paperId": "61769c5bb5d5ac668c69d146385ccf09fd07ced4",
+      "title": "Early Identification of Language Disorders Using Natural Language Processing and Machine Learning: Challenges and Emerging Approaches.",
+      "abstract": "PURPOSE\nRecent advances in artificial intelligence provide opportunities to capture and represent complex features of human language in a more automated manner, offering potential means of improving the efficiency of language assessment. This review article presents computerized approaches for the analysis of narrative language and identification of language disorders in children.\n\n\nMETHOD\nWe first describe the current barriers to clinicians' use of language sample analysis, narrative language sampling approaches, and the data processing stages that precede analysis. We then present recent studies demonstrating the automated extraction of linguistic features and identification of developmental language disorder using natural language processing and machine learning. We explain how these tools operate and emphasize how the decisions made in construction impact their performance in important ways, especially in the analysis of child language samples. We conclude with a discussion of major challenges in the field with respect to bias, access, and generalizability across settings and applications.\n\n\nCONCLUSION\nGiven the progress that has occurred over the last decade, computer-automated approaches offer a promising opportunity to improve the efficiency and accessibility of language sample analysis and expedite the diagnosis and treatment of language disorders in children.",
       "authors": [
-        "Richard Arum",
-        "Maria Calderon Leon",
-        "Xun-Fei Li"
+        "Jessica Lammert",
+        "Angela C. Roberts",
+        "Ken McRae"
       ],
-      "venue": "AERA Open",
-      "published": "2025-04-01",
-      "url": "https://doi.org/10.1177/23328584251331956",
-      "query": "ChatGPT education student"
-    },
-    {
-      "paperId": "8a9f05cdfd0ea7411e83f95b39647167ee82c087",
-      "title": "ChatGPT in higher education: Considerations for academic integrity and student learning",
-      "abstract": "The release of ChatGPT has sparked significant academic integrity concerns in higher education. However, some commentators have pointed out that generative artificial intelligence (AI) tools such as ChatGPT can enhance student learning, and consequently, academics should adapt their teaching and assessment practices to embrace the new reality of living, working, and studying in a world where AI is freely available. Despite this important debate, there has been very little academic literature published on ChatGPT and other generative AI tools. This article uses content analysis to examine news articles (N=100) about how ChatGPT is disrupting higher education, concentrating specifically on Australia, New Zealand, the United States",
-      "authors": [
-        "M. Sullivan",
-        "Andrew Kelly",
-        "Paul Mclaughlan"
-      ],
-      "venue": "1",
-      "published": "2023-03-21",
-      "url": "https://doi.org/10.37074/jalt.2023.6.1.17",
-      "query": "ChatGPT education student"
-    },
-    {
-      "paperId": "697160c7052f890f464e65e3c2cbbc16ae4175fb",
-      "title": "Computational thinking: early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy",
-      "abstract": "Computational thinking (CT) is considered a group of problem-solving skills that the next generations are expected to possess. The most efficient way to make them acquire these skills is to incorporate CT into K-12 education. To this end, various education programs have been designed to improve teachers’ and prospective teachers’ competence in CT. Such programs designing educational experiences based on teachers’ and prospective teachers’ preexisting opinions and self-efficacy perceptions about CT could achieve better results. Although the acquisition of CT skills has been suggested to start early on, these beliefs of early childhood teachers and prospective teachers have been underexplored. Therefore, this exploratory study aims to examine early childhood teachers’ and prospective teachers’ preconceptions and self-efficacy about CT. The study was conducted with 63 teachers and 78 prospective teachers in Turkey. Data were collected via an online survey in the spring of the 2020–2021 academic year. The preconceptions were assessed using a structured questionnaire, while the CT self-efficacy was measured with the Computational Thinking Scale. The findings showed similarities between teachers and prospective teachers in the preconceptions of CT. Both of them most strongly associated CT with logical thinking, problem-solving, using algorithms, coding/programming, doing mathematics, using technology in teaching, and using computers. Yet, teachers reported stronger associations between CT and logical thinking, using algorithms, and coding/programming. Furthermore, teachers’ self-efficacy perceptions in CT were significantly higher. The study findings provide some needed information to design professional development programs aiming to enhance CT practices in early education settings.",
-      "authors": [
-        "Canan Avcı",
-        "Mine Nur Deniz"
-      ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2022-05-19",
-      "url": "https://doi.org/10.1007/s10639-022-11078-5",
-      "query": "computational thinking early childhood"
-    },
-    {
-      "paperId": "8eb0d99e7858007df6450c534f3444b7898038b6",
-      "title": "Robotics in early childhood STEM education (REC-STEMEd): The impact on preservice teachers’ attitudes and intentions toward computational thinking",
-      "abstract": "There is a large disconnect between the increasing need for computer science education in K-12 schools and the preservice teacher training provided. Consequently, preservice teachers may graduate feeling unprepared to infuse computer science concepts such as computational thinking (CT) into their teaching. To address this, we created Robotics in Early Childhood STEM Education (REC-STEMEd), a module that infuses computational thinking, robotics, and science content into an early childhood teacher education methods course. This study investigated changes in early childhood preservice teachers’ (n = 39) attitudes toward learning to teach CT and their intentions to teach CT. Findings revealed a statistically significant increase in participants’ positive affection and positive cognition, and a significant decrease in negative cognition toward learning to teach CT. A moderate but not significant decrease was found in their negative cognition. Moreover, participants reported moderately positive attitudes, subjective norms, perceived behavioral control, and intentions toward teaching CT in the future.",
-      "authors": [
-        "Lucas Vasconcelos",
-        "Ismahan Arslan‐Ari",
-        "Bridget Miller"
-      ],
-      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
-      "published": "2025-03-31",
-      "url": "https://doi.org/10.1007/s10639-025-13529-1",
-      "query": "computational thinking early childhood"
-    },
-    {
-      "paperId": "8a40a2cc2f97915a61436a136dc7c60cff08f4d3",
-      "title": "Integrating computational thinking in children aged 3 to 6: challenges and opportunities in early childhood education",
-      "abstract": "Computational thinking (CT) has emerged as a crucial skill in 21st-century education. Although most research has focused on education levels beyond primary school, this article reviews the impact of its integration in early childhood education, specifically for children aged 3–6 years old. Through a systematic review of 84 studies published in Scopus and Web of Science between 2013 and 2023, pedagogical strategies and technological tools used to develop CT in early childhood are explored. The findings reveal that while CT fosters key cognitive and motor skills, the lack of appropriate materials and teacher training hinders effective implementation. The article highlights the need for continuous teacher training programs and the comprehensive inclusion of CT in early childhood curricula. Furthermore, it identifies a lack of consistent assessment tools that measure the long-term effects of these interventions on child development.",
-      "authors": [
-        "Gineth Paola Perez Valdes",
-        "Ó. Boude-Figueredo",
-        "A. V. Vargas Sánchez"
-      ],
-      "venue": "Frontiers in Education",
-      "published": "2025-08-25",
-      "url": "https://doi.org/10.3389/feduc.2025.1535135",
-      "query": "computational thinking early childhood"
-    },
-    {
-      "paperId": "bb7096a30e4e9686b25b0ac73fb128dfba398de8",
-      "title": "A three-phase professional development approach to improving robotics pedagogical knowledge and computational thinking attitude of early childhood teachers",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Wei-Peng Yang"
-      ],
-      "venue": "Comput. Educ.",
-      "published": "2025",
-      "url": "https://doi.org/10.1016/j.compedu.2025.105282",
-      "query": "computational thinking early childhood"
-    },
-    {
-      "paperId": "92b2cf311f025c9ae31c317b7d0c332cd7515ce2",
-      "title": "Development of Learning Strategies to Integrate Computational Thinking in Early Childhood Education Curriculum: A Study on 36 Early Childhood Education Units in Kudus",
-      "abstract": "Indonesia's low achievement in international assessments such as PISA shows the need to strengthen high-level thinking skills from an early age. One of the important competencies of the 21st century is computational thinking, which is a logical and systematic framework of thinking in solving problems. This research aims to develop a learning strategy to integrate computational thinking skills into the Early Childhood Education (PAUD) curriculum. The research was carried out in 36 partner PAUD units in Kudus Regency, Central Java, using the Research and Development (R&D) approach with the ADDIE (Analysis, Design, Development, Implementation, Evaluation) development model. The research subjects consisted of school principals and PAUD teachers. The development process lasted for eight months, starting with training related to the concept of computational thinking, its relationship with the Independent Curriculum, and its implementation strategy in classroom learning. The results of the study show that teachers need clear and practical guidance to integrate computational thinking skills into learning activities that are in line with the Independent Curriculum. This research does not produce a new curriculum product physically, but gives birth to a model of learning strategies that are conceptual and implementive. The strategy includes steps to prepare a plan, organize the play environment, and provide teacher support that encourages children's computational thinking skills. Implementation in the field showed a positive impact on teacher understanding, child involvement, and parental response, although challenges were still found in a small number of PAUD units. This research makes a concrete contribution to strengthening adaptive and future-oriented PAUD learning practices.",
-      "authors": [
-        "Irma Yuliantina"
-      ],
-      "venue": "JPUD - Jurnal Pendidikan Usia Dini",
-      "published": "2025-04-30",
-      "url": "https://doi.org/10.21009/jpud.v19i1.40841",
-      "query": "computational thinking early childhood"
-    },
-    {
-      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
-      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
-      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
-      "authors": [
-        "S. Muppalla",
-        "Sravya Vuppalapati",
-        "Apeksha Reddy Pulliahgaru"
-      ],
-      "venue": "Cureus",
-      "published": "2023-06-01",
-      "url": "https://doi.org/10.7759/cureus.40608",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
-      "title": "Impact of excessive use of screen time on child development: A review",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Anuradha",
-        "Ragini Mishra",
-        "Arti"
-      ],
-      "venue": "International journal of agriculture extension and social development",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
-      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Midori Yamamoto",
-        "H. Mezawa",
-        "Kenichi Sakurai"
-      ],
-      "venue": "JAMA pediatrics",
-      "published": "2024-01-22",
-      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
-      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
-      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
-      "authors": [
-        "X. Wan",
-        "Xiao-Qing Kang",
-        "Shunli Chen"
-      ],
-      "venue": "Frontiers in Pediatrics",
-      "published": "2025-08-28",
-      "url": "https://doi.org/10.3389/fped.2025.1667048",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "e6df982fe909069fc0d597034daad7f0575f6ce4",
-      "title": "Screen on = development off? A systematic scoping review and a developmental psychology perspective on the effects of screen time on early childhood development",
-      "abstract": "Research on the associations between screen time and child development suggests that various forms of screen time might pose a risk for various aspects of child development. However, data on the impact of exposure to screen media on the development of children under 3 years of age is comparatively scarce. Although the evidence available on the topic is evolving rapidly, no review of existing literature has yet encompassed a comprehensive set of developmental outcomes with a focus in the first 3 years of life. To address this research gap, the present literature review focused on the influences of screen time on various developmental outcomes of children aged zero to 36 months. These outcomes were sleep-related parameters, physical health, cognition, learning efficiency, language, motor skills, socio-emotional skills, social interaction, and overall development. To this end, ten databases were searched systematically, and 158 studies that were published between the launch of the iPhone in early 2007 until 2024 were included. Only studies that reported specific results for the age range of zero to 36 months were examined, including longitudinal studies with samples of children aged zero to 36 months at the first wave of assessment. For most outcomes, a comparable amount of undesirable and non-significant associations was found with children's screen time, while few desirable associations were reported. In line with the notion of resilience, these results indicate that characteristics of the child, the context, and/or the content moderate the associations between screen time and child development in early childhood, thus contributing to mitigating the potential of displacement of learning opportunities or even creating new learning opportunities. More studies with designs that can examine the causal effect of screen time on child development and that explicitly address the role of child, content, and context variables are needed.",
-      "authors": [
-        "F. Sticca",
-        "Valérie Brauchli",
-        "Patricia Lannen"
-      ],
-      "venue": "Frontiers in Developmental Psychology",
-      "published": "2025-01-07",
-      "url": "https://doi.org/10.3389/fdpys.2024.1439040",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "7e07f98e480bd28683c0ef78669e22c965c444a2",
-      "title": "Applying Artificial Intelligence into Early Childhood Math Education: Lesson Design and Course Effect",
-      "abstract": "A growing trend has been observed in applying artificial intelligence (Al) for educational purposes. With emerging initiatives in adapting Al in early childhood education, greater effort can be made in providing empirical evidence to theoretically support the use of Al techniques for young children. This study aims to introduce an instructional unit of math instruction for children aged 3-8. The course was delivered by a learning app, Zebra Al, where an intelligent tutoring system was applied. Students were invited from social networking sites and 66 children from India agreed to participate. A four-week course (five lessons each week) was delivered, covering basic math concepts including recognizing patterns, identifying 2D shapes, dissecting 2D shapes, and counting. The effect of the course was assessed in both cognitive and attitudinal facets. The results indicated that the course was effective in improving math performance and sustaining math attitudes.",
-      "authors": [
-        "Shu-Hang Zhang",
-        "Xuelian Chen"
-      ],
-      "venue": "International Conference on Teaching, Assessment, and Learning for Engineering",
-      "published": "2022-12-01",
-      "url": "https://doi.org/10.1109/TALE54877.2022.00109",
-      "query": "intelligent tutoring system early childhood"
-    },
-    {
-      "paperId": "4f23ee7393a0f96819e51226989857ff867b4284",
-      "title": "Developmentally Appropriate Intelligent Spatial Tutoring for Mobile Devices",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Melissa A. Wiederrecht",
-        "Amy Banic"
-      ],
-      "venue": "International Conference on Intelligent Tutoring Systems",
-      "published": "2012-06-14",
-      "url": "https://doi.org/10.1007/978-3-642-30950-2_81",
-      "query": "intelligent tutoring system early childhood"
-    },
-    {
-      "paperId": "5454714cd3359fa759dc828bcad0c7c069268cad",
-      "title": "Context-sensitive Natural Language Generation for robot-assisted second language tutoring",
-      "abstract": "This paper describes the L2TOR intelligent tutoring system (ITS), focusing primarily on its output generation module. The L2TOR ITS is developed for the purpose of investigating the efficacy of robot-assisted second language tutoring in early childhood. We explain the process of generating contextually-relevant utterances, such as task-specific feedback messages, and discuss challenges regarding multimodality and multilingualism for situated natural language generation from a robot tutoring perspective.",
-      "authors": [
-        "Bram Willemsen",
-        "Jan de Wit",
-        "E. Krahmer"
-      ],
-      "venue": "IEEE/ACM International Conference on Human-Robot Interaction",
-      "published": "2018-11-08",
-      "url": "https://doi.org/10.18653/v1/W18-6901",
-      "query": "intelligent tutoring system early childhood"
-    },
-    {
-      "paperId": "d88a250737878889ff51dc43e717c6ee1caacb8d",
-      "title": "Learning environments : contributions from Dutch and German research",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "J. Pieters",
-        "K. Breuer",
-        "P.Robert-Jan Simons"
-      ],
-      "venue": "",
-      "published": "1990",
-      "url": "https://doi.org/10.1007/978-3-642-84256-6",
-      "query": "intelligent tutoring system early childhood"
-    },
-    {
-      "paperId": "befbbb0e900878786f96fb7e08f2332a4eb477a5",
-      "title": "Engineering the Design of iSTART-Early: Adapting an Intelligent Tutoring System for 3rd, 4th, and 5th Grade Reading",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Marissa A. Castellana",
-        "Erika B. Langley",
-        "Micah Watanabe"
-      ],
-      "venue": "Journal of Formative Design in Learning",
-      "published": "2026-05-26",
-      "url": "https://doi.org/10.1007/s41686-026-00111-2",
-      "query": "intelligent tutoring system early childhood"
+      "venue": "Journal of Speech, Language and Hearing Research",
+      "published": "2025-01-09",
+      "url": "https://doi.org/10.1044/2024_JSLHR-24-00515",
+      "query": "natural language processing children"
     }
   ],
   "hot_topics": [
@@ -1316,10 +1179,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 77,
+      "count": 68,
       "keywords": [
         "AR",
+        "immersive",
         "virtual reality",
+        "mixed reality",
         "VR"
       ]
     },
@@ -1328,13 +1193,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 35,
+      "count": 29,
       "keywords": [
-        "teacher",
         "parent",
+        "teacher",
         "school",
-        "classroom",
-        "family"
+        "family",
+        "classroom"
       ]
     },
     {
@@ -1342,13 +1207,27 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 25,
+      "count": 20,
       "keywords": [
-        "machine learning",
-        "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "large language model"
+        "LLM",
+        "large language model",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 12,
+      "keywords": [
+        "attention",
+        "cognitive development",
+        "working memory",
+        "cognitive load",
+        "metacognition"
       ]
     },
     {
@@ -1356,11 +1235,11 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 14,
+      "count": 12,
       "keywords": [
-        "play",
+        "personalized learning",
         "game",
-        "adaptive learning",
+        "play",
         "game-based"
       ]
     },
@@ -1369,67 +1248,12 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 14,
+      "count": 12,
       "keywords": [
-        "social-emotional",
         "emotion",
+        "social development",
         "empathy",
-        "social development"
-      ]
-    },
-    {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 13,
-      "keywords": [
-        "coding",
-        "algorithm",
-        "computational thinking",
-        "programming",
-        "computer science"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 11,
-      "keywords": [
-        "tablet",
-        "mobile",
-        "screen time",
-        "digital media",
-        "digital learning"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 8,
-      "keywords": [
-        "executive function",
-        "attention",
-        "cognitive load",
-        "metacognition",
-        "self-regulation"
-      ]
-    },
-    {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 8,
-      "keywords": [
-        "vocabulary",
-        "writing",
-        "language development",
-        "reading"
+        "social-emotional"
       ]
     },
     {
@@ -1437,11 +1261,47 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 7,
+      "count": 9,
       "keywords": [
         "chatbot",
-        "robot",
-        "intelligent tutoring"
+        "robot"
+      ]
+    },
+    {
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 5,
+      "keywords": [
+        "computational thinking",
+        "coding",
+        "programming"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 4,
+      "keywords": [
+        "digital media",
+        "digital learning",
+        "mobile",
+        "tablet"
+      ]
+    },
+    {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 4,
+      "keywords": [
+        "vocabulary",
+        "writing",
+        "reading"
       ]
     }
   ]
