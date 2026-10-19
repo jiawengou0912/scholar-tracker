@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 06:44 UTC",
+  "updated_at": "2026-10-19 07:03 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -73,6 +73,16 @@
     ],
     "British Journal of Educational Technology": [
       {
+        "title": "Issue Information",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1111/bjet.70097",
+        "url": "https://doi.org/10.1111/bjet.70097",
+        "authors": [],
+        "published": "2026-11",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
         "title": "Social support, affective factors, and informal digital learning of Chinese (\n                    <scp>IDLC</scp>\n                    )",
         "abstract": "Abstract\n                  This study examines how social support and affective factors (enjoyment, boredom, embarrassment, and shyness) shape young learners' informal digital learning of Chinese (IDLC) in New Zealand. Drawing on proactive language learning theory, we conceptualized IDLC as learners' autonomous involvement with Mandarin Chinese through digital technologies beyond the classroom. Survey data from 529 primary and secondary school students in Auckland were analysed using structural equation modelling. Results showed that social support significantly predicted IDLC both directly and indirectly via enjoyment as a partial mediator. Social support was also associated with higher enjoyment and lower levels of boredom and shyness, although these effects were modest. In contrast, boredom, embarrassment and shyness did not directly predict IDLC. These findings highlight the importance of supportive social environments and positive affect in fostering young learners' participation in out‐of‐class Chinese learning, while negative emotions appear less constraining in this context. The study extends informal language learning research to languages other than English and offers implications for Chinese language education in New Zealand.\n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Informal digital language learning has become an important complement to classroom‐based language instruction, particularly for young learners who regularly engage with digital media.\n                            \n                            \n                              Social support from family members, peers and teachers is known to facilitate students' motivation and persistence in language learning.\n                            \n                            \n                              Affective factors such as enjoyment, boredom, embarrassment and shyness influence learners' participation in second language learning, especially in formal classroom contexts.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              This study extends research on informal digital language learning to Chinese as a target language other than English, focusing on young students in the New Zealand context.\n                            \n                            \n                              It shows that social support and enjoyment are key predictors of IDLC, with enjoyment partially mediating the effect of social support.\n                            \n                            \n                              The findings suggest that negative affective factors (boredom, embarrassment and shyness) do not directly constrain IDLC, highlighting important differences between formal classroom learning and informal digital learning environments.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and policy\n                        \n                          \n                            \n                              Teachers and schools can play an active role in legitimizing and encouraging IDLC by recognizing and valuing students' out‐of‐class digital engagement with Chinese.\n                            \n                            \n                              Pedagogical efforts should prioritize fostering enjoyment by connecting classroom instruction with students' digital interests, such as short videos, music, games and online interaction.\n                            \n                            \n                              Collaboration with families and community language schools can strengthen supportive learning ecologies that encourage informal digital learning.\n                            \n                            \n                              Educational policies should view informal digital learning not as peripheral, but as a valuable extension of formal language education, particularly for languages with limited instructional time such as Chinese.",
         "doi": "10.1111/bjet.70084",
@@ -110,34 +120,6 @@
           "Héctor J. Pijeira‐Díaz"
         ],
         "published": "2026-10-3",
-        "journal": "British Journal of Educational Technology",
-        "venue": "British Journal of Educational Technology"
-      },
-      {
-        "title": "Connecting the dots to understand complex systems in education: A systematic review of psychological networks",
-        "abstract": "Abstract\n                  \n                    \n                    Psychological networks have emerged as a robust methodology for examining complex systems. Although their use has become increasingly important in psychology and behavioural research, they remain underutilized in the field of educational research. Consequently, limited information is available regarding their adoption and the techniques employed to investigate various educational dimensions. To address this research gap, this systematic review study analysed 43 studies to examine the application of psychological networks in education, focusing on their methodologies and the educational objectives or phenomena explored. The findings revealed that psychological networks have been used to investigate six primary educational dimensions: cognitive, psychological, motivational, sociological and cultural, behavioural and knowledge and performance. Additionally, we identified several challenges associated with this approach, including the complexity of network interpretation, methodological complexity and integrity.\n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Psychological networks are frequently used in psychology.\n                            \n                            \n                              The use of psychological networks in education is still in its infancy.\n                            \n                            \n                              Limited information exists on how psychological networks are applied in education and for which purposes.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              This study conducts a systematic review to provide an in‐depth understanding of psychological networks in education.\n                            \n                            \n                              It reveals that psychological networks are mostly applied in language learning.\n                            \n                            \n                              Psychological networks are capable of modelling six educational dimensions, namely cognitive, psychological, motivational, sociological and cultural, behavioural and knowledge and performance.\n                            \n                            \n                              Psychological networks in education rely on several core models, including Gaussian Graphical Model, Mixed Graphical Model, Markov Random Field, Bayesian Gaussian graphical model and Vector Autoregression.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              This study identifies several different types of challenges, including complexity of network interpretation, methodological complexity and integrity.\n                            \n                            \n                              Practitioners should rely more on the triangulation method of data to provide more insights that could be generalized when using psychological networks in education.",
-        "doi": "10.1111/bjet.70091",
-        "url": "https://doi.org/10.1111/bjet.70091",
-        "authors": [
-          "Ahmed Tlili",
-          "Yan Wang",
-          "Ronghuai Huang"
-        ],
-        "published": "2026-9-30",
-        "journal": "British Journal of Educational Technology",
-        "venue": "British Journal of Educational Technology"
-      },
-      {
-        "title": "Many hands make light work? Individual and collaborative interaction with a\n                    <scp>GenAI</scp>\n                    ‐powered multi‐agent system: Effects on learning performance and critical thinking",
-        "abstract": "Abstract\n                  The rapid proliferation of generative artificial intelligence (GenAI) has made fostering learners' critical thinking an increasingly pressing educational challenge. While single‐agent GenAI applications are prone to limited perspective diversity and echo‐chamber effects, multi‐agent systems (MAS) offer a promising alternative by enabling multi‐perspective interactions. Meanwhile, the pedagogical potential of collaborative human–GenAI interaction, particularly when peers jointly engage with MAS to promote epistemic diversity, remains underexplored. Moreover, little is known about how critical thinking unfolds within such interactions at a process‐oriented level. This study investigates how different configurations of peer collaboration and GenAI‐powered multi‐agent support are associated with learning performance, critical thinking awareness and interaction processes. A quasi‐experimental study was conducted with 87 undergraduate students enrolled in an instructional design course. Participants were assigned to a peer collaboration condition without AI support, an individual human–MAS interaction condition or a collaborative human–MAS interaction condition. Learning performance was assessed using knowledge tests and design projects, critical thinking awareness was measured via a questionnaire and critical thinking processes were examined through lag sequential analysis and epistemic network analysis. The results indicate that collaborative interaction with the MAS corresponded to higher project performance, whereas individual interaction was associated with greater gains in critical thinking awareness. Process analyses further suggest distinct cognitive trajectories across configurations, with individual interaction characterised by more focused analytical–evaluative processing and collaborative interaction involving more distributed and integrative reasoning. These findings highlight the importance of aligning MAS design with appropriate human–AI collaboration configurations to better facilitate critical thinking in GenAI‐supported learning environments.\n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Generative artificial intelligence (GenAI) is increasingly being incorporated into educational settings, raising ongoing interest in how AI‐supported learning environments can engage learners in higher‐order cognitive processes, including critical thinking.\n                            \n                            \n                              Many existing AI‐supported learning environments rely on single‐agent systems, which may unintentionally encourage answer‐seeking behaviours and reinforce echo‐chamber effects.\n                            \n                            \n                              Multi‐agent systems (MAS) provide role‐differentiated support and exposure to diverse perspectives, and have been suggested as a promising approach for supporting higher‐order thinking in learning.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              By developing a GenAI‐supported multi‐agent system, this study empirically compares learning outcomes across peer collaboration without AI support, individual interaction with the MAS, and collaborative interaction with the MAS, showing that individual interaction is linked to higher critical thinking awareness gains, whereas collaborative interaction corresponds to stronger performance on complex design‐oriented tasks.\n                            \n                            \n                              Through the integration of lag sequential analysis and epistemic network analysis, the study reveals how overt interaction behaviours and implicit cognitive structures jointly reflect critical thinking processes in multi‐agent learning environments.\n                            \n                            \n                              The findings provide initial process‐level insights suggesting that multi‐agent systems may function not merely as information providers, but as reflective and socially mediating supports that facilitate how learners regulate, negotiate and integrate ideas during learning.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            \n                              Educators can deliberately align human–GenAI interaction configurations with specific instructional goals, as individual interaction with a multi‐agent system may be more conducive to learners' critical thinking awareness, and collaborative interaction may be better suited for complex design and problem‐solving tasks.\n                            \n                            \n                              Instructional designers are encouraged to embed explicit reflective checkpoints or targeted critical thinking scaffolds within collaborative human–MAS interaction settings to mitigate reduced opportunities for individual metacognitive monitoring.",
-        "doi": "10.1111/bjet.70089",
-        "url": "https://doi.org/10.1111/bjet.70089",
-        "authors": [
-          "Xiaoyan Chu",
-          "Hongzhu Dai",
-          "Xuesong Zhai"
-        ],
-        "published": "2026-9-29",
         "journal": "British Journal of Educational Technology",
         "venue": "British Journal of Educational Technology"
       }
@@ -549,6 +531,33 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Are AI Multimodal Learning Assistants Up to the Task? Evaluating NotebookLM Through the Task-Technology Fit Model",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14126-6",
+        "url": "https://doi.org/10.1007/s10639-026-14126-6",
+        "authors": [
+          "Mohammad Amin Kuhail",
+          "Nazik Alturki",
+          "Mona Mesfer Alshardan"
+        ],
+        "published": "2026-10-19",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Negotiating agency: university students’ experiences of co-creating content with generative AI",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14056-3",
+        "url": "https://doi.org/10.1007/s10639-026-14056-3",
+        "authors": [
+          "Chaoqun Lu",
+          "Mingyue Michelle Gu"
+        ],
+        "published": "2026-10-19",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Retraction Note to: Escape rooms technology as a way of teaching mathematics to secondary school students",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14173-z",
@@ -584,33 +593,6 @@
           "Serpil Koçdar"
         ],
         "published": "2026-10-10",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Enhancing creativity in human–AI collaboration through metacognitive prompt cards: an experimental study",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14164-0",
-        "url": "https://doi.org/10.1007/s10639-026-14164-0",
-        "authors": [
-          "Peng Chen",
-          "Dong Yang",
-          "Youming Liang"
-        ],
-        "published": "2026-10-9",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Collaborating in the age of GenAI: a mixed-methods study of model preferences",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14167-x",
-        "url": "https://doi.org/10.1007/s10639-026-14167-x",
-        "authors": [
-          "Maria Perifanou",
-          "Anastasios A. Economides"
-        ],
-        "published": "2026-10-7",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -688,6 +670,61 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
+        "title": "Who Uses Conversational AI and Why? Distinct User Profiles and Their Links to Personality, Attachment, and Well-Being",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2744846",
+        "url": "https://doi.org/10.1080/10447318.2026.2744846",
+        "authors": [
+          "Nino Gugushvili",
+          "Petter Bae Brandtzaeg",
+          "Marita Bjaaland Skjuve"
+        ],
+        "published": "2026-10-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Interface Design in Multi-Objective Decision Support System: An Exploratory Study on Cognitive Load, Visual Attention and Performance",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2744834",
+        "url": "https://doi.org/10.1080/10447318.2026.2744834",
+        "authors": [
+          "Jefferson Souza Medeiros",
+          "Ana Paula Cabral Seixas Costa"
+        ],
+        "published": "2026-10-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Interface Color Design Under Changing Lighting Conditions: Effects on Visual Search and User Experience",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2737573",
+        "url": "https://doi.org/10.1080/10447318.2026.2737573",
+        "authors": [
+          "Sa Chen",
+          "Yuchen Gao",
+          "Ningning Zhang"
+        ],
+        "published": "2026-10-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
+        "title": "Embodied Empathy in VR: Sustained Pro-Animal Attitudes and Behaviors Induced by Simulating Stray Animal Lives",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2741754",
+        "url": "https://doi.org/10.1080/10447318.2026.2741754",
+        "authors": [
+          "Ding Ding",
+          "Yongxin Chen",
+          "Xinying Liu"
+        ],
+        "published": "2026-10-18",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "Effect of Acoustic Congruency in Binaural Audio on the Film-Viewing Experience",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2744839",
@@ -695,61 +732,6 @@
         "authors": [
           "Tudor Petrea",
           "Hyunkook Lee"
-        ],
-        "published": "2026-10-15",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "SpaceMates: A Tabletop Robotic Tangible Programming System Designed to Cultivate Spatial Reasoning Skills in Middle Childhood",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2741975",
-        "url": "https://doi.org/10.1080/10447318.2026.2741975",
-        "authors": [
-          "Hongli Xi",
-          "Cheng Yao",
-          "Hang Chen"
-        ],
-        "published": "2026-10-15",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "EnjoyEAT: Embodied Interaction for Behavior-Aware, CBT-Informed Eating-Disorder Support",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2740424",
-        "url": "https://doi.org/10.1080/10447318.2026.2740424",
-        "authors": [
-          "Luyao Wang",
-          "Mengge Liu",
-          "Yilin Jiang"
-        ],
-        "published": "2026-10-15",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "Measuring Successful Cooperation in Human-AI Teamwork: Development and Validation of the Perceived Cooperativity and Teaming Perception Scales",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2739657",
-        "url": "https://doi.org/10.1080/10447318.2026.2739657",
-        "authors": [
-          "Christiane Attig",
-          "Christiane Wiebel-Herboth",
-          "Patricia Wollstadt"
-        ],
-        "published": "2026-10-15",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "The Blurring of Reality in the Age of AI: Development of the AI-Induced Reality Perception Confusion Scale and Its Association with Generative AI Literacy and AI Anxiety",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2747530",
-        "url": "https://doi.org/10.1080/10447318.2026.2747530",
-        "authors": [
-          "Bilal Kaya",
-          "Sezen Ateş Yaman"
         ],
         "published": "2026-10-15",
         "journal": "International Journal of Human-Computer Interaction",
@@ -968,73 +950,210 @@
   },
   "keyword_papers": [
     {
-      "paperId": "5fdf2c038a7377dda75bb4401c47bc358ec11492",
-      "title": "HTKS-Kids: A tablet-based self-regulation measure to equitably assess young children's school readiness",
-      "abstract": "Background Technology advances make it increasingly possible to adapt direct behavioral assessments for classroom use. This study examined children's scores on HTKS-Kids, a new, largely child-led version of the established individual research assessment of self-regulation, Head-Toes-Knees-Shoulders-Revised task (HTKS-R). For the HTKS-Kids tablet-based assessment, which was facilitated by children's preschool teachers, we examined (1) preliminary reliability and validity; (2) variation in scores predicted by child age and background characteristics; and (3) indication that HTKS-Kids provides different information from teacher ratings of children. Method Participants included n = 79 4-year-old children from two urban areas in upstate New York, USA. Average parent education was 12.5 years, ranging 3–20. A researcher administered the HTKS-R to individual children, and teachers (eight white, two Latino) were trained to use the HTKS-Kids tablet-based assessment and asked to play once with each study child. Teachers also rated each child on 10 Child Behavior Rating Scale (CBRS) items about classroom self-regulation. Results We found evidence that (1) the HTKS-Kids captures variation in children's self-regulation and correlates positively with established measures, (2) parent education was the best predictor of HTKS-Kids scores, and (3) teachers rated Black children significantly worse and white children better on the CBRS, with the magnitude of group differences similar to the contribution of parent education. In contrast, Black and white children showed no score differences on HTKS-Kids. Implications The HTKS-Kids is a promising new tablet-based assessment of self-regulation that could replace or supplement traditional teacher ratings, which are often subject to implicit bias.",
+      "paperId": "a98862ffe4c18634a67a3df8a965a35e5e0d7ec8",
+      "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
+      "abstract": "Large language models represent a significant advancement in the field of AI. The underlying technology is key to further innovations and, despite critical views and even bans within communities and regions, large language models are here to stay. This position paper presents the potential benefits and challenges of educational applications of large language models, from student and teacher perspectives. We briefly discuss the current state of large language models and their applications. We then highlight how these models can be used to create educational content, improve student engagement and interaction, and personalize learning experiences. With regard to challenges, we argue that large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations and unexpected brittleness of such systems. In addition, a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required to integrate and take full advantage of large language models in learning settings and teaching curricula. Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios to acquaint students early on with potential societal biases, criticalities, and risks of AI applications. We conclude with recommendations for how to address these challenges and ensure that such models are used in a responsible and ethical manner in education.",
       "authors": [
-        "C. Cameron",
-        "Megan M. McClelland",
-        "Tammy Kwan"
+        "Enkelejda Kasneci",
+        "Kathrin Seßler",
+        "S. Küchemann"
       ],
-      "venue": "Frontiers in Psychology",
-      "published": "2024-01-11",
-      "url": "https://doi.org/10.3389/fpsyg.2023.1202239",
-      "query": "tablet young children education"
+      "venue": "Learning and Individual Differences",
+      "published": "2023-04-01",
+      "url": "https://doi.org/10.1016/j.lindif.2023.102274",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "d96dbc51c722819ccaa32c8db3108c5b0b320145",
-      "title": "Relationship between touchscreen tablet usage time and attention performance in young children",
-      "abstract": "Abstract This study aims to investigate the relationships between touchscreen tablet usage time and attention performance in preschool children. Seventy-five young children with typical development were recruited. The accuracy rate and reaction time of their attention performance improved with age. Significant differences in accuracy rates, reaction time, and executive attention performance between young children who use touchscreen tablets more or less often were observed. Children who spent more time using touchscreen tablets had better accuracy rates and faster reaction time in the Attentional Network Task test. However, children who spent more time on tablets performed slower in terms of executive attention. These findings add to the understanding of the experience of using touchscreen tablets and its relationship with the attention performance of young children.",
+      "paperId": "2f4803bf9025e67f01b9bb50ba7f48bc94f6b79e",
+      "title": "Student perceptions of ChatGPT: benefits, costs, and attitudinal differences between users and non-users toward AI integration in higher education",
+      "abstract": "Today, there is no doubt that Artificial Intelligence (AI) presents both opportunities and challenges in higher education. This study examines three key areas: (1) students’ use of ChatGPT, (2) their perceptions of its benefits and costs, and (3) the differences in attitudes toward AI integration in higher education between ChatGPT users and non-users. A sample of 737 undergraduate students at a Spanish university answered an online survey. The quantitative analysis revealed a high prevalence of ChatGPT use for academic and personal purposes, with students identifying its 24/7 accessibility as a major advantage, along with the time-saving benefits it offers. However, concerns were raised about potential costs, including the devaluation of university education when students rely on ChatGPT to complete assignments. Results indicate significant differences between ChatGPT users and non-users: users generally support AI integration in higher education, particularly in teaching methods, while non-users often oppose its integration, advocating for measures such as banning AI in universities. Our study provides valuable insights into student perspectives on the integration of ChatGPT in higher education, emphasizing the contrasting viewpoints of users and non-users. The findings underline the need for universities to actively involve students in shaping policies on artificial intelligence while offering targeted training to promote its responsible and ethical use. Furthermore, universities should support educators in adapting their teaching methodologies to the digital era by incorporating innovative strategies that enhance both teaching and learning.",
       "authors": [
-        "Yu Jin",
-        "Ling-Yi Lin"
+        "Joanna Blahopoulou",
+        "Silvia Ortiz-Bonnin"
       ],
-      "venue": "Journal of Research on Technology in Education",
-      "published": "2021-03-29",
-      "url": "https://doi.org/10.1080/15391523.2021.1891995",
-      "query": "tablet young children education"
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-04-16",
+      "url": "https://doi.org/10.1007/s10639-025-13575-9",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "7bccecd2dc0c1bac8aa022db1d35616f91ebd775",
-      "title": "Randomized Trial of Tablet Computers for Education and Learning in Children and Young People with Low Vision",
-      "abstract": "SIGNIFICANCE Mobile devices such as tablet computers have become widely available as mainstream devices and are also used in some schools, but there is an absence of robust information regarding the efficacy of any optical/electronic low vision device or tablet computer in supporting education of young people with low vision. PURPOSE A randomized controlled trial (RCT) is needed to measure the impact of tablet computers on education, specifically on independent access to educational material, in children and young people with low vision. We conducted a pilot RCT to determine the feasibility of conducting a full-scale trial. METHODS This was a randomized multicenter pilot trial across two sites in the United Kingdom and one site in India. Forty children and young people aged 10 to 18 years with low vision (best-corrected visual acuity for distance between <20/60 [0.48 logMAR] and 20/400 [1.30 logMAR] in the better eye) in the United Kingdom (n = 20) and India (n = 20) were randomized to two parallel arms, with a 1:1 allocation ratio, to control (n = 20) or intervention (n = 20). Control group participants received standard low vision care. The intervention group received a tablet computer (iPad) with low vision applications and instruction in its use, including accessibility features. Four primary outcomes included (1) 6-month recruitment rate, (2) retention of participants for 3 months, (3) acceptance/usage of device, and (4) accessibility of device. RESULTS Nineteen participants (95%) enrolled within 6 months in the United Kingdom, and 20 participants (100%), in India. Retention at 3 months was 85% (n = 17) in the United Kingdom and 95% (n = 19) in India. More than one half of participants reported using a tablet computer at school at least once every day. The majority (90%) found it easily accessible. CONCLUSIONS This study demonstrated that it is feasible to recruit children and young people with low vision into an international multicenter RCT of electronic assistive technology. Regardless of geographical location, children and young people with low vision reported using tablet computers at least once a day at school and accessed them easily.",
+      "paperId": "75d5c8164b766eef775006cf0b2ef9c017501c01",
+      "title": "Assessing Student Readiness and Perceptions of ChatGPT in Learning: A Case Study in Indonesian Higher Education",
+      "abstract": "Aim/Purpose: This study investigates the readiness of higher education students in Indonesia to use ChatGPT for learning and explores its perceived benefits in academic settings. The research aims to identify challenges and opportunities in integrating generative AI into education.\n\nBackground: As a rapidly evolving AI technology, ChatGPT presents both opportunities and challenges in higher education. While it offers convenience and personalized support, concerns regarding ethical use, academic integrity, and student dependency remain. Understanding student readiness and attitudes toward ChatGPT is essential for effective and responsible implementation in learning environments. \n\nMethodology: This study employs a mixed-methods convergent parallel design, collecting both quantitative and qualitative data simultaneously but analyzing them separately. A total of 373 students from diverse universities and disciplines in Indonesia participated. Quantitative data were analyzed using the Rasch measurement model and Winsteps software, while qualitative responses were transcribed and examined through summative content analysis using Quirkos 2.5.3 software. Participants were selected through a purposive sampling approach to ensure a representative distribution across institutions and fields of study.\n\nContribution: This study contributes to the growing discourse on AI in education by offering clear, data-driven insights into Indonesian students’ readiness and perceptions of ChatGPT. It reveals that students across diverse regions view ChatGPT as a helpful academic tool, particularly for clarifying complex concepts, reducing stress, and supporting independent learning. These findings provide actionable guidance for educators and policymakers, highlighting the urgent need for AI literacy programs and ethical use policies. The study lays a strong empirical foundation for larger-scale, longitudinal research on AI integration in higher education by presenting these concrete patterns.\n\nFindings: The findings indicate a generally high level of student readiness to use ChatGPT in learning contexts. Students perceive ChatGPT as a valuable tool for completing assignments, clarifying complex concepts, and reducing academic stress. However, concerns were also raised regarding its potential impact on critical thinking skills and the need for clear ethical guidelines. These findings provide preliminary evidence that can support the development of institutional strategies and future research directions.\n\nRecommendations for Practitioners: For educators and institutions, it is crucial to develop structured policies and ethical guidelines for ChatGPT use in academic contexts. Assignments should be designed to promote higher-order thinking skills, such as creativity and problem-solving, rather than mere fact recall. Additionally, AI literacy training should be incorporated into curricula to help students critically evaluate AI-generated content.\n\nRecommendation for Researchers: For researchers, future studies should explore the readiness of educators to integrate ChatGPT into teaching and assess its long-term impact on student learning outcomes, including critical thinking and problem-solving skills. Investigating how ChatGPT can be effectively embedded within existing learning management systems could further enhance its educational potential.\n\nImpact on Society: By identifying both the benefits and challenges of ChatGPT in higher education, this study informs policies and best practices for AI adoption in academia. Addressing issues of digital equity, ethical concerns, and pedagogical strategies can help create a more balanced and effective AI-assisted learning environment, ultimately improving the quality of education and teaching methodologies.\n\nFuture Research: Further research should investigate how ChatGPT influences long-term student engagement, skill development, and academic performance. Studies should also examine institutional readiness, faculty perspectives, and AI’s role in fostering more interactive and adaptive learning experiences.\n\n",
       "authors": [
-        "V. K. Gothwal",
-        "R. Thomas",
-        "M. Crossland"
+        "Ati Suci Dian Martha",
+        "Sri Widowati",
+        "Desy Puspa Rahayu"
       ],
-      "venue": "Optometry and Vision Science",
-      "published": "2018-08-27",
-      "url": "https://doi.org/10.1097/OPX.0000000000001270",
-      "query": "tablet young children education"
+      "venue": "J. Inf. Technol. Educ. Res.",
+      "published": "2025",
+      "url": "https://doi.org/10.28945/5599",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "0970ae9a2561971c92e5421c352270108b0193f2",
-      "title": "Young children's everyday concepts of the internet: A platform for cyber-safety education in the early years",
-      "abstract": "Abstract not available.",
+      "paperId": "9b3589c83765f94d07e89a751c05587c2144185f",
+      "title": "ChatGPT Early Adoption in Higher Education: Variation in Student Usage, Instructional Support, and Educational Equity",
+      "abstract": "This study examines the early adoption of ChatGPT in late 2022 and early 2023 by identifying variation in student awareness, academic use, and perceived instructional support for the technology at a diverse U.S. public research university. Specifically, we investigate (a) how individual awareness and academic use of ChatGPT vary by student characteristics and field of study, (b) how instructor encouragement or discouragement varies across courses and student demographics, and (c) how academic use patterns differ between science, technology, engineering, and mathematics (STEM) and non-STEM fields. Data from 938 undergraduates, merged with administrative records, revealed disparities in ChatGPT awareness and use, with underrepresented minority, first-generation, and international students less likely to know about or use the tool academically. Course-level analysis highlighted that instructor encouragement is more prevalent in STEM fields and upper-division courses but decreases in classes with higher underrepresented minority representation. Open-ended responses showed distinct patterns of ChatGPT use, with STEM students favoring conceptual assistance and coding and non-STEM students engaging in writing and instructor-assigned activities. These findings underscore early inequities in access and use of emerging educational technologies and call for institutional strategies to promote equitable awareness and skill development aligned with academic and professional goals.",
       "authors": [
-        "S. Edwards",
-        "A. Nolan",
-        "Michael B. Henderson"
+        "Richard Arum",
+        "Maria Calderon Leon",
+        "Xun-Fei Li"
       ],
-      "venue": "British Journal of Educational Technology",
-      "published": "2018",
-      "url": "https://doi.org/10.1111/bjet.12529",
-      "query": "tablet young children education"
+      "venue": "AERA Open",
+      "published": "2025-04-01",
+      "url": "https://doi.org/10.1177/23328584251331956",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "e1fd19f908d9ec542d280555889366e6fe123cfe",
-      "title": "Using Visual Scene Displays With Young Children: An Evidence-Based Practice Synthesis",
-      "abstract": "We used the Council for Exceptional Children (CEC) Standards for evidence-based practices (EBP) in Special Education to evaluate the effectiveness research on the use of visual scene displays (VSDs) and video VSDs with young children with autism spectrum disorder and/or intellectual and developmental disability (ASD/IDD). VSDs and video VSDs are designed to support communication for individuals with speech or speech-related disabilities. In a high-tech VSD approach, images are programmed (on a tablet computer) with “hotspots” that produce speech when touched. Twelve of the 14 articles located for the review met all eight quality indicators as identified by the CEC Standards for evidence-based practices, and presented positive results for 37 of the 42 participants. We conclude that the use of VSDs and video VSDs can be considered an EBP in communication intervention for young children with ASD/IDD during social interaction activities commonly observed in early childhood settings.",
+      "paperId": "8a9f05cdfd0ea7411e83f95b39647167ee82c087",
+      "title": "ChatGPT in higher education: Considerations for academic integrity and student learning",
+      "abstract": "The release of ChatGPT has sparked significant academic integrity concerns in higher education. However, some commentators have pointed out that generative artificial intelligence (AI) tools such as ChatGPT can enhance student learning, and consequently, academics should adapt their teaching and assessment practices to embrace the new reality of living, working, and studying in a world where AI is freely available. Despite this important debate, there has been very little academic literature published on ChatGPT and other generative AI tools. This article uses content analysis to examine news articles (N=100) about how ChatGPT is disrupting higher education, concentrating specifically on Australia, New Zealand, the United States",
       "authors": [
-        "Dana Patenaude",
-        "David McNaughton",
-        "Zhi-Gao Liang"
+        "M. Sullivan",
+        "Andrew Kelly",
+        "Paul Mclaughlan"
       ],
-      "venue": "Journal of Special Education Technology",
-      "published": "2024-06-20",
-      "url": "https://doi.org/10.1177/01626434241263061",
-      "query": "tablet young children education"
+      "venue": "1",
+      "published": "2023-03-21",
+      "url": "https://doi.org/10.37074/jalt.2023.6.1.17",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
+      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
+      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
+      "authors": [
+        "Walayat Hussain",
+        "Machi Raju Varanasi",
+        "Liam New"
+      ],
+      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
+      "published": "2025-11-18",
+      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
+      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
+      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
+      "authors": [
+        "S. Guizani",
+        "Tehseen Mazhar",
+        "Tariq Shahzad"
+      ],
+      "venue": "Discover Education",
+      "published": "2025-02-15",
+      "url": "https://doi.org/10.1007/s44217-025-00424-7",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
+      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
+      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
+      "authors": [
+        "James C. L. Chow",
+        "Kay Li"
+      ],
+      "venue": "JMIR Cancer",
+      "published": "2025-02-18",
+      "url": "https://doi.org/10.2196/66633",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
+      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
+      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
+      "authors": [
+        "V. Nikolovski",
+        "D. Trajanov",
+        "Ivan Chorbev"
+      ],
+      "venue": "Algorithms",
+      "published": "2025-03-04",
+      "url": "https://doi.org/10.3390/a18030144",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
+      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
+      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
+      "authors": [
+        "Jian-Wen Zeng",
+        "Wen-Hao Qi",
+        "Shi-Ying Shen"
+      ],
+      "venue": "Journal of Medical Internet Research",
+      "published": "2025-11-13",
+      "url": "https://doi.org/10.2196/79091",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "ebf303c049491827ba1d855efeb7b7b6d5b56806",
+      "title": "Guidance and counseling services on parenting patterns to improve executive function of children aged 7-12 years",
+      "abstract": "The objectives of this study were to (1) understand the parenting patterns used by parents for children aged 7-12 years in Bima city; (2) understand the guidance and counseling services used by parents for children aged 7-12 years in Bima city; (3) understand the condition of executive function of children aged 7-12 years in Bima city; (4) the relationship between guidance and counseling services with parenting patterns to improve executive function of children aged 7-12 years in Bima city. This type of research is descriptive quantitative research with a survey approach. The instrument used in this research is a questionnaire divided into several parts to measure variables related to parenting patterns, guidance and counseling services, and children's executive function. The collected data will be analyzed descriptively and inferentially using statistical tools. The results showed that democratic parenting with the highest percentage value of 39 percent can support the strengthening of children's executive functions, such as planning/prioritization, organization, time management, goal-directed persistence, flexibility, and metacognition. Guidance and counseling services on parenting patterns applied by parents have a significant relationship with children's executive functions. The calculation result of product moment correlation value is 0.351. Guidance and counseling services on parenting include directing and guiding, providing good examples, daily habituation, exemplary, empathy, and creating an open atmosphere with high scores and an average percentage of 11 percent. Thus, guidance and counseling services have great potential to support the development of children's executive function. Through structured programs and parental involvement in democratic parenting, children can be equipped with the necessary skills to face academic and social challenges and achieve their potential.",
+      "authors": [
+        "Nasution Nasution",
+        "Agrippina Wiraningtyas",
+        "Alya Nurmaya"
+      ],
+      "venue": "Edelweiss Applied Science and Technology",
+      "published": "2024-11-28",
+      "url": "https://doi.org/10.55214/25768484.v8i6.3369",
+      "query": "executive function technology children"
+    },
+    {
+      "paperId": "81f27152765ddbf28a0c9e3e9e22b5af64e4fe41",
+      "title": "The effect of brain training video games on improving visuospatial working memory and executive function in children with dyscalculia.",
+      "abstract": "The aim was to investigate the effect of brain training video games on improving visuospatial working memory and executive function in children with dyscalculia. This study employed a quasi-experimental, within-subjects design. Pre- post- and follow up test scores on visuospatial working memory and executive function were used. Sixty children from a primary education public school in Taif were selected. This study employed simple random method for selecting participants. Children assigned to the experimental group completed 18, 30 ms training sessions at the technology room in the presence of the researcher over a period of six weeks. The analyses were conducted using SPSS by performing a repeated-measures analysis of variance with a between-group factor and a with-group factor (pretest and posttest). Scheffé's post hoc test was also applied. The training helped the intervention group gain better scores in visuospatial working memory and executive function in post test compared to control one. There were significant differences in visuospatial working memory and executive function across different measurements(pre-post-and follow up).",
+      "authors": [
+        "Malik M. Alrefaei"
+      ],
+      "venue": "Applied neuropsychology. Child",
+      "published": "2024-06-30",
+      "url": "https://doi.org/10.1080/21622965.2024.2362782",
+      "query": "executive function technology children"
+    },
+    {
+      "paperId": "9c95c38f03ea75ca7b2c37a7747baa7e67464113",
+      "title": "Leveraging Technology to Make Parent Training More Accessible: Randomized Trial of In-person Versus Online Executive Function Training for Parents of Autistic Children",
+      "abstract": "This randomized trial compared the first online parent training program for an evidence-supported executive function intervention for autism to in-person parent training with the same dose and content. Parents of autistic children (8–12 years-old; Full Scale IQ above 70) were randomized to in-person (n = 51) or online (n = 46) training. Training acceptability and feasibility were rated highly by parents, without significant differences between groups. The completion rate was lower for parents in the online versus the in-person training condition, but neither the total time spent with training materials, nor parent and child outcomes differed by condition. Parents reported that training resulted in a reduction in caregiver strain (Cohen’s d = 0.66) and modest improvements in child flexibility, emotional control and global EF, but not planning and organization. Dose of parent training had a significant positive effect on child planning and organization problems. These findings did not support the hypothesized superiority of online to in-person training, but they did indicate online is as effective as in-person training at helping parents learn to improve their autistic children’s EF abilities and reduce their own experience of parenting strain. Implications included increased access to training for parents who experience barriers to receiving in-person care. Trial Registration: clinicaltrials.gov Identifier: NCT02708069 Lay Abstract This study compared the first online parent training program for executive function intervention for autism to in-person parent training on the same content. Participants were parents of autistic children, who were between 8 and 12 years of age and did not have intellectual disability. Parents were randomized to the in-person (n = 51) or online (n = 46) training conditions. Both trainings were developed with stakeholder (parents and autistic people) guidance. In this trial, most parents reported that they liked both trainings and that they were able to implement what they learned with their children. Parents in both groups spent equivalent amounts of time (about 8 hours) with the training materials, but while 94% of parents in the in-person training attended both parent trainings, only 59% of parents in the online group completed all 10 online modules. Parents reported that it was difficult to stay motivated to complete the online trainings over the 10-week trial. Parent and child outcomes did not differ significantly between the groups. Overall, parents reported that the trainings resulted in a reduction in their own parenting strain and improvements in their child’s flexibility, emotional control, and global executive function, but not planning and organization. These findings indicated brief in-person and online training can help parents learn to support and improve their autistic children’s executive function abilities, reducing their own experience of parenting strain. The finding that the online training was equivalent to the in-person trainings is important because it is accessible to parents who encounter barriers to in-person care.",
+      "authors": [
+        "L. Kenworthy",
+        "D. Childress",
+        "A. Armour"
+      ],
+      "venue": "Autism",
+      "published": "2022-08-02",
+      "url": "https://doi.org/10.1177/13623613221111212",
+      "query": "executive function technology children"
+    },
+    {
+      "paperId": "b9c4cabc1bb2ab0742f9bc91937b50ed55b4d4e7",
+      "title": "Effect of Dual-Task Training on Executive Function in Healthy Children Aged 10–15 Years Using the Stroop Test: A Pre-Post Intervention Study",
+      "abstract": "Background: Executive function, attention, working memory and inhibitory control continue to develop during childhood and are important for learning and daily activities. Dual-task training combines motor and cognitive demands and may influence executive processing.  Methods: This quasi-experimental pre-post intervention study included 43 healthy children aged 10 to 15 years recruited by convenience sampling from a primary school in Jalgaon. Participants completed Stroop testing before and after a structured dual-task training program involving walking with backward spelling, word recall and counting backward through weekdays. Training was delivered for 30 minutes per session, three times per week for four weeks according to the methodology and intervention description in the project. Descriptive statistics were reported as mean and standard deviation, and a paired t-test was used for pre-test and post-test comparison.",
+      "authors": [
+        "Gauri Gawande",
+        "Ashish Patil",
+        "Kalpana Deshmukh"
+      ],
+      "venue": "International Journal of Innovative Science and Research Technology",
+      "published": "2026-10-14",
+      "url": "https://doi.org/10.38124/ijisrt/26oct460",
+      "query": "executive function technology children"
+    },
+    {
+      "paperId": "1644842447b7f9bf6f7603f97322626f6a9c5668",
+      "title": "372. Advancing brain health through neurofeedback: a randomized controlled study on children’s executive function using P300 event related potential",
+      "abstract": "Abstract Background Deficits in executive function are common among school-age children and affect academic performance, self-regulation, and long-term brain health. These challenges emphasize the importance of early, evidence-based, and non-invasive interventions that support optimal brain development. Neurofeedback is a non-invasive, technology-based therapy grounded in neuroplasticity that enables regulation of brain activity through real-time feedback. Previous studies indicate potential improvements in attention, working memory, and learning. These cognitive processes can be objectively assessed using Event-Related Potentials (ERP), particularly the P300 component. However, evidence from Indonesian pediatric populations remains limited. Aims & Objectives This study aimed to evaluate the effectiveness of neurofeedback therapy in enhancing children’s executive function by examining changes in P300 parameters and executive function scores before and after intervention, as well as by comparing outcomes between intervention and control groups. Method A randomized controlled pretest–posttest design was employed. Ten students aged 10–12 years from an elementary school in West Java, Indonesia, were randomly assigned to a neurofeedback intervention group or a control group. Executive function was evaluated before and after using ERP P300 elicited by an auditory oddball paradigm and the Indonesian Executive Function Instrument (AUFEI). Neurofeedback training was delivered using the Neurosoft system, providing real-time visual and auditory feedback with threshold frequencies set between 5.0 and 15.0 Hz using a vertical racing feedback mode. The AUFEI-P is an instrument designed to assess executive function in Indonesian children from the parents’ perspective. The intervention was conducted for 5 weeks with 10 training sessions. Data were analyzed using paired and independent tests with a significance level of 0.05. This study was approved by Research Ethics Committee of UPNVJ (No. 83/VI/2025/KEP), and written informed consent was obtained from parents or legal guardians prior to participation. Results Observable changes in Event-Related Potential (ERP) P300 parameters were observed following neurofeedback training. Before intervention, mean P300 latency was 356.0 ms in the intervention group and 353.6 ms in the control group. After intervention, latency decreased to 302.8 ms in the intervention group and 311.6 ms in the control group, indicating a greater reduction in the intervention group. However, paired t-test analyses showed no statistically significant pre–post changes in either the intervention (p = 0.122) or control group (p = 0.099). Independent t-tests also revealed no significant differences between groups at baseline (p = 0.922) or post-intervention (p = 0.829). The lack of statistical significance is likely due to the limited sample size and relatively short training duration, which reduced statistical power. Nevertheless, the larger reductions in P300 latency and amplitude in the intervention group suggest early neurophysiological responses to neurofeedback training. Discussion & Conclusions Although statistically non-significant, the observed trends in P300 modulation suggest early neurophysiological responses to neurofeedback training that may reflect improvements cognitive related to executive function. These findings provide preliminary evidence supporting the potential role of neurofeedback in promoting children’s executive function and brain health. Further randomized controlled studies with larger sample sizes and longer intervention periods are warranted to confirm efficacy and strengthen the evidence base.",
+      "authors": [
+        "S. Dewi",
+        "C. Fitratunisa",
+        "N. S. Irsyad"
+      ],
+      "venue": "International Journal of Neuropsychopharmacology",
+      "published": "2026-09-01",
+      "url": "https://doi.org/10.1093/ijnp/pyag040.271",
+      "query": "executive function technology children"
     }
   ],
   "hot_topics": [
@@ -1043,12 +1162,13 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 58,
+      "count": 68,
       "keywords": [
         "AR",
+        "immersive",
         "virtual reality",
-        "VR",
-        "immersive"
+        "mixed reality",
+        "VR"
       ]
     },
     {
@@ -1056,13 +1176,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 27,
+      "count": 31,
       "keywords": [
-        "parent",
         "teacher",
-        "classroom",
+        "parent",
         "school",
-        "preschool teacher"
+        "family",
+        "classroom"
       ]
     },
     {
@@ -1070,25 +1190,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 12,
+      "count": 21,
       "keywords": [
-        "generative AI",
-        "artificial intelligence",
+        "ChatGPT",
         "GPT",
-        "machine learning",
-        "LLM"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 11,
-      "keywords": [
-        "play",
-        "game-based",
-        "game"
+        "large language model",
+        "artificial intelligence",
+        "generative AI"
       ]
     },
     {
@@ -1096,10 +1204,10 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 11,
+      "count": 14,
       "keywords": [
-        "emotion",
         "empathy",
+        "emotion",
         "social-emotional",
         "social development"
       ]
@@ -1109,25 +1217,38 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 8,
+      "count": 13,
       "keywords": [
-        "self-regulation",
         "attention",
-        "cognitive load",
-        "metacognition"
+        "executive function",
+        "metacognition",
+        "working memory",
+        "self-regulation"
       ]
     },
     {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 8,
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 13,
       "keywords": [
-        "tablet",
-        "mobile",
-        "digital media",
-        "digital learning"
+        "adaptive learning",
+        "personalized learning",
+        "game",
+        "game-based",
+        "play"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 6,
+      "keywords": [
+        "chatbot",
+        "robot"
       ]
     },
     {
@@ -1137,20 +1258,9 @@
       "icon": "💻",
       "count": 6,
       "keywords": [
-        "computational thinking",
         "coding",
+        "computational thinking",
         "programming"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 4,
-      "keywords": [
-        "robot",
-        "chatbot"
       ]
     },
     {
@@ -1158,10 +1268,22 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 3,
+      "count": 4,
       "keywords": [
         "writing",
         "reading"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 3,
+      "keywords": [
+        "digital media",
+        "digital learning",
+        "mobile"
       ]
     }
   ]
