@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 06:48 UTC",
+  "updated_at": "2026-10-21 06:42 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -73,6 +73,20 @@
     ],
     "British Journal of Educational Technology": [
       {
+        "title": "Generative\n                    <scp>AI</scp>\n                    as a team moderator in\n                    <scp>CSCL</scp>\n                    : Facilitating students' multidimensional engagement through adaptive scaffolding for socially shared regulation of learning",
+        "abstract": "Abstract\n                  \n                    \n                    Socially shared regulation of learning (SSRL) is essential for successful collaboration, yet effectively scaffolding it remains challenging because regulatory needs are dynamic and context‐dependent. While generative AI (GenAI) offers potential for adaptive support, current applications in collaborative learning largely position it as a content‐oriented tutor for knowledge explanation or idea generation, leaving its role as a process‐oriented team moderator for scaffolding SSRL processes underexplored. To address this gap, we conducted a 16‐week quasi‐experiment with 64 undergraduates in China, comparing adaptive SSRL scaffolding delivered by a GenAI agent in the adaptive‐SSRL condition with static scaffolding via structured digital worksheets in the static‐SSRL condition. Survey data and group discussion transcripts were analysed using statistical methods and epistemic network analysis. Results indicated several differences in students' multidimensional engagement between the two conditions: (1) Behaviourally, the adaptive‐SSRL group showed significantly higher participation equality, although participation intensity did not differ significantly between groups. (2) Cognitively, the adaptive‐SSRL group demonstrated deeper cognitive engagement, reflected in more advanced cognitive presence phases and more integrative, solution‐oriented discourse patterns. (3) Emotionally, the adaptive‐SSRL group reported significantly higher overall emotional engagement, particularly feeling more relaxed during collaboration and more connected with peers. These findings extend human–AI collaboration research by showing that GenAI can function as an SSRL‐informed team moderator rather than a content‐oriented tutor. They also offer design implications for GenAI‐enabled adaptive SSRL scaffolding and human–AI role division in CSCL.\n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Socially shared regulation of learning (SSRL) is critical for successful collaboration and is closely associated with the quality of student engagement.\n                            \n                            \n                              While static scaffolds (eg, worksheets) provide a basic regulatory structure, they fail to adapt to the dynamic and emergent needs of collaborating teams.\n                            \n                            \n                              Generative AI (GenAI) is increasingly used for personalised content support, yet its potential as a process‐oriented team moderator remains underexplored.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              This study introduced SSRLAgent, a GenAI agent grounded in SSRL theory and established principles of collective metacognitive support, to provide adaptive and interactive regulatory scaffolding.\n                            \n                            \n                              In a 16‐week quasi‐experiment, we compared GenAI‐enabled adaptive SSRL scaffolding (SSRLAgent) with static scaffolding (structured digital worksheets) in CSCL.\n                            \n                            \n                              Adaptive‐SSRL scaffolding was associated with higher‐quality engagement: greater participation equality, deeper cognitive engagement and higher overall emotional engagement.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              The study underscores the necessity of shifting SSRL scaffolding from static, ‘one‐size‐fits‐all’ support to adaptive GenAI interventions to improve collaborative engagement.\n                            \n                            \n                              The findings provide design guidance for developing SSRL agents that are embedded in the shared interaction space and responsive to groups' moment‐to‐moment regulatory needs.\n                            \n                            \n                              The study suggests a productive human–AI division of labour: GenAI agents can support process coordination and regulatory prompting, while teachers and peers remain essential for relationally complex forms of support that collaborative learning requires.",
+        "doi": "10.1111/bjet.70096",
+        "url": "https://doi.org/10.1111/bjet.70096",
+        "authors": [
+          "Dengkang Chen",
+          "Yi Zhang",
+          "Heng Luo"
+        ],
+        "published": "2026-10-20",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
         "title": "Prompt‐based emotional scaffolding in generative\n                    <scp>AI</scp>\n                    : Effects on self‐regulated learning and socio‐emotional outcomes",
         "abstract": "Abstract\n                  While generative AI (GenAI) tools are emerging as educational resources, general‐purpose applications like ChatGPT are not explicitly designed to support the metacognitive and socio‐emotional dimensions of learning, often failing to address students' emotional states or promote independent thinking. In response, this study introduces a CVT‐SRL GenAI Support Framework integrating control‐value theory (CVT) and self‐regulated learning (SRL) and tests a learner‐centred GenAI chatbot design employing prompt‐based SRL scaffolding and emotional support. In a preregistered experiment in an authentic educational setting, 144 high school students were randomly assigned to one of three conditions: (1) ChatGPT, (2) SRLbot (GenAI with SRL scaffolding), (3) emotional SRLbot (GenAI with SRL and emotional support). Outcomes included conceptual knowledge and transfer, trace‐based and self‐reported engagement in SRL phases (forethought, performance, self‐reflection), enjoyment, boredom, hopelessness, self‐efficacy and trust. Data were collected at pretest, posttest and 4‐week follow‐up. Across conditions, students showed improvements in conceptual knowledge and transfer from pretest to posttest, with no significant condition differences in post‐to‐follow‐up change. Both SRLbot and Emotional SRLbot were associated with higher self‐reported enjoyment and lower boredom than ChatGPT and elicited trace‐based SRL behaviours. Moreover, Emotional SRLbot prompted greater engagement in performance‐phase and self‐reflection processes than the other conditions. These findings provide preliminary evidence that GenAI agents integrating SRL and emotional scaffolding can support more positive emotional states and task‐level SRL behaviours than general‐purpose GenAI, highlighting control‐value appraisals as a promising target for emotionally supportive SRL design. Future research should explore longitudinal effects on SRL skill development and independent regulation.\n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            Generative AI (GenAI) tools such as ChatGPT have shown promise in enhancing learning outcomes, but they also present challenges in supporting socio‐emotional needs, fostering metacognition and promoting higher‐order thinking.\n                          \n                          \n                            Applying self‐regulated learning (SRL) frameworks in chatbot‐assisted learning has been found to foster learner autonomy, long‐term engagement and improved learning outcomes.\n                          \n                          \n                            Achievement emotions experienced during learning play a critical role in supporting self‐regulated learning, motivation and academic achievement. Interventions that target learners' perceptions of control and value through reappraisal can effectively foster positive emotions.\n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            An investigation of the impact of three GenAI conversational agents (standard ChatGPT, an SRL agent and an emotionally supportive SRL agent) on cognitive and socio‐emotional outcomes as well as task‐level self‐regulatory behaviours among high school students in an authentic classroom setting.\n                          \n                          \n                            Preliminary evidence that integrating prompts which target self‐regulated learning phases and learners' emotional states, as well as address perceptions of control and value can increase students' enjoyment of concrete learning situations and reduce boredom more effectively than standard ChatGPT.\n                          \n                          \n                            Insights into how theoretically grounded GenAI agents that incorporate SRL and emotional scaffolding may support students' emotional engagement and task‐level self‐regulatory behaviours during a short classroom learning activity.\n                          \n                        \n                      \n                      \n                        Implications for practice and/or policy\n                        \n                          \n                            Prompt engineering can be used to simulate emotional support and personalize guidance based on SRL and emotion regulation principles, providing design considerations for future learner‐centred GenAI systems.\n                          \n                          \n                            Developers and educators aiming to design pedagogically meaningful GenAI tools should focus on scaffolding SRL both cognitively and emotionally, to support the affective and self‐regulatory dimensions of learning.\n                          \n                          \n                            We make the technical specifications and system prompts publicly available.",
         "doi": "10.1111/bjet.70094",
@@ -108,23 +122,23 @@
         "published": "2026-10-8",
         "journal": "British Journal of Educational Technology",
         "venue": "British Journal of Educational Technology"
-      },
-      {
-        "title": "Multidimensional engagement effects of generative\n                    <scp>AI</scp>\n                    adoption among minority ethnic international students in\n                    <scp>UK</scp>\n                    higher education",
-        "abstract": "Abstract\n                  \n                    \n                    Generative artificial intelligence (GAI) has become a prevalent tool in higher education, yet little is known about how its use affects the learning experiences of minority‐ethnic international students (MEIS). Drawing on an extended Unified Theory of Acceptance and Use of Technology (UTAUT) and a four‐strand engagement model, this quantitative study surveyed 273 MEIS across UK business schools and analysed the data with Partial Least Squares Structural Equation Modelling (PLS‐SEM). The findings suggest that performance expectancy, effort expectancy and social influence predicted intention, and facilitating conditions and intention were also positively associated with self‐reported GAI use frequency. GAI frequency positively predicted cognitive, behavioural, emotional and, most strongly, agentic engagement. Multigroup analysis revealed that female students showed stronger effects of effort expectancy, performance expectancy, social influence and facilitating conditions on intention than males; low‐experience students were more sensitive to effort expectancy than high‐experience peers; and postgraduate students exhibited stronger facilitating conditions, performance expectancy and social influence effects than undergraduates. The study highlights both theoretical and practical implications by linking GAI adoption with multidimensional student engagement, with the strongest association observed for agentic engagement, and calls for equity‐focused policy, curriculum interventions and institutional support targeted at individual access gaps among MEIS.\n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic?\n                          \n                            \n                              Generative AI (GAI) technologies are increasingly used by students in higher education for learning support.\n                            \n                            \n                              The Unified Theory of Acceptance and Use of Technology (UTAUT) has been widely applied to examine technology adoption in educational contexts.\n                            \n                          \n                        \n                        \n                          What this paper adds?\n                          \n                            \n                              It extends UTAUT to an under‐researched population (MEIS), who often face heightened academic, technological and cultural challenges in UK higher education.\n                            \n                            \n                              GAI use by MEIS is strongly associated with cognitive, behavioural, emotional and especially agentic engagement.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              Institutions should consider embedding GAI literacy and access support into orientation and academic skills programmes for MEIS.\n                            \n                            \n                              Educators who integrate GAI into teaching may consider structured questioning, verification and reflection activities while evaluating rather than assuming their effects on engagement.\n                            \n                            \n                              Policymakers should develop equity‐oriented strategies that support the digital and cultural integration of disadvantaged student groups.",
-        "doi": "10.1111/bjet.70093",
-        "url": "https://doi.org/10.1111/bjet.70093",
-        "authors": [
-          "Olatunji David Adekoya",
-          "Hakeem Adeniyi Ajonbadi",
-          "Chima Mordi"
-        ],
-        "published": "2026-10-4",
-        "journal": "British Journal of Educational Technology",
-        "venue": "British Journal of Educational Technology"
       }
     ],
     "Educational Technology Research and Development": [
+      {
+        "title": "Measuring cognitive presence in online discussions: automated detection and instructional insights from a MOOC context",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10726-8",
+        "url": "https://doi.org/10.1007/s11423-026-10726-8",
+        "authors": [
+          "Ji Hyun Yu",
+          "Fengjiao Tu",
+          "Haihua Chen"
+        ],
+        "published": "2026-10-20",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
       {
         "title": "AIgnite: an educational toolkit for supporting primary students’ AI literacy cultivation",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -174,20 +188,6 @@
           "Fangfang Zhu",
           "Qiuyue Li",
           "Mingsheng Zheng"
-        ],
-        "published": "2026-10-13",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Developing computational thinking in teacher education: a brief experience with coding, robotics, and machine learning",
-        "abstract": "Abstract\n                  This study examines post-intervention self-reported outcomes associated with a short intervention designed to introduce coding, educational robotics, and introductory concepts of machine learning into initial teacher education for Primary Education. The proposal is grounded in Papert’s principles and the Creative and Computational Problem Solving model, combining active learning methodologies with accessible technologies. A quasi-experimental design with a non-equivalent control group was employed. A total of 144 first-year students from three Spanish universities participated (105 in the experimental group and 39 in the control group). The intervention consisted of a two-hour workshop with hands-on stations and technological challenges, designed as a feasible microintervention within regular teacher education contexts. Assessment was carried out through an ad hoc questionnaire focused on three dimensions: knowledge of programming and machine learning, block-based programming and game engines, and active learning, all assessed through self-reported perceptions. The results showed statistically significant post-intervention differences in favor of the experimental group, with a small effect size for knowledge of programming and machine learning and large effect sizes for block-based programming and game engines and active learning. Item-level analyses revealed that favorable overall perceptions coexisted with lower self-reported familiarity in specific technical areas, particularly machine learning, prior experience with block-based programming, and programming in game engines. Three exploratory response profiles were also identified: reluctant, intermediate, and enthusiastic. The findings suggest that well-structured microinterventions may support higher self-reported knowledge of programming and machine learning, greater familiarity with block-based programming and game engines, and more positive perceptions of active learning in teacher education.",
-        "doi": "10.1007/s11423-026-10744-6",
-        "url": "https://doi.org/10.1007/s11423-026-10744-6",
-        "authors": [
-          "Susana Sánchez Castro",
-          "Mª Ángeles Pascual Sevillano",
-          "Rogelio Buceta Otero"
         ],
         "published": "2026-10-13",
         "journal": "Educational Technology Research and Development",
@@ -951,74 +951,139 @@
   },
   "keyword_papers": [
     {
-      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
-      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
-      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "paperId": "62c2fdf86acfbb92f00559cec843b3d3d273f7d2",
+      "title": "Effects of screen-based task learning and geographical environment on the cognitive performance of primary school students: Assessment of working memory",
+      "abstract": "Understanding the neurocognitive impact of digital integration in education is essential, particularly in sub-Saharan Africa, where socio-economic and geographical disparities amplify the need for effective learning strategies. This study investigated how visuospatial working memory performance is affected by the modality of task presentation (screen versus print) and geographical context (urban, economically advantaged region versus rural, economically disadvantaged region) in Ivorian primary school students. We employed a behavioural approach with 222 students (aged 4–13). Students from urban (Abidjan) and rural (Man) schools were assigned to perform a visuospatial working memory task presented either on a computer screen or using printed physical materials. An analysis of covariance, with age as a covariate, revealed that students performing the task on-screen showed significantly better performance (fewer errors) compared to those using printed materials (p < 0.001). A significant interaction between presentation modality and geographical context was also found (p = 0.009). Specifically, the performance difference between screen and print modalities was larger in the urban setting, primarily due to urban students performing more poorly with printed materials compared to rural students in that same condition; rural students using printed materials outperformed urban students using printed materials (post hoc, p = 0.002). No significant difference in performance on screen-based tasks was found between urban and rural students. The main effect of geographical context was not significant. These findings suggest potential cognitive benefits of screen-based presentation but highlight a complex interplay with geographical context, which itself is intertwined with socio-economic factors and initial age differences that were statistically controlled. Future research should further incorporate direct socio-economic status controls and explore factors like motivation and task engagement, alongside neuroimaging approaches, to elucidate the underlying mechanisms.",
       "authors": [
-        "S. Muppalla",
-        "Sravya Vuppalapati",
-        "Apeksha Reddy Pulliahgaru"
+        "Yacouba Ouattara",
+        "P. Doubran",
+        "K. M. Yao"
       ],
-      "venue": "Cureus",
-      "published": "2023-06-01",
-      "url": "https://doi.org/10.7759/cureus.40608",
-      "query": "screen time child development"
+      "venue": "Brain and Neuroscience Advances",
+      "published": "2025-07-01",
+      "url": "https://doi.org/10.1177/23982128251356029",
+      "query": "working memory digital learning"
     },
     {
-      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
-      "title": "Impact of excessive use of screen time on child development: A review",
+      "paperId": "704fc114279aa0e0bb66cab23a65a5d74d081876",
+      "title": "Embodied learning in the digital age: assessing the impact of gesture-based educational technology on working memory capacity, spatial reasoning, and engagement",
+      "abstract": "Embodied cognition theory underscores the close coupling of bodily action and cognition, suggesting that learning can be strengthened when language is enacted. However, in English as a Foreign Language (EFL) education, the instructional value of gesture-based digital interfaces remains underexamined beyond vocabulary outcomes, particularly in relation to working memory capacity, spatial reasoning, and learner engagement. Addressing this gap, the present study examined how gesture-mediated interactions shape cognitive and affective outcomes in an EFL context using a convergent parallel mixed-methods design. A total of 143 Grade 12 students participated in the study, with 74 were allocated to the experimental group (EG) and 69 to the control group (CG). Over a period of six weeks, EG participated in language tasks using Leap Motion, while CG received traditional instruction. Using a convergent parallel mixed-methods design, we administered three validated scales pre/post and collected open-ended responses from the experimental group; findings were integrated to interpret convergent quantitative and qualitative patterns. Working memory capacity, spatial reasoning, and engagement were measured using validated scales The quantitative analyses indicated that EG made significantly larger improvements in working memory capacity, spatial reasoning, and engagement compared to CG. Qualitative narratives supported these findings, highlighting increased motivation, deeper understanding, and greater agency among participants in EG, despite some initial technical challenges. These results approve that gesture-based instruction may offer a promising approach for enhancing EFL instruction, boosting cognitive abilities and strengthening classroom engagement.",
+      "authors": [
+        "W. Chang",
+        "Amhara Aberash"
+      ],
+      "venue": "BMC Psychology",
+      "published": "2026-02-06",
+      "url": "https://doi.org/10.1186/s40359-026-04089-1",
+      "query": "working memory digital learning"
+    },
+    {
+      "paperId": "d7b407ac033d2af04724a4a285f71f10ec2b27a0",
+      "title": "Screen inferiority in L2 reading: The role of working memory, proficiency, and digital device usage",
+      "abstract": "\n \n Screen-based reading has frequently been associated with lower comprehension than reading on paper, a phenomenon known as\n screen inferiority\n . Although cognitive capacity, linguistic knowledge, and digital usage vary across learners, it remains underexplored how individual-difference factors shape medium effects in second-language (L2) reading among adolescents. We investigated how reading on paper versus tablets affects L2 reading comprehension among 240 Korean eighth graders learning English and whether medium effects are moderated by working memory, L2 proficiency, and tablet experience. Participants completed comprehension tests under both conditions, along with a reading span task, a proficiency test, and a tablet-usage questionnaire. Results showed that participants performed worse on tablets than on paper; these gaps were larger among learners with higher spans and proficiency. In contrast, tablet experience did not interact with reading medium. These findings underscore the need for explicit instruction to support effective L2 reading on digital devices, even for high-performing learners.\n",
+      "authors": [
+        "Hyeran Ryu",
+        "Ekaterina Sudina"
+      ],
+      "venue": "Studies in Second Language Acquisition",
+      "published": "2026-06-09",
+      "url": "https://doi.org/10.1017/s0272263126101752",
+      "query": "working memory digital learning"
+    },
+    {
+      "paperId": "90b93437e4dd4c811c8e3672bd7795d10391147d",
+      "title": "Does digital slide accessibility matter? Considering undergraduates’ differences in external-storage effects of note-taking and working memory",
       "abstract": "Abstract not available.",
       "authors": [
-        "Anuradha",
-        "Ragini Mishra",
-        "Arti"
+        "Hyeyoun Kim"
       ],
-      "venue": "International journal of agriculture extension and social development",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
-      "query": "screen time child development"
+      "venue": "Instructional Science",
+      "published": "2026-05-11",
+      "url": "https://doi.org/10.1007/s11251-026-09798-z",
+      "query": "working memory digital learning"
     },
     {
-      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
-      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
-      "abstract": "Abstract not available.",
+      "paperId": "bd51e509e553f8ff9512c70b4df8f038b27f3ef1",
+      "title": "Combining working memory and speech data in a digital app for early detection of cognitive impairment in primary care",
+      "abstract": "Cognitive screening to detect mild cognitive impairment (MCI) and dementia in primary care settings has proven to be a challenging task. The ideal solution would be a brief, low‐burden assessment tool appropriate for use with individuals from diverse educational and cultural backgrounds that requires limited time and expertise from primary care providers. The purpose of this project was to develop a digital cognitive screening app derived from widely used cognitive and speech tasks using machine learning techniques.",
       "authors": [
-        "Midori Yamamoto",
-        "H. Mezawa",
-        "Kenichi Sakurai"
+        "R. Hilsabeck",
+        "Jeffrey N. Keller",
+        "Maya L. Henry"
       ],
-      "venue": "JAMA pediatrics",
-      "published": "2024-01-22",
-      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
-      "query": "screen time child development"
+      "venue": "Alzheimer's &amp; Dementia",
+      "published": "2023-12-01",
+      "url": "https://doi.org/10.1002/alz.079664",
+      "query": "working memory digital learning"
     },
     {
-      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
-      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
-      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
+      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
+      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
       "authors": [
-        "X. Wan",
-        "Xiao-Qing Kang",
-        "Shunli Chen"
+        "Deabashis Sarker Tamal",
+        "MD. Mehedi Zaman Khan",
+        "Fahim Shahriar Prottoy"
       ],
-      "venue": "Frontiers in Pediatrics",
-      "published": "2025-08-28",
-      "url": "https://doi.org/10.3389/fped.2025.1667048",
-      "query": "screen time child development"
+      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+      "published": "2026-04-16",
+      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "e6df982fe909069fc0d597034daad7f0575f6ce4",
-      "title": "Screen on = development off? A systematic scoping review and a developmental psychology perspective on the effects of screen time on early childhood development",
-      "abstract": "Research on the associations between screen time and child development suggests that various forms of screen time might pose a risk for various aspects of child development. However, data on the impact of exposure to screen media on the development of children under 3 years of age is comparatively scarce. Although the evidence available on the topic is evolving rapidly, no review of existing literature has yet encompassed a comprehensive set of developmental outcomes with a focus in the first 3 years of life. To address this research gap, the present literature review focused on the influences of screen time on various developmental outcomes of children aged zero to 36 months. These outcomes were sleep-related parameters, physical health, cognition, learning efficiency, language, motor skills, socio-emotional skills, social interaction, and overall development. To this end, ten databases were searched systematically, and 158 studies that were published between the launch of the iPhone in early 2007 until 2024 were included. Only studies that reported specific results for the age range of zero to 36 months were examined, including longitudinal studies with samples of children aged zero to 36 months at the first wave of assessment. For most outcomes, a comparable amount of undesirable and non-significant associations was found with children's screen time, while few desirable associations were reported. In line with the notion of resilience, these results indicate that characteristics of the child, the context, and/or the content moderate the associations between screen time and child development in early childhood, thus contributing to mitigating the potential of displacement of learning opportunities or even creating new learning opportunities. More studies with designs that can examine the causal effect of screen time on child development and that explicitly address the role of child, content, and context variables are needed.",
+      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
+      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
+      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
       "authors": [
-        "F. Sticca",
-        "Valérie Brauchli",
-        "Patricia Lannen"
+        "I. Khan",
+        "Hema Kumar Goru",
+        "G. L. Madhumati"
       ],
-      "venue": "Frontiers in Developmental Psychology",
-      "published": "2025-01-07",
-      "url": "https://doi.org/10.3389/fdpys.2024.1439040",
-      "query": "screen time child development"
+      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+      "published": "2024-05-03",
+      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
+      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
+      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
+      "authors": [
+        "Z. Pap",
+        "Z. Čović",
+        "Janos Simon"
+      ],
+      "venue": "Symposium on Intelligent Systems and Informatics",
+      "published": "2021-09-16",
+      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
+      "title": "Children's trust in and learning from voice assistants.",
+      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
+      "authors": [
+        "Lauren N. Girouard-Hallam",
+        "Judith H. Danovitch"
+      ],
+      "venue": "Developmental Psychology",
+      "published": "2022-04-01",
+      "url": "https://doi.org/10.1037/dev0001318",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
+      "title": "Virtual Voice Assistant In Python (Friday)",
+      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
+      "authors": [
+        "S. Uke",
+        "Hrishikesh Lokhande",
+        "Durva Lohar"
+      ],
+      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
+      "published": "2022-10-08",
+      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
+      "query": "voice assistant children learning"
     }
   ],
   "hot_topics": [
@@ -1027,7 +1092,7 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 57,
+      "count": 62,
       "keywords": [
         "AR",
         "virtual reality",
@@ -1042,11 +1107,11 @@
       "icon": "🏫",
       "count": 27,
       "keywords": [
-        "parent",
-        "family",
         "school",
         "classroom",
-        "teacher"
+        "teacher",
+        "family",
+        "parent"
       ]
     },
     {
@@ -1054,39 +1119,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 14,
+      "count": 17,
       "keywords": [
+        "machine learning",
         "ChatGPT",
         "GPT",
-        "generative AI",
         "artificial intelligence",
-        "machine learning"
-      ]
-    },
-    {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
-      "count": 14,
-      "keywords": [
-        "social-emotional",
-        "emotion",
-        "empathy",
-        "social development"
-      ]
-    },
-    {
-      "id": "game_learning",
-      "name": "游戏化与自适应学习",
-      "subtitle": "Game-based & Adaptive Learning",
-      "icon": "🎮",
-      "count": 11,
-      "keywords": [
-        "game-based",
-        "game",
-        "play",
-        "gamification"
+        "generative AI"
       ]
     },
     {
@@ -1094,26 +1133,53 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 9,
+      "count": 13,
       "keywords": [
-        "executive function",
-        "attention",
+        "working memory",
+        "cognitive development",
         "metacognition",
-        "cognitive load",
-        "self-regulation"
+        "attention",
+        "cognitive load"
       ]
     },
     {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
+      "id": "game_learning",
+      "name": "游戏化与自适应学习",
+      "subtitle": "Game-based & Adaptive Learning",
+      "icon": "🎮",
+      "count": 12,
+      "keywords": [
+        "play",
+        "personalized learning",
+        "game-based",
+        "game",
+        "gamification"
+      ]
+    },
+    {
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
+      "count": 11,
+      "keywords": [
+        "emotion",
+        "empathy",
+        "social-emotional",
+        "social development"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
       "count": 8,
       "keywords": [
-        "screen time",
-        "digital media",
-        "digital learning",
-        "mobile"
+        "robot",
+        "voice assistant",
+        "chatbot",
+        "conversational agent"
       ]
     },
     {
@@ -1123,9 +1189,22 @@
       "icon": "📚",
       "count": 6,
       "keywords": [
-        "language development",
-        "writing",
-        "reading"
+        "vocabulary",
+        "reading",
+        "writing"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 5,
+      "keywords": [
+        "tablet",
+        "mobile",
+        "digital media",
+        "digital learning"
       ]
     },
     {
@@ -1133,23 +1212,10 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 6,
+      "count": 5,
       "keywords": [
         "computational thinking",
-        "coding",
-        "programming"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 4,
-      "keywords": [
-        "chatbot",
-        "conversational agent",
-        "robot"
+        "coding"
       ]
     }
   ]
