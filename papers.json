@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 06:42 UTC",
+  "updated_at": "2026-10-22 06:46 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -44,27 +44,27 @@
         "venue": "Computers & Education"
       },
       {
-        "title": "Disengaged conversational behaviors and learning in student-AI dialogues for mathematical problem solving",
+        "title": "Uncovering emotion dynamics across human–AI interaction modes in programming: Evidence from facial expression and electrodermal activity",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105766",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105766",
+        "doi": "10.1016/j.compedu.2026.105771",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105771",
         "authors": [
-          "Jihyun Rho",
-          "Rui Guo",
-          "Hai Li"
+          "Tianlong Zhong",
+          "Gaoxia Zhu"
         ],
         "published": "2027-2",
         "journal": "Computers & Education",
         "venue": "Computers & Education"
       },
       {
-        "title": "Development and validation of a game-based assessment tool for computational thinking practices in lower primary students",
+        "title": "GenAI-supported internal feedback intervention for writing improvement: The roles of evaluative judgment and student-AI interaction in a cluster-randomized experimental study",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105752",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105752",
+        "doi": "10.1016/j.compedu.2026.105767",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105767",
         "authors": [
-          "Qi Luo",
-          "Shuhan Zhang"
+          "Shijun (Cindy) Chen",
+          "Christian D. Schunn",
+          "Jie Cao"
         ],
         "published": "2027-2",
         "journal": "Computers & Education",
@@ -126,6 +126,34 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Data science for K-12: A design-based research study",
+        "abstract": "Abstract\n                  Data science is a field that merges advancements in computer science, statistics, and machine learning. To date, much data science instruction has been through graduate programs or self-directed course offerings. There are therefore fewer opportunities for formal data science education, especially for K-12 educators and learners who have limited exposure to these fields. While some efforts have emerged to introduce data science in pre-college settings, there is little research regarding learning design strategies that support data science for inservice teachers. As such, this project employs a design-based research (DBR) approach to develop accessible and engaging open-access learning resources as a way to reduce barriers to data science instruction across the educational spectrum. Given the gap regarding data science in K-12, our DBR study identifies the following design elements: (a) revised data science content scope, (b) design standardization for interactive learning, (c) reframing data science for case-based learning, (d) artificial intelligence (AI) towards data personalization, and (e) data science coding through goal-based learning. The project also introduces aspects of the curriculum via a teacher professional development, which provides important insights and challenges regarding data science at the middle and high school levels. Implications for learning design, open-educational resources, data science standards, and others are discussed.",
+        "doi": "10.1007/s11423-026-10735-7",
+        "url": "https://doi.org/10.1007/s11423-026-10735-7",
+        "authors": [
+          "Andrew A. Tawfik",
+          "Luiz Barboza",
+          "Andrew M. Olney"
+        ],
+        "published": "2026-10-21",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "What AI competency do K-12 teachers need? Framework construction based on teachers' work scenarios and the development and validation of a scale",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10741-9",
+        "url": "https://doi.org/10.1007/s11423-026-10741-9",
+        "authors": [
+          "Gaoyu Chen",
+          "Xiaoyi Zhou",
+          "Hang Lu"
+        ],
+        "published": "2026-10-21",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Measuring cognitive presence in online discussions: automated detection and instructional insights from a MOOC context",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10726-8",
@@ -166,35 +194,23 @@
         "published": "2026-10-19",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Generative AI as a cognitive partner: personalised GPTs and differentiated learning in undergraduate teacher education",
-        "abstract": "Abstract\n                  Generative artificial intelligence is increasingly framed as a catalyst for deeper learning rather than simple automation. This design-based study investigated how personalised GPT agents were used as cognitive partners by pre-service teachers in an undergraduate Initial Teacher Education course in Digital Technologies within a Bachelor of Education (Secondary) programme. Drawing on distributed cognition, constructivism, cognitive load theory, and critical AI literacy, the intervention embedded personalised GPT agents within a university Canvas Learning Management System. Fourteen students configured and used agents aligned to curriculum goals, teaching contexts, pedagogical preferences, and weekly Prompt–Reflect–Refine tasks. Data included approximately 7,000 AI interactions, reflective journals, assessed lesson and assessment artefacts, and tutorial-group discussions. A hybrid inductive–deductive thematic analysis identified four recurrent functions in students’ use of the agents: conceptual tutor, co-designer, reflective mirror, and cognitive challenger. Across data sources, students reported clearer conceptual support, iterative planning, and reflective prompting, alongside risks of over-reliance, factual drift, and culturally narrow exemplars. The study contributes a context-specific model for LMS-integrated generative AI that foregrounds partnership, personalisation, judgement, and ethical reflexivity. Findings should be interpreted cautiously because the study was small-scale, single-site, and partly reliant on self-reported reflection.",
-        "doi": "10.1007/s11423-026-10746-4",
-        "url": "https://doi.org/10.1007/s11423-026-10746-4",
-        "authors": [
-          "Jason Zagami"
-        ],
-        "published": "2026-10-16",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Capturing emotional engagement in classrooms: a multimodal observational analysis across classroom contexts and its association with learning outcomes",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10740-w",
-        "url": "https://doi.org/10.1007/s11423-026-10740-w",
-        "authors": [
-          "Fangfang Zhu",
-          "Qiuyue Li",
-          "Mingsheng Zheng"
-        ],
-        "published": "2026-10-13",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
       }
     ],
     "Journal of Computer Assisted Learning": [
+      {
+        "title": "A Complexity Approach to Unravelling Traces of Scientific Reasoning Behaviours During Game‐Based Learning",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Scientific reasoning is central to science learning, yet most existing research measures scientific reasoning with static assessments or aggregated counts that overlook how scientific reasoning unfolds dynamically over time. Game‐based learning environments provide the opportunity for rich behavioural log‐file traces of learners' actions to be captured, but current analytic approaches often fail to reveal how the temporal organization of in‐game actions emerges and reorganizes to form scientific reasoning behaviours during learning. Understanding these behavioural dynamics is critical for characterizing productive learning trajectories and for informing adaptive support for effective scientific reasoning within interactive learning systems that require this skillset for science learning.\n                  \n                  \n                    Objectives\n                    This study examined whether and how the temporal emergence of behavioural complexity in learners' scientific reasoning relates to scientific reasoning success and domain learning outcomes during game‐based learning.\n                  \n                  \n                    Methods\n                    \n                      High‐school students (\n                      N\n                       = 170) engaged with Crystal Island, a microbiology game‐based learning environment requiring scientific reasoning to solve a mystery and complete the primary game objective. Guided by complex systems theory, we applied cumulative auto‐recurrence quantification analysis to learners' log‐file data to calculate entropy and model how the structural complexity of in‐game actions evolved over time to demonstrate effective scientific reasoning. Relationships between entropy trajectories, game success and learning gains were examined using nonlinear growth modelling.\n                    \n                  \n                  \n                    Results and Conclusions\n                    Findings revealed that the timing and rate of complexity growth were associated with learning outcomes. Learners who successfully completed the game demonstrated more structured and gradual increases in behavioural complexity, whereas greater learning gains were associated with steeper increases in entropy. These results suggest that behavioural entropy is neither inherently beneficial nor detrimental; rather, the temporal organization of in‐game actions can provide meaningful insight into how scientific reasoning emerges and offers potential avenues for integrating adaptive support in game‐based learning environments.",
+        "doi": "10.1002/jcal.70363",
+        "url": "https://doi.org/10.1002/jcal.70363",
+        "authors": [
+          "Daryn Dever",
+          "Maryam Aslam",
+          "Megan Wiedbusch"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
       {
         "title": "Technology‐Supported Formative Assessment in Higher Education:\n                    <scp>AI</scp>\n                    , Learning Analytics and the Future of Assessment for Learning",
         "abstract": "ABSTRACT\n                  \n                    Purpose\n                    This study examines the intellectual and thematic development of technology‐supported formative assessment (TSFA) in higher education and its convergence with feedback, learning analytics, artificial intelligence (AI) and self‐regulation.\n                  \n                  \n                    Design/Methodology/Approach\n                    A scoping review integrating bibliometric mapping, qualitative thematic synthesis and SWOT analysis was conducted on TSFA literature published between 2000 and 2026 (August).\n                  \n                  \n                    Findings\n                    The findings reveal accelerated growth after 2020 and a shift from technology‐centred applications towards learner‐centred, adaptive and data‐informed formative assessment. However, theoretical fragmentation, limited longitudinal evidence, ethical concerns and geographical inequalities remain.\n                  \n                  \n                    Originality/Value\n                    The study conceptualises TSFA as a technology‐mediated formative ecosystem integrating technological capacity, pedagogical regulation, learner agency and human judgement.\n                  \n                  \n                    Practical Implications\n                    Institutions should prioritise human‐centred AI integration, transparent governance, equitable access and professional development to ensure that technology supports rather than replaces formative pedagogical judgement.",
@@ -230,19 +246,6 @@
           "Qian Huangfu",
           "Yujia Guo",
           "Tingting Deng"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Writing Motivation and Self‐Efficacy in\n                    <scp>AI</scp>\n                    ‐Chatbot‐Supported\n                    <scp>EFL</scp>\n                    Writing: Exploratory Insights Across Proficiency Levels",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Writing motivation and self‐efficacy are critical factors of success in English as a Foreign Language (EFL) contexts, yet they are frequently undermined by learner anxiety and limited teacher feedback. While artificial intelligence (AI) chatbots offer potential for adaptive writing support, limited research has examined these affective constructs in parallel across learner proficiency levels.\n                  \n                  \n                    Objectives\n                    This study investigated changes in intrinsic motivation, extrinsic motivation, and writing self‐efficacy among high school EFL learners at higher‐ and lower‐proficiency levels following chatbot‐supported writing and examined whether these changes differed across proficiency levels.\n                  \n                  \n                    Methods\n                    Using an exploratory mixed‐methods design, the study involved 47 Vietnamese high school students divided into higher‐ and lower‐proficiency level groups. Over the 11‐week study, participants completed 8 weeks of AI‐supported writing activities using a chatbot designed in accordance with principles of Self‐Determination Theory, Self‐Regulated Learning Theory and Self‐Efficacy Theory. Changes in intrinsic motivation, extrinsic motivation, and writing self‐efficacy were examined using pre‐ and post‐questionnaires and semi‐structured interviews.\n                  \n                  \n                    Results and Conclusions\n                    The quantitative findings revealed that intrinsic motivation, extrinsic motivation, and writing self‐efficacy increased over time in both proficiency groups, with no significant differences in the magnitude of change between higher‐ and lower‐proficiency learners. This suggests that the affective changes observed during AI‐supported writing were not confined to one proficiency group. The qualitative findings indicated that learners linked their positive experiences to reduced anxiety, clearer guidance, and supportive interaction, although the types of support they valued differed by proficiency level. Overall, the findings suggest that when positioned as a supportive writing partner rather than an answer generator, AI chatbot feedback may be associated with positive motivational and self‐efficacy development in mixed‐ability EFL writing classrooms.",
-        "doi": "10.1002/jcal.70356",
-        "url": "https://doi.org/10.1002/jcal.70356",
-        "authors": [
-          "Thi‐Ngoc‐Anh Duong",
-          "Hsiu‐Ling Chen"
         ],
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
@@ -391,6 +394,20 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Mathematics teachers’ AI-TMPK: exploring structural relationships and latent profiles",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2750864",
+        "url": "https://doi.org/10.1080/10494820.2026.2750864",
+        "authors": [
+          "Jinrun Xu",
+          "Maodong Tian",
+          "Songtao Huang"
+        ],
+        "published": "2026-10-20",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Exploring collaborative problem-solving in AI-assisted robotics education",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2749410",
@@ -444,19 +461,6 @@
         "published": "2026-10-15",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "ChatGPT as cognitive scaffold: computational thinking and metacognition in AI-embedded instruction",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2744894",
-        "url": "https://doi.org/10.1080/10494820.2026.2744894",
-        "authors": [
-          "Tanya Chichekian",
-          "Joel Trudeau"
-        ],
-        "published": "2026-10-13",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
       }
     ],
     "Learning and Instruction": [
@@ -487,20 +491,6 @@
         "venue": "Learning and Instruction"
       },
       {
-        "title": "Can elementary schools compensate for disparities across Europe?",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.learninstruc.2026.102458",
-        "url": "https://doi.org/10.1016/j.learninstruc.2026.102458",
-        "authors": [
-          "Thomas Brüggemann",
-          "Ulrich Ludewig",
-          "Jakob Schwerter"
-        ],
-        "published": "2027-2",
-        "journal": "Learning and Instruction",
-        "venue": "Learning and Instruction"
-      },
-      {
         "title": "Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.learninstruc.2026.102462",
@@ -509,6 +499,20 @@
           "Heike Russ",
           "Tino Endres",
           "Leonie Sibley"
+        ],
+        "published": "2027-2",
+        "journal": "Learning and Instruction",
+        "venue": "Learning and Instruction"
+      },
+      {
+        "title": "Can elementary schools compensate for disparities across Europe?",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.learninstruc.2026.102458",
+        "url": "https://doi.org/10.1016/j.learninstruc.2026.102458",
+        "authors": [
+          "Thomas Brüggemann",
+          "Ulrich Ludewig",
+          "Jakob Schwerter"
         ],
         "published": "2027-2",
         "journal": "Learning and Instruction",
@@ -565,7 +569,7 @@
         "authors": [
           "Mansour Saleh Alabdulaziz"
         ],
-        "published": "2026-10-17",
+        "published": "2026-11",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       },
@@ -578,7 +582,7 @@
           "Chenguang Du",
           "Shen Qiao"
         ],
-        "published": "2026-10-12",
+        "published": "2026-11",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       },
@@ -592,7 +596,7 @@
           "Sefa Emre Öncü",
           "Serpil Koçdar"
         ],
-        "published": "2026-10-10",
+        "published": "2026-11",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -670,71 +674,69 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "FAIRITHM: Unlearning Bias and Rewriting for Fairness",
+        "title": "Does Code-Switching Disrupt Emotion Recognition? A Valence–Arousal Analysis of Affective Misalignment in Multilingual Human–AI Interaction",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744493",
-        "url": "https://doi.org/10.1080/10447318.2026.2744493",
+        "doi": "10.1080/10447318.2026.2740884",
+        "url": "https://doi.org/10.1080/10447318.2026.2740884",
         "authors": [
-          "Yunjin Nam",
-          "Donghui Lim",
-          "Sungkyun Im"
+          "HeeSoo Kim"
         ],
-        "published": "2026-10-19",
+        "published": "2026-10-21",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "“I Just Needed Someone to Listen”: A Community Discussion Analysis of Redditors’ Discourse About Using General-Purpose LLMs for Therapy",
+        "title": "Explaining the Details Enhances Human Perceptions of the Persuasiveness of GAI Misinformation Corrections",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2747476",
-        "url": "https://doi.org/10.1080/10447318.2026.2747476",
+        "doi": "10.1080/10447318.2026.2748818",
+        "url": "https://doi.org/10.1080/10447318.2026.2748818",
         "authors": [
-          "Hansen Lee",
-          "Jinkyung Katie Park",
-          "Bart P. Knijnenburg"
+          "Min Zhang",
+          "Zuojie Zhou",
+          "Sihong Li"
         ],
-        "published": "2026-10-19",
+        "published": "2026-10-20",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "TreeView: A Structured User Interface for Understanding, Verifying, and Extending Unfamiliar Computational Notebooks",
+        "title": "Heaviness–Location Congruency Improves Search Efficiency in Digital Menu Interfaces",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744517",
-        "url": "https://doi.org/10.1080/10447318.2026.2744517",
+        "doi": "10.1080/10447318.2026.2746299",
+        "url": "https://doi.org/10.1080/10447318.2026.2746299",
         "authors": [
-          "Kimberly Hau",
-          "Jinghui Cheng",
-          "Jin L.C. Guo"
+          "Yuree Kim",
+          "Kyungil Kim",
+          "Seok-sung Hong"
         ],
-        "published": "2026-10-19",
+        "published": "2026-10-20",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "From Co-Presence to Willingness to Pay More: How Remote Guidance Service and Embodied Action Simulation Drive Brand Value in the Virtual Environments",
+        "title": "Assessing Workplace Technology Impacts on Employee Work and Wellbeing: A Post-Adoption Blind Spot",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2738479",
-        "url": "https://doi.org/10.1080/10447318.2026.2738479",
+        "doi": "10.1080/10447318.2026.2744837",
+        "url": "https://doi.org/10.1080/10447318.2026.2744837",
         "authors": [
-          "Tseng-Lung Huang",
-          "Yu-Hsun Hung",
-          "Yi‑Mu Chen"
+          "Alena Valtonen",
+          "Mira Holopainen"
         ],
-        "published": "2026-10-19",
+        "published": "2026-10-20",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Designers’ Views on Behaviorism, Dependency Concerns and Ethics in Gamification",
+        "title": "Context-Aware Multimodal Efficient Navigation in VR",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2747477",
-        "url": "https://doi.org/10.1080/10447318.2026.2747477",
+        "doi": "10.1080/10447318.2026.2742070",
+        "url": "https://doi.org/10.1080/10447318.2026.2742070",
         "authors": [
-          "Indranil Ghosh",
-          "Akanksha Rani"
+          "Huiqin Chang",
+          "Yu Zhao",
+          "Jiaxin Yu"
         ],
-        "published": "2026-10-19",
+        "published": "2026-10-20",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
@@ -951,139 +953,210 @@
   },
   "keyword_papers": [
     {
-      "paperId": "62c2fdf86acfbb92f00559cec843b3d3d273f7d2",
-      "title": "Effects of screen-based task learning and geographical environment on the cognitive performance of primary school students: Assessment of working memory",
-      "abstract": "Understanding the neurocognitive impact of digital integration in education is essential, particularly in sub-Saharan Africa, where socio-economic and geographical disparities amplify the need for effective learning strategies. This study investigated how visuospatial working memory performance is affected by the modality of task presentation (screen versus print) and geographical context (urban, economically advantaged region versus rural, economically disadvantaged region) in Ivorian primary school students. We employed a behavioural approach with 222 students (aged 4–13). Students from urban (Abidjan) and rural (Man) schools were assigned to perform a visuospatial working memory task presented either on a computer screen or using printed physical materials. An analysis of covariance, with age as a covariate, revealed that students performing the task on-screen showed significantly better performance (fewer errors) compared to those using printed materials (p < 0.001). A significant interaction between presentation modality and geographical context was also found (p = 0.009). Specifically, the performance difference between screen and print modalities was larger in the urban setting, primarily due to urban students performing more poorly with printed materials compared to rural students in that same condition; rural students using printed materials outperformed urban students using printed materials (post hoc, p = 0.002). No significant difference in performance on screen-based tasks was found between urban and rural students. The main effect of geographical context was not significant. These findings suggest potential cognitive benefits of screen-based presentation but highlight a complex interplay with geographical context, which itself is intertwined with socio-economic factors and initial age differences that were statistically controlled. Future research should further incorporate direct socio-economic status controls and explore factors like motivation and task engagement, alongside neuroimaging approaches, to elucidate the underlying mechanisms.",
+      "paperId": "e6373f71a3ea60b2f0c0e9e38f9b6d4217719c19",
+      "title": "The impact of educational robot R1 on the development of emotional intelligence in preschool-aged children",
+      "abstract": "The study investigates the impact of the educational robot R1 on the development of emotional intelligence in preschool-aged children. Employing a convergent mixed methods design with a quasi-experimental pre-test/post-test structure and elements of an embedded case study, the research was conducted in a kindergarten in Athens with 21 children aged 4 to 6 years, including both typically and atypically developing children. Quantitative data were collected through rating rubrics, evaluation sheets, and worksheets, while qualitative insights were obtained via semi-structured interviews and observation. The findings revealed a significant increase in children's emotional intelligence scores across four domains—recognition of emotions, expression of emotions, regulation of emotions, and social skills—following the interventions. Children demonstrated enhanced emotional vocabulary, self-awareness, management of emotions, and collaborative behaviors. The robot served as a socially engaging tool, promoting both affective learning and peer interaction. These results support the integration of educational robotics into early childhood education to foster emotional and social development in inclusive and diverse classroom environments.",
       "authors": [
-        "Yacouba Ouattara",
-        "P. Doubran",
-        "K. M. Yao"
+        "Mavrogianni Gregoria",
+        "Chara Papoutsi",
+        "Konstantinos Skordoulis"
       ],
-      "venue": "Brain and Neuroscience Advances",
-      "published": "2025-07-01",
-      "url": "https://doi.org/10.1177/23982128251356029",
-      "query": "working memory digital learning"
+      "venue": "GSC Advanced Research and Reviews",
+      "published": "2025-07-30",
+      "url": "https://doi.org/10.30574/gscarr.2025.24.1.0188",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "704fc114279aa0e0bb66cab23a65a5d74d081876",
-      "title": "Embodied learning in the digital age: assessing the impact of gesture-based educational technology on working memory capacity, spatial reasoning, and engagement",
-      "abstract": "Embodied cognition theory underscores the close coupling of bodily action and cognition, suggesting that learning can be strengthened when language is enacted. However, in English as a Foreign Language (EFL) education, the instructional value of gesture-based digital interfaces remains underexamined beyond vocabulary outcomes, particularly in relation to working memory capacity, spatial reasoning, and learner engagement. Addressing this gap, the present study examined how gesture-mediated interactions shape cognitive and affective outcomes in an EFL context using a convergent parallel mixed-methods design. A total of 143 Grade 12 students participated in the study, with 74 were allocated to the experimental group (EG) and 69 to the control group (CG). Over a period of six weeks, EG participated in language tasks using Leap Motion, while CG received traditional instruction. Using a convergent parallel mixed-methods design, we administered three validated scales pre/post and collected open-ended responses from the experimental group; findings were integrated to interpret convergent quantitative and qualitative patterns. Working memory capacity, spatial reasoning, and engagement were measured using validated scales The quantitative analyses indicated that EG made significantly larger improvements in working memory capacity, spatial reasoning, and engagement compared to CG. Qualitative narratives supported these findings, highlighting increased motivation, deeper understanding, and greater agency among participants in EG, despite some initial technical challenges. These results approve that gesture-based instruction may offer a promising approach for enhancing EFL instruction, boosting cognitive abilities and strengthening classroom engagement.",
+      "paperId": "1f85242eef40b860dc772c551839c64f9805021c",
+      "title": "Object Recognition-Based Second Language Learning Educational Robot System for Chinese Preschool Children",
+      "abstract": "Research in psychology, pedagogy, and physiology has shown that learning a second language will be a great benefit to preschool children. Compared with adults, children have more advantages in learning, such as better pronunciation and intonation. However, because of children’s inattention, the effects of the second language education in many preschools are not ideal in China. To make children learn the second language effectively, it should be integrated into their daily lives and in line with their interests. In this paper, an educational robot system with object recognition technology is introduced, which aims to provide innovative second language learning services for preschool children in China. The proposed system combines object recognition and projection with English teaching and makes objects in daily life more interesting with projected animation to attract children’s attention. On the projection screen, children can interact with a robot by touch or movement and can easily trigger more interactive effects. To evaluate the effectiveness of the proposed system, we conducted an experiment, and the results showed that the system can improve the language learning efficiency for the Chinese preschool children by interacting with objects under proper guidance.",
       "authors": [
-        "W. Chang",
-        "Amhara Aberash"
+        "Qin Wu",
+        "Sirui Wang",
+        "Jiashuo Cao"
       ],
-      "venue": "BMC Psychology",
-      "published": "2026-02-06",
-      "url": "https://doi.org/10.1186/s40359-026-04089-1",
-      "query": "working memory digital learning"
+      "venue": "IEEE Access",
+      "published": "2019",
+      "url": "https://doi.org/10.1109/ACCESS.2018.2890438",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "d7b407ac033d2af04724a4a285f71f10ec2b27a0",
-      "title": "Screen inferiority in L2 reading: The role of working memory, proficiency, and digital device usage",
-      "abstract": "\n \n Screen-based reading has frequently been associated with lower comprehension than reading on paper, a phenomenon known as\n screen inferiority\n . Although cognitive capacity, linguistic knowledge, and digital usage vary across learners, it remains underexplored how individual-difference factors shape medium effects in second-language (L2) reading among adolescents. We investigated how reading on paper versus tablets affects L2 reading comprehension among 240 Korean eighth graders learning English and whether medium effects are moderated by working memory, L2 proficiency, and tablet experience. Participants completed comprehension tests under both conditions, along with a reading span task, a proficiency test, and a tablet-usage questionnaire. Results showed that participants performed worse on tablets than on paper; these gaps were larger among learners with higher spans and proficiency. In contrast, tablet experience did not interact with reading medium. These findings underscore the need for explicit instruction to support effective L2 reading on digital devices, even for high-performing learners.\n",
+      "paperId": "8f512823204abb6b2fa951f6210922118b682fbd",
+      "title": "The Impact of Educational Robotics on the Executive Functions of Preschool Children",
+      "abstract": "This quasi-experimental study examines the impact of an educational robotics program on the development of executive functions (EF) in preschool children in Morocco. Throughout the school year, 84 pupils from two schools in Rabat and Salé participated in a progressive program that combined unplugged activities with the exploration of the Bee-Bot robot. Five key dimensions (planning, working memory, cognitive flexibility, problem-solving, and collaboration) were assessed using a 22-indicator grid to measure the children’s progress in these areas. Data collection occurred over a seven-day period. Statistical analysis highlighted significant inter-dimensional correlations (0.533 ≤ r ≤ 0.931, p < 0.001), indicating a strong interdependence between the skills developed and higher mean scores for the early stages of the program (notably spatial planning and getting to grips with the Bee-Bot). Conversely, problem-solving and collaboration, although more demanding, appeared to be closely linked (r = 0.931), suggesting that the consolidation of individual problem-solving skills creates favorable conditions for mutual aid and collective work. These results confirm that the gradual, supervised integration of educational robotics can enhance executive functions in early childhood by engaging working memory, inhibitory control, and cognitive flexibility through structured, interactive activities. This study thus contributes to a better understanding of the potential of educational robotics in a non-Western context and lays the groundwork for future longitudinal and comparative research exploring how cultural and pedagogical factors influence early childhood learning outcomes.",
       "authors": [
-        "Hyeran Ryu",
-        "Ekaterina Sudina"
+        "M. Zemzami",
+        "Majda Zbat"
       ],
-      "venue": "Studies in Second Language Acquisition",
-      "published": "2026-06-09",
-      "url": "https://doi.org/10.1017/s0272263126101752",
-      "query": "working memory digital learning"
+      "venue": "Journal of Hunan University Natural Sciences",
+      "published": "2025-05-31",
+      "url": "https://doi.org/10.55463/issn.1674-2974.52.4.7",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "90b93437e4dd4c811c8e3672bd7795d10391147d",
-      "title": "Does digital slide accessibility matter? Considering undergraduates’ differences in external-storage effects of note-taking and working memory",
+      "paperId": "8cfad96bdc417260bea5e5a7771fe1efe57f96d8",
+      "title": "Educators' perspectives on working with a humanoid robot in a French preschool class for autistic children",
       "abstract": "Abstract not available.",
       "authors": [
-        "Hyeyoun Kim"
+        "Philippe Garnier",
+        "K. Martel",
+        "Julie Dachez"
       ],
-      "venue": "Instructional Science",
-      "published": "2026-05-11",
-      "url": "https://doi.org/10.1007/s11251-026-09798-z",
-      "query": "working memory digital learning"
+      "venue": "Journal of Research in Special Educational Needs",
+      "published": "2023-01-06",
+      "url": "https://doi.org/10.1111/1471-3802.12588",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "bd51e509e553f8ff9512c70b4df8f038b27f3ef1",
-      "title": "Combining working memory and speech data in a digital app for early detection of cognitive impairment in primary care",
-      "abstract": "Cognitive screening to detect mild cognitive impairment (MCI) and dementia in primary care settings has proven to be a challenging task. The ideal solution would be a brief, low‐burden assessment tool appropriate for use with individuals from diverse educational and cultural backgrounds that requires limited time and expertise from primary care providers. The purpose of this project was to develop a digital cognitive screening app derived from widely used cognitive and speech tasks using machine learning techniques.",
+      "paperId": "6cb24b8afd09742a74b5af2a25607ccf1db876ec",
+      "title": "The Impact of AI-based Smart Robot Education on the Sociality of Preschool Children Mediated by Creative Problem-solving and Linguistic Expression",
+      "abstract": "This research investigates the educational effectiveness of a smart robot program integrated with Artificial Intelligence (AI) on the sociality of preschool children, particularly focusing on the mediating roles of creative problem-solving and linguistic expression. As the Fourth Industrial Revolution reshapes the educational landscape, AI-driven media have emerged as a ‘Social catalyst’ that significantly accelerates early childhood development. This study employed a quantitative experimental design involving a large-scale sample of 300 preschool children (150 boys and 150 girls) aged 5 to 6 years from various kindergartens in Sejong City. The participants were divided into an experimental group (n=150) that engaged in a 12-week AI-based smart robot program and a control group (n=150) that followed a traditional curriculum. Data were collected through the Social Skills Rating System (SSRS), Torrance Tests of Creative Thinking (TTCT), and standardized linguistic assessments. The results demonstrate that the AI voice-interactive robot program significantly augmented children's sociality scores across all sub-factors. Notably, mediation analysis confirmed that linguistic expression acted as a more potent mediator (<i>b</i> =.45, <i>p</i> <.001) compared to creative problem-solving (<i>b</i> =.38, <i>p </i><.01), identifying vocal interaction as the primary driver of social development. Statistical analysis further revealed that these variables partially mediated the relationship between AI interaction and sociality. Furthermore, while both genders showed significant improvement, girls demonstrated higher engagement in emotional rapport via voice interaction, whereas boys exhibited greater gains in task-oriented problem-solving. This study concludes that pedagogically sound AI voice-interactive tools are effective for fostering social development in young learners. These findings provide practical implications for educators and media content developers to design immersive and interactive AI educational environments.",
       "authors": [
-        "R. Hilsabeck",
-        "Jeffrey N. Keller",
-        "Maya L. Henry"
+        "Hong Yun"
       ],
-      "venue": "Alzheimer's &amp; Dementia",
-      "published": "2023-12-01",
-      "url": "https://doi.org/10.1002/alz.079664",
-      "query": "working memory digital learning"
+      "venue": "Humanities and Social Sciences",
+      "published": "2026-03-31",
+      "url": "https://doi.org/10.11648/j.hss.20261402.18",
+      "query": "educational robot children preschool"
     },
     {
-      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
-      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
-      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
+      "paperId": "b4b2cc3c49e857d8c84b3fae2e2e84a83158718d",
+      "title": "Integrating social learning and experiential learning theories: a novel augmented reality approach to enhancing social skills in early childhood education",
+      "abstract": "Abstract This study examines the effectiveness of augmented reality (AR)-based learning in enhancing early childhood social skills through the integration of social learning theory and experiential learning theory. Using a quasi-experimental pre-test and post-test control group design, the research involved 30 children aged 5–6 years at Telkom Kindergarten, Makassar, Indonesia. The experimental group (n = 15) participated in AR-based storytelling activities designed to foster social skills, while the control group (n = 15) engaged in conventional learning activities. Statistical analysis showed that the AR intervention produced significantly greater effectiveness (N-Gain = 0.73) compared to conventional methods (N-Gain = 0.03). The experimental group demonstrated about 49% improvement across all social skills components, including teamwork, adjustment, interaction, self-control, empathy, discipline, and respect for others. The novelty of this research lies in combining observational learning with direct experiential engagement through AR, creating an effective environment for social skills development that surpasses single-framework approaches. These findings provide strong evidence that well-designed AR-based learning can transform early childhood education by addressing multiple aspects of social competence. The study highlights the potential of emerging technologies to support holistic child development when grounded in comprehensive theoretical foundations and implemented with child-centered pedagogical practices.",
       "authors": [
-        "Deabashis Sarker Tamal",
-        "MD. Mehedi Zaman Khan",
-        "Fahim Shahriar Prottoy"
+        "Herman",
+        "Herlina",
+        "Muhammad Hasan"
       ],
-      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
-      "published": "2026-04-16",
-      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
-      "query": "voice assistant children learning"
+      "venue": "",
+      "published": "2025-12-31",
+      "url": "https://doi.org/10.1080/2331186X.2025.2556889",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
-      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
-      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
+      "paperId": "14e920a21064bb7919a288ba25813544ee0d13c0",
+      "title": "The impact of augmented reality-assisted structured learning on environmental education for preschool children",
+      "abstract": "Environmental education in preschool plays a crucial role in achieving several of the United Nation’s Sustainable Development Goals (SDGs) by fostering young children’s early awareness, sustainable habits, and eco-conscious attitudes. However, implementing this education through traditional teaching methods is challenging due to the complexity of abstract concepts and a lack of the interactivity and engagement needed to meet the diverse needs of preschool children. This study proposed an Augmented Reality Mobile Game-Based Learning (ARM-GBL) approach with physical play to enhance preschool environmental education based on Mayer’s Selection-Organization-Integration (SOI) model. To examine the impact of ARM-GBL on preschool children’s socio-emotional collaboration and learning performance, a true experimental design was employed. Participants were randomly assigned to two groups: 13 in the ARM-GBL group and 14 in the Digital Game Based Learning (DGBL) group. Results showed that ARM-GBL significantly enhanced socio-emotional skills, such as teamwork and empathy, through collaborative and interactive loose parts play. Furthermore, the ARM-GBL group outperformed the DGBL group in learning performance, achieving better retention of environmental concepts and improved accuracy in tasks such as waste sorting. This research highlights the transformative potential of ARM-GBL by integrating AR technology with structured instructional frameworks and physical play. ARM-GBL effectively addresses both cognitive and socio-emotional developmental needs, offering an engaging and impactful approach to environmental education for preschool children.",
       "authors": [
-        "I. Khan",
-        "Hema Kumar Goru",
-        "G. L. Madhumati"
+        "A. Balcha",
+        "Hsiu-Ling Chen",
+        "Rakha Ramadhana A.B."
       ],
-      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
-      "published": "2024-05-03",
-      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
-      "query": "voice assistant children learning"
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-09-24",
+      "url": "https://doi.org/10.1007/s10639-025-13737-9",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
-      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
-      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
+      "paperId": "f47d95cf1b7cebfa8a80a113ebae8138490820e1",
+      "title": "Exploring The Future of Early Childhood Education : Research Trends and Implementation of Augmented Reality",
+      "abstract": "This study aims to examine the research trends and implementation of Augmented Reality (AR) technology in improving various aspects of child development, the challenges of its implementation, and the direction of future research in the context of digital education for early childhood. This study uses the Systematic Literature Review (SLR) method, with a bibliometric mapping approach and content analysis. A total of 17 articles were selected from the Scopus and DOAJ database in the period 2019–2024 for further analysis. The research findings show that the use of AR significantly enhances the learning experience to be more interactive, contextual, and enjoyable for children. In addition, AR has proven effective in conveying abstract concepts visually and helping to reinforce practical values such as financial responsibility from an early age. However, challenges such as limited infrastructure, access to technology, uneven teacher training, and excessive dependence on technology are major obstacles to the widespread implementation of AR. The implications of this study highlight the importance of increasing technological support in educational institutions, developing AR applications that are aligned with the curriculum, and continuous teacher training. Thus, AR has great potential as an innovative medium in early childhood education, as long as it is balanced with the right implementation strategy.",
       "authors": [
-        "Z. Pap",
-        "Z. Čović",
-        "Janos Simon"
+        "Ni Made Citariani",
+        "K. Agustini",
+        "Gde Wawan Sudhata"
       ],
-      "venue": "Symposium on Intelligent Systems and Informatics",
-      "published": "2021-09-16",
-      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
-      "query": "voice assistant children learning"
+      "venue": "Jurnal Paedagogy",
+      "published": "2025-07-25",
+      "url": "https://doi.org/10.33394/jp.v12i3.15581",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
-      "title": "Children's trust in and learning from voice assistants.",
-      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
+      "paperId": "6cbeb48ac894077016c9b05744111a83ba37a63f",
+      "title": "Towards Sustainable Education with the Use of Mobile Augmented Reality in Early Childhood and Primary Education: A Systematic Mapping",
+      "abstract": "Over the years, educational institutions have faced significant difficulties in the teaching process at all educational levels, due to lack of motivation, concentration, attention, and confidence, among other aspects. In this sense, information and communication technologies can be the answer to transform educational models. One of the most promising and accessible technologies in recent years is mobile augmented reality (MAR), which allows students to visualize content through a mobile device combining the real environment with a virtual environment, providing an interactive and digital vision of the physical world in real time. The appropriate use of digital technologies in early childhood and primary education can promote socialization, comprehension, learning, language development, attention, and other educational benefits. However, due to the novelty of this technology, there is limited research and a gap in the literature on the use of MAR at these educational levels. This research work, through systematic mapping, aims to give an overview of how AR and mobile devices have been used in the last decade, which academic areas have benefited from the use of this innovative academic approach, and the main benefits and problems of using this technology in early and primary education. The findings are encouraging and show that AR technology, together with mobile devices, can be used to support the teaching of science, mathematics, reading, language, geography, etc.",
       "authors": [
-        "Lauren N. Girouard-Hallam",
-        "Judith H. Danovitch"
+        "Santiago Criollo-C",
+        "Andrea Guerrero-Arias",
+        "Javier Guaña-Moya"
       ],
-      "venue": "Developmental Psychology",
-      "published": "2022-04-01",
-      "url": "https://doi.org/10.1037/dev0001318",
-      "query": "voice assistant children learning"
+      "venue": "Sustainability",
+      "published": "2024-01-31",
+      "url": "https://doi.org/10.3390/su16031192",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
-      "title": "Virtual Voice Assistant In Python (Friday)",
-      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
+      "paperId": "62ec17e919e7b84d74fbad56565d67e5eaa2eba3",
+      "title": "The effect of Augmented Reality (AR) supported geometric shape learning on children’s visual perceptual development in early childhood education",
+      "abstract": "ABSTRACT This study examined the impact of an Augmented Reality (AR)-based virtual application on preschool children's visual perception development in geometric shape learning. A quasi-experimental research design was employed. The study sample consisted of 26 preschool children, aged 5–6, from a public school in Türkiye. The children in the experimental group engaged with AR-supported materials, allowing them to explore geometric shapes interactively and listen to their properties in a virtual environment. Each child participated individually in the learning application for 50–60 minutes. The Frostig Visual Perception Test was administered as both a pre-test and post-test. Results indicated that the AR-based learning application had a statistically significant positive effect on preschool children's visual perception development.",
       "authors": [
-        "S. Uke",
-        "Hrishikesh Lokhande",
-        "Durva Lohar"
+        "Özge Özel",
+        "Buse Hançer",
+        "Aylin Sop"
       ],
-      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
-      "published": "2022-10-08",
-      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
-      "query": "voice assistant children learning"
+      "venue": "Interactive Learning Environments",
+      "published": "2025-04-18",
+      "url": "https://doi.org/10.1080/10494820.2025.2491627",
+      "query": "augmented reality early education"
+    },
+    {
+      "paperId": "5fdf2c038a7377dda75bb4401c47bc358ec11492",
+      "title": "HTKS-Kids: A tablet-based self-regulation measure to equitably assess young children's school readiness",
+      "abstract": "Background Technology advances make it increasingly possible to adapt direct behavioral assessments for classroom use. This study examined children's scores on HTKS-Kids, a new, largely child-led version of the established individual research assessment of self-regulation, Head-Toes-Knees-Shoulders-Revised task (HTKS-R). For the HTKS-Kids tablet-based assessment, which was facilitated by children's preschool teachers, we examined (1) preliminary reliability and validity; (2) variation in scores predicted by child age and background characteristics; and (3) indication that HTKS-Kids provides different information from teacher ratings of children. Method Participants included n = 79 4-year-old children from two urban areas in upstate New York, USA. Average parent education was 12.5 years, ranging 3–20. A researcher administered the HTKS-R to individual children, and teachers (eight white, two Latino) were trained to use the HTKS-Kids tablet-based assessment and asked to play once with each study child. Teachers also rated each child on 10 Child Behavior Rating Scale (CBRS) items about classroom self-regulation. Results We found evidence that (1) the HTKS-Kids captures variation in children's self-regulation and correlates positively with established measures, (2) parent education was the best predictor of HTKS-Kids scores, and (3) teachers rated Black children significantly worse and white children better on the CBRS, with the magnitude of group differences similar to the contribution of parent education. In contrast, Black and white children showed no score differences on HTKS-Kids. Implications The HTKS-Kids is a promising new tablet-based assessment of self-regulation that could replace or supplement traditional teacher ratings, which are often subject to implicit bias.",
+      "authors": [
+        "C. Cameron",
+        "Megan M. McClelland",
+        "Tammy Kwan"
+      ],
+      "venue": "Frontiers in Psychology",
+      "published": "2024-01-11",
+      "url": "https://doi.org/10.3389/fpsyg.2023.1202239",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "d96dbc51c722819ccaa32c8db3108c5b0b320145",
+      "title": "Relationship between touchscreen tablet usage time and attention performance in young children",
+      "abstract": "Abstract This study aims to investigate the relationships between touchscreen tablet usage time and attention performance in preschool children. Seventy-five young children with typical development were recruited. The accuracy rate and reaction time of their attention performance improved with age. Significant differences in accuracy rates, reaction time, and executive attention performance between young children who use touchscreen tablets more or less often were observed. Children who spent more time using touchscreen tablets had better accuracy rates and faster reaction time in the Attentional Network Task test. However, children who spent more time on tablets performed slower in terms of executive attention. These findings add to the understanding of the experience of using touchscreen tablets and its relationship with the attention performance of young children.",
+      "authors": [
+        "Yu Jin",
+        "Ling-Yi Lin"
+      ],
+      "venue": "Journal of Research on Technology in Education",
+      "published": "2021-03-29",
+      "url": "https://doi.org/10.1080/15391523.2021.1891995",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "7bccecd2dc0c1bac8aa022db1d35616f91ebd775",
+      "title": "Randomized Trial of Tablet Computers for Education and Learning in Children and Young People with Low Vision",
+      "abstract": "SIGNIFICANCE Mobile devices such as tablet computers have become widely available as mainstream devices and are also used in some schools, but there is an absence of robust information regarding the efficacy of any optical/electronic low vision device or tablet computer in supporting education of young people with low vision. PURPOSE A randomized controlled trial (RCT) is needed to measure the impact of tablet computers on education, specifically on independent access to educational material, in children and young people with low vision. We conducted a pilot RCT to determine the feasibility of conducting a full-scale trial. METHODS This was a randomized multicenter pilot trial across two sites in the United Kingdom and one site in India. Forty children and young people aged 10 to 18 years with low vision (best-corrected visual acuity for distance between <20/60 [0.48 logMAR] and 20/400 [1.30 logMAR] in the better eye) in the United Kingdom (n = 20) and India (n = 20) were randomized to two parallel arms, with a 1:1 allocation ratio, to control (n = 20) or intervention (n = 20). Control group participants received standard low vision care. The intervention group received a tablet computer (iPad) with low vision applications and instruction in its use, including accessibility features. Four primary outcomes included (1) 6-month recruitment rate, (2) retention of participants for 3 months, (3) acceptance/usage of device, and (4) accessibility of device. RESULTS Nineteen participants (95%) enrolled within 6 months in the United Kingdom, and 20 participants (100%), in India. Retention at 3 months was 85% (n = 17) in the United Kingdom and 95% (n = 19) in India. More than one half of participants reported using a tablet computer at school at least once every day. The majority (90%) found it easily accessible. CONCLUSIONS This study demonstrated that it is feasible to recruit children and young people with low vision into an international multicenter RCT of electronic assistive technology. Regardless of geographical location, children and young people with low vision reported using tablet computers at least once a day at school and accessed them easily.",
+      "authors": [
+        "V. K. Gothwal",
+        "R. Thomas",
+        "M. Crossland"
+      ],
+      "venue": "Optometry and Vision Science",
+      "published": "2018-08-27",
+      "url": "https://doi.org/10.1097/OPX.0000000000001270",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "0970ae9a2561971c92e5421c352270108b0193f2",
+      "title": "Young children's everyday concepts of the internet: A platform for cyber-safety education in the early years",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "S. Edwards",
+        "A. Nolan",
+        "Michael B. Henderson"
+      ],
+      "venue": "British Journal of Educational Technology",
+      "published": "2018",
+      "url": "https://doi.org/10.1111/bjet.12529",
+      "query": "tablet young children education"
+    },
+    {
+      "paperId": "e1fd19f908d9ec542d280555889366e6fe123cfe",
+      "title": "Using Visual Scene Displays With Young Children: An Evidence-Based Practice Synthesis",
+      "abstract": "We used the Council for Exceptional Children (CEC) Standards for evidence-based practices (EBP) in Special Education to evaluate the effectiveness research on the use of visual scene displays (VSDs) and video VSDs with young children with autism spectrum disorder and/or intellectual and developmental disability (ASD/IDD). VSDs and video VSDs are designed to support communication for individuals with speech or speech-related disabilities. In a high-tech VSD approach, images are programmed (on a tablet computer) with “hotspots” that produce speech when touched. Twelve of the 14 articles located for the review met all eight quality indicators as identified by the CEC Standards for evidence-based practices, and presented positive results for 37 of the 42 participants. We conclude that the use of VSDs and video VSDs can be considered an EBP in communication intervention for young children with ASD/IDD during social interaction activities commonly observed in early childhood settings.",
+      "authors": [
+        "Dana Patenaude",
+        "David McNaughton",
+        "Zhi-Gao Liang"
+      ],
+      "venue": "Journal of Special Education Technology",
+      "published": "2024-06-20",
+      "url": "https://doi.org/10.1177/01626434241263061",
+      "query": "tablet young children education"
     }
   ],
   "hot_topics": [
@@ -1092,12 +1165,13 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 62,
+      "count": 65,
       "keywords": [
         "AR",
+        "immersive",
+        "augmented reality",
         "virtual reality",
-        "VR",
-        "immersive"
+        "VR"
       ]
     },
     {
@@ -1105,41 +1179,27 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 27,
+      "count": 36,
       "keywords": [
-        "school",
         "classroom",
+        "school",
         "teacher",
-        "family",
-        "parent"
+        "parent",
+        "preschool teacher"
       ]
     },
     {
-      "id": "ai_tools",
-      "name": "AI工具与教育应用",
-      "subtitle": "AI Tools in Education",
-      "icon": "🤖",
+      "id": "social_emotional",
+      "name": "社会情感发展",
+      "subtitle": "Social-Emotional Development",
+      "icon": "❤️",
       "count": 17,
       "keywords": [
-        "machine learning",
-        "ChatGPT",
-        "GPT",
-        "artificial intelligence",
-        "generative AI"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 13,
-      "keywords": [
-        "working memory",
-        "cognitive development",
-        "metacognition",
-        "attention",
-        "cognitive load"
+        "emotion",
+        "social development",
+        "empathy",
+        "wellbeing",
+        "social-emotional"
       ]
     },
     {
@@ -1149,24 +1209,50 @@
       "icon": "🎮",
       "count": 12,
       "keywords": [
-        "play",
-        "personalized learning",
         "game-based",
         "game",
-        "gamification"
+        "play"
       ]
     },
     {
-      "id": "social_emotional",
-      "name": "社会情感发展",
-      "subtitle": "Social-Emotional Development",
-      "icon": "❤️",
+      "id": "ai_tools",
+      "name": "AI工具与教育应用",
+      "subtitle": "AI Tools in Education",
+      "icon": "🤖",
       "count": 11,
       "keywords": [
-        "emotion",
-        "empathy",
-        "social-emotional",
-        "social development"
+        "artificial intelligence",
+        "generative AI",
+        "ChatGPT",
+        "GPT",
+        "machine learning"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 10,
+      "keywords": [
+        "attention",
+        "executive function",
+        "working memory",
+        "self-regulation",
+        "metacognition"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 9,
+      "keywords": [
+        "mobile",
+        "tablet",
+        "digital media",
+        "digital learning"
       ]
     },
     {
@@ -1174,10 +1260,9 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 8,
+      "count": 7,
       "keywords": [
         "robot",
-        "voice assistant",
         "chatbot",
         "conversational agent"
       ]
@@ -1187,24 +1272,12 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 6,
-      "keywords": [
-        "vocabulary",
-        "reading",
-        "writing"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
       "count": 5,
       "keywords": [
-        "tablet",
-        "mobile",
-        "digital media",
-        "digital learning"
+        "vocabulary",
+        "language development",
+        "reading",
+        "writing"
       ]
     },
     {
@@ -1215,7 +1288,9 @@
       "count": 5,
       "keywords": [
         "computational thinking",
-        "coding"
+        "programming",
+        "coding",
+        "computer science"
       ]
     }
   ]
