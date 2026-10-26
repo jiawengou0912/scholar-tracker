@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 07:03 UTC",
+  "updated_at": "2026-10-26 07:10 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -74,6 +74,20 @@
     ],
     "British Journal of Educational Technology": [
       {
+        "title": "<scp>GenAI</scp>\n                    ‐based metacognitive prompting in collaborative inquiry: A comparison across diverse preconception groups",
+        "abstract": "Abstract\n                  \n                    \n                    Generative AI (GenAI) is increasingly integrated into collaborative inquiry to provide metacognitive prompting that scaffolds socially shared regulation of learning (SSRL). Understanding how such GenAI‐based metacognitive prompting is taken up through student–GenAI interactions is therefore critical. However, although learner–GenAI interaction processes have been widely examined, little is known about how learners' preconceptions shape their engagement with GenAI‐based metacognitive prompting. This study examined how groups with different or similar preconceptions about energy forms and conservation differed in their engagement with GenAI‐based metacognitive prompting during collaborative inquiry. Participants comprised 14 small groups, including eight groups with different preconceptions (D groups) and six groups with similar preconceptions (S groups). The distribution of learner‐generated inquiries directed to the written metacognitive AI (MAI) was largely comparable across groups. Lag sequential analysis revealed contrasting patterns in how groups evaluated the metacognitive prompts: D groups showed sustained positive or neutral evaluation of the prompts, whereas S groups showed sustained negative evaluation. Process mining further showed that AI query negotiation served as a hub in D groups' collaboration, connecting their conceptual discussions and task coordination. In S groups, by contrast, it formed part of a simpler, linear sequence of querying the AI and processing its responses. This study advances understanding of how preconception diversity shapes the processes and dynamics of human–AI collaboration. The findings show that AI‐mediated regulation varies depending on group‐level knowledge configurations.\n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Effective collaborative inquiry depends on learners' prior knowledge resources and their regulatory capacity.\n                            \n                            \n                              Preconceptions, as a core component of prior knowledge, shape how learners interpret problems and engage in conceptual discussion.\n                            \n                            \n                              GenAI‐based metacognitive prompting is designed to externalise metacognitive awareness and scaffold learners' regulatory processes.\n                            \n                            \n                              Regulation unfolds through temporally ordered interaction sequences that reveal underlying regulatory dynamics.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              This study compares how different preconception groups and similar preconception groups engage with GenAI‐based metacognitive prompting during collaborative scientific inquiry.\n                            \n                            \n                              GenAI‐based metacognitive prompting responded to similar types of learner inquiries across groups.\n                            \n                            \n                              GenAI query interaction in different preconception groups appeared more integrated with conceptual and task discussion, whereas in similar preconception groups it followed a more linear, output‐focused path.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              GenAI‐based metacognitive prompting may benefit from incorporating a preliminary classification layer that distinguishes between metacognitive prompts and procedural or informational requests.\n                            \n                            \n                              Teachers may consider preconception diversity when forming groups, as different epistemic configurations appear to give rise to distinct patterns of GenAI‐learner collaboration.\n                            \n                            \n                              Policymakers and designers should recognise that GenAI functions as a co‐regulator within collaborative settings, and its impact depends on how it is interactionally integrated into group interactional trajectories.",
+        "doi": "10.1111/bjet.70095",
+        "url": "https://doi.org/10.1111/bjet.70095",
+        "authors": [
+          "Mengke Wang",
+          "Joni Lämsä",
+          "Marta Sobocinski"
+        ],
+        "published": "2026-10-25",
+        "journal": "British Journal of Educational Technology",
+        "venue": "British Journal of Educational Technology"
+      },
+      {
         "title": "Generative\n                    <scp>AI</scp>\n                    as a team moderator in\n                    <scp>CSCL</scp>\n                    : Facilitating students' multidimensional engagement through adaptive scaffolding for socially shared regulation of learning",
         "abstract": "Abstract\n                  \n                    \n                    Socially shared regulation of learning (SSRL) is essential for successful collaboration, yet effectively scaffolding it remains challenging because regulatory needs are dynamic and context‐dependent. While generative AI (GenAI) offers potential for adaptive support, current applications in collaborative learning largely position it as a content‐oriented tutor for knowledge explanation or idea generation, leaving its role as a process‐oriented team moderator for scaffolding SSRL processes underexplored. To address this gap, we conducted a 16‐week quasi‐experiment with 64 undergraduates in China, comparing adaptive SSRL scaffolding delivered by a GenAI agent in the adaptive‐SSRL condition with static scaffolding via structured digital worksheets in the static‐SSRL condition. Survey data and group discussion transcripts were analysed using statistical methods and epistemic network analysis. Results indicated several differences in students' multidimensional engagement between the two conditions: (1) Behaviourally, the adaptive‐SSRL group showed significantly higher participation equality, although participation intensity did not differ significantly between groups. (2) Cognitively, the adaptive‐SSRL group demonstrated deeper cognitive engagement, reflected in more advanced cognitive presence phases and more integrative, solution‐oriented discourse patterns. (3) Emotionally, the adaptive‐SSRL group reported significantly higher overall emotional engagement, particularly feeling more relaxed during collaboration and more connected with peers. These findings extend human–AI collaboration research by showing that GenAI can function as an SSRL‐informed team moderator rather than a content‐oriented tutor. They also offer design implications for GenAI‐enabled adaptive SSRL scaffolding and human–AI role division in CSCL.\n                  \n                  \n                    \n                    \n                      \n                        \n                          Practitioner notes\n                        \n                        \n                          What is already known about this topic\n                          \n                            \n                              Socially shared regulation of learning (SSRL) is critical for successful collaboration and is closely associated with the quality of student engagement.\n                            \n                            \n                              While static scaffolds (eg, worksheets) provide a basic regulatory structure, they fail to adapt to the dynamic and emergent needs of collaborating teams.\n                            \n                            \n                              Generative AI (GenAI) is increasingly used for personalised content support, yet its potential as a process‐oriented team moderator remains underexplored.\n                            \n                          \n                        \n                        \n                          What this paper adds\n                          \n                            \n                              This study introduced SSRLAgent, a GenAI agent grounded in SSRL theory and established principles of collective metacognitive support, to provide adaptive and interactive regulatory scaffolding.\n                            \n                            \n                              In a 16‐week quasi‐experiment, we compared GenAI‐enabled adaptive SSRL scaffolding (SSRLAgent) with static scaffolding (structured digital worksheets) in CSCL.\n                            \n                            \n                              Adaptive‐SSRL scaffolding was associated with higher‐quality engagement: greater participation equality, deeper cognitive engagement and higher overall emotional engagement.\n                            \n                          \n                        \n                        \n                          Implications for practice and/or policy\n                          \n                            \n                              The study underscores the necessity of shifting SSRL scaffolding from static, ‘one‐size‐fits‐all’ support to adaptive GenAI interventions to improve collaborative engagement.\n                            \n                            \n                              The findings provide design guidance for developing SSRL agents that are embedded in the shared interaction space and responsive to groups' moment‐to‐moment regulatory needs.\n                            \n                            \n                              The study suggests a productive human–AI division of labour: GenAI agents can support process coordination and regulatory prompting, while teachers and peers remain essential for relationally complex forms of support that collaborative learning requires.",
         "doi": "10.1111/bjet.70096",
@@ -108,19 +122,6 @@
         "url": "https://doi.org/10.1111/bjet.70097",
         "authors": [],
         "published": "2026-11",
-        "journal": "British Journal of Educational Technology",
-        "venue": "British Journal of Educational Technology"
-      },
-      {
-        "title": "Social support, affective factors, and informal digital learning of Chinese (\n                    <scp>IDLC</scp>\n                    )",
-        "abstract": "Abstract\n                  This study examines how social support and affective factors (enjoyment, boredom, embarrassment, and shyness) shape young learners' informal digital learning of Chinese (IDLC) in New Zealand. Drawing on proactive language learning theory, we conceptualized IDLC as learners' autonomous involvement with Mandarin Chinese through digital technologies beyond the classroom. Survey data from 529 primary and secondary school students in Auckland were analysed using structural equation modelling. Results showed that social support significantly predicted IDLC both directly and indirectly via enjoyment as a partial mediator. Social support was also associated with higher enjoyment and lower levels of boredom and shyness, although these effects were modest. In contrast, boredom, embarrassment and shyness did not directly predict IDLC. These findings highlight the importance of supportive social environments and positive affect in fostering young learners' participation in out‐of‐class Chinese learning, while negative emotions appear less constraining in this context. The study extends informal language learning research to languages other than English and offers implications for Chinese language education in New Zealand.\n                  \n                    \n                      \n                        Practitioner notes\n                      \n                      \n                        What is already known about this topic\n                        \n                          \n                            \n                              Informal digital language learning has become an important complement to classroom‐based language instruction, particularly for young learners who regularly engage with digital media.\n                            \n                            \n                              Social support from family members, peers and teachers is known to facilitate students' motivation and persistence in language learning.\n                            \n                            \n                              Affective factors such as enjoyment, boredom, embarrassment and shyness influence learners' participation in second language learning, especially in formal classroom contexts.\n                            \n                          \n                        \n                      \n                      \n                        What this paper adds\n                        \n                          \n                            \n                              This study extends research on informal digital language learning to Chinese as a target language other than English, focusing on young students in the New Zealand context.\n                            \n                            \n                              It shows that social support and enjoyment are key predictors of IDLC, with enjoyment partially mediating the effect of social support.\n                            \n                            \n                              The findings suggest that negative affective factors (boredom, embarrassment and shyness) do not directly constrain IDLC, highlighting important differences between formal classroom learning and informal digital learning environments.\n                            \n                          \n                        \n                      \n                      \n                        Implications for practice and policy\n                        \n                          \n                            \n                              Teachers and schools can play an active role in legitimizing and encouraging IDLC by recognizing and valuing students' out‐of‐class digital engagement with Chinese.\n                            \n                            \n                              Pedagogical efforts should prioritize fostering enjoyment by connecting classroom instruction with students' digital interests, such as short videos, music, games and online interaction.\n                            \n                            \n                              Collaboration with families and community language schools can strengthen supportive learning ecologies that encourage informal digital learning.\n                            \n                            \n                              Educational policies should view informal digital learning not as peripheral, but as a valuable extension of formal language education, particularly for languages with limited instructional time such as Chinese.",
-        "doi": "10.1111/bjet.70084",
-        "url": "https://doi.org/10.1111/bjet.70084",
-        "authors": [
-          "Guangxiang Leon Liu",
-          "Xian Zhao"
-        ],
-        "published": "2026-10-8",
         "journal": "British Journal of Educational Technology",
         "venue": "British Journal of Educational Technology"
       }
@@ -532,6 +533,48 @@
     ],
     "Education and Information Technologies": [
       {
+        "title": "Rethinking student examinations in STEM education in the age of generative AI: evidence from a controlled experiment",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14178-8",
+        "url": "https://doi.org/10.1007/s10639-026-14178-8",
+        "authors": [
+          "Dizza Beimel",
+          "Meital Amzalag",
+          "Rina Zviel-Girshin"
+        ],
+        "published": "2026-10-26",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Beyond the dashboard: co-designing actionable learning analytics for primary education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14172-0",
+        "url": "https://doi.org/10.1007/s10639-026-14172-0",
+        "authors": [
+          "Paraskevi Topali",
+          "Nieske Coetsier",
+          "Onuralp Ulusoy"
+        ],
+        "published": "2026-10-26",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
+        "title": "Interactive pseudo-holograms: examining the effects of interactivity and social dynamics on learning outcomes",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s10639-026-14171-1",
+        "url": "https://doi.org/10.1007/s10639-026-14171-1",
+        "authors": [
+          "Michael Wei Wen Thong",
+          "Tissa Chandesa",
+          "Kher Hui Ng"
+        ],
+        "published": "2026-10-26",
+        "journal": "Education and Information Technologies",
+        "venue": "Education and Information Technologies"
+      },
+      {
         "title": "Balancing empowerment and threat: deciphering the sustainable integration of Gen AI in creative pedagogy",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s10639-026-14175-x",
@@ -556,45 +599,6 @@
           "Neni Hermita"
         ],
         "published": "2026-10-24",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Are AI Multimodal Learning Assistants Up to the Task? Evaluating NotebookLM Through the Task-Technology Fit Model",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14126-6",
-        "url": "https://doi.org/10.1007/s10639-026-14126-6",
-        "authors": [
-          "Mohammad Amin Kuhail",
-          "Nazik Alturki",
-          "Mona Mesfer Alshardan"
-        ],
-        "published": "2026-10-19",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Negotiating agency: university students’ experiences of co-creating content with generative AI",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14056-3",
-        "url": "https://doi.org/10.1007/s10639-026-14056-3",
-        "authors": [
-          "Chaoqun Lu",
-          "Mingyue Michelle Gu"
-        ],
-        "published": "2026-10-19",
-        "journal": "Education and Information Technologies",
-        "venue": "Education and Information Technologies"
-      },
-      {
-        "title": "Retraction Note to: Escape rooms technology as a way of teaching mathematics to secondary school students",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s10639-026-14173-z",
-        "url": "https://doi.org/10.1007/s10639-026-14173-z",
-        "authors": [
-          "Mansour Saleh Alabdulaziz"
-        ],
-        "published": "2026-11",
         "journal": "Education and Information Technologies",
         "venue": "Education and Information Technologies"
       }
@@ -947,70 +951,144 @@
   },
   "keyword_papers": [
     {
-      "paperId": "62c2fdf86acfbb92f00559cec843b3d3d273f7d2",
-      "title": "Effects of screen-based task learning and geographical environment on the cognitive performance of primary school students: Assessment of working memory",
-      "abstract": "Understanding the neurocognitive impact of digital integration in education is essential, particularly in sub-Saharan Africa, where socio-economic and geographical disparities amplify the need for effective learning strategies. This study investigated how visuospatial working memory performance is affected by the modality of task presentation (screen versus print) and geographical context (urban, economically advantaged region versus rural, economically disadvantaged region) in Ivorian primary school students. We employed a behavioural approach with 222 students (aged 4–13). Students from urban (Abidjan) and rural (Man) schools were assigned to perform a visuospatial working memory task presented either on a computer screen or using printed physical materials. An analysis of covariance, with age as a covariate, revealed that students performing the task on-screen showed significantly better performance (fewer errors) compared to those using printed materials (p < 0.001). A significant interaction between presentation modality and geographical context was also found (p = 0.009). Specifically, the performance difference between screen and print modalities was larger in the urban setting, primarily due to urban students performing more poorly with printed materials compared to rural students in that same condition; rural students using printed materials outperformed urban students using printed materials (post hoc, p = 0.002). No significant difference in performance on screen-based tasks was found between urban and rural students. The main effect of geographical context was not significant. These findings suggest potential cognitive benefits of screen-based presentation but highlight a complex interplay with geographical context, which itself is intertwined with socio-economic factors and initial age differences that were statistically controlled. Future research should further incorporate direct socio-economic status controls and explore factors like motivation and task engagement, alongside neuroimaging approaches, to elucidate the underlying mechanisms.",
+      "paperId": "b4b2cc3c49e857d8c84b3fae2e2e84a83158718d",
+      "title": "Integrating social learning and experiential learning theories: a novel augmented reality approach to enhancing social skills in early childhood education",
+      "abstract": "Abstract This study examines the effectiveness of augmented reality (AR)-based learning in enhancing early childhood social skills through the integration of social learning theory and experiential learning theory. Using a quasi-experimental pre-test and post-test control group design, the research involved 30 children aged 5–6 years at Telkom Kindergarten, Makassar, Indonesia. The experimental group (n = 15) participated in AR-based storytelling activities designed to foster social skills, while the control group (n = 15) engaged in conventional learning activities. Statistical analysis showed that the AR intervention produced significantly greater effectiveness (N-Gain = 0.73) compared to conventional methods (N-Gain = 0.03). The experimental group demonstrated about 49% improvement across all social skills components, including teamwork, adjustment, interaction, self-control, empathy, discipline, and respect for others. The novelty of this research lies in combining observational learning with direct experiential engagement through AR, creating an effective environment for social skills development that surpasses single-framework approaches. These findings provide strong evidence that well-designed AR-based learning can transform early childhood education by addressing multiple aspects of social competence. The study highlights the potential of emerging technologies to support holistic child development when grounded in comprehensive theoretical foundations and implemented with child-centered pedagogical practices.",
       "authors": [
-        "Yacouba Ouattara",
-        "P. Doubran",
-        "K. M. Yao"
+        "Herman",
+        "Herlina",
+        "Muhammad Hasan"
       ],
-      "venue": "Brain and Neuroscience Advances",
-      "published": "2025-07-01",
-      "url": "https://doi.org/10.1177/23982128251356029",
-      "query": "working memory digital learning"
+      "venue": "",
+      "published": "2025-12-31",
+      "url": "https://doi.org/10.1080/2331186X.2025.2556889",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "704fc114279aa0e0bb66cab23a65a5d74d081876",
-      "title": "Embodied learning in the digital age: assessing the impact of gesture-based educational technology on working memory capacity, spatial reasoning, and engagement",
-      "abstract": "Embodied cognition theory underscores the close coupling of bodily action and cognition, suggesting that learning can be strengthened when language is enacted. However, in English as a Foreign Language (EFL) education, the instructional value of gesture-based digital interfaces remains underexamined beyond vocabulary outcomes, particularly in relation to working memory capacity, spatial reasoning, and learner engagement. Addressing this gap, the present study examined how gesture-mediated interactions shape cognitive and affective outcomes in an EFL context using a convergent parallel mixed-methods design. A total of 143 Grade 12 students participated in the study, with 74 were allocated to the experimental group (EG) and 69 to the control group (CG). Over a period of six weeks, EG participated in language tasks using Leap Motion, while CG received traditional instruction. Using a convergent parallel mixed-methods design, we administered three validated scales pre/post and collected open-ended responses from the experimental group; findings were integrated to interpret convergent quantitative and qualitative patterns. Working memory capacity, spatial reasoning, and engagement were measured using validated scales The quantitative analyses indicated that EG made significantly larger improvements in working memory capacity, spatial reasoning, and engagement compared to CG. Qualitative narratives supported these findings, highlighting increased motivation, deeper understanding, and greater agency among participants in EG, despite some initial technical challenges. These results approve that gesture-based instruction may offer a promising approach for enhancing EFL instruction, boosting cognitive abilities and strengthening classroom engagement.",
+      "paperId": "14e920a21064bb7919a288ba25813544ee0d13c0",
+      "title": "The impact of augmented reality-assisted structured learning on environmental education for preschool children",
+      "abstract": "Environmental education in preschool plays a crucial role in achieving several of the United Nation’s Sustainable Development Goals (SDGs) by fostering young children’s early awareness, sustainable habits, and eco-conscious attitudes. However, implementing this education through traditional teaching methods is challenging due to the complexity of abstract concepts and a lack of the interactivity and engagement needed to meet the diverse needs of preschool children. This study proposed an Augmented Reality Mobile Game-Based Learning (ARM-GBL) approach with physical play to enhance preschool environmental education based on Mayer’s Selection-Organization-Integration (SOI) model. To examine the impact of ARM-GBL on preschool children’s socio-emotional collaboration and learning performance, a true experimental design was employed. Participants were randomly assigned to two groups: 13 in the ARM-GBL group and 14 in the Digital Game Based Learning (DGBL) group. Results showed that ARM-GBL significantly enhanced socio-emotional skills, such as teamwork and empathy, through collaborative and interactive loose parts play. Furthermore, the ARM-GBL group outperformed the DGBL group in learning performance, achieving better retention of environmental concepts and improved accuracy in tasks such as waste sorting. This research highlights the transformative potential of ARM-GBL by integrating AR technology with structured instructional frameworks and physical play. ARM-GBL effectively addresses both cognitive and socio-emotional developmental needs, offering an engaging and impactful approach to environmental education for preschool children.",
       "authors": [
-        "W. Chang",
-        "Amhara Aberash"
+        "A. Balcha",
+        "Hsiu-Ling Chen",
+        "Rakha Ramadhana A.B."
       ],
-      "venue": "BMC Psychology",
-      "published": "2026-02-06",
-      "url": "https://doi.org/10.1186/s40359-026-04089-1",
-      "query": "working memory digital learning"
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-09-24",
+      "url": "https://doi.org/10.1007/s10639-025-13737-9",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "90b93437e4dd4c811c8e3672bd7795d10391147d",
-      "title": "Does digital slide accessibility matter? Considering undergraduates’ differences in external-storage effects of note-taking and working memory",
-      "abstract": "Abstract not available.",
+      "paperId": "f47d95cf1b7cebfa8a80a113ebae8138490820e1",
+      "title": "Exploring The Future of Early Childhood Education : Research Trends and Implementation of Augmented Reality",
+      "abstract": "This study aims to examine the research trends and implementation of Augmented Reality (AR) technology in improving various aspects of child development, the challenges of its implementation, and the direction of future research in the context of digital education for early childhood. This study uses the Systematic Literature Review (SLR) method, with a bibliometric mapping approach and content analysis. A total of 17 articles were selected from the Scopus and DOAJ database in the period 2019–2024 for further analysis. The research findings show that the use of AR significantly enhances the learning experience to be more interactive, contextual, and enjoyable for children. In addition, AR has proven effective in conveying abstract concepts visually and helping to reinforce practical values such as financial responsibility from an early age. However, challenges such as limited infrastructure, access to technology, uneven teacher training, and excessive dependence on technology are major obstacles to the widespread implementation of AR. The implications of this study highlight the importance of increasing technological support in educational institutions, developing AR applications that are aligned with the curriculum, and continuous teacher training. Thus, AR has great potential as an innovative medium in early childhood education, as long as it is balanced with the right implementation strategy.",
       "authors": [
-        "Hyeyoun Kim"
+        "Ni Made Citariani",
+        "K. Agustini",
+        "Gde Wawan Sudhata"
       ],
-      "venue": "Instructional Science",
-      "published": "2026-05-11",
-      "url": "https://doi.org/10.1007/s11251-026-09798-z",
-      "query": "working memory digital learning"
+      "venue": "Jurnal Paedagogy",
+      "published": "2025-07-25",
+      "url": "https://doi.org/10.33394/jp.v12i3.15581",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "d7b407ac033d2af04724a4a285f71f10ec2b27a0",
-      "title": "Screen inferiority in L2 reading: The role of working memory, proficiency, and digital device usage",
-      "abstract": "\n \n Screen-based reading has frequently been associated with lower comprehension than reading on paper, a phenomenon known as\n screen inferiority\n . Although cognitive capacity, linguistic knowledge, and digital usage vary across learners, it remains underexplored how individual-difference factors shape medium effects in second-language (L2) reading among adolescents. We investigated how reading on paper versus tablets affects L2 reading comprehension among 240 Korean eighth graders learning English and whether medium effects are moderated by working memory, L2 proficiency, and tablet experience. Participants completed comprehension tests under both conditions, along with a reading span task, a proficiency test, and a tablet-usage questionnaire. Results showed that participants performed worse on tablets than on paper; these gaps were larger among learners with higher spans and proficiency. In contrast, tablet experience did not interact with reading medium. These findings underscore the need for explicit instruction to support effective L2 reading on digital devices, even for high-performing learners.\n",
+      "paperId": "6cbeb48ac894077016c9b05744111a83ba37a63f",
+      "title": "Towards Sustainable Education with the Use of Mobile Augmented Reality in Early Childhood and Primary Education: A Systematic Mapping",
+      "abstract": "Over the years, educational institutions have faced significant difficulties in the teaching process at all educational levels, due to lack of motivation, concentration, attention, and confidence, among other aspects. In this sense, information and communication technologies can be the answer to transform educational models. One of the most promising and accessible technologies in recent years is mobile augmented reality (MAR), which allows students to visualize content through a mobile device combining the real environment with a virtual environment, providing an interactive and digital vision of the physical world in real time. The appropriate use of digital technologies in early childhood and primary education can promote socialization, comprehension, learning, language development, attention, and other educational benefits. However, due to the novelty of this technology, there is limited research and a gap in the literature on the use of MAR at these educational levels. This research work, through systematic mapping, aims to give an overview of how AR and mobile devices have been used in the last decade, which academic areas have benefited from the use of this innovative academic approach, and the main benefits and problems of using this technology in early and primary education. The findings are encouraging and show that AR technology, together with mobile devices, can be used to support the teaching of science, mathematics, reading, language, geography, etc.",
       "authors": [
-        "Hyeran Ryu",
-        "Ekaterina Sudina"
+        "Santiago Criollo-C",
+        "Andrea Guerrero-Arias",
+        "Javier Guaña-Moya"
       ],
-      "venue": "Studies in Second Language Acquisition",
-      "published": "2026-06-09",
-      "url": "https://doi.org/10.1017/s0272263126101752",
-      "query": "working memory digital learning"
+      "venue": "Sustainability",
+      "published": "2024-01-31",
+      "url": "https://doi.org/10.3390/su16031192",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "bd51e509e553f8ff9512c70b4df8f038b27f3ef1",
-      "title": "Combining working memory and speech data in a digital app for early detection of cognitive impairment in primary care",
-      "abstract": "Cognitive screening to detect mild cognitive impairment (MCI) and dementia in primary care settings has proven to be a challenging task. The ideal solution would be a brief, low‐burden assessment tool appropriate for use with individuals from diverse educational and cultural backgrounds that requires limited time and expertise from primary care providers. The purpose of this project was to develop a digital cognitive screening app derived from widely used cognitive and speech tasks using machine learning techniques.",
+      "paperId": "62ec17e919e7b84d74fbad56565d67e5eaa2eba3",
+      "title": "The effect of Augmented Reality (AR) supported geometric shape learning on children’s visual perceptual development in early childhood education",
+      "abstract": "ABSTRACT This study examined the impact of an Augmented Reality (AR)-based virtual application on preschool children's visual perception development in geometric shape learning. A quasi-experimental research design was employed. The study sample consisted of 26 preschool children, aged 5–6, from a public school in Türkiye. The children in the experimental group engaged with AR-supported materials, allowing them to explore geometric shapes interactively and listen to their properties in a virtual environment. Each child participated individually in the learning application for 50–60 minutes. The Frostig Visual Perception Test was administered as both a pre-test and post-test. Results indicated that the AR-based learning application had a statistically significant positive effect on preschool children's visual perception development.",
       "authors": [
-        "R. Hilsabeck",
-        "Jeffrey N. Keller",
-        "Maya L. Henry"
+        "Özge Özel",
+        "Buse Hançer",
+        "Aylin Sop"
       ],
-      "venue": "Alzheimer's &amp; Dementia",
-      "published": "2023-12-01",
-      "url": "https://doi.org/10.1002/alz.079664",
-      "query": "working memory digital learning"
+      "venue": "Interactive Learning Environments",
+      "published": "2025-04-18",
+      "url": "https://doi.org/10.1080/10494820.2025.2491627",
+      "query": "augmented reality early education"
+    },
+    {
+      "paperId": "e9567e933934c4d12567a736d23fcd9008562c4e",
+      "title": "Beyond efficiency: Empirical insights on generative AI's impact on cognition, metacognition and epistemic agency in learning",
+      "abstract": "Generative AI (GenAI) promises to reshape education, yet, beyond gains in efficiency and scalability, crucial questions remain regarding its deeper cognitive, epistemic, socio‐emotional and ethical implications for learners. This special section collects emerging empirical evidence from diverse educational settings to examine how interactions with advanced GenAI systems—ranging from intelligent tutors and conversational agents to AI‐generated feedback providers—shape learners' cognitive engagement, epistemic agency, metacognitive regulation and emotional relationships with technology. While studies reveal evidence of positive effects in personalised guidance, collaborative inquiry and enhanced self‐reflection, findings also highlight risks such as diminished epistemic vigilance, superficial learning and emotional dependence on AI interlocutors. These insights advocate for an educational re‐imagining that actively experiments with novel AI technologies while continuously gathering and critically evaluating evidence—envisioning education not merely as a spectrum ranging from fully human‐ or AI‐led activities but also as genuinely collaborative endeavours that balance human intelligence and AI capabilities in meaningful and ethically grounded partnerships. Looking ahead, in this editorial, we propose an interdisciplinary research roadmap that urges deeper examination of the cognitive and neural consequences associated with sustained AI exposure, together with the development of comprehensive frameworks to cultivate AI literacy and evaluative judgement. It also encourages rigorous assessment of the long‐term ethical implications of increasingly blurred human‐AI boundaries. Ultimately, advancing education in GenAI‐infused contexts requires proactive engagement with these emerging complexities, so that teachers and learners not only survive in an AI‐infused future but also creatively, critically and ethically co‐author it.",
+      "authors": [
+        "Li-Xiang Yan",
+        "Viktoria Pammer-Schindler",
+        "Caitlin Mills"
+      ],
+      "venue": "British Journal of Educational Technology",
+      "published": "2025-07-24",
+      "url": "https://doi.org/10.1111/bjet.70000",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "1192e1968a26114ec854e2bb46ecbe4cbda8c238",
+      "title": "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)",
+      "abstract": "This study comprehensively analyses how AI tools scaffold and share metacognitive processes, thereby facilitating students’ learning in STEM classrooms through a mixed-method research synthesis combining bibliometric analysis and systematic review. Using a convergent parallel mixed-methods design, the study draws on 135 peer-reviewed articles published between 2005 and 2025 to map publication trends, author and journal productivity, keyword patterns, and theoretical frameworks. Data were retrieved from Scopus and Web of Science using structured Boolean searches and analysed using Biblioshiny and VOSviewer. Guided by PRISMA 2020 protocols, 24 studies were selected for in-depth qualitative review. Findings show that while most research remains grounded in human-centred conceptualisations of metacognition, there are emerging indications of posthumanist framings, where AI systems are positioned as co-regulators of learning. Tools like learning analytics, intelligent tutoring systems, and generative AI platforms have shifted the discourse from individual reflection to system-level regulation and distributed cognition. The study is anchored in Flavell’s theory of metacognition, General Systems Theory, and posthumanist perspectives to interpret this evolution. Educational implications highlight the need to reconceptualise pedagogical roles, integrate AI literacy in teacher preparation, and prioritise ethical, reflective AI design. The review provides a structured synthesis of theoretical, empirical, and conceptual trends, offering insights into how human–machine collaboration is reshaping learning by scaffolding and co-regulating students’ metacognitive development in STEM education.",
+      "authors": [
+        "Maria Tsakeni",
+        "S. C. Nwafor",
+        "Moeketsi Mosia"
+      ],
+      "venue": "Journal of Intelligence",
+      "published": "2025-11-01",
+      "url": "https://doi.org/10.3390/jintelligence13110148",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "ad9cf63bfef0e3e3de1393b0f2b662f41a54b22e",
+      "title": "The cognitive mirror: a framework for AI-powered metacognition and self-regulated learning",
+      "abstract": "The dominant paradigm of generative artificial intelligence (AI) in education positions it as an omniscient oracle, a model that risks hindering genuine learning by fostering cognitive offloading.This study proposes a fundamental shift from “AI as Oracle” model to a “Cognitive Mirror” paradigm, which reconceptualizes AI as a teachable novice engineered to reflect the quality of a learner’s explanation. The core innovation is the repurposing of AI safety guardrails as didactic mechanisms to deliberately sculpt AI’s ignorance, creating a “pedagogically useful deficit.” This conceptual shift enables a detailed implementation of the “learning by teaching” principle.Within this paradigm, a framework driven by a Teaching Quality Index is introduced. This metric assesses the learner’s explanation and activates an instructional guidance level to modulate the AI’s responses, from feigning confusion to asking clarifying questions.Grounded in learning science principles, such as the Protégé Effect and Reflective Practice, this approach positions the AI as a metacognitive partner. It may support a shift from knowledge transfer to knowledge construction, and a re-orientation from answer correctness to explanation quality in the contexts we describe.By re-centering human agency, the “Cognitive Mirror” externalizes the learner’s thought processes, making their misconceptions objects of repair. This study discusses the implications on assessment, addresses critical risks, including algorithmic bias, and outlines a research agenda for a symbiotic human-AI coexistence that promotes effortful work at the heart of deep learning.",
+      "authors": [
+        "H. Tomisu",
+        "Junya Ueda",
+        "Tsukasa Yamanaka"
+      ],
+      "venue": "Frontiers in Education",
+      "published": "2025-10-09",
+      "url": "https://doi.org/10.3389/feduc.2025.1697554",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "5cc59cd8a20745bdcdb0221b6e35fffeec8ed8c7",
+      "title": "Generative AI tool use enhances academic achievement in sustainable education through shared metacognition and cognitive offloading among preservice teachers",
+      "abstract": "The integration of generative artificial intelligence tools in education has emerged as a transformative approach to enhancing learning outcomes, particularly in the context of sustainable development goals (SDG4). Therefore, the present study investigates the connection between generative artificial intelligence tool usage (GenAITU) and academic achievement (AA) in the context of SDG4. We assessed the mediating role of shared metacognition (SMC) and cognitive offloading (COL) in this relationship among preservice teachers (PSTs). The indicators, including performance expectancy (PE), effort expectancy (EE), facilitating conditions (FC), and use behavior (UB), are derived from adapting the Unified Theory of Acceptance and Use of Technology 2 (UTAUT2) for GenAITU. The authors surveyed 465 students from five universities in Wuhan, China, using a 7-point Likert scale through a time-lag design. Statistical analysis was performed through partial least squares structural equation modeling (PLS-SEM), to determine the relationship between variables. Findings indicated that two components of GenAITU, namely PE and UB, showed significant positive associations with AA, while the other two, EE and FC, did not show significant and positive relationships with AA. Results also showed that three dimensions of GenAITU, namely EE, FC, and UB have a positive and significant association with SMC while PE has a positive and significant connection with SMC. All four components of GenAITU like PE, EE, FC, and UB have positive and significant links with COL. SMC and COL have a positive and significant relationship with AA. Results also indicated that SMC mediated the connections between GenAITU (EE, FC, and UB) and AA. Outcomes also indicated that COL mediated the connections between GenAITU (PE, EE, FC, and UB) and AA. The current study shows that SMC and COL were strong mediators of the association between GenAITU and AA. The results of our study provide guidance to teachers, curriculum planners, and university management to successfully integrate GenAITU into the education for PSTs.",
+      "authors": [
+        "Javed Iqbal",
+        "Zarqa Farooq Hashmi",
+        "M. Asghar"
+      ],
+      "venue": "Scientific Reports",
+      "published": "2025-05-13",
+      "url": "https://doi.org/10.1038/s41598-025-01676-x",
+      "query": "metacognition AI learning"
+    },
+    {
+      "paperId": "e24ec2cbc33efb4466e961b082e19f85ed20370c",
+      "title": "Leveraging generative AI to foster metacognition and self-directed learning",
+      "abstract": "ABSTRACT With the ever-expanding amount of data, students increasingly find themselves needing to engage in self-directed learning to be successful. Students studying science, technology, engineering, and mathematics often struggle with self-directed learning and are often discouraged, leading to higher attrition within these disciplines. There is a lack of opportunities for students to develop and practice self-directed learning skills within traditional curricula. This research explored the ways in which a generative artificial intelligence model could be used to cultivate metacognition and promote readiness for self-directed learning among graduate students. By leveraging the relationship between metacognition and self-directed learning, with the customizability of the artificial intelligence model, we sought to facilitate conversations between students and the model to enhance metacognitive awareness and self-directed learning readiness. Using the Metacognition Awareness Inventory and Self-Directed Learning Instrument, we found that students improved significantly on both pre- and post-assessment comparisons. Students needed to interact with the model twice a week, for 10 minutes per session. Our findings demonstrate a novel application of generative artificial intelligence in supporting students’ personal development and expand our understanding of how artificial intelligence can be leveraged to generate a supportive process, rather than solely as a mechanism for generating answers or some other product.",
+      "authors": [
+        "Brandon Lowry",
+        "Samantha McGrath",
+        "C. Eitel"
+      ],
+      "venue": "Journal of Microbiology & Biology Education",
+      "published": "2025-11-26",
+      "url": "https://doi.org/10.1128/jmbe.00153-25",
+      "query": "metacognition AI learning"
     }
   ],
   "hot_topics": [
@@ -1019,8 +1097,9 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 56,
+      "count": 62,
       "keywords": [
+        "augmented reality",
         "AR",
         "virtual reality",
         "VR",
@@ -1032,13 +1111,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 28,
+      "count": 31,
       "keywords": [
         "school",
-        "classroom",
         "teacher",
-        "family",
-        "parent"
+        "classroom",
+        "parent",
+        "family"
       ]
     },
     {
@@ -1046,13 +1125,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 15,
+      "count": 20,
       "keywords": [
-        "machine learning",
         "generative AI",
+        "artificial intelligence",
+        "deep learning",
         "ChatGPT",
-        "GPT",
-        "artificial intelligence"
+        "GPT"
       ]
     },
     {
@@ -1060,10 +1139,10 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 11,
+      "count": 13,
       "keywords": [
-        "emotion",
         "empathy",
+        "emotion",
         "social-emotional",
         "social development"
       ]
@@ -1073,11 +1152,11 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 9,
+      "count": 10,
       "keywords": [
-        "working memory",
-        "metacognition",
         "attention",
+        "metacognition",
+        "cognitive development",
         "cognitive load",
         "self-regulation"
       ]
@@ -1087,10 +1166,11 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 9,
+      "count": 8,
       "keywords": [
-        "play",
+        "game-based",
         "game",
+        "play",
         "adaptive learning"
       ]
     },
@@ -1101,22 +1181,8 @@
       "icon": "📱",
       "count": 5,
       "keywords": [
-        "tablet",
-        "digital media",
-        "digital learning",
-        "mobile"
-      ]
-    },
-    {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 5,
-      "keywords": [
-        "vocabulary",
-        "reading",
-        "writing"
+        "mobile",
+        "digital learning"
       ]
     },
     {
@@ -1124,8 +1190,9 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 4,
+      "count": 5,
       "keywords": [
+        "algorithm",
         "computational thinking",
         "coding",
         "computer science"
@@ -1136,11 +1203,24 @@
       "name": "机器人与智能交互代理",
       "subtitle": "Robots & Intelligent Interactive Agents",
       "icon": "💬",
-      "count": 2,
+      "count": 4,
       "keywords": [
-        "chatbot",
         "conversational agent",
+        "intelligent tutoring",
+        "chatbot",
         "robot"
+      ]
+    },
+    {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 4,
+      "keywords": [
+        "language development",
+        "reading",
+        "writing"
       ]
     }
   ]
