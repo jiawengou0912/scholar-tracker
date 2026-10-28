@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 06:57 UTC",
+  "updated_at": "2026-10-28 07:39 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -200,6 +200,19 @@
     ],
     "Journal of Computer Assisted Learning": [
       {
+        "title": "When Do Learning Habits Matter? Linking Behavioural Stages to Academic Performance Using Longitudinal Log Data",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Developing effective learning habits—such as studying at regular times—can significantly influence academic performance. While prior research has shown that structured routines benefit learners, most studies rely on self‐reported surveys and provide only a snapshot of behaviour change. Little is known about how learning habits evolve over time or how these shifts affect learning outcomes in technology‐enhanced environments. Addressing this gap is critical for designing personalised, timely support that adapts to learners' behavioural states.\n                  \n                  \n                    Objectives\n                    This study investigates how learners progress through different stages of learning habit formation and how these stages relate to academic performance over time.\n                  \n                  \n                    Methods\n                    This study analysed 3 years of daily learning log data from 120 Japanese junior high school students. The data were collected through a school‐wide digital learning environment that integrates a learning management system, a digital e‐book system, and a self‐regulated/directed learning support tool. Grounded in the transtheoretical model of behaviour change, this study extracted learners' monthly habit stages from the log data and examined their relationship with exam performance across nine mathematics assessments.\n                  \n                  \n                    Results and Conclusions\n                    Academic performance improved significantly as students reached the ‘preparation’ stage, marking a transition from irregular exploratory behaviours to regular weekly study within a single month. However, reaching the ‘maintenance’ stage—the highest stage in the transtheoretical model, representing the culmination of habit‐building through consistent weekly study for at least 4 months—led to performance stabilisation rather than further gains, suggesting a plateau effect once behaviours become automatic. Notably, some learners maintained their academic levels even after regressing to lower habit stages, providing evidence of a residual effect where the cognitive benefits of previously established habits persist despite behavioural fluctuations. This study contributes a novel method for identifying when to offer timely support and suggests how digital learning tools can adapt based on students' habit stages.",
+        "doi": "10.1002/jcal.70364",
+        "url": "https://doi.org/10.1002/jcal.70364",
+        "authors": [
+          "Chia‐Yu Hsu",
+          "Hiroaki Ogata"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
         "title": "Artificial Intelligence in Embodied Learning: A Systematic Literature Review",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    Embodied learning (EL) is an educational approach that posits that cognition develops as learners interact with their environment through physical activity or sensory experiences. Artificial intelligence in education (AIED) supports teaching and learning for both teachers and students, for example through personalised intelligent tutoring systems. However, prior research on EL has focused primarily on students' cognitive and emotional abilities and the integration of body and task, rather than on technological elements, and research on technology‐based embodied learning (TBEL) has centred on immersive technologies such as VR and AR.\n                  \n                  \n                    Objectives\n                    This study aims to explore the relationship between AI technology and EL by analysing (1) the types of AI utilised in EL‐related research (algorithm or model, data modality, AI role), (2) learners' outcomes obtained from AI‐based EL, and (3) the limitations and solutions when applying AI to EL.\n                  \n                  \n                    Method\n                    This study is a systematic literature review based on the PRISMA 2020 guidelines, and no meta‐analysis was conducted. This study only referenced papers published since 2016 that included both AI technology and EL, were written in English, and dealt with learning processes mediated by physical activity. A study was treated as within scope only where the physical activity was tied to the concept to be learned. Papers were excluded if they did not specify the AI algorithm or model, were not peer‐reviewed, were secondary studies, were not in the field of education, were unavailable in full text, emphasised only simple skill acquisition in physical education or music, or emphasised only simple speaking activities in foreign language learning. Searches were conducted on 16 September 2025 in ACM, ERIC, and Web of Science. Given the diverse types of included studies, risk of bias was assessed using the MMAT2018 tool. Due to the varied nature of the data, a multi‐faceted data synthesis was performed. Co‐occurrences between data modality and AI role, and between AI role and learner outcomes, were visualised using heatmaps. The flow between the three variables was represented using a Sankey diagram. Finally, all frequencies were recalculated after excluding papers appraised as Low or not appraised, to test which patterns depended on weaker evidence.\n                  \n                  \n                    Results\n                    A total of 23 papers were reviewed. As multiple data points could be extracted per item, the relative proportion was calculated against the number of coding instances per item. The most frequently used AI algorithm/model in the EL context was deep learning, and the data modality was image data. Where multiple data types were used, it was tagged as multimodal, accounting for 34.8%. Analysis and evaluation roles were most frequently extracted, and cognitive outcomes were reported most often. Key limitations identified included restricted participant numbers due to research design and studies conducted in controlled environments. Among papers appraised as High, the most frequent pathways ran from multimodal data to recognition and detection and from sensor data to analysis and evaluation, and cognitive outcomes were the most frequently reported. When papers appraised as Low or not appraised were set aside, the concentration of AI in analytical roles persisted, whereas the evidence for AI as an interactive or generative participant weakened.\n                  \n                  \n                    Discussion\n                    This review describes reported patterns rather than pooled effect estimates, as no meta‐analysis was conducted. Exclusion of grey literature may introduce publication bias. Furthermore, the potential risk of selection bias exists as literature was collected based on inclusion/exclusion criteria. This study is significant in that it identified how AI is utilised within the EL context and the learner outcomes reported alongside it, particularly as the scope of AIED broadens.",
         "doi": "10.1002/jcal.70359",
@@ -231,18 +244,6 @@
           "Daryn Dever",
           "Maryam Aslam",
           "Megan Wiedbusch"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Technology‐Supported Formative Assessment in Higher Education:\n                    <scp>AI</scp>\n                    , Learning Analytics and the Future of Assessment for Learning",
-        "abstract": "ABSTRACT\n                  \n                    Purpose\n                    This study examines the intellectual and thematic development of technology‐supported formative assessment (TSFA) in higher education and its convergence with feedback, learning analytics, artificial intelligence (AI) and self‐regulation.\n                  \n                  \n                    Design/Methodology/Approach\n                    A scoping review integrating bibliometric mapping, qualitative thematic synthesis and SWOT analysis was conducted on TSFA literature published between 2000 and 2026 (August).\n                  \n                  \n                    Findings\n                    The findings reveal accelerated growth after 2020 and a shift from technology‐centred applications towards learner‐centred, adaptive and data‐informed formative assessment. However, theoretical fragmentation, limited longitudinal evidence, ethical concerns and geographical inequalities remain.\n                  \n                  \n                    Originality/Value\n                    The study conceptualises TSFA as a technology‐mediated formative ecosystem integrating technological capacity, pedagogical regulation, learner agency and human judgement.\n                  \n                  \n                    Practical Implications\n                    Institutions should prioritise human‐centred AI integration, transparent governance, equitable access and professional development to ensure that technology supports rather than replaces formative pedagogical judgement.",
-        "doi": "10.1002/jcal.70360",
-        "url": "https://doi.org/10.1002/jcal.70360",
-        "authors": [
-          "Aydın Bulut"
         ],
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
@@ -391,6 +392,20 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Unpacking ChatGPT in academia: a systematic review of adoption models, key trends, and emerging drivers in university settings",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2750866",
+        "url": "https://doi.org/10.1080/10494820.2026.2750866",
+        "authors": [
+          "Fatima Amer Jid Almahri",
+          "Ali Tarhini",
+          "Hilal Hamed Al Busaidi"
+        ],
+        "published": "2026-10-27",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Mathematics teachers’ AI-TMPK: exploring structural relationships and latent profiles",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2750864",
@@ -442,20 +457,6 @@
           "Meng-Te Hung"
         ],
         "published": "2026-10-16",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "From digital interaction to social connection: AI virtual humans as interactive learning partners for older adults",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2748835",
-        "url": "https://doi.org/10.1080/10494820.2026.2748835",
-        "authors": [
-          "WeiCheng Pan",
-          "WanQing Zhang",
-          "Hong Chen"
-        ],
-        "published": "2026-10-15",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -674,68 +675,69 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "Neuromorphic Computing in Human-System Interaction: A Scoping Review of Recent Developments, Key Challenges, and Future Research Opportunities",
+        "title": "Exploring Art Appreciation Across Three Virtual Museum Configurations: Do Experience Patterns Differ by Formal Art Education?",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2752470",
-        "url": "https://doi.org/10.1080/10447318.2026.2752470",
+        "doi": "10.1080/10447318.2026.2751746",
+        "url": "https://doi.org/10.1080/10447318.2026.2751746",
         "authors": [
-          "Erman Çakıt",
-          "Waldemar Karwowski"
+          "Hyeseung Shim",
+          "Kyung Taek Oh",
+          "Chung-Kon Shi"
         ],
-        "published": "2026-10-26",
+        "published": "2026-10-28",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Risk-Adaptive Visual Attention Mechanisms Under Dynamic Lane Change Risk: Evidence from a Naturalistic Eye-Tracking Field Study",
+        "title": "Can Static Forms Convey Dynamic Behaviors? Understanding User Perceptions of 4D Printed Shape-Changing Interfaces",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2744844",
-        "url": "https://doi.org/10.1080/10447318.2026.2744844",
+        "doi": "10.1080/10447318.2026.2749293",
+        "url": "https://doi.org/10.1080/10447318.2026.2749293",
         "authors": [
-          "Chenxi Li",
-          "Xianhui Wu",
-          "Zhuoxi Jiang"
+          "Khyati Priya",
+          "Niya Sharma",
+          "Aditya Padmagirwar"
         ],
-        "published": "2026-10-26",
+        "published": "2026-10-27",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Bias Cues and the Turn to AI: Perspectives from Minority and Marginalized Groups",
+        "title": "When Generative AI Helps and Hurts: Augmentation-Substitution Taxonomy and Recovery Pattern in University Students’ Experiences",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2750610",
-        "url": "https://doi.org/10.1080/10447318.2026.2750610",
+        "doi": "10.1080/10447318.2026.2751765",
+        "url": "https://doi.org/10.1080/10447318.2026.2751765",
         "authors": [
-          "S. Mo Jones-Jang",
-          "Yunju Kim"
+          "Minjeong Ham"
         ],
-        "published": "2026-10-26",
+        "published": "2026-10-27",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Older Adults’ Assessments of Mobile Apps for Purchasing Hospitality and Tourism Services",
+        "title": "EGITS: Expert Gaze-Guided Training System for Enhancing Image Interpretation Ability",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2750598",
-        "url": "https://doi.org/10.1080/10447318.2026.2750598",
+        "doi": "10.1080/10447318.2026.2747589",
+        "url": "https://doi.org/10.1080/10447318.2026.2747589",
         "authors": [
-          "Jinkyung Jenny Kim"
+          "Can Wang",
+          "Lingfeng Zhang",
+          "Xiangpeng Tian"
         ],
-        "published": "2026-10-26",
+        "published": "2026-10-27",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "User-Centred Affective Interaction Design for Smart Wearables Supporting Women’s Perceived Safety",
+        "title": "AI Anxiety, Familiarity and Privacy Concerns: The Mediating Role of AI Literacy and the Moderating Role of Technophobia",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2749948",
-        "url": "https://doi.org/10.1080/10447318.2026.2749948",
+        "doi": "10.1080/10447318.2026.2749258",
+        "url": "https://doi.org/10.1080/10447318.2026.2749258",
         "authors": [
-          "N. M. Cusack",
-          "P. D. Venkatraman",
-          "U. Raza"
+          "Zhonghui Dong",
+          "Hao Dong"
         ],
-        "published": "2026-10-26",
+        "published": "2026-10-27",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
@@ -1019,6 +1021,76 @@
       "published": "2025-08-05",
       "url": "https://doi.org/10.3390/app15158679",
       "query": "generative AI learning education"
+    },
+    {
+      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
+      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
+      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "authors": [
+        "S. Muppalla",
+        "Sravya Vuppalapati",
+        "Apeksha Reddy Pulliahgaru"
+      ],
+      "venue": "Cureus",
+      "published": "2023-06-01",
+      "url": "https://doi.org/10.7759/cureus.40608",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
+      "title": "Impact of excessive use of screen time on child development: A review",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Anuradha",
+        "Ragini Mishra",
+        "Arti"
+      ],
+      "venue": "International journal of agriculture extension and social development",
+      "published": "2025-06-01",
+      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
+      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "Midori Yamamoto",
+        "H. Mezawa",
+        "Kenichi Sakurai"
+      ],
+      "venue": "JAMA pediatrics",
+      "published": "2024-01-22",
+      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
+      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
+      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "authors": [
+        "X. Wan",
+        "Xiao-Qing Kang",
+        "Shunli Chen"
+      ],
+      "venue": "Frontiers in Pediatrics",
+      "published": "2025-08-28",
+      "url": "https://doi.org/10.3389/fped.2025.1667048",
+      "query": "screen time child development"
+    },
+    {
+      "paperId": "41aacbf4544af81186f5b2c4e5a229a020291e9c",
+      "title": "Impact of Screen Time on Development of Children",
+      "abstract": "Background: Children today are growing up in a digital environment where screen-based technology is a central part of everyday life. While screens can offer educational and recreational benefits, there is growing concern about their influence on different areas of child development. Objective: This review explored how screen time affects developmental outcomes in children and adolescents aged 0 to 18 years, focusing on physical, cognitive, emotional, and social domains. Methods: A structured search was carried out across databases such as PubMed, Scopus, Web of Science and PsycINFO to identify relevant studies published between 2014 and 2024. Studies were included if they examined the relationship between screen time and at least one area of child development, involved participants within the target age group, and were peer-reviewed and published in English. The review followed PRISMA guidelines, and articles were independently screened and evaluated for quality by two reviewers. Results: A total of 46 studies met the inclusion criteria. Overall, the evidence points to a link between higher levels of screen use and negative outcomes such as reduced physical activity, poorer sleep, attention difficulties, and challenges in emotional and social functioning. However, some studies indicated that limited or educational screen use, especially with parental involvement, may have neutral or even positive effects in certain contexts. Conclusions: Screen time can have both positive and negative effects on child development, depending on factors like duration, type of content, and the context in which screens are used. Managing screen use through age-appropriate guidelines and adult supervision may help reduce risks and promote healthier development. More longitudinal research is needed to establish clearer recommendations for screen use in childhood.",
+      "authors": [
+        "Subhranshu Sekhar Kar",
+        "R. Dube",
+        "B. M. Goud"
+      ],
+      "venue": "Children",
+      "published": "2025-09-25",
+      "url": "https://doi.org/10.3390/children12101297",
+      "query": "screen time child development"
     }
   ],
   "hot_topics": [
@@ -1027,7 +1099,7 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 56,
+      "count": 57,
       "keywords": [
         "AR",
         "VR",
@@ -1039,7 +1111,7 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 28,
+      "count": 31,
       "keywords": [
         "teacher",
         "classroom",
@@ -1053,7 +1125,7 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 18,
+      "count": 19,
       "keywords": [
         "generative AI",
         "large language model",
@@ -1067,11 +1139,11 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 12,
+      "count": 15,
       "keywords": [
         "emotion",
-        "empathy",
         "social-emotional",
+        "empathy",
         "social development"
       ]
     },
@@ -1089,14 +1161,27 @@
       ]
     },
     {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 7,
+      "keywords": [
+        "screen time",
+        "digital learning",
+        "mobile"
+      ]
+    },
+    {
       "id": "cognitive",
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 4,
+      "count": 6,
       "keywords": [
-        "metacognition",
+        "executive function",
         "attention",
+        "metacognition",
         "self-regulation"
       ]
     },
@@ -1105,9 +1190,10 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 4,
+      "count": 6,
       "keywords": [
         "writing",
+        "language development",
         "reading"
       ]
     },
@@ -1135,16 +1221,6 @@
         "conversational agent",
         "intelligent tutoring",
         "robot"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 2,
-      "keywords": [
-        "mobile"
       ]
     }
   ]
