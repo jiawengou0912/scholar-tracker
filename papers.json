@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 07:39 UTC",
+  "updated_at": "2026-10-29 07:44 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -308,13 +308,13 @@
         "venue": "Computers in Human Behavior"
       },
       {
-        "title": "Platform abandonment through push–pull–mooring: Trust, commitment, and generational patterns in U.S. social media",
+        "title": "Gaining control at a cost? Customization, cognitive load, and perceived AI agency across task contexts",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109192",
-        "url": "https://doi.org/10.1016/j.chb.2026.109192",
+        "doi": "10.1016/j.chb.2026.109236",
+        "url": "https://doi.org/10.1016/j.chb.2026.109236",
         "authors": [
-          "Yee Man Margaret Ng",
-          "Ewa Maslowska"
+          "Qian Xu",
+          "Cheng Chen"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -392,6 +392,18 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Evaluating the efficacy of augmented reality-supported “Life-integrated holistic science learning” (LiHSL) on conceptual development",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2754096",
+        "url": "https://doi.org/10.1080/10494820.2026.2754096",
+        "authors": [
+          "Muhammet Fatih Doğan"
+        ],
+        "published": "2026-10-28",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Unpacking ChatGPT in academia: a systematic review of adoption models, key trends, and emerging drivers in university settings",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2750866",
@@ -441,20 +453,6 @@
           "Dilek Kitapcioglu",
           "Feray Guven",
           "Emel Gur"
-        ],
-        "published": "2026-10-16",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "GenAI-supported interactive learning and Chinese language arts (Yuwen) engagement: the mediating role of grit in an explanatory mixed-methods study",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2749408",
-        "url": "https://doi.org/10.1080/10494820.2026.2749408",
-        "authors": [
-          "Li-Ching Hung",
-          "Zhitong Yu",
-          "Meng-Te Hung"
         ],
         "published": "2026-10-16",
         "journal": "Interactive Learning Environments",
@@ -689,6 +687,20 @@
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
+        "title": "From Culturally Grounded Virtual Games to Real-World Destination Engagement: Flow, Cultural Identity and Behavioral Intention Conversion",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10447318.2026.2752468",
+        "url": "https://doi.org/10.1080/10447318.2026.2752468",
+        "authors": [
+          "Xiaoyu He",
+          "Yushi Zhou",
+          "Jing Zhang"
+        ],
+        "published": "2026-10-28",
+        "journal": "International Journal of Human-Computer Interaction",
+        "venue": "International Journal of Human-Computer Interaction"
+      },
+      {
         "title": "Can Static Forms Convey Dynamic Behaviors? Understanding User Perceptions of 4D Printed Shape-Changing Interfaces",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10447318.2026.2749293",
@@ -723,19 +735,6 @@
           "Can Wang",
           "Lingfeng Zhang",
           "Xiangpeng Tian"
-        ],
-        "published": "2026-10-27",
-        "journal": "International Journal of Human-Computer Interaction",
-        "venue": "International Journal of Human-Computer Interaction"
-      },
-      {
-        "title": "AI Anxiety, Familiarity and Privacy Concerns: The Mediating Role of AI Literacy and the Moderating Role of Technophobia",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2749258",
-        "url": "https://doi.org/10.1080/10447318.2026.2749258",
-        "authors": [
-          "Zhonghui Dong",
-          "Hao Dong"
         ],
         "published": "2026-10-27",
         "journal": "International Journal of Human-Computer Interaction",
@@ -954,143 +953,68 @@
   },
   "keyword_papers": [
     {
-      "paperId": "c3cf3882ef339e3f5734c4c8008d9df228fcbf04",
-      "title": "A Systematic Review of Responses, Attitudes, and Utilization Behaviors on Generative AI for Teaching and Learning in Higher Education",
-      "abstract": "The utilization of Generative AI (GenAI) in higher education classrooms has significantly increased in recent years. Studies show that GenAI holds promise in impacting the learning experiences of both students and teachers, offering personalized learning and assessment opportunities. This study conducts a systematic review of the responses, attitudes, and behaviors related to the application of GenAI within higher education classrooms. To this end, we synthesized 99 papers published between 2020 and August 2024, focusing on the utilization of GenAI in higher education settings. The analysis addresses three key inquiries: responses, attitudes, and behaviors. This systematic review provides an updated understanding from psychological perspectives of GenAI’s role in the teaching and learning processes of higher education, with a particular emphasis on GenAI technologies.",
+      "paperId": "ef7ef9cb275ac2a8ca5ab56d592a9b9ac7522d7b",
+      "title": "Personalized Adaptive Learning Framework for Preschoolers Using Explainable AI",
+      "abstract": "With the deep application of artificial intelligence technology in the field of education, preschool education intelligence faces the dual challenges of insufficient personalization and low decision transparency. This study proposes a preschool personalized adaptive learning framework based on Explainable Artificial Intelligence (XAI), which integrates four core modules: multimodal data collection, cognitive modeling, adaptive recommendation, and explainable feedback. Through a hybrid architecture of deep learning and symbolic reasoning, the framework achieves dynamic optimization of learning paths. Experiments were conducted on a public preschool learning behavior dataset containing 1,000 records. The results show that the framework significantly outperforms traditional methods in learning effectiveness improvement, cognitive development assessment, and teacher acceptability. Learning efficiency improved by 28.5%, cognitive ability assessment accuracy reached 92.3%, and teacher satisfaction with system explanations was 89.7%. The research provides theoretical support and practical pathways for the intelligence of preschool education, promoting the application of explainable AI in early childhood education scenarios.",
       "authors": [
-        "Fan-Fan Wu",
-        "Yang Dang",
-        "Man-Li Li"
+        "Qingzhu Cao"
       ],
-      "venue": "Behavioral Science",
-      "published": "2025-04-01",
-      "url": "https://doi.org/10.3390/bs15040467",
-      "query": "generative AI learning education"
+      "venue": "ICAIE",
+      "published": "2025-11-21",
+      "url": "https://doi.org/10.1145/3797552.3797768",
+      "query": "adaptive learning preschool"
     },
     {
-      "paperId": "7e4dfefcbacb639faa8a6fc8224ab7e0d7acf827",
-      "title": "Investigating the higher education institutions’ guidelines and policies regarding the use of generative AI in teaching, learning, research, and administration",
-      "abstract": "This study examined the guidelines issued by the top 50 U.S. universities regarding the use of Generative AI (GenAI) in academic and administrative activities. Employing a mixed methods approach, the research combined topic modeling, sentiment analysis, and qualitative thematic analysis to provide a comprehensive understanding of institutional responses to GenAI. Topic modeling identified four core topics: Integration of GenAI in Learning and Assessment, GenAI in Visual and Multimodal Media, Security and Ethical Considerations in GenAI, and GenAI in Academic Integrity. These themes were further explored through sentiment analysis, which revealed highly positive attitudes towards GenAI across all institution types, with significant differences between faculty and student-targeted guidelines. Qualitative thematic analysis corroborated these findings and provided deeper insights, revealing that 94% of universities had faculty guidelines emphasizing the importance of establishing and communicating course-specific GenAI policies. This analysis also highlighted recurring themes such as academic integrity and privacy concerns, which aligned with the security and ethical considerations identified in the topic modeling. The study highlights the rapid evolution of GenAI guidelines in higher education and the need for flexible, stakeholder-specific policies that address both the opportunities and challenges presented by this technology.",
+      "paperId": "3aee1bcfb6d5d692c88761c7d5a24e52ea1163fb",
+      "title": "Research on the Design of an Intelligent Adaptive Learning System Based on Deep Learning",
+      "abstract": "In the digital age, with the deep integration of IT and education, research on an intelligent adaptive learning system for preschool English based on deep knowledge tracing has drawn great attention. This paper centers on building its basic components to address low-efficiency and non-personalization in traditional preschool English teaching. Deep knowledge tracing, relying on RNNs and LSTMs, we need to precisely record and analyze preschoolers' multi-dimensional English-learning data (vocabulary, grammar, oral skills). Using these data, the system customizes learning paths, like auto-adjusting content push and offering targeted help. Experiments show a 40% rise in word-memorization accuracy, a 35% increase in grammar-understanding correctness, and a knowledge-absorption rate jump from 30% (traditional) to over 60%. The system has modules of intelligent assessment, learning content push, learning task design, and innovative learning mode. The assessment module uses RNNs or LSTMs for analysis; the content-push module selects from a graded resource library; the task-design module adjusts tasks based on personalization and gradation; the innovative-mode module uses VR/AR for immersive learning. This research fills the gap in creating an intelligent preschool-English education scenario by integrating AI, offers an innovative solution for its intelligent transformation, and is expected to draw expert cooperation to boost preschool English education.",
       "authors": [
-        "Yunjo An",
-        "J. Yu",
-        "Shadarra James"
+        "Zhouzhou Shen"
       ],
-      "venue": "International Journal of Educational Technology in Higher Education",
-      "published": "2025-02-21",
-      "url": "https://doi.org/10.1186/s41239-025-00507-3",
-      "query": "generative AI learning education"
+      "venue": "2025 IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT)",
+      "published": "2025-04-25",
+      "url": "https://doi.org/10.1109/ICCECT64621.2025.11339855",
+      "query": "adaptive learning preschool"
     },
     {
-      "paperId": "7365e7a141573a68231f9aa2538bef258b166756",
-      "title": "A generative AI teaching assistant for personalized learning in medical education",
-      "abstract": "Medical education faces a scalability crisis, where rising class sizes strain individualized instruction, while students increasingly adopt unvalidated Generative AI (GenAI) tools for individualized learning support. This study investigated how medical students integrate constrained GenAI systems into their self-directed learning practices using Retrieval-Augmented Generation (RAG), which limits large language model responses to instructor-curated materials, thereby reducing hallucinations while maintaining pedagogical utility. We deployed a RAG-based teaching assistant in a medical school basic science course across two consecutive cohorts, examining usage patterns, conversation content, and student feedback to understand adoption and learning behaviors. Students demonstrated strategic, context-dependent usage, with engagement intensifying during high-stakes assessment periods and substantial after-hours utilization. Users primarily sought clarification on foundational concepts and valued the system’s continuous availability and source-grounded responses. However, knowledge-base constraints that ensured accuracy also limited broader inquiries, creating tension between reliability and comprehensiveness that shaped how students incorporated the tool into their study routines. These findings provide empirical evidence of how medical students navigate constrained AI tools for self-directed learning, informing institutional strategies for integrating these technologies into pedagogical frameworks.",
+      "paperId": "7000fc39ca4703c85db0e87eff5746c50b0993ec",
+      "title": "Analysis of Automated Content Generation and Adaptive Teaching Pathways of AIGC in Informational Teaching of Preschool Education Majors",
+      "abstract": "Generative artificial intelligence, as the latest breakthrough in artificial intelligence, has attracted widespread attention in the field of education since its release. With the background of intelligent transformation of education, this study compiles and analyzes AIGC technology and its application in teaching preschool education majors, establishes a model of influencing factors on the effectiveness of AIGC application, and explores the adaptive teaching path of AIGC application in informatization teaching of preschool education majors. The core factor scores of the sample preschool education majors are all greater than 3.65, and the effectiveness of AIGC application is in the middle to upper level. Meanwhile, the positive contribution of teacher traits, teacher support, equipment use, learning motivation, learning attitude, self-efficacy, technical support, and learning atmosphere to the effectiveness of AIGC application was verified at the 5% level. The study proposes that AIGC technology be utilized to develop teachers' nurturing and students' creativity, to enhance the relevance of teaching evaluation and the utilization of resource recommendations, and to promote the high quality of teaching and learning in preschool education.",
       "authors": [
-        "Thomas Thesen",
-        "Soonbong Park"
+        "Qiu-Min Qiao"
       ],
-      "venue": "npj Digital Medicine",
-      "published": "2025-11-04",
-      "url": "https://doi.org/10.1038/s41746-025-02022-1",
-      "query": "generative AI learning education"
+      "venue": "International journal of computer information systems and industrial management applications",
+      "published": "2025-12-15",
+      "url": "https://doi.org/10.70917/ijcisim-2025-0240",
+      "query": "adaptive learning preschool"
     },
     {
-      "paperId": "1e05df4cb4c1761cb52ef33caafb12bf27544ada",
-      "title": "Exploring How AI Literacy and Self-Regulated Learning Relate to Student Writing Performance and Well-Being in Generative AI-Supported Higher Education",
-      "abstract": "The integration of generative artificial intelligence (GAI) into higher education is transforming students’ learning processes, academic performance, and psychological well-being. Despite the increasing adoption of GAI tools, the mechanisms through which students’ AI literacy and self-regulated learning (SRL) relate to their academic and emotional experiences remain underexplored. This study investigates how AI literacy and SRL are associated with writing performance and digital well-being among university students in GAI-supported higher learning contexts. A survey was administered to 257 students from universities in China, and structural equation modeling was used to examine the hypothesized relationships. Results show that both AI literacy and SRL significantly and positively predict students’ writing performance, with SRL having a stronger effect. Moreover, AI literacy shows a positive association with GAI-driven well-being, with writing performance serving as a partial mediator in this relationship. These findings suggest that fostering both technological competencies and effective learning strategies may support students’ academic outcomes while supporting their psychological well-being in AI-enriched educational environments. By integrating AI literacy and SRL into a unified model, this study contributes to the growing body of research on GAI-driven well-being in higher education and offers practical implications for cultivating balanced and sustainable learning experiences in the age of GAI.",
+      "paperId": "012d43c88cf9372774f002c84e96950e0a27162d",
+      "title": "The “Tutor’s Compass” assessment tool: a study of social-communication and adaptive skills in preschool children with autism spectrum disorder",
+      "abstract": "Context and relevance. Children with autism spectrum disorder (ASD) exhibit significant delays in the development of independence, self-care, and communication skills, which poses a substantial obstacle to their successful inclusion in school education. Objective. To investigate the development of social-communication and adaptive skills in preschool children with ASD using the “Tutor’s Compass” assessment tool. Hypothesis. The “Tutor’s Compass” diagnostic tool possesses sufficient differential sensitivity to identify individual differences in the development of self-care skills, learning behaviour, and communication skills within a group of preschool children with ASD; it reveals the specifics of age-related differences in skill development; and it reflects the level of adaptation of preschool children in various domains. Methods and materials. The study involved 24 preschoolers with ASD (8 girls) aged 5 years 1 month to 7 years 11 months (experimental group) and 20 primary school children with ASD (2 girls) aged 8 to 12 years (comparison group). The research methods included the “Tutor’s Compass” diagnostic tool and the Vineland Adaptive Behavior Scales. Results. Scores on the “Tutor’s Compass” instrument show a statistically significant increase with age (correlations with age R = 0.438–0.674, p < 0.05). The preschool and school-age groups differ significantly on the three main scales (p < 0.05). The skill profile on the “Tutor’s Compass” in preschool children with ASD is uneven, with significant differences observed between individual scales according to Friedman’s test (-- (2) = 15.0, p < 0.001). The configuration of this profile differs from a similar profile obtained using the Vineland scales. Conclusions. The “Tutor’s Compass” diagnostic tool can be used to assess the skills of preschoolers with ASD. During the transition from preschool to primary school age, noticeable progress in skill development is observed, particularly in the domain of self-care. It is advisable to refine certain diagnostic scales, taking into account the specifics of preschool education, and to develop a version of the tool tailored for this age group.",
       "authors": [
-        "Jia-Jia Shi",
-        "Wei-Tong Liu",
-        "Ke Hu"
+        "E. V. Shmeleva",
+        "U. Mamokhina",
+        "E. Davydova"
       ],
-      "venue": "Behavioral Science",
-      "published": "2025-05-01",
-      "url": "https://doi.org/10.3390/bs15050705",
-      "query": "generative AI learning education"
+      "venue": "Autism and Developmental Disorders",
+      "published": "2025-12-30",
+      "url": "https://doi.org/10.17759/autdd.2025230407",
+      "query": "adaptive learning preschool"
     },
     {
-      "paperId": "d44b39279750970c9dd4c7151df49e0f9faef87a",
-      "title": "Machine Learning and Generative AI in Learning Analytics for Higher Education: A Systematic Review of Models, Trends, and Challenges",
-      "abstract": "This systematic review examines how machine learning (ML) and generative AI (GenAI) have been integrated into learning analytics (LA) in higher education (2018–2025). Following PRISMA 2020, we screened 9590 records and included 101 English-language, peer-reviewed empirical studies that applied ML or GenAI within LA contexts. Records came from 12 databases (last search 15 March 2025), and the results were synthesized via thematic clustering. ML approaches dominate LA tasks, such as engagement prediction, dropout-risk modelling, and academic-performance forecasting, whereas GenAI—mainly transformer models like GPT-4 and BERT—is emerging in real-time feedback, adaptive learning, and sentiment analysis. Studies spanned world regions. Most ML papers (n = 75) examined engagement or dropout, while GenAI papers (n = 26) focused on adaptive feedback and sentiment analysis. No formal risk-of-bias assessment was conducted due to heterogeneity. While ML methods are well-established, GenAI applications remain experimental and face challenges related to transparency, pedagogical grounding, and implementation feasibility. This review offers a comparative synthesis of paradigms and outlines future directions for responsible, inclusive, theory-informed AI use in education.",
+      "paperId": "363b39f0985d6c689e44513abbcf41f7401dd9dc",
+      "title": "Digital Educational Games to Promote Social Emotional Learning in Preschool-Aged Children: Trends and Challenges in Co-Design.",
+      "abstract": "The integration of Digital Educational Games (DEGs) in preschool education offers new opportunities to foster Social-Emotional Learning (SEL) through engaging, adaptive learning environments. This systematic literature review, conducted following PRISMA 2020 guidelines, examines key game design features that support SEL competencies in preschool-aged children. A total of 18 studies published between 2020 and 2025 were analyzed, focusing on participatory design, the roles of educators and children, and methodologies to assess SEL outcomes. Findings highlight the prevalence of game mechanics targeting emotional regulation, responsible decision-making, and prosocial behavior, with insights into the inclusion of nutrition and autism-related interventions within the CASEL-5 framework. The study also explores the role of educators in facilitating DEGs and the digital literacy skills needed for effective integration. By aligning technological advancements with child-centered design principles, this review contributes to the discourse on smart learning ecosystems and the future of participatory digital learning tools.",
       "authors": [
-        "M. Rodriguez-Ortiz",
-        "P. C. Santana-Mancilla",
-        "Luis E. Anido-Rifón"
+        "Joana Raminhos Silveira",
+        "Oksana Tymoshchuk",
+        "A. I. Veloso"
       ],
-      "venue": "Applied Sciences",
-      "published": "2025-08-05",
-      "url": "https://doi.org/10.3390/app15158679",
-      "query": "generative AI learning education"
-    },
-    {
-      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
-      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
-      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
-      "authors": [
-        "S. Muppalla",
-        "Sravya Vuppalapati",
-        "Apeksha Reddy Pulliahgaru"
-      ],
-      "venue": "Cureus",
-      "published": "2023-06-01",
-      "url": "https://doi.org/10.7759/cureus.40608",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
-      "title": "Impact of excessive use of screen time on child development: A review",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Anuradha",
-        "Ragini Mishra",
-        "Arti"
-      ],
-      "venue": "International journal of agriculture extension and social development",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
-      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
-      "abstract": "Abstract not available.",
-      "authors": [
-        "Midori Yamamoto",
-        "H. Mezawa",
-        "Kenichi Sakurai"
-      ],
-      "venue": "JAMA pediatrics",
-      "published": "2024-01-22",
-      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
-      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
-      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
-      "authors": [
-        "X. Wan",
-        "Xiao-Qing Kang",
-        "Shunli Chen"
-      ],
-      "venue": "Frontiers in Pediatrics",
-      "published": "2025-08-28",
-      "url": "https://doi.org/10.3389/fped.2025.1667048",
-      "query": "screen time child development"
-    },
-    {
-      "paperId": "41aacbf4544af81186f5b2c4e5a229a020291e9c",
-      "title": "Impact of Screen Time on Development of Children",
-      "abstract": "Background: Children today are growing up in a digital environment where screen-based technology is a central part of everyday life. While screens can offer educational and recreational benefits, there is growing concern about their influence on different areas of child development. Objective: This review explored how screen time affects developmental outcomes in children and adolescents aged 0 to 18 years, focusing on physical, cognitive, emotional, and social domains. Methods: A structured search was carried out across databases such as PubMed, Scopus, Web of Science and PsycINFO to identify relevant studies published between 2014 and 2024. Studies were included if they examined the relationship between screen time and at least one area of child development, involved participants within the target age group, and were peer-reviewed and published in English. The review followed PRISMA guidelines, and articles were independently screened and evaluated for quality by two reviewers. Results: A total of 46 studies met the inclusion criteria. Overall, the evidence points to a link between higher levels of screen use and negative outcomes such as reduced physical activity, poorer sleep, attention difficulties, and challenges in emotional and social functioning. However, some studies indicated that limited or educational screen use, especially with parental involvement, may have neutral or even positive effects in certain contexts. Conclusions: Screen time can have both positive and negative effects on child development, depending on factors like duration, type of content, and the context in which screens are used. Managing screen use through age-appropriate guidelines and adult supervision may help reduce risks and promote healthier development. More longitudinal research is needed to establish clearer recommendations for screen use in childhood.",
-      "authors": [
-        "Subhranshu Sekhar Kar",
-        "R. Dube",
-        "B. M. Goud"
-      ],
-      "venue": "Children",
-      "published": "2025-09-25",
-      "url": "https://doi.org/10.3390/children12101297",
-      "query": "screen time child development"
+      "venue": "Interaction Design and Architecture(s)",
+      "published": "2025-12-20",
+      "url": "https://doi.org/10.55612/s-5002-067-005",
+      "query": "adaptive learning preschool"
     }
   ],
   "hot_topics": [
@@ -1099,11 +1023,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 57,
+      "count": 53,
       "keywords": [
         "AR",
         "VR",
-        "immersive"
+        "immersive",
+        "augmented reality"
       ]
     },
     {
@@ -1114,8 +1039,8 @@
       "count": 31,
       "keywords": [
         "teacher",
-        "classroom",
         "school",
+        "classroom",
         "parent",
         "family"
       ]
@@ -1125,13 +1050,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 19,
+      "count": 17,
       "keywords": [
-        "generative AI",
-        "large language model",
         "artificial intelligence",
-        "GPT",
-        "machine learning"
+        "deep learning",
+        "generative AI",
+        "ChatGPT",
+        "GPT"
       ]
     },
     {
@@ -1139,10 +1064,11 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 15,
+      "count": 12,
       "keywords": [
-        "emotion",
         "social-emotional",
+        "social emotional",
+        "emotion",
         "empathy",
         "social development"
       ]
@@ -1152,24 +1078,11 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 10,
+      "count": 11,
       "keywords": [
-        "personalized learning",
         "adaptive learning",
-        "play",
-        "game"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 7,
-      "keywords": [
-        "screen time",
-        "digital learning",
-        "mobile"
+        "game",
+        "play"
       ]
     },
     {
@@ -1177,11 +1090,12 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 6,
+      "count": 7,
       "keywords": [
-        "executive function",
+        "cognitive development",
         "attention",
         "metacognition",
+        "cognitive load",
         "self-regulation"
       ]
     },
@@ -1190,10 +1104,10 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 6,
+      "count": 4,
       "keywords": [
+        "vocabulary",
         "writing",
-        "language development",
         "reading"
       ]
     },
@@ -1221,6 +1135,17 @@
         "conversational agent",
         "intelligent tutoring",
         "robot"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 3,
+      "keywords": [
+        "digital learning",
+        "mobile"
       ]
     }
   ]
