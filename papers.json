@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 07:39 UTC",
+  "updated_at": "2026-11-01 08:18 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -46,6 +46,20 @@
         "venue": "Computers & Education"
       },
       {
+        "title": "The effects of digital technology on socioscientific issues teaching: A three-level meta-analysis",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105780",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105780",
+        "authors": [
+          "Junyuan Chen",
+          "Ying Ren",
+          "Lingnan Yan"
+        ],
+        "published": "2027-2",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
         "title": "Navigating AI affective support: The cognitive-affective pathway from appraisal to emotional well-being in learners",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.compedu.2026.105768",
@@ -54,18 +68,6 @@
           "Wenjun Zhong",
           "Jianghua Luo",
           "Shuhui Yu"
-        ],
-        "published": "2027-2",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Designing a pipeline linking professional development to AI-supported instructional practice",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105764",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105764",
-        "authors": [
-          "Ari Kim"
         ],
         "published": "2027-2",
         "journal": "Computers & Education",
@@ -960,140 +962,139 @@
   },
   "keyword_papers": [
     {
-      "paperId": "ba0eb96237abaf50c6cb72852385b11867100a0c",
-      "title": "Effectiveness of Robot-Mediated Learning in Fostering Children’s Social and Cognitive Development",
-      "abstract": "Engaging with social robots has been recognized as potentially beneficial for children facing social communication challenges, especially in developing skills such as joint attention. This systematic review examines the effectiveness of robot-mediated learning in enhancing children’s cognitive abilities, emotional resilience, and self-confidence, based on an analysis of research conducted between 2018 and 2025. While social robots show promise in delivering personalized and engaging educational experiences, challenges such as emotional dependence, accessibility, and ethical concerns persist. The review concludes that further research, particularly longitudinal studies and cross-cultural comparisons, is necessary to fully understand the long-term impacts of robot-mediated learning on children’s cognitive and social development. It explores the application of robotic technology in relation to children’s educational progress across different age groups. The review includes studies of various types, such as experimental, non-experimental, and research articles, covering diverse research fields, robots, contexts of use, target audiences, and outcomes. The findings highlight the growing potential of social robots to support children’s cognitive development by providing interactive and stimulating learning experiences. This review offers valuable insights for researchers and designers aiming to improve robotic interventions and tailor them to meet diverse developmental needs and educational settings.",
+      "paperId": "caf6aa70ef4346c8bef1544a751cc619dc55065b",
+      "title": "Game-based learning in early childhood education: a systematic review and meta-analysis",
+      "abstract": "Game-based learning has gained popularity in recent years as a tool for enhancing learning outcomes in children. This approach uses games to teach various subjects and skills, promoting engagement, motivation, and fun. In early childhood education, game-based learning has the potential to promote cognitive, social, and emotional development. This systematic review and meta-analysis aim to summarize the existing literature on the effectiveness of game-based learning in early childhood education This systematic review and meta-analysis examine the effectiveness of game-based learning in early childhood education. The results show that game-based learning has a moderate to large effect on cognitive, social, emotional, motivation, and engagement outcomes. The findings suggest that game-based learning can be a promising tool for early childhood educators to promote children’s learning and development. However, further research is needed to address the remaining gaps in the literature. The study’s findings have implications for educators, policymakers, and game developers who aim to promote positive child development and enhance learning outcomes in early childhood education.",
       "authors": [
-        "Zainab Salma",
-        "Raquel Hijón-Neira",
-        "C. Pizarro"
+        "Manar S. Alotaibi"
       ],
-      "venue": "Applied Sciences",
-      "published": "2025-03-25",
-      "url": "https://doi.org/10.3390/app15073567",
-      "query": "cognitive development technology children"
+      "venue": "Frontiers in Psychology",
+      "published": "2024-04-02",
+      "url": "https://doi.org/10.3389/fpsyg.2024.1307881",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "ba52abab3168dee9f58384d206874173cf50b4f3",
-      "title": "IMPACT OF TECHNOLOGY ON SOCIAL AND COGNITIVE DEVELOPMENT IN CHILDREN",
-      "abstract": "Technology has inuenced children's social and cognitive development in recent years. This article explores both the\npositive and negative impacts of technology on children's social and cognitive development. On the one hand, technology\ncan provide children with the opportunity to learn and engage in activities that may not be available in their home environment. This can lead to\nincreased condence and improved problem-solving skills. On the other hand, technology can lead to a decrease in physical activity, an increase in\nfeelings of isolation and loneliness, an over-dependence on technology, and a decrease in creativity and problem-solving skills. The article also\ndiscusses technology's potential implications on children's social and cognitive development. It looks at how technology can both positively and\nnegatively affect children's development. It also looks at how it can be used to help them grow and develop healthily. Ultimately, this article\nprovides insight into the impact of technology on children's social and cognitive development and the potential implications of technology on\ntheir lives",
+      "paperId": "a6e15d12f9478bcc3adb6c274fbe1b09718d312b",
+      "title": "Enhancing Early Childhood Mathematics Skills Learning through Digital Game-Based Learning",
+      "abstract": "The present study investigates the unique impact of digital game-based learning (DGBL) on children's mathematical problem-solving skills, with a particular focus on both immediate and long-term effects. While much of the existing research on DGBL explores its general benefits, this study differentiates itself by examining how DGBL specifically enhances cognitive skills. The study included 120 students, 61 of whom were assigned to an experimental group taught using digital games, and 59 to a control group taught through traditional methods. The research design incorporated the development of a customized game-based learning material and a comprehensive mathematical problem-solving assessment. The results revealed that the experimental group significantly outperformed the control group in both immediate and delayed post-tests, which underscores the effectiveness of DGBL in enhancing students' retention of mathematics well beyond the initial learning phase. This suggests that DGBL is not only effective in helping students grasp mathematical concepts in the short term but also in strengthening their ability to retain and apply these concepts over time. Moreover, the study goes further by highlighting the long-term cognitive benefits of DGBL, such as the development of critical thinking, quick decision-making, and problem-solving skills. This aspect of the study distinguishes it from other research in the field as it emphasizes not just short-term academic performance, but also lasting improvements in key cognitive abilities. Based on these findings, it is recommended that teachers integrate digital game-based learning into their teaching strategies. This integration can enhance student engagement, motivate learners, and facilitate understanding of mathematical concepts.",
       "authors": [
-        "Rani Maria Joy"
+        "Omayya M. Al-Hassan",
+        "Layla Alhasan",
+        "R. Alali"
       ],
-      "venue": "Indian Journal Of Applied Research",
-      "published": "2023-04-01",
-      "url": "https://doi.org/10.36106/ijar/2913763",
-      "query": "cognitive development technology children"
+      "venue": "International Journal of Learning, Teaching and Educational Research",
+      "published": "2025-02-28",
+      "url": "https://doi.org/10.26803/ijlter.24.2.10",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "874200b9fe1a78d212f6f6410bdc0b743178f577",
-      "title": "Effects of Robotics Education on Young Children’s Cognitive Development: a Pilot Study with Eye-Tracking",
-      "abstract": "The emerging field of robotics education (RE) is a new and rapidly growing subject area worldwide. It may provide a playful and novel learning environment for children to engage with all aspects of science, technology, engineering, and mathematics (STEM) learning. The purpose of this research is to examine how robotics learning activities may affect the cognitive abilities and cognitive processes of 6–8 years old children. The study adopted the mixed methods approach with a repeated measures design; three waves of data collection over 6 months, including quantitative data obtained from cognitive assessments and eye-tracking, and qualitative data from the interviews. A total of 31 children were recruited from an afterschool robotics program. To the best of our knowledge, this study is the first RE research that used a combination of eye-tracking, cognitive assessments, and interviews for examining the effect of RE on children. Using linear growth models, the results of cognitive assessments showed that children’s visuospatial working memory as well as logical and abstract reasoning skills improved over time. The interview data were analyzed by a thematic analysis. The results revealed that children perceived RE activities as game play, which made children more engaged in their study; parents found their children to be more focused on activities comparing to six months ago. Additionally, the visualization of the eye-tracking data suggested that children became more focused on RE activities and got faster to process the information across six months in general, which echoed the findings in assessments and interviews. Our findings may help educators and policymakers better understand the benefits of RE for young children.",
+      "paperId": "dfefdb7fc29ba0e9d799c0d5fcf75ec49e253855",
+      "title": "Enhancing Early Childhood Cognitive Development via Mobile Game-Based Learning Applications: Insights and Practical Experiences",
+      "abstract": "Early childhood cognitive development is foundational for future academic and personal success. While traditional teaching approaches often overlook technology’s potential, gamebased learning applications offer an innovative solution to enhance cognitive abilities in young children. This study evaluates the feasibility and effectiveness of a game-based learning (GBL) application for enhancing early childhood cognitive abilities. Using Research and Development (R&D) methodology, 40 children aged 5–6 were randomly assigned to experimental and control groups for an eight-week intervention. The application was developed through systematic needs analysis, design, development, implementation, and evaluation. ANCOVA analysis of pre- and post-test assessments demonstrated highly significant effects (F = 2154.89, p < 0.001, partial η2 = 0.966), explaining 96.6% of score variations. Expert validation scores exceeded 4.6 out of 5.0, confirming the application’s quality. Qualitative feedback from teachers and parents noted substantial improvements in children’s problem-solving skills, memory retention, and critical thinking. These findings suggest that integrating GBL applications could enhance educational equity and improve cognitive development outcomes across diverse educational settings.",
       "authors": [
-        "Y. Liu",
-        "Darko Odic",
-        "Xuyan Tang"
+        "Haerul Annuar",
+        "E. Solihatin",
+        "Khaerudin"
       ],
-      "venue": "Journal of Science Education and Technology",
-      "published": "2023-03-07",
-      "url": "https://doi.org/10.1007/s10956-023-10028-1",
-      "query": "cognitive development technology children"
+      "venue": "International Journal of Interactive Mobile Technologies",
+      "published": "2025-02-27",
+      "url": "https://doi.org/10.3991/ijim.v19i04.51897",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "7d7c975054a0496aa8ff368227c25917a4382ce2",
-      "title": "Digital Device Usage and Childhood Cognitive Development: Exploring Effects on Cognitive Abilities",
-      "abstract": "The increasing ubiquity of digital devices in childhood had outpaced the understanding of their effects on cognitive development, creating a significant research gap regarding their long-term impact. Objective: The present narrative overview explored the complex relationship between digital device usage and cognitive development in childhood. Methods: We conducted a comprehensive literature search across multiple databases, including PubMed, Embase, Scopus, and Web of Science, to critically assess cognitive domains such as attention, memory, executive functions, problem-solving skills, and social cognition. Incorporating over 157 peer-reviewed studies published between 2001 and 2024, we used strict inclusion and exclusion criteria to ensure scientific rigor. Results: The review integrated empirical findings with established theoretical frameworks, particularly from cognitive development and media psychology, to highlight both the advantages and risks of early, frequent exposure to technology. The potential for digital devices to enhance cognitive skills, such as multitasking and information processing, was weighed against risks such as cognitive overload, diminished attention spans, and impaired social skills. We also examined psychological and behavioral outcomes, including identity formation, emotional regulation, and maladaptive behaviors associated with excessive screen time. Additionally, we identified strategies to mitigate negative effects, emphasizing structured digital engagement and parental involvement to support healthy cognitive and psychological growth. Our findings provided actionable recommendations for parents, educators, and policymakers, promoting optimal digital practices that enhanced cognitive development while safeguarding against potential harms. Conclusions: The review offered essential insights for stakeholders in child development, education, and policy-making, highlighting the need for balanced integration of digital tools in childhood learning environments.",
+      "paperId": "d841dacdcd56b9e725a65c79430be3b0f4ee062c",
+      "title": "Enhancing Early Childhood Students’ Computational Thinking Competency Through Digital Game-Based Learning",
+      "abstract": "This study investigated how the computational thinking competencies of students classified in the early childhood category can be developed through digital game-based learning. Computational thinking is a way of thinking that includes problem solving, algorithmic thinking and logical inference skills is considered an important competence that should be acquired at an early age. Digital game-based learning stands out as a powerful tool for developing computational thinking skills while providing a fun and motivating environment by ensuring the active participation of students. Within the scope of the research, the effects of digital game-based learning activities on students’ computational thinking skills were examined by experimental method, one of the quantitative research methods. In this study, a 4-week training activity was conducted for the experimental and control groups determined during the research process to develop computational thinking skills in 5-year-old pre-school children. The study group consists of 50 students in the 5-year-old age group studying in the pre-school class of a state institution. In the study, student groups were divided into experimental and control groups. The experimental and control groups consisted of 25 students. The achievement test prepared for the cognitive domain was used as a pre-test and post-test as the data collection tool. In addition to this data collection tool, an evaluation rubric was also used in the study. The findings showed that digital game-based learning methods positively affect the development of computational thinking skills in early childhood. In light of these findings, recommendations were made in the study for the integration of digital games into relevant educational programs and the promotion of computational thinking at an early age.",
       "authors": [
-        "V. J. Clemente-Suárez",
-        "Ana Isabel Beltrán-Velasco",
-        "Silvia Herrero-Roldán"
+        "E. Yıldız",
+        "Ayşe Alkan",
+        "Murat Tezer"
       ],
-      "venue": "Children",
-      "published": "2024-10-27",
-      "url": "https://doi.org/10.3390/children11111299",
-      "query": "cognitive development technology children"
+      "venue": "International Journal of Cognitive Research in Science, Engineering and Education",
+      "published": "2025-08-26",
+      "url": "https://doi.org/10.23947/2334-8496-2025-13-2-365-378",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "29668a9ae33e347970b9e69b40e79d776c3b8bab",
-      "title": "The Impact of Technology on Cognitive Development in Early Childhood",
-      "abstract": "Technology integration into everyday life is deeper than ever in this age of fast technological innovation. This is particularly true for young children exposed to numerous digital instruments from an early age. Such integration has sparked concerns about how technology may affect young childrens cognitive growth, a crucial time when mental capacities like thinking, reasoning, and understanding are still developing. Recognizing the significance of this conversation, the background for this study is the growing anxiety among parents, teachers, and lawmakers over the influence of technology on childrens brains. This study uses a literature review methodology to examine previously published academic studies to understand the complex connection between technology and cognitive development. It aims to grasp both the rewarding possibilities and the dangers it offers. The conclusion summarizes the results and highlights methods for maximizing technologys positive effects while minimizing its possible drawbacks, providing a comprehensive understanding of the subject.",
+      "paperId": "6bf8e67c1d1898809a0845dd2807c1e54315a628",
+      "title": "Phygital Game-Based Learning in Early Childhood Education: An Exploratory Review",
+      "abstract": "This paper examines the role of phygital game-based learning (PGBL) in early childhood education, with a specific focus on its potential to foster critical thinking and problem-solving skills in children aged 3 to 8 years. PGBL refers to hybrid educational tools that combine physical manipulatives with interactive digital interfaces, offering multisensory and responsive learning experiences that aim to enhance cognitive engagement and symbolic reasoning. Through a literature-based qualitative review, the study analyzes five representative tools—Osmo Tangram, KIBO Robot, LEGO DUPLO Stories, Marbotic Smart Letters, and PlayShifu Orboot Earth—selected for their pedagogical relevance, documented educational use, and theoretical grounding. Drawing from constructivist and socio-cultural learning theories, particularly those of Piaget, Papert, and Vygotsky, the paper explores how these tools embody principles such as hands-on learning, scaffolding, iterative exploration, and meaningful play. Each tool is evaluated in terms of its support for higher-order cognitive functions, including sequencing, spatial reasoning, emergent literacy, and collaborative learning. The findings reveal that while PGBL tools show promise in promoting engagement and foundational executive functions, their effectiveness depends on factors such as design flexibility, ease of integration into pedagogical practice, and inclusivity. Implementation challenges such as limited open-ended play, cognitive overload, unequal access to digital infrastructure, and the need for educator training are critically examined using Universal Design for Learning (UDL) and Technological Pedagogical Content Knowledge (TPACK) frameworks. Rather than presenting definitive causal claims, this review provides a structured synthesis of current academic literature, highlighting both the affordances and limitations of phygital tools in early education. The analysis also underscores the importance of aligning PGBL tools with developmentally appropriate practices and culturally responsive pedagogy. By offering insights across tool design, implementation, and impact, the paper aims to inform educators, researchers, and policymakers seeking to enhance early learning environments through evidence-based, interactive technologies.",
       "authors": [
-        "Yichao Ren"
+        "Tanmoyee Rajkhowa"
       ],
-      "venue": "Lecture Notes in Education Psychology and Public Media",
-      "published": "2023-11-20",
-      "url": "https://doi.org/10.54254/2753-7048/23/20230496",
-      "query": "cognitive development technology children"
+      "venue": "European Conference on Games Based Learning",
+      "published": "2025-09-26",
+      "url": "https://doi.org/10.34190/ecgbl.19.2.4140",
+      "query": "game-based learning early childhood"
     },
     {
-      "paperId": "cd37403ce5ea053033313ae2ad260b487d6ad6ec",
-      "title": "Effects of Excessive Screen Time on Child Development: An Updated Review and Strategies for Management",
-      "abstract": "Children's heavy reliance on screen media has raised serious public health issues since it might harm their cognitive, linguistic, and social-emotional growth. This study examines the effects of screen time on many developmental domains and covers management and limitation techniques for kids' screen usage. Screen media has a wide range of cognitive consequences, with both beneficial and detrimental effects noted. Screens can improve education and learning; however, too much time spent in front of a screen and multitasking with other media has been related to worse executive functioning and academic performance. As screen time reduces the amount and quality of interactions between children and their caregivers, it can also have an impact on language development. Contextual elements like co-viewing and topic appropriateness are key in determining how language development is impacted. Additionally, excessive screen usage has detrimental effects on social and emotional growth, including a rise in the likelihood of obesity, sleep disorders, and mental health conditions including depression and anxiety. It can obstruct the ability to interpret emotions, fuel aggressive conduct, and harm one's psychological health in general. Setting boundaries, utilizing parental controls, and demonstrating good screen behavior are all techniques that parents may use to manage children's screen usage. We can reduce the possible negative impacts of excessive screen time and promote children's healthy development and well-being by increasing knowledge and encouraging alternative activities that stimulate development.",
+      "paperId": "b4b2cc3c49e857d8c84b3fae2e2e84a83158718d",
+      "title": "Integrating social learning and experiential learning theories: a novel augmented reality approach to enhancing social skills in early childhood education",
+      "abstract": "Abstract This study examines the effectiveness of augmented reality (AR)-based learning in enhancing early childhood social skills through the integration of social learning theory and experiential learning theory. Using a quasi-experimental pre-test and post-test control group design, the research involved 30 children aged 5–6 years at Telkom Kindergarten, Makassar, Indonesia. The experimental group (n = 15) participated in AR-based storytelling activities designed to foster social skills, while the control group (n = 15) engaged in conventional learning activities. Statistical analysis showed that the AR intervention produced significantly greater effectiveness (N-Gain = 0.73) compared to conventional methods (N-Gain = 0.03). The experimental group demonstrated about 49% improvement across all social skills components, including teamwork, adjustment, interaction, self-control, empathy, discipline, and respect for others. The novelty of this research lies in combining observational learning with direct experiential engagement through AR, creating an effective environment for social skills development that surpasses single-framework approaches. These findings provide strong evidence that well-designed AR-based learning can transform early childhood education by addressing multiple aspects of social competence. The study highlights the potential of emerging technologies to support holistic child development when grounded in comprehensive theoretical foundations and implemented with child-centered pedagogical practices.",
       "authors": [
-        "S. Muppalla",
-        "Sravya Vuppalapati",
-        "Apeksha Reddy Pulliahgaru"
+        "Herman",
+        "Herlina",
+        "Muhammad Hasan"
       ],
-      "venue": "Cureus",
-      "published": "2023-06-01",
-      "url": "https://doi.org/10.7759/cureus.40608",
-      "query": "screen time child development"
+      "venue": "",
+      "published": "2025-12-31",
+      "url": "https://doi.org/10.1080/2331186X.2025.2556889",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "b2ade57eff0c45f83049b045a95364f6a66fd039",
-      "title": "Impact of excessive use of screen time on child development: A review",
-      "abstract": "Abstract not available.",
+      "paperId": "14e920a21064bb7919a288ba25813544ee0d13c0",
+      "title": "The impact of augmented reality-assisted structured learning on environmental education for preschool children",
+      "abstract": "Environmental education in preschool plays a crucial role in achieving several of the United Nation’s Sustainable Development Goals (SDGs) by fostering young children’s early awareness, sustainable habits, and eco-conscious attitudes. However, implementing this education through traditional teaching methods is challenging due to the complexity of abstract concepts and a lack of the interactivity and engagement needed to meet the diverse needs of preschool children. This study proposed an Augmented Reality Mobile Game-Based Learning (ARM-GBL) approach with physical play to enhance preschool environmental education based on Mayer’s Selection-Organization-Integration (SOI) model. To examine the impact of ARM-GBL on preschool children’s socio-emotional collaboration and learning performance, a true experimental design was employed. Participants were randomly assigned to two groups: 13 in the ARM-GBL group and 14 in the Digital Game Based Learning (DGBL) group. Results showed that ARM-GBL significantly enhanced socio-emotional skills, such as teamwork and empathy, through collaborative and interactive loose parts play. Furthermore, the ARM-GBL group outperformed the DGBL group in learning performance, achieving better retention of environmental concepts and improved accuracy in tasks such as waste sorting. This research highlights the transformative potential of ARM-GBL by integrating AR technology with structured instructional frameworks and physical play. ARM-GBL effectively addresses both cognitive and socio-emotional developmental needs, offering an engaging and impactful approach to environmental education for preschool children.",
       "authors": [
-        "Anuradha",
-        "Ragini Mishra",
-        "Arti"
+        "A. Balcha",
+        "Hsiu-Ling Chen",
+        "Rakha Ramadhana A.B."
       ],
-      "venue": "International journal of agriculture extension and social development",
-      "published": "2025-06-01",
-      "url": "https://doi.org/10.33545/26180723.2025.v8.i6c.2023",
-      "query": "screen time child development"
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-09-24",
+      "url": "https://doi.org/10.1007/s10639-025-13737-9",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "10f6525a8463171578a1823e597082c1979881bf",
-      "title": "Role of Genetic Risk in the Association Between Screen Time and Child Development-Reply.",
-      "abstract": "Abstract not available.",
+      "paperId": "f47d95cf1b7cebfa8a80a113ebae8138490820e1",
+      "title": "Exploring The Future of Early Childhood Education : Research Trends and Implementation of Augmented Reality",
+      "abstract": "This study aims to examine the research trends and implementation of Augmented Reality (AR) technology in improving various aspects of child development, the challenges of its implementation, and the direction of future research in the context of digital education for early childhood. This study uses the Systematic Literature Review (SLR) method, with a bibliometric mapping approach and content analysis. A total of 17 articles were selected from the Scopus and DOAJ database in the period 2019–2024 for further analysis. The research findings show that the use of AR significantly enhances the learning experience to be more interactive, contextual, and enjoyable for children. In addition, AR has proven effective in conveying abstract concepts visually and helping to reinforce practical values such as financial responsibility from an early age. However, challenges such as limited infrastructure, access to technology, uneven teacher training, and excessive dependence on technology are major obstacles to the widespread implementation of AR. The implications of this study highlight the importance of increasing technological support in educational institutions, developing AR applications that are aligned with the curriculum, and continuous teacher training. Thus, AR has great potential as an innovative medium in early childhood education, as long as it is balanced with the right implementation strategy.",
       "authors": [
-        "Midori Yamamoto",
-        "H. Mezawa",
-        "Kenichi Sakurai"
+        "Ni Made Citariani",
+        "K. Agustini",
+        "Gde Wawan Sudhata"
       ],
-      "venue": "JAMA pediatrics",
-      "published": "2024-01-22",
-      "url": "https://doi.org/10.1001/jamapediatrics.2023.6103",
-      "query": "screen time child development"
+      "venue": "Jurnal Paedagogy",
+      "published": "2025-07-25",
+      "url": "https://doi.org/10.33394/jp.v12i3.15581",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "96e1f2611faf38a1961f58b1d8411de5812429cc",
-      "title": "Analysis of the impact of parents' electronic screen time habits, young children's screen exposure and parent-child interaction on language development delay in young children",
-      "abstract": "Purpose Language development delay (LDD) affected 5%–10% of preschool children globally, and modifiable environmental factors such as screen exposure drew significant attention. This study aimed to evaluate how parental screen habits, children's screen exposure, and parent-child interactions collectively influenced the risk of LDD. Methods This study employed a retrospective case-control design involving young children who received health check-ups between October 2020 and October 2024. Participants were categorized into normal and Language Developmental Delay groups by Bayley Scales of Infant and Toddler Development-III (BSID-III). Parent and child screen time (ST) were measured using a 7-day diary. Parent-child interaction quality was assessed using the Nursing Child Assessment Teaching Scale (NCATS). Emotion regulation and parenting stress were evaluated using the Preschool Children's Emotional Regulation Strategies Questionnaire and the Parenting Stress Index. Results Among 296 children (113 with LDD, 106 normal), parents in the LDD group spent significantly more time on screens daily (fathers: + 0.34 h; mothers: + 0.32 h) and had higher total entertainment time (+12.07 min). Children with LDD showed longer average daily screen exposure (+0.4 h), with 30.97% exceeding 2 h per day compared to 12.26% in the control group. The LDD group had lower parent-child interaction frequency (>3 times/week: 16.81% vs. 30.19%), lower storytelling rates (13.27% vs. 31.13%), and lower NCATS scores (96.52 vs. 99.45). Conclusion This study emphasized the importance of modifiable environmental factors, particularly excessive parental and child ST and decreased interaction quality, in the risk of LDD. It highlighted the necessity for behavioral interventions at the family level.",
+      "paperId": "f12b683885aac263334340625aa41381ec35c359",
+      "title": "Augmented Reality in Biology Education: A Literature Review",
+      "abstract": "This systematic review summarises the latest research on the use of augmented reality (AR) in biology education at primary, secondary and tertiary levels. Searching Web of Science, Scopus and Google Scholar, we found 40 empirical studies published up until early 2024. For each study, we analysed biological content, technical features, learning practices and pedagogical impact. AR is most used in human anatomy, particularly in the circulatory and respiratory systems, but also in genetics, cell biology, virology, botany, ecology and molecular processes. Mobile devices dominate as a mediation platform, with marker-based tracking and either commercial apps or self-developed Unity/Vuforia solutions. Almost all studies embed AR in constructivist or inquiry-based pedagogies, and report improved motivation, engagement and conceptual understanding. Nevertheless, reporting on the technical details is inconsistent and the long-term effects are not yet sufficiently researched. AR should therefore be viewed as a pedagogical tool rather than a technological goal that requires careful instructional design and equitable access to ensure meaningful and sustainable learning.",
       "authors": [
-        "X. Wan",
-        "Xiao-Qing Kang",
-        "Shunli Chen"
+        "K. Stanič",
+        "A. Špernjak"
       ],
-      "venue": "Frontiers in Pediatrics",
-      "published": "2025-08-28",
-      "url": "https://doi.org/10.3389/fped.2025.1667048",
-      "query": "screen time child development"
+      "venue": "Multimodal Technologies and Interaction",
+      "published": "2025-11-25",
+      "url": "https://doi.org/10.3390/mti9120117",
+      "query": "augmented reality early education"
     },
     {
-      "paperId": "41aacbf4544af81186f5b2c4e5a229a020291e9c",
-      "title": "Impact of Screen Time on Development of Children",
-      "abstract": "Background: Children today are growing up in a digital environment where screen-based technology is a central part of everyday life. While screens can offer educational and recreational benefits, there is growing concern about their influence on different areas of child development. Objective: This review explored how screen time affects developmental outcomes in children and adolescents aged 0 to 18 years, focusing on physical, cognitive, emotional, and social domains. Methods: A structured search was carried out across databases such as PubMed, Scopus, Web of Science and PsycINFO to identify relevant studies published between 2014 and 2024. Studies were included if they examined the relationship between screen time and at least one area of child development, involved participants within the target age group, and were peer-reviewed and published in English. The review followed PRISMA guidelines, and articles were independently screened and evaluated for quality by two reviewers. Results: A total of 46 studies met the inclusion criteria. Overall, the evidence points to a link between higher levels of screen use and negative outcomes such as reduced physical activity, poorer sleep, attention difficulties, and challenges in emotional and social functioning. However, some studies indicated that limited or educational screen use, especially with parental involvement, may have neutral or even positive effects in certain contexts. Conclusions: Screen time can have both positive and negative effects on child development, depending on factors like duration, type of content, and the context in which screens are used. Managing screen use through age-appropriate guidelines and adult supervision may help reduce risks and promote healthier development. More longitudinal research is needed to establish clearer recommendations for screen use in childhood.",
+      "paperId": "6cbeb48ac894077016c9b05744111a83ba37a63f",
+      "title": "Towards Sustainable Education with the Use of Mobile Augmented Reality in Early Childhood and Primary Education: A Systematic Mapping",
+      "abstract": "Over the years, educational institutions have faced significant difficulties in the teaching process at all educational levels, due to lack of motivation, concentration, attention, and confidence, among other aspects. In this sense, information and communication technologies can be the answer to transform educational models. One of the most promising and accessible technologies in recent years is mobile augmented reality (MAR), which allows students to visualize content through a mobile device combining the real environment with a virtual environment, providing an interactive and digital vision of the physical world in real time. The appropriate use of digital technologies in early childhood and primary education can promote socialization, comprehension, learning, language development, attention, and other educational benefits. However, due to the novelty of this technology, there is limited research and a gap in the literature on the use of MAR at these educational levels. This research work, through systematic mapping, aims to give an overview of how AR and mobile devices have been used in the last decade, which academic areas have benefited from the use of this innovative academic approach, and the main benefits and problems of using this technology in early and primary education. The findings are encouraging and show that AR technology, together with mobile devices, can be used to support the teaching of science, mathematics, reading, language, geography, etc.",
       "authors": [
-        "Subhranshu Sekhar Kar",
-        "R. Dube",
-        "B. M. Goud"
+        "Santiago Criollo-C",
+        "Andrea Guerrero-Arias",
+        "Javier Guaña-Moya"
       ],
-      "venue": "Children",
-      "published": "2025-09-25",
-      "url": "https://doi.org/10.3390/children12101297",
-      "query": "screen time child development"
+      "venue": "Sustainability",
+      "published": "2024-01-31",
+      "url": "https://doi.org/10.3390/su16031192",
+      "query": "augmented reality early education"
     }
   ],
   "hot_topics": [
@@ -1102,11 +1103,11 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 56,
+      "count": 58,
       "keywords": [
         "AR",
-        "VR",
         "augmented reality",
+        "VR",
         "immersive"
       ]
     },
@@ -1115,13 +1116,13 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 34,
+      "count": 33,
       "keywords": [
+        "teacher",
         "parent",
         "school",
-        "teacher",
-        "family",
-        "classroom"
+        "classroom",
+        "family"
       ]
     },
     {
@@ -1143,49 +1144,12 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 16,
+      "count": 14,
       "keywords": [
         "emotion",
-        "social development",
+        "empathy",
         "social-emotional",
-        "empathy"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 15,
-      "keywords": [
-        "cognitive development",
-        "attention",
-        "working memory",
-        "executive function",
-        "metacognition"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 7,
-      "keywords": [
-        "screen time",
-        "mobile"
-      ]
-    },
-    {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 7,
-      "keywords": [
-        "language development",
-        "writing",
-        "reading"
+        "social development"
       ]
     },
     {
@@ -1193,23 +1157,49 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 6,
+      "count": 11,
       "keywords": [
+        "game-based",
         "game",
         "play",
         "adaptive learning"
       ]
     },
     {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 3,
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 10,
       "keywords": [
-        "robot",
-        "chatbot",
-        "conversational agent"
+        "cognitive development",
+        "executive function",
+        "attention",
+        "metacognition",
+        "cognitive load"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 6,
+      "keywords": [
+        "mobile",
+        "digital technology"
+      ]
+    },
+    {
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 6,
+      "keywords": [
+        "language development",
+        "reading",
+        "writing"
       ]
     },
     {
@@ -1217,11 +1207,24 @@
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 3,
+      "count": 4,
       "keywords": [
         "computational thinking",
+        "algorithm",
         "coding",
         "computer science"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 2,
+      "keywords": [
+        "robot",
+        "chatbot",
+        "conversational agent"
       ]
     }
   ]
