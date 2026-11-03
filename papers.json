@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 08:32 UTC",
+  "updated_at": "2026-11-03 08:46 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -130,6 +130,20 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Should there be a teacher in-the-loop? A study of generative AI-personalized tasks middle school",
+        "abstract": "Abstract\n                  Large language models can be used to design instructional tasks to align to students’ needs. These generative AI models can create tasks that correspond to students’ out-of-school interests in areas like sports or music, which may enhance students’ interest in learning. However, little is known about teachers’ processes for creating or modifying tasks with generative AI, despite commercial AI companies’ claims that they will save teachers time. In the present study, 7 middle school mathematics teachers used ChatGPT to create personalized versions of problems in their curriculum to correspond to their students’ interests. The prompting moves teachers made and their students’ open-ended feedback on personalized problems were examined through thematic analysis. Teachers’ efficiency when creating problems and the ratings of their 7th grade students who received personalized assignments were examined. Results from this sample suggest that having a teacher-in-the-loop may result in generative AI-enhanced personalization being enacted at a broad grain size, whereas students often expressed preference for a smaller grain-size where they receive specific popular culture references that interest them. Teachers used prompting to adjust popular culture references and address issues with the depth, ethics, or realism of the problems generated, in some cases showing epistemic agency. The article closes with an exploratory, design-focused look at scalability trade-offs with teacher-facing personalization, patterns of teacher prompting practices, and opportunities for teachers to exercise epistemic and ethical monitoring of personalization outputs.",
+        "doi": "10.1007/s11423-026-10756-2",
+        "url": "https://doi.org/10.1007/s11423-026-10756-2",
+        "authors": [
+          "Candace Walkington",
+          "Mingyu Feng",
+          "Tiffini Pruitt-Britton"
+        ],
+        "published": "2026-11-2",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "A resilience-oriented VR safe-sandbox for FDM 3D printing education: reducing cost-of-failure pressure in early procedural learning",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10751-7",
@@ -183,23 +197,23 @@
         "published": "2026-10-21",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "What AI competency do K-12 teachers need? Framework construction based on teachers' work scenarios and the development and validation of a scale",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10741-9",
-        "url": "https://doi.org/10.1007/s11423-026-10741-9",
-        "authors": [
-          "Gaoyu Chen",
-          "Xiaoyi Zhou",
-          "Hang Lu"
-        ],
-        "published": "2026-10-21",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
       }
     ],
     "Journal of Computer Assisted Learning": [
+      {
+        "title": "Designing Teaching Agents for Human‐\n                    <scp>AI</scp>\n                    Collaborative Classrooms: A Design‐Based Study of Students' Sense of Presence and Learning Engagement",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Generative artificial intelligence has expanded the possibilities for teaching agents to provide instructional explanations and feedback. However, limited research has examined how such support can be integrated into teacher‐guided classroom instruction and how students experience and engage with this form of teaching.\n                  \n                  \n                    Objectives\n                    This study aimed to iteratively design and refine teaching agents within a teacher‐guided undergraduate classroom and to examine changes in students' sense of presence and learning engagement across three design iterations.\n                  \n                  \n                    Methods\n                    A single‐group design‐based research study was conducted in a 10‐week Introduction to Educational Technology course. 36 first‐year undergraduate students majoring in educational technology participated in three design iterations: gesture‐supported presentation, teacher‐mediated real‐time Q&amp;A, and individualized text‐based Q&amp;A. Data were collected through questionnaires, classroom observations, student feedback, question records, and discussion texts. Repeated‐measures analyses were used to examine changes in students' sense of presence and learning engagement, and epistemic network analysis was used to examine changes in co‐occurrence patterns among presence‐related codes in students' post‐class reflections.\n                  \n                  \n                    Results and Conclusions\n                    The findings show that students' sense of presence significantly increased across the three iterations, whereas learning engagement did not show a statistically significant change, although the descriptive means showed a small upward pattern. Epistemic network analysis identified changes in co‐occurrence patterns among presence‐related codes in students' post‐class reflections. The strongest connections involved direct instruction, affective expression, and resolution in the first iteration, and affective expression with direct instruction, exploration, and integration in the third iteration. Given the single‐group sequential design, these findings should be interpreted as observed changes during the iterative implementation process rather than causal evidence for the independent effects of specific design strategies. The study contributes process‐oriented evidence and design considerations for integrating teaching agents into teacher‐orchestrated human‐AI collaborative classrooms.",
+        "doi": "10.1002/jcal.70369",
+        "url": "https://doi.org/10.1002/jcal.70369",
+        "authors": [
+          "Mengmeng Qi",
+          "Bing Liu",
+          "Hongtao Huang"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
       {
         "title": "<scp>ChatGPT</scp>\n                    ‐Supported Literary Translation: Tense Accuracy and Dynamic Emotion Profiles in the Language Classroom",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    Generative artificial intelligence can facilitate task completion, but whether it improves learning or consistently shapes task‐related emotions remains unclear.\n                  \n                  \n                    Objectives\n                    This mixed‐methods classroom study compared literary translation with ChatGPT access, translation with dictionary access and optional teacher assistance and regular instruction, focusing on tense accuracy and task‐related emotional experiences.\n                  \n                  \n                    Methods\n                    The study involved 42 English‐major undergraduates. All participants completed a pretest and a posttest of English tense use. The 29 students in the translation conditions completed six translation tasks and provided 556 repeated emotion‐bar records with concurrent written explanations; 10 of these students also participated in interviews. Robust analysis of covariance, within‐participant models, exploratory configurational measures and thematic analysis were used.\n                  \n                  \n                    Results\n                    Mean scores increased in all three conditions, but adjusted posttest scores and gain scores did not differ significantly among them. No statistically significant between‐condition differences were detected in individual‐emotion percentages or configurational measures. None of the six emotion percentages varied significantly across task sessions, although curiosity was lower at the fourth than at the first measurement point. Profile mixedness was lower in Task 5 (Session 6) than in Task 2 (Session 3). Qualitative findings linked emotions mainly to text content and difficulty, progress, time pressure and classroom conditions. ChatGPT was valued for its speed and immediacy but raised concerns about reliability, effort and ownership.\n                  \n                  \n                    Conclusion\n                    The study did not detect a statistically significant advantage for ChatGPT support in tense accuracy or emotional experience. The exploratory configurational analysis nevertheless identified a task‐session difference not apparent in the separate emotion percentages, illustrating the value of examining learning outcomes, repeated emotion reports and students' appraisals together when evaluating AI‐supported language tasks.",
@@ -241,23 +255,37 @@
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
         "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Assessing the Impact of Immersive Technologies on Academic Performance, Cognitive Load, Engagement, and Self‐Regulated Learning: A Quasi‐Experimental Study in Kazakhstan",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    \n                      The relevance of this study stems from the digital transformation of Kazakhstan's higher education system and the need for pedagogically sound immersive technologies: virtual (\n                      VR\n                      ) and augmented realities (\n                      AR\n                      ), capable of improving the quality of education under conditions of limited educational resources.\n                    \n                  \n                  \n                    Objectives\n                    This quasi‐experimental study aims to assess the impact of VR/AR technologies on the academic achievement and psychological characteristics (i.e., cognitive load, engagement, and self‐regulated learning strategies) of students pursuing a degree in pedagogy, psychology, engineering, and technology at universities in Kazakhstan.\n                  \n                  \n                    Methods\n                    \n                      This study used a quasi‐experimental design with control and experimental groups and conducted pre‐ and pos\n                      t\n                      ‐tests to assess the effect of the intervention. The study also used a cognitive load scale and qualitative interviews.\n                    \n                  \n                  \n                    Results and Conclusions\n                    \n                      Results showed a significant increase in academic performance in the VR/AR group (Δ = +22.7%–24.4%; Cohen's\n                      d\n                       = 1.54–1.78;\n                      p\n                       &lt; 0.001) as compared to the control group (\n                      d\n                      ≈0.8–0.9). The overall cognitive load did not increase, but scores for performance (81.5 vs. 73.8;\n                      p\n                       &lt; 0.001), effort (69.2 vs. 60.7;\n                      p\n                       &lt; 0.001), and frustration (25.3 vs. 28.9;\n                      p\n                       = 0.032) were higher. Statistically significant differences were found within the VR/AR group in terms of engagement and self‐regulated learning strategies (\n                      p\n                       &lt; 0.001). A positive correlation was found between engagement and self‐regulation (\n                      r\n                       = 0.62), whereas a negative correlation was present between engagement and cognitive load (\n                      r\n                       = −0.28…−0.31). VR/AR usage had a significant moderating effect (η\n                      2\n                      ≈0.39–0.42), whereas the moderation effect of university affiliation was insignificant. The proposed conceptual framework has demonstrated its empirical applicability in this study. The results obtained, taking contextual limitations into account, can serve as an empirical basis for the future implementation of virtual and augmented reality solutions.",
-        "doi": "10.1002/jcal.70358",
-        "url": "https://doi.org/10.1002/jcal.70358",
-        "authors": [
-          "Olga Tapalova",
-          "Nadezhda Zhiyenbayeva",
-          "Zholdybay Uspanov"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
       }
     ],
     "Computers in Human Behavior": [
+      {
+        "title": "Daily stressors, perceived offline social support, addictive social media use, loneliness and mental health: a comparison of student and non-student emerging adults",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109229",
+        "url": "https://doi.org/10.1016/j.chb.2026.109229",
+        "authors": [
+          "Julia Brailovskaia",
+          "Lena-Marie Precht",
+          "Michael Witthöft"
+        ],
+        "published": "2027-3",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Generative artificial intelligence use and inappropriate parenting behaviors: Findings from a nationwide survey",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109233",
+        "url": "https://doi.org/10.1016/j.chb.2026.109233",
+        "authors": [
+          "Yousuke Imanishi",
+          "Sinchul Jwa",
+          "Masahiko Sakamoto"
+        ],
+        "published": "2027-3",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
       {
         "title": "Informing users about LLMs' environmental costs encourages ethical consumption",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -299,33 +327,6 @@
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
         "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Capitalizing on positive experiences: Receiving affective empathy fosters a better mood and prosocial waiting",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109189",
-        "url": "https://doi.org/10.1016/j.chb.2026.109189",
-        "authors": [
-          "Mingping Li",
-          "Yuwen Yang",
-          "Xiaodi Wang"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Gaining control at a cost? Customization, cognitive load, and perceived AI agency across task contexts",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109236",
-        "url": "https://doi.org/10.1016/j.chb.2026.109236",
-        "authors": [
-          "Qian Xu",
-          "Cheng Chen"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
       }
     ],
     "Internet and Higher Education": [
@@ -337,6 +338,19 @@
         "authors": [
           "Ziyi Kuang",
           "Xiaoxue Leng"
+        ],
+        "published": "2027-1",
+        "journal": "Internet and Higher Education",
+        "venue": "Internet and Higher Education"
+      },
+      {
+        "title": "Learning analytics dashboards in Internet-enabled higher education: A meta-analysis of effects on student outcomes, self-regulated learning, and engagement",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.iheduc.2026.101119",
+        "url": "https://doi.org/10.1016/j.iheduc.2026.101119",
+        "authors": [
+          "Rivan Gestiardi",
+          "Yuniawatika"
         ],
         "published": "2027-1",
         "journal": "Internet and Higher Education",
@@ -381,20 +395,6 @@
           "Kristanti Ambar Puspitasari"
         ],
         "published": "2027-1",
-        "journal": "Internet and Higher Education",
-        "venue": "Internet and Higher Education"
-      },
-      {
-        "title": "Self-regulated learning strategy transitions and academic performance in blended learning: Insights from learning analytics",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.iheduc.2026.101106",
-        "url": "https://doi.org/10.1016/j.iheduc.2026.101106",
-        "authors": [
-          "Jingjing Zhang",
-          "Yehong Yang",
-          "Xiaojie Niu"
-        ],
-        "published": "2026-10",
         "journal": "Internet and Higher Education",
         "venue": "Internet and Higher Education"
       }
@@ -611,6 +611,20 @@
     ],
     "Journal of Educational Computing Research": [
       {
+        "title": "Unraveling the Effects of Block-Based Visual Programming on Students’ Computational Thinking",
+        "abstract": "Nowadays, computational thinking has been the core necessary skill for students who want to succeed in the 21\n                    st\n                    century. Block-based visual programming (BBVP) is one of the most widely used ways to develop student computational thinking. However, its impact on student computational thinking is mixed in the education field. This study conducts a meta-analysis to compare the impacts of BBVP and textual programming on student computational thinking. The result covering 24 independent studies and 2,441 students indicates that BBVP has a large positive effect (\n                    SMD\n                    = 0.887,\n                    CI\n                    = [0.625, 1.148],\n                    p\n                    &lt; 0.001) on student computational thinking. We also conduct moderator analysis and find that class size, treatment duration, test type, BBVP type, subject, learning method, and region significantly moderate BBVP’s impacts on students computational thinking. Finally, major findings, recommendations, and limitations are provided.",
+        "doi": "10.1177/07356331261500721",
+        "url": "https://doi.org/10.1177/07356331261500721",
+        "authors": [
+          "Qing Yu",
+          "Kun Yu",
+          "Xue Yu"
+        ],
+        "published": "2026-11-2",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
         "title": "Toward an Interpretive Synthesis of Personalization, Co-Design, and Ethical Mediation in AI-Supported Higher Education: An Integrative Review of Agentic, Generative, and Adaptive Tutoring Systems",
         "abstract": "Generative artificial intelligence (AI) and adaptive learning technologies are expanding in higher education, raising questions about their alignment with pedagogical goals. This qualitative-integrative review synthesizes 57 publications (21 empirical, 25 conceptual or framework, 9 systematic reviews or meta-analyses retained for triangulation, and 2 design/development papers) from 2024 to 2026, employing Whittemore and Knafl’s methodology to examine AI-supported tutoring, implementation strategies, and learner/instructor experiences. Three interpretive themes organize this heterogeneous evidence: (1) personalization as a recurring target, from micro-level adaptation to curriculum design; (2) technology-pedagogy co-design as a recurring implementation pattern; and (3) contextual and ethical conditions surrounding adoption, including culture, policy gaps, well-being, and academic integrity. These themes are interpretive, not a validated framework, and draw on evidence of uneven strength. The present review does not estimate effect sizes or pool outcomes across studies; g = 0.70, reported by X. Wang et al. in a separate meta-analysis of 45 studies (2010–2022) of pre-generative adaptive systems, which is cited only as background, not as a finding of this review. Implications are framed as evidence-tiered hypotheses, while the layered model is offered as an interpretive scaffold for future research, not a confirmatory model.",
         "doi": "10.1177/07356331261498975",
@@ -661,20 +675,6 @@
           "Yawen Shi"
         ],
         "published": "2026-10-7",
-        "journal": "Journal of Educational Computing Research",
-        "venue": "Journal of Educational Computing Research"
-      },
-      {
-        "title": "From Local to Global: Cross-Cultural Adaptation and Validation of the SAGAI Scale for Measuring Student Attitudes Toward Generative AI",
-        "abstract": "Generative artificial intelligence (GenAI) is becoming an increasingly visible component of higher education, raising the need for theoretically grounded instruments that can capture how students perceive and engage with these technologies. This study aims to adapt the Scale for Attitudes toward Generative Artificial Intelligence (SAGAI), originally developed in Turkish, into English and to examine its psychometric properties within a different linguistic context. The study was conducted with 350 higher education students enrolled at a UK-based open and distance learning institution. A systematic cross-cultural adaptation process was followed, including translation, back-translation, expert review, and pilot testing. Confirmatory factor analysis was conducted to examine the structural validity of the scale. The findings supported a four-factor structure—usefulness, anxiety, expectancy, and competency—consistent with the original model, with acceptable to strong model fit indices after minor modifications, resulting in a 22-item version. Reliability analyses indicated high internal consistency across all dimensions. Comparative analyses examined differences between the Turkish and English samples at both total and dimensional levels. Turkish participants reported higher levels of usefulness, expectancy, and anxiety, whereas English participants demonstrated higher perceived competency. Additional analyses within the UK sample indicated that prior experience with GenAI was strongly associated with attitudinal differences, pointing to the role of usage in shaping how these technologies are evaluated. The findings indicate that the underlying structure of attitudes toward GenAI remains stable across linguistic contexts, while the intensity and balance of these dimensions vary depending on contextual and experiential factors. The coexistence of positive expectations and concerns suggests that student attitudes toward GenAI are inherently multidimensional rather than uniformly positive or negative. The study provides evidence that SAGAI is a valid and reliable instrument for use in English-speaking contexts and offers a structured framework for examining student attitudes toward GenAI in cross-cultural research. The results also underline the importance of considering both context and experience when interpreting how students engage with emerging technologies.",
-        "doi": "10.1177/07356331261491115",
-        "url": "https://doi.org/10.1177/07356331261491115",
-        "authors": [
-          "Gürhan Durak",
-          "Bart Rienties",
-          "Felipe Tessarolo"
-        ],
-        "published": "2026-9-29",
         "journal": "Journal of Educational Computing Research",
         "venue": "Journal of Educational Computing Research"
       }
@@ -960,89 +960,18 @@
       }
     ]
   },
-  "keyword_papers": [
-    {
-      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
-      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
-      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
-      "authors": [
-        "Deabashis Sarker Tamal",
-        "MD. Mehedi Zaman Khan",
-        "Fahim Shahriar Prottoy"
-      ],
-      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
-      "published": "2026-04-16",
-      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
-      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
-      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
-      "authors": [
-        "I. Khan",
-        "Hema Kumar Goru",
-        "G. L. Madhumati"
-      ],
-      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
-      "published": "2024-05-03",
-      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
-      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
-      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
-      "authors": [
-        "Z. Pap",
-        "Z. Čović",
-        "Janos Simon"
-      ],
-      "venue": "Symposium on Intelligent Systems and Informatics",
-      "published": "2021-09-16",
-      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
-      "title": "Children's trust in and learning from voice assistants.",
-      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
-      "authors": [
-        "Lauren N. Girouard-Hallam",
-        "Judith H. Danovitch"
-      ],
-      "venue": "Developmental Psychology",
-      "published": "2022-04-01",
-      "url": "https://doi.org/10.1037/dev0001318",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
-      "title": "Virtual Voice Assistant In Python (Friday)",
-      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
-      "authors": [
-        "S. Uke",
-        "Hrishikesh Lokhande",
-        "Durva Lohar"
-      ],
-      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
-      "published": "2022-10-08",
-      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
-      "query": "voice assistant children learning"
-    }
-  ],
+  "keyword_papers": [],
   "hot_topics": [
     {
       "id": "ar_vr",
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 53,
+      "count": 50,
       "keywords": [
         "AR",
         "VR",
-        "augmented reality",
-        "immersive"
+        "augmented reality"
       ]
     },
     {
@@ -1050,7 +979,7 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 29,
+      "count": 30,
       "keywords": [
         "school",
         "teacher",
@@ -1064,13 +993,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 21,
+      "count": 20,
       "keywords": [
+        "generative AI",
         "ChatGPT",
         "GPT",
-        "artificial intelligence",
-        "machine learning",
-        "generative AI"
+        "large language model",
+        "artificial intelligence"
       ]
     },
     {
@@ -1078,10 +1007,9 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 11,
+      "count": 10,
       "keywords": [
         "emotion",
-        "empathy",
         "social-emotional",
         "social development"
       ]
@@ -1091,9 +1019,8 @@
       "name": "认知发展与学习科学",
       "subtitle": "Cognitive Development & Learning Science",
       "icon": "🧠",
-      "count": 8,
+      "count": 5,
       "keywords": [
-        "cognitive development",
         "metacognition",
         "cognitive load",
         "attention",
@@ -1101,26 +1028,12 @@
       ]
     },
     {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 6,
-      "keywords": [
-        "robot",
-        "voice assistant",
-        "chatbot",
-        "conversational agent"
-      ]
-    },
-    {
       "id": "game_learning",
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 6,
+      "count": 5,
       "keywords": [
-        "personalized learning",
         "play",
         "adaptive learning"
       ]
@@ -1137,26 +1050,38 @@
       ]
     },
     {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 3,
-      "keywords": [
-        "mobile",
-        "digital technology"
-      ]
-    },
-    {
       "id": "computational",
       "name": "计算思维与编程教育",
       "subtitle": "Computational Thinking & Coding",
       "icon": "💻",
-      "count": 3,
+      "count": 4,
       "keywords": [
         "computational thinking",
         "coding",
-        "computer science"
+        "computer science",
+        "programming"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 2,
+      "keywords": [
+        "digital technology",
+        "mobile"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 1,
+      "keywords": [
+        "chatbot",
+        "conversational agent"
       ]
     }
   ]
