@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 08:46 UTC",
+  "updated_at": "2026-11-04 08:15 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -130,6 +130,18 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "A cognitive theory of accessibility: implications for research and practice",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10748-2",
+        "url": "https://doi.org/10.1007/s11423-026-10748-2",
+        "authors": [
+          "Stephanie L. Moore"
+        ],
+        "published": "2026-11-3",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Should there be a teacher in-the-loop? A study of generative AI-personalized tasks middle school",
         "abstract": "Abstract\n                  Large language models can be used to design instructional tasks to align to students’ needs. These generative AI models can create tasks that correspond to students’ out-of-school interests in areas like sports or music, which may enhance students’ interest in learning. However, little is known about teachers’ processes for creating or modifying tasks with generative AI, despite commercial AI companies’ claims that they will save teachers time. In the present study, 7 middle school mathematics teachers used ChatGPT to create personalized versions of problems in their curriculum to correspond to their students’ interests. The prompting moves teachers made and their students’ open-ended feedback on personalized problems were examined through thematic analysis. Teachers’ efficiency when creating problems and the ratings of their 7th grade students who received personalized assignments were examined. Results from this sample suggest that having a teacher-in-the-loop may result in generative AI-enhanced personalization being enacted at a broad grain size, whereas students often expressed preference for a smaller grain-size where they receive specific popular culture references that interest them. Teachers used prompting to adjust popular culture references and address issues with the depth, ethics, or realism of the problems generated, in some cases showing epistemic agency. The article closes with an exploratory, design-focused look at scalability trade-offs with teacher-facing personalization, patterns of teacher prompting practices, and opportunities for teachers to exercise epistemic and ethical monitoring of personalization outputs.",
         "doi": "10.1007/s11423-026-10756-2",
@@ -181,20 +193,6 @@
           "Yicheng Huang"
         ],
         "published": "2026-10-26",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Data science for K-12: A design-based research study",
-        "abstract": "Abstract\n                  Data science is a field that merges advancements in computer science, statistics, and machine learning. To date, much data science instruction has been through graduate programs or self-directed course offerings. There are therefore fewer opportunities for formal data science education, especially for K-12 educators and learners who have limited exposure to these fields. While some efforts have emerged to introduce data science in pre-college settings, there is little research regarding learning design strategies that support data science for inservice teachers. As such, this project employs a design-based research (DBR) approach to develop accessible and engaging open-access learning resources as a way to reduce barriers to data science instruction across the educational spectrum. Given the gap regarding data science in K-12, our DBR study identifies the following design elements: (a) revised data science content scope, (b) design standardization for interactive learning, (c) reframing data science for case-based learning, (d) artificial intelligence (AI) towards data personalization, and (e) data science coding through goal-based learning. The project also introduces aspects of the curriculum via a teacher professional development, which provides important insights and challenges regarding data science at the middle and high school levels. Implications for learning design, open-educational resources, data science standards, and others are discussed.",
-        "doi": "10.1007/s11423-026-10735-7",
-        "url": "https://doi.org/10.1007/s11423-026-10735-7",
-        "authors": [
-          "Andrew A. Tawfik",
-          "Luiz Barboza",
-          "Andrew M. Olney"
-        ],
-        "published": "2026-10-21",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
       }
@@ -273,6 +271,20 @@
         "venue": "Computers in Human Behavior"
       },
       {
+        "title": "Professional or personal? How hybrid self-presentation shapes bridging and bonding social capital across social status on LinkedIn",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109244",
+        "url": "https://doi.org/10.1016/j.chb.2026.109244",
+        "authors": [
+          "Xinran Zhang",
+          "Yuhan Wei",
+          "Xiaohui Wang"
+        ],
+        "published": "2027-3",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
         "title": "Generative artificial intelligence use and inappropriate parenting behaviors: Findings from a nationwide survey",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.chb.2026.109233",
@@ -309,20 +321,6 @@
           "Junhan Chen",
           "Shilin Xia",
           "Zexin Ma"
-        ],
-        "published": "2027-2",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Gendering conversational AI in human–AI interaction: The role of interaction context and sexist ideology in shaping user evaluations",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109198",
-        "url": "https://doi.org/10.1016/j.chb.2026.109198",
-        "authors": [
-          "Ye Wang",
-          "Xuxu Liu",
-          "Yaling Deng"
         ],
         "published": "2027-2",
         "journal": "Computers in Human Behavior",
@@ -401,6 +399,19 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Applying the human-centric AI pedagogy framework: a collaborative self-study on a writing chatbot design in literacy education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2754923",
+        "url": "https://doi.org/10.1080/10494820.2026.2754923",
+        "authors": [
+          "Shuling Yang",
+          "Carin Appleget"
+        ],
+        "published": "2026-11-3",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Teachers’ perceptions of students’ generative AI use, professional judgment, and pedagogical adaptation: a mixed-methods study",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2754919",
@@ -450,20 +461,6 @@
           "Hilal Hamed Al Busaidi"
         ],
         "published": "2026-10-27",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Mathematics teachers’ AI-TMPK: exploring structural relationships and latent profiles",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2750864",
-        "url": "https://doi.org/10.1080/10494820.2026.2750864",
-        "authors": [
-          "Jinrun Xu",
-          "Maodong Tian",
-          "Songtao Huang"
-        ],
-        "published": "2026-10-20",
         "journal": "Interactive Learning Environments",
         "venue": "Interactive Learning Environments"
       }
@@ -681,72 +678,71 @@
     ],
     "International Journal of Human-Computer Interaction": [
       {
-        "title": "Feeling Like a Number: How AI’s Neglect of Uniqueness Undermines User Acceptance in Online Medical Consultations",
+        "title": "Neuroergonomic Comparison of User Experience and System Performance for SSVEP-Based Brain Computer Interfaces in Mixed Reality and Virtual Reality Environments",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2752792",
-        "url": "https://doi.org/10.1080/10447318.2026.2752792",
+        "doi": "10.1080/10447318.2026.2754592",
+        "url": "https://doi.org/10.1080/10447318.2026.2754592",
         "authors": [
-          "Lifang Liao",
-          "Xia Hou",
-          "Chaohong Shen"
+          "Xiaoqian Qi",
+          "Zehui Cao",
+          "Zhuoke Cai"
         ],
-        "published": "2026-10-30",
+        "published": "2026-11-3",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Meeting LLMs for the First Time: Understanding Trust Formation and Adjustment Among Older Adults in China",
+        "title": "Visual Attention Allocation Across Workflow Stages: An Eye-Tracking Study on Spatial Interface Layout",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2748077",
-        "url": "https://doi.org/10.1080/10447318.2026.2748077",
+        "doi": "10.1080/10447318.2026.2744840",
+        "url": "https://doi.org/10.1080/10447318.2026.2744840",
         "authors": [
-          "Xinyue Zou",
-          "Cheng Chen",
-          "Yaohui Cai"
+          "Xian Yang",
+          "Mingjin Zhong",
+          "Zhi Li"
         ],
-        "published": "2026-10-30",
+        "published": "2026-11-3",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "Eyes on Attention: AI-Based Webcam Assessment of Sustained Attention",
+        "title": "Cognitive Scaffold or Neural Crutch? An fNIRS Analysis of Self-Reported Generative AI Dependency and Cognitive Performance from Controlled Tasks and GAI-Mediated Reading Comprehension: How Interaction Strategies Mediate Prefrontal Oxygenation and Performance",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2751375",
-        "url": "https://doi.org/10.1080/10447318.2026.2751375",
+        "doi": "10.1080/10447318.2026.2751787",
+        "url": "https://doi.org/10.1080/10447318.2026.2751787",
         "authors": [
-          "Anna Enrica Tosti",
-          "Mustafa Can Gursesli",
-          "Mirko Duradoni"
+          "Chitra Thirumalaisamy",
+          "Eiko Takaoka"
         ],
-        "published": "2026-10-30",
+        "published": "2026-11-3",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "“I Know” or “I Feel”? The Impact of Generative AI Applications’ Empathic Response Types on Customers’ Willingness to Forgive",
+        "title": "The Online Privacy and Engagement Model: Measuring People’s Attitudes Toward, and Willingness to Use, Casual and Non-Casual Online Digital Technologies",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2752785",
-        "url": "https://doi.org/10.1080/10447318.2026.2752785",
+        "doi": "10.1080/10447318.2026.2753815",
+        "url": "https://doi.org/10.1080/10447318.2026.2753815",
         "authors": [
-          "Ruxia Cheng",
-          "Rui Sun",
-          "Wenlong Tang"
+          "Joseph Teal",
+          "Petko Kusev",
+          "Siana Vukadinova"
         ],
-        "published": "2026-10-29",
+        "published": "2026-11-3",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       },
       {
-        "title": "“A Parrot on the Shoulder”: Designing AI as a Complementary Actor with Perceived Strengths and Weaknesses Within the Mentorship Ecosystem",
+        "title": "Mindful Generative AI Use: Development and Validation of a Langerian Mindfulness Scale",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10447318.2026.2751909",
-        "url": "https://doi.org/10.1080/10447318.2026.2751909",
+        "doi": "10.1080/10447318.2026.2752743",
+        "url": "https://doi.org/10.1080/10447318.2026.2752743",
         "authors": [
-          "Yunhao Wang",
-          "Nan Weng",
-          "Rhea Bassappa"
+          "Yuan Zheng",
+          "Yang Lu",
+          "Tongxin Wu"
         ],
-        "published": "2026-10-29",
+        "published": "2026-11-3",
         "journal": "International Journal of Human-Computer Interaction",
         "venue": "International Journal of Human-Computer Interaction"
       }
@@ -960,18 +956,220 @@
       }
     ]
   },
-  "keyword_papers": [],
+  "keyword_papers": [
+    {
+      "paperId": "350cc5144179f49812a5fe80aae6aac8fdbe2e74",
+      "title": "Developmentally aligned AI: a framework for translating the science of child development into AI design",
+      "abstract": "What would it mean to design AI not for the average user, but for the child whose fingers still miss the screen, who forgets the instructions halfway through, and who greets the voice in the box as a friend? This paper proposes Developmentally Aligned Design (DAD) as a practical and ethical framework for building AI systems that meet children where they are—cognitively, socially, and emotionally. Building on the long-standing principle of developmentally appropriate practice in early childhood education, it theorises four principles of developmentally-aligned design: (1) perceptual fit (e.g., anonymised phoneme‑error tuning in early‑reading apps that respects toddlers’ speech‑production limits) (2) cognitive scaffolding (e.g. Zone‑of‑Proximal‑Development (ZPD) progressions that govern when a tutoring agent introduces harder tasks) (3) interface simplicity (e.g., storybook apps that cap menu depth and visual clutter to match preschoolers’ working‑memory span) and (4) relational integrity (e.g., conversational agents that introduce themselves with a developmentally clear disclaimer—“I’m a computer helper, not a real friend”). Through illustrative examples, it demonstrates how developmental science can serve as a validation layer on AI dataset curation, model fine‑tuning, and user experience choices. Adopting Developmentally Aligned Design can therefore sensitise AI systems to the distinct perceptual, cognitive, and socio‑emotional needs of young children; shift the responsibility of “proof of safety” from parents and early‑years practitioners to AI developers and vendors; and help the science of child development become a core intellectual engine of next‑generation AI innovation.",
+      "authors": [
+        "Nomisha Kurian"
+      ],
+      "venue": "AI, Brain and Child",
+      "published": "2025-08-06",
+      "url": "https://doi.org/10.1007/s44436-025-00009-z",
+      "query": "AI child development"
+    },
+    {
+      "paperId": "da6d7f820c3bce984be69de74d09a7587126fb68",
+      "title": "The Future of Child Development in the AI Era. Cross-Disciplinary Perspectives Between AI and Child Development Experts",
+      "abstract": "This report explores the potential implications of rapidly integrating Artificial Intelligence (AI) applications into children's environments. The introduction of AI in our daily lives necessitates scrutiny considering the significant role of the environment in shaping cognition, socio-emotional skills, and behaviors, especially during the first 25 years of cerebral development. As AI becomes prevalent in educational and leisure activities, it will significantly modify the experiences of children and adolescents, presenting both challenges and opportunities for their developmental trajectories. This analysis was informed by consulting with 15 experts from pertinent disciplines (AI, product development, child development, and neurosciences), along with a comprehensive review of scientific literature on children development and child-technology interactions. Overall, AI experts anticipate that AI will transform leisure activities, revolutionize education, and redefine human-machine interactions. While AI offers substantial benefits in fostering interactive engagement, it also poses risks that require careful considerations, especially during sensitive developmental periods. The report advocates for proactive international collaboration across multiple disciplines and increased research into how technological innovations affect child development. Such efforts are crucial for designing a sustainable and ethical future for the next generation through specific child-centered regulations, and helping to educate all potential stakeholders (regulators, developers, parents and educators, children) about responsible AI use and its potential impacts on child development.",
+      "authors": [
+        "Mathilde Neugnot-Cerioli",
+        "Olga Muss Laurenty"
+      ],
+      "venue": "arXiv.org",
+      "published": "2024-05-29",
+      "url": "https://doi.org/10.48550/arXiv.2405.19275",
+      "query": "AI child development"
+    },
+    {
+      "paperId": "378c59359f151a0e68bd6b749abc1f14d886766d",
+      "title": "AI, Brain, and Child: navigating the intersection of artificial intelligence, neuroscience, and child development",
+      "abstract": "In an era marked by rapid advancements in artificial intelligence (AI) and cognitive neuroscience, the intersection of these fields holds transformative potential for child development and educational practices. This launch editorial introduces AI, Brain and Child (ABC), an open-access journal dedicated to exploring the dynamic interplay between AI, neuroscience, and child education. By fostering an interdisciplinary dialogue among educators, researchers, clinicians, and policymakers, ABC aims to examine the multifaceted roles of AI and neuroscience in shaping cognitive, social, and emotional growth among children. The journal seeks to democratize access to high-quality research, addressing both the beneficial applications and ethical challenges posed by AI and neuroscience technologies. Through this platform, ABC aspires to promote evidence-based practices, enhance educational outcomes, and tackle pressing developmental and educational issues. By welcoming diverse contributions—from empirical research to policy analysis—ABC endeavors to bridge the gaps between theory and practice, equipping stakeholders with the insights needed to navigate the complexities of educating children within a technologically enriched landscape. This new scholarly endeavor marks a new era of global community to partake in the crucial conversation surrounding the opportunities and responsibilities inherent in integrating AI and neuroscience into education.",
+      "authors": [
+        "P. Li",
+        "J. C. Lee"
+      ],
+      "venue": "AI, Brain and Child",
+      "published": "2025-03-11",
+      "url": "https://doi.org/10.1007/s44436-025-00004-4",
+      "query": "AI child development"
+    },
+    {
+      "paperId": "a0094342d67f6cd381e8955dcc1fc23def1c47c9",
+      "title": "AI-Driven Design of Emotionally Supportive Toys for Child Development: An Iterative Process",
+      "abstract": "Background Emotional support is critical for children's social skills and well-being. Children exposed to emotional support at an early age can foster resilience and interpersonal skills. As traditional support methods lack interactive and personalized engagement, innovative, technology-driven solutions are consequently developed. Objective This project aimed to develop an AI-driven “emotional mentor” embodied in a plush bear whose inherent characteristic is comfort and companionship. The goal was to create a visually appealing and emotionally supportive tool that encourages children to recognize and express their feelings through gentle interaction. The design specifically targets children aged 3-11, a critical period of emotional development defined by Freudian psychology. Method The project utilized AI visual generation models guided by precise prompts, following a systematic, iterative design process. Initial design concepts were generated by AI visual generation models with precise prompts. Early outputs were critically evaluated for inconsistencies, excessive detail, and unwanted features. After iterative updates, the prompts can finally output simplicity, warmth, and an inviting appearance. LoRA fine-tuning was used to balance function and aesthetics. Market research informed the incorporation of subtle “breathing” motion effects, and user perception testing also informed the design. Results The iterative design process yielded a prototype of an emotionally supportive plush toy with refined visual aesthetics and glowing interactive features. The AI-assisted design facilitated the exploration of a range of design concepts and the systematic improvement of the toy's visual and interactive elements. Conclusion This study presents a detailed, AI-assisted iterative approach to designing an emotionally supportive plush toy. The design process and interactive visual features are the core. Future work may explore additional functionalities to further enhance the system's emotional support capabilities.",
+      "authors": [
+        "Xinwei Guan",
+        "Deng-Kai Chen",
+        "Sui-Huai Yu"
+      ],
+      "venue": "",
+      "published": "2025-04-25",
+      "url": "https://doi.org/10.1145/3744367.3744393",
+      "query": "AI child development"
+    },
+    {
+      "paperId": "6e0feaafb805a0b8245333e393068327b565895f",
+      "title": "AI, Parenting, and Child Development.",
+      "abstract": "Abstract not available.",
+      "authors": [
+        "J. Radesky"
+      ],
+      "venue": "Journal of Developmental and Behavioral Pediatrics",
+      "published": "2024-02-09",
+      "url": "https://doi.org/10.1097/DBP.0000000000001256",
+      "query": "AI child development"
+    },
+    {
+      "paperId": "caf6aa70ef4346c8bef1544a751cc619dc55065b",
+      "title": "Game-based learning in early childhood education: a systematic review and meta-analysis",
+      "abstract": "Game-based learning has gained popularity in recent years as a tool for enhancing learning outcomes in children. This approach uses games to teach various subjects and skills, promoting engagement, motivation, and fun. In early childhood education, game-based learning has the potential to promote cognitive, social, and emotional development. This systematic review and meta-analysis aim to summarize the existing literature on the effectiveness of game-based learning in early childhood education This systematic review and meta-analysis examine the effectiveness of game-based learning in early childhood education. The results show that game-based learning has a moderate to large effect on cognitive, social, emotional, motivation, and engagement outcomes. The findings suggest that game-based learning can be a promising tool for early childhood educators to promote children’s learning and development. However, further research is needed to address the remaining gaps in the literature. The study’s findings have implications for educators, policymakers, and game developers who aim to promote positive child development and enhance learning outcomes in early childhood education.",
+      "authors": [
+        "Manar S. Alotaibi"
+      ],
+      "venue": "Frontiers in Psychology",
+      "published": "2024-04-02",
+      "url": "https://doi.org/10.3389/fpsyg.2024.1307881",
+      "query": "game-based learning early childhood"
+    },
+    {
+      "paperId": "a6e15d12f9478bcc3adb6c274fbe1b09718d312b",
+      "title": "Enhancing Early Childhood Mathematics Skills Learning through Digital Game-Based Learning",
+      "abstract": "The present study investigates the unique impact of digital game-based learning (DGBL) on children's mathematical problem-solving skills, with a particular focus on both immediate and long-term effects. While much of the existing research on DGBL explores its general benefits, this study differentiates itself by examining how DGBL specifically enhances cognitive skills. The study included 120 students, 61 of whom were assigned to an experimental group taught using digital games, and 59 to a control group taught through traditional methods. The research design incorporated the development of a customized game-based learning material and a comprehensive mathematical problem-solving assessment. The results revealed that the experimental group significantly outperformed the control group in both immediate and delayed post-tests, which underscores the effectiveness of DGBL in enhancing students' retention of mathematics well beyond the initial learning phase. This suggests that DGBL is not only effective in helping students grasp mathematical concepts in the short term but also in strengthening their ability to retain and apply these concepts over time. Moreover, the study goes further by highlighting the long-term cognitive benefits of DGBL, such as the development of critical thinking, quick decision-making, and problem-solving skills. This aspect of the study distinguishes it from other research in the field as it emphasizes not just short-term academic performance, but also lasting improvements in key cognitive abilities. Based on these findings, it is recommended that teachers integrate digital game-based learning into their teaching strategies. This integration can enhance student engagement, motivate learners, and facilitate understanding of mathematical concepts.",
+      "authors": [
+        "Omayya M. Al-Hassan",
+        "Layla Alhasan",
+        "R. Alali"
+      ],
+      "venue": "International Journal of Learning, Teaching and Educational Research",
+      "published": "2025-02-28",
+      "url": "https://doi.org/10.26803/ijlter.24.2.10",
+      "query": "game-based learning early childhood"
+    },
+    {
+      "paperId": "dfefdb7fc29ba0e9d799c0d5fcf75ec49e253855",
+      "title": "Enhancing Early Childhood Cognitive Development via Mobile Game-Based Learning Applications: Insights and Practical Experiences",
+      "abstract": "Early childhood cognitive development is foundational for future academic and personal success. While traditional teaching approaches often overlook technology’s potential, gamebased learning applications offer an innovative solution to enhance cognitive abilities in young children. This study evaluates the feasibility and effectiveness of a game-based learning (GBL) application for enhancing early childhood cognitive abilities. Using Research and Development (R&D) methodology, 40 children aged 5–6 were randomly assigned to experimental and control groups for an eight-week intervention. The application was developed through systematic needs analysis, design, development, implementation, and evaluation. ANCOVA analysis of pre- and post-test assessments demonstrated highly significant effects (F = 2154.89, p < 0.001, partial η2 = 0.966), explaining 96.6% of score variations. Expert validation scores exceeded 4.6 out of 5.0, confirming the application’s quality. Qualitative feedback from teachers and parents noted substantial improvements in children’s problem-solving skills, memory retention, and critical thinking. These findings suggest that integrating GBL applications could enhance educational equity and improve cognitive development outcomes across diverse educational settings.",
+      "authors": [
+        "Haerul Annuar",
+        "E. Solihatin",
+        "Khaerudin"
+      ],
+      "venue": "International Journal of Interactive Mobile Technologies",
+      "published": "2025-02-27",
+      "url": "https://doi.org/10.3991/ijim.v19i04.51897",
+      "query": "game-based learning early childhood"
+    },
+    {
+      "paperId": "d841dacdcd56b9e725a65c79430be3b0f4ee062c",
+      "title": "Enhancing Early Childhood Students’ Computational Thinking Competency Through Digital Game-Based Learning",
+      "abstract": "This study investigated how the computational thinking competencies of students classified in the early childhood category can be developed through digital game-based learning. Computational thinking is a way of thinking that includes problem solving, algorithmic thinking and logical inference skills is considered an important competence that should be acquired at an early age. Digital game-based learning stands out as a powerful tool for developing computational thinking skills while providing a fun and motivating environment by ensuring the active participation of students. Within the scope of the research, the effects of digital game-based learning activities on students’ computational thinking skills were examined by experimental method, one of the quantitative research methods. In this study, a 4-week training activity was conducted for the experimental and control groups determined during the research process to develop computational thinking skills in 5-year-old pre-school children. The study group consists of 50 students in the 5-year-old age group studying in the pre-school class of a state institution. In the study, student groups were divided into experimental and control groups. The experimental and control groups consisted of 25 students. The achievement test prepared for the cognitive domain was used as a pre-test and post-test as the data collection tool. In addition to this data collection tool, an evaluation rubric was also used in the study. The findings showed that digital game-based learning methods positively affect the development of computational thinking skills in early childhood. In light of these findings, recommendations were made in the study for the integration of digital games into relevant educational programs and the promotion of computational thinking at an early age.",
+      "authors": [
+        "E. Yıldız",
+        "Ayşe Alkan",
+        "Murat Tezer"
+      ],
+      "venue": "International Journal of Cognitive Research in Science, Engineering and Education",
+      "published": "2025-08-26",
+      "url": "https://doi.org/10.23947/2334-8496-2025-13-2-365-378",
+      "query": "game-based learning early childhood"
+    },
+    {
+      "paperId": "6bf8e67c1d1898809a0845dd2807c1e54315a628",
+      "title": "Phygital Game-Based Learning in Early Childhood Education: An Exploratory Review",
+      "abstract": "This paper examines the role of phygital game-based learning (PGBL) in early childhood education, with a specific focus on its potential to foster critical thinking and problem-solving skills in children aged 3 to 8 years. PGBL refers to hybrid educational tools that combine physical manipulatives with interactive digital interfaces, offering multisensory and responsive learning experiences that aim to enhance cognitive engagement and symbolic reasoning. Through a literature-based qualitative review, the study analyzes five representative tools—Osmo Tangram, KIBO Robot, LEGO DUPLO Stories, Marbotic Smart Letters, and PlayShifu Orboot Earth—selected for their pedagogical relevance, documented educational use, and theoretical grounding. Drawing from constructivist and socio-cultural learning theories, particularly those of Piaget, Papert, and Vygotsky, the paper explores how these tools embody principles such as hands-on learning, scaffolding, iterative exploration, and meaningful play. Each tool is evaluated in terms of its support for higher-order cognitive functions, including sequencing, spatial reasoning, emergent literacy, and collaborative learning. The findings reveal that while PGBL tools show promise in promoting engagement and foundational executive functions, their effectiveness depends on factors such as design flexibility, ease of integration into pedagogical practice, and inclusivity. Implementation challenges such as limited open-ended play, cognitive overload, unequal access to digital infrastructure, and the need for educator training are critically examined using Universal Design for Learning (UDL) and Technological Pedagogical Content Knowledge (TPACK) frameworks. Rather than presenting definitive causal claims, this review provides a structured synthesis of current academic literature, highlighting both the affordances and limitations of phygital tools in early education. The analysis also underscores the importance of aligning PGBL tools with developmentally appropriate practices and culturally responsive pedagogy. By offering insights across tool design, implementation, and impact, the paper aims to inform educators, researchers, and policymakers seeking to enhance early learning environments through evidence-based, interactive technologies.",
+      "authors": [
+        "Tanmoyee Rajkhowa"
+      ],
+      "venue": "European Conference on Games Based Learning",
+      "published": "2025-09-26",
+      "url": "https://doi.org/10.34190/ecgbl.19.2.4140",
+      "query": "game-based learning early childhood"
+    },
+    {
+      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
+      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
+      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
+      "authors": [
+        "Deabashis Sarker Tamal",
+        "MD. Mehedi Zaman Khan",
+        "Fahim Shahriar Prottoy"
+      ],
+      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+      "published": "2026-04-16",
+      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
+      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
+      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
+      "authors": [
+        "I. Khan",
+        "Hema Kumar Goru",
+        "G. L. Madhumati"
+      ],
+      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+      "published": "2024-05-03",
+      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
+      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
+      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
+      "authors": [
+        "Z. Pap",
+        "Z. Čović",
+        "Janos Simon"
+      ],
+      "venue": "Symposium on Intelligent Systems and Informatics",
+      "published": "2021-09-16",
+      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
+      "title": "Children's trust in and learning from voice assistants.",
+      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
+      "authors": [
+        "Lauren N. Girouard-Hallam",
+        "Judith H. Danovitch"
+      ],
+      "venue": "Developmental Psychology",
+      "published": "2022-04-01",
+      "url": "https://doi.org/10.1037/dev0001318",
+      "query": "voice assistant children learning"
+    },
+    {
+      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
+      "title": "Virtual Voice Assistant In Python (Friday)",
+      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
+      "authors": [
+        "S. Uke",
+        "Hrishikesh Lokhande",
+        "Durva Lohar"
+      ],
+      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
+      "published": "2022-10-08",
+      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
+      "query": "voice assistant children learning"
+    }
+  ],
   "hot_topics": [
     {
       "id": "ar_vr",
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 50,
+      "count": 66,
       "keywords": [
         "AR",
         "VR",
-        "augmented reality"
+        "augmented reality",
+        "virtual reality",
+        "mixed reality"
       ]
     },
     {
@@ -979,12 +1177,12 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 30,
+      "count": 35,
       "keywords": [
+        "parent",
         "school",
         "teacher",
         "classroom",
-        "parent",
         "family"
       ]
     },
@@ -993,13 +1191,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 20,
+      "count": 24,
       "keywords": [
-        "generative AI",
+        "artificial intelligence",
         "ChatGPT",
         "GPT",
-        "large language model",
-        "artificial intelligence"
+        "machine learning",
+        "generative AI"
       ]
     },
     {
@@ -1007,7 +1205,7 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 10,
+      "count": 15,
       "keywords": [
         "emotion",
         "social-emotional",
@@ -1015,27 +1213,44 @@
       ]
     },
     {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 5,
-      "keywords": [
-        "metacognition",
-        "cognitive load",
-        "attention",
-        "self-regulation"
-      ]
-    },
-    {
       "id": "game_learning",
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 5,
+      "count": 12,
       "keywords": [
         "play",
+        "game-based",
+        "game",
+        "personalized learning",
         "adaptive learning"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 9,
+      "keywords": [
+        "conversational agent",
+        "robot",
+        "voice assistant",
+        "chatbot"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 8,
+      "keywords": [
+        "cognitive development",
+        "executive function",
+        "metacognition",
+        "cognitive load",
+        "attention"
       ]
     },
     {
@@ -1043,10 +1258,21 @@
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 5,
+      "count": 8,
       "keywords": [
-        "writing",
-        "reading"
+        "reading",
+        "writing"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 4,
+      "keywords": [
+        "mobile",
+        "digital technology"
       ]
     },
     {
@@ -1057,31 +1283,9 @@
       "count": 4,
       "keywords": [
         "computational thinking",
-        "coding",
-        "computer science",
-        "programming"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 2,
-      "keywords": [
-        "digital technology",
-        "mobile"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 1,
-      "keywords": [
-        "chatbot",
-        "conversational agent"
+        "algorithm",
+        "programming",
+        "coding"
       ]
     }
   ]
