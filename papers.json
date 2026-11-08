@@ -1,8 +1,22 @@
 {
-  "updated_at": "2026-11-07 07:55 UTC",
+  "updated_at": "2026-11-08 08:13 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
+      {
+        "title": "Promoting or hindering: How do low and high self-regulated learning abilities moderate the role of GenAI scaffolding in video learning?",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105790",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105790",
+        "authors": [
+          "Bin Jing",
+          "Rui Liu",
+          "Tianyou Du"
+        ],
+        "published": "2027-3",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
       {
         "title": "Investigating secondary school students’ shared epistemic agency with GAI in online scientific explanation writing",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
@@ -54,20 +68,6 @@
           "Junyuan Chen",
           "Ying Ren",
           "Lingnan Yan"
-        ],
-        "published": "2027-2",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Navigating AI affective support: The cognitive-affective pathway from appraisal to emotional well-being in learners",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105768",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105768",
-        "authors": [
-          "Wenjun Zhong",
-          "Jianghua Luo",
-          "Shuhui Yu"
         ],
         "published": "2027-2",
         "journal": "Computers & Education",
@@ -134,6 +134,33 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Development and validation of a framework and scale for K–12 teacher–AI collaborative teaching competence",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10762-4",
+        "url": "https://doi.org/10.1007/s11423-026-10762-4",
+        "authors": [
+          "Hongchao Peng",
+          "Mingrui Zhang"
+        ],
+        "published": "2026-11-7",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Mathematics in play: exploring curriculum integration and professional growth through playing, modelling and printing games",
+        "abstract": "Abstract\n                  Integrating playful and maker-oriented approaches into mathematics teacher education remains challenging, particularly in relation to curricular alignment and teacher agency. This design-based research examines a workshop centred on the Hidden Blocks game, structured in three stages: play, digital modelling, and fabrication through 3D printing. The intervention was designed to support teachers’ mathematical reasoning, their articulation of links between the activity and the curriculum, and their professional agency as designers of resources and learning experiences. Across four cycles in Austria, Brazil, and Uruguay involving mathematics teachers, we analysed interviews, workshop recordings, facilitators’ notes, and lesson plans. Through iterative refinement, we developed a set of design principles organised into three interrelated dimensions: (a) mathematics, focusing on eliciting and formalising mathematical reasoning through play, modelling, and fabrication; (b) curriculum, focusing on explicit connections between mathematical ideas and curricular aims; and (c) professional agency, focusing on teachers’ ownership, authorship, and adaptation of resources for classroom use. These principles show how a technology-enhanced intervention that combines gameplay, modelling, and fabrication can support mathematisation, curriculum articulation, and teacher agency in mathematics teacher education.",
+        "doi": "10.1007/s11423-026-10755-3",
+        "url": "https://doi.org/10.1007/s11423-026-10755-3",
+        "authors": [
+          "Mathias Tejera",
+          "Diego Lieban",
+          "Cecilia Russo"
+        ],
+        "published": "2026-11-7",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Toward cognitively informed instructional design",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1007/s11423-026-10760-6",
@@ -173,35 +200,23 @@
         "published": "2026-11-4",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "A cognitive theory of accessibility: implications for research and practice",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1007/s11423-026-10748-2",
-        "url": "https://doi.org/10.1007/s11423-026-10748-2",
-        "authors": [
-          "Stephanie L. Moore"
-        ],
-        "published": "2026-11-3",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Should there be a teacher in-the-loop? A study of generative AI-personalized tasks middle school",
-        "abstract": "Abstract\n                  Large language models can be used to design instructional tasks to align to students’ needs. These generative AI models can create tasks that correspond to students’ out-of-school interests in areas like sports or music, which may enhance students’ interest in learning. However, little is known about teachers’ processes for creating or modifying tasks with generative AI, despite commercial AI companies’ claims that they will save teachers time. In the present study, 7 middle school mathematics teachers used ChatGPT to create personalized versions of problems in their curriculum to correspond to their students’ interests. The prompting moves teachers made and their students’ open-ended feedback on personalized problems were examined through thematic analysis. Teachers’ efficiency when creating problems and the ratings of their 7th grade students who received personalized assignments were examined. Results from this sample suggest that having a teacher-in-the-loop may result in generative AI-enhanced personalization being enacted at a broad grain size, whereas students often expressed preference for a smaller grain-size where they receive specific popular culture references that interest them. Teachers used prompting to adjust popular culture references and address issues with the depth, ethics, or realism of the problems generated, in some cases showing epistemic agency. The article closes with an exploratory, design-focused look at scalability trade-offs with teacher-facing personalization, patterns of teacher prompting practices, and opportunities for teachers to exercise epistemic and ethical monitoring of personalization outputs.",
-        "doi": "10.1007/s11423-026-10756-2",
-        "url": "https://doi.org/10.1007/s11423-026-10756-2",
-        "authors": [
-          "Candace Walkington",
-          "Mingyu Feng",
-          "Tiffini Pruitt-Britton"
-        ],
-        "published": "2026-11-2",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
       }
     ],
     "Journal of Computer Assisted Learning": [
+      {
+        "title": "Student Responses to Cognitive Conflicts in\n                    <scp>GenAI</scp>\n                    ‐Assisted Learning: A Covariate‐Dependent Markov Chain Analysis on Human‐\n                    <scp>AI</scp>\n                    Interactions",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    As generative artificial intelligence (GenAI) reshapes the learning process, students will inevitably experience cognitive conflicts when their existing knowledge and beliefs clash with information provided by GenAI. Improper handling of cognitive conflicts may lead to a decline in students' learning efficiency and even hinder the development of critical thinking skills.\n                  \n                  \n                    Objective\n                    This study aims to understand how students respond to cognitive conflicts during their interactions with GenAI, with a focus on comparing high‐performing and low‐performing student groups.\n                  \n                  \n                    Methods\n                    To identify relationships between cognitive conflict intensity and students' responses, we used a covariate‐dependent Markov chain (a sequential data modelling method) to analyse the response states of 411 students in a simulated academic writing task and observed transitions in student response states across different task performances.\n                  \n                  \n                    Results\n                    The results revealed that the intensity of cognitive conflict had a significant impact on students' state transitions. Overall, as the level of conflict increased, students' state changes exhibited a phased pattern, shifting from fluctuation (transitioning to a variety of different states) to inertia or convergence (maintaining the original state or transitioning uniformly to a negative response state). Student response state transitions varied across different task performance levels.\n                  \n                  \n                    Conclusions\n                    This study provides a novel methodological perspective for modelling sequential response dynamics in Human‐AI interaction. The findings offer new insights into the cognitive conflict dynamics in GenAI‐assisted learning, providing implications for designing GenAI‐assisted learning environments.",
+        "doi": "10.1002/jcal.70366",
+        "url": "https://doi.org/10.1002/jcal.70366",
+        "authors": [
+          "Yiming Taclis Luo",
+          "Ting Liu",
+          "Patrick Pang"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
       {
         "title": "Impacts of\n                    <scp>AI</scp>\n                    ‐Generated Learning Videos on Learning Outcomes: The Mediating Roles of Perceived Desirability and Perceived Feasibility",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    In recent educational research and practice, there has been growing attention to the use and impact of generative AI technologies, with most studies focusing on AI‐generated textual content. However, relatively little is known about AI‐generated learning videos, despite their potential to significantly influence learners' experiences and outcomes.\n                  \n                  \n                    Objectives\n                    Drawing on situational interest theory and construal level theory, this study investigates how three different types of AI‐generated learning videos influence learning outcomes through the mediating roles of perceived desirability and perceived feasibility. Three AI‐generated video types that represent ascending levels of learner involvement—situated videos, multiple‐choice interactive situated videos, and AI–learner co‐created videos—are examined.\n                  \n                  \n                    Methods\n                    A between‐subjects experiment was conducted with 221 valid responses across four conditions: three AI‐generated learning video types and a traditional learning video control condition. ANOVA and partial least squares structural equation modelling (PLS‐SEM) were employed to validate the effects.\n                  \n                  \n                    Results and Conclusions\n                    Results show that all three types of AI‐generated videos significantly enhance learning outcomes—learning enjoyment, learning performance, and continuous learning intention—compared to traditional learning videos, with perceived feasibility mediating the effects on all three outcomes and perceived desirability mediating the effects on learning enjoyment and continuous learning intention. This study extends the theoretical boundaries of AI in learning research and provides actionable insights for teachers in instructional design.",
@@ -239,20 +254,6 @@
           "Mengmeng Qi",
           "Bing Liu",
           "Hongtao Huang"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "<scp>ChatGPT</scp>\n                    ‐Supported Literary Translation: Tense Accuracy and Dynamic Emotion Profiles in the Language Classroom",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Generative artificial intelligence can facilitate task completion, but whether it improves learning or consistently shapes task‐related emotions remains unclear.\n                  \n                  \n                    Objectives\n                    This mixed‐methods classroom study compared literary translation with ChatGPT access, translation with dictionary access and optional teacher assistance and regular instruction, focusing on tense accuracy and task‐related emotional experiences.\n                  \n                  \n                    Methods\n                    The study involved 42 English‐major undergraduates. All participants completed a pretest and a posttest of English tense use. The 29 students in the translation conditions completed six translation tasks and provided 556 repeated emotion‐bar records with concurrent written explanations; 10 of these students also participated in interviews. Robust analysis of covariance, within‐participant models, exploratory configurational measures and thematic analysis were used.\n                  \n                  \n                    Results\n                    Mean scores increased in all three conditions, but adjusted posttest scores and gain scores did not differ significantly among them. No statistically significant between‐condition differences were detected in individual‐emotion percentages or configurational measures. None of the six emotion percentages varied significantly across task sessions, although curiosity was lower at the fourth than at the first measurement point. Profile mixedness was lower in Task 5 (Session 6) than in Task 2 (Session 3). Qualitative findings linked emotions mainly to text content and difficulty, progress, time pressure and classroom conditions. ChatGPT was valued for its speed and immediacy but raised concerns about reliability, effort and ownership.\n                  \n                  \n                    Conclusion\n                    The study did not detect a statistically significant advantage for ChatGPT support in tense accuracy or emotional experience. The exploratory configurational analysis nevertheless identified a task‐session difference not apparent in the separate emotion percentages, illustrating the value of examining learning outcomes, repeated emotion reports and students' appraisals together when evaluating AI‐supported language tasks.",
-        "doi": "10.1002/jcal.70368",
-        "url": "https://doi.org/10.1002/jcal.70368",
-        "authors": [
-          "Mariusz Kruk",
-          "Agnieszka Kałużna",
-          "Xian Zhao"
         ],
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
@@ -613,6 +614,18 @@
     ],
     "Journal of Educational Computing Research": [
       {
+        "title": "Comparing AI-Assisted 2D and 3D Block-Based Games for Computational Thinking Development in Introductory Programming",
+        "abstract": "Computational thinking (CT) is a foundational competency in undergraduate education, yet novice programmers frequently encounter high cognitive demands and declining motivation. Although block-based programming and AI-assisted scaffolding can reduce extraneous load by enabling natural-language interaction, it remains unclear whether embedding these capabilities within immersive three-dimensional environments further enhances CT development through reduced extraneous load and enriched spatial context for schema formation. This study employed a randomized between-subjects design to compare an AI-assisted 3D block-based game (CT Logic 3D) with an AI-assisted 2D counterpart (CT Logic 2D) over a four-week intervention involving fifty undergraduate students (\n                    n\n                    = 50, Mage = 23.3, SD = 1.07). Both conditions shared identical AI translation pipelines and instructional sequences, with spatial dimensionality constituting the sole experimental manipulation. Results indicated that participants in the 3D condition achieved significantly greater gains in CT (\n                    d\n                    = 0.54), stronger delayed retention (\n                    d\n                    = 0.74), and higher near-transfer problem-solving performance (\n                    d\n                    = 0.82). Relative to the 2D group, participants in the 3D condition completed tasks 22% faster (\n                    d\n                    = 1.08), reported lower perceived difficulty (\n                    d\n                    = 0.94), and experienced higher levels of flow (\n                    d\n                    = 0.89) and intrinsic motivation (\n                    d\n                    = 0.86). Engagement increased throughout the intervention, with the largest efficiency gains observed among absolute novices. Moreover, substantial rates of learner-initiated modification of AI-generated solutions (3D: 76%; 2D: 71%) indicated active rather than passive use of AI scaffolding. Interpreted through Cognitive Load Theory, the findings suggest that combining AI scaffolding with immersive spatial representations produces measurable advantages for CT development beyond those achievable through AI scaffolding alone. Theoretical and practical implications for the design of AI-enhanced CT instruction are discussed.",
+        "doi": "10.1177/07356331261504318",
+        "url": "https://doi.org/10.1177/07356331261504318",
+        "authors": [
+          "Nikolaos Pellas"
+        ],
+        "published": "2026-11-7",
+        "journal": "Journal of Educational Computing Research",
+        "venue": "Journal of Educational Computing Research"
+      },
+      {
         "title": "Developing and Validating an AI-Literacy-Integrated Teaching Acceptance and Readiness Scale for Mathematics Teachers",
         "abstract": "The global shift toward cultivating students’ AI literacy requires teachers to reconceptualize curricula and pedagogical practices. However, research has focused primarily on teachers’ use of AI tools, overlooking their readiness to integrate AI literacy as a learning goal, particularly in mathematics education. In response, this study developed and validated the AI-Literacy-Integrated Teaching Acceptance and Readiness Scale for Mathematics Teachers (AILTAR-M). The instrument was theoretically organized around two domains: (1)\n                    Acceptance\n                    , comprising four constructs adapted from the Technology Acceptance Model (Perceived Usefulness, Perceived Ease of Use, Attitude toward Use, and Behavioral Intention); and (2)\n                    Readiness\n                    , encompassing Perceived AI Literacy as a self-reported cognitive dimension and Teaching Self-Efficacy as a motivational dimension. Psychometric evaluation with 549 mathematics teachers in China supported a 29-item, six-factor structure. Exploratory factor analysis (\n                    n\n                    = 174) yielded a six-factor solution explaining 69.7% of the variance, and confirmatory factor analysis (\n                    n\n                    = 375) demonstrated acceptable model fit (CFI = .938, TLI = .931, RMSEA = .063, SRMR = .038). The instrument exhibited strong internal consistency (α = .899– .943) alongside satisfactory convergent and discriminant validity. These findings provide initial psychometric evidence for using the AILTAR-M to examine mathematics teachers’ acceptance of and readiness for integrating AI literacy into mathematics instruction.",
         "doi": "10.1177/07356331261503523",
@@ -664,20 +677,6 @@
           "Rafiza Abdul Razak"
         ],
         "published": "2026-10-24",
-        "journal": "Journal of Educational Computing Research",
-        "venue": "Journal of Educational Computing Research"
-      },
-      {
-        "title": "How Generative AI-Assisted Formative Feedback Is Appraised and Implemented in Online Collaborative Learning",
-        "abstract": "Effective educational feedback is vital for enhancing student learning, yet providing personalized formative feedback in large-class settings remains challenging. Generative Artificial Intelligence (GAI) offers a potential means of scaling formative feedback. Guided by a self-determination theory-based model, this study examines the features, implementation, and pre-service teachers’ perceptions of generative AI-assisted formative feedback (GAI-FF) at a university in China. Participants (\n                    n\n                    = 114) received four types of GAI-FF, varying in complexity and focus, across three feedback intervals during a semester. Feedback content and written reflections were analyzed using content analysis, epistemic network analysis, and thematic analysis. Results indicate that (1) GAI can generate formative feedback with distinct cognitive and affective feature patterns; (2) overall implementation of GAI-FF was limited; (3) feedback containing problem identification, suggestions, and solutions was more likely to be enacted, whereas feedback emphasizing affective features was less frequently implemented; and (4) participants expressed mixed perceptions, recognizing the usefulness of GAI-FF for collaborative learning while also noting constraints related to rigidity, accuracy, and practical applicability. These findings suggest that the effectiveness of GAI-FF depends on how it supports learners’ cognitive, motivational, and affective appraisals, which shape subsequent feedback use. The study also highlights the importance of deliberate instructional design and cautious integration of GAI tools in formative assessment practices.",
-        "doi": "10.1177/07356331261494805",
-        "url": "https://doi.org/10.1177/07356331261494805",
-        "authors": [
-          "Guoqing Lu",
-          "Huimin Zhang",
-          "Shen Ba"
-        ],
-        "published": "2026-10-11",
         "journal": "Journal of Educational Computing Research",
         "venue": "Journal of Educational Computing Research"
       }
@@ -1032,75 +1031,6 @@
       "published": "2025-11-24",
       "url": "https://doi.org/10.5753/sbie.2025.12590",
       "query": "machine learning young children education"
-    },
-    {
-      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
-      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
-      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
-      "authors": [
-        "Deabashis Sarker Tamal",
-        "MD. Mehedi Zaman Khan",
-        "Fahim Shahriar Prottoy"
-      ],
-      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
-      "published": "2026-04-16",
-      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
-      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
-      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
-      "authors": [
-        "I. Khan",
-        "Hema Kumar Goru",
-        "G. L. Madhumati"
-      ],
-      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
-      "published": "2024-05-03",
-      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
-      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
-      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
-      "authors": [
-        "Z. Pap",
-        "Z. Čović",
-        "Janos Simon"
-      ],
-      "venue": "Symposium on Intelligent Systems and Informatics",
-      "published": "2021-09-16",
-      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
-      "title": "Children's trust in and learning from voice assistants.",
-      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
-      "authors": [
-        "Lauren N. Girouard-Hallam",
-        "Judith H. Danovitch"
-      ],
-      "venue": "Developmental Psychology",
-      "published": "2022-04-01",
-      "url": "https://doi.org/10.1037/dev0001318",
-      "query": "voice assistant children learning"
-    },
-    {
-      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
-      "title": "Virtual Voice Assistant In Python (Friday)",
-      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
-      "authors": [
-        "S. Uke",
-        "Hrishikesh Lokhande",
-        "Durva Lohar"
-      ],
-      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
-      "published": "2022-10-08",
-      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
-      "query": "voice assistant children learning"
     }
   ],
   "hot_topics": [
@@ -1109,12 +1039,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 64,
+      "count": 58,
       "keywords": [
         "AR",
+        "immersive",
         "virtual reality",
-        "VR",
-        "immersive"
+        "VR"
       ]
     },
     {
@@ -1122,7 +1052,7 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 33,
+      "count": 31,
       "keywords": [
         "teacher",
         "parent",
@@ -1136,13 +1066,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 25,
+      "count": 20,
       "keywords": [
         "machine learning",
         "artificial intelligence",
-        "ChatGPT",
-        "GPT",
-        "LLM"
+        "LLM",
+        "large language model",
+        "generative AI"
       ]
     },
     {
@@ -1150,11 +1080,10 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 13,
+      "count": 14,
       "keywords": [
         "play",
         "game",
-        "personalized learning",
         "adaptive learning"
       ]
     },
@@ -1163,7 +1092,7 @@
       "name": "社会情感发展",
       "subtitle": "Social-Emotional Development",
       "icon": "❤️",
-      "count": 9,
+      "count": 7,
       "keywords": [
         "emotion",
         "social-emotional",
@@ -1171,16 +1100,28 @@
       ]
     },
     {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 8,
+      "id": "early_literacy",
+      "name": "早期读写与数学能力",
+      "subtitle": "Early Literacy & Early Math",
+      "icon": "📚",
+      "count": 6,
       "keywords": [
-        "chatbot",
-        "robot",
-        "voice assistant",
-        "conversational agent"
+        "writing",
+        "reading"
+      ]
+    },
+    {
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 6,
+      "keywords": [
+        "coding",
+        "algorithm",
+        "computer science",
+        "computational thinking",
+        "programming"
       ]
     },
     {
@@ -1190,7 +1131,6 @@
       "icon": "🧠",
       "count": 5,
       "keywords": [
-        "cognitive development",
         "metacognition",
         "cognitive load",
         "attention",
@@ -1202,37 +1142,23 @@
       "name": "数字媒体与屏幕使用",
       "subtitle": "Digital Media & Screen Time",
       "icon": "📱",
-      "count": 5,
+      "count": 4,
       "keywords": [
         "tablet",
-        "mobile",
         "digital technology",
-        "digital learning"
+        "digital learning",
+        "mobile"
       ]
     },
     {
-      "id": "early_literacy",
-      "name": "早期读写与数学能力",
-      "subtitle": "Early Literacy & Early Math",
-      "icon": "📚",
-      "count": 5,
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 3,
       "keywords": [
-        "writing",
-        "reading"
-      ]
-    },
-    {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 5,
-      "keywords": [
-        "coding",
-        "algorithm",
-        "computer science",
-        "computational thinking",
-        "programming"
+        "chatbot",
+        "conversational agent"
       ]
     }
   ]
