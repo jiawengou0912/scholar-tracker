@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 08:13 UTC",
+  "updated_at": "2026-11-09 08:48 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -204,6 +204,34 @@
     ],
     "Journal of Computer Assisted Learning": [
       {
+        "title": "Research Trends of Artificial Intelligence‐Facilitated Computational Thinking in K‐12\n                    <scp>STEM</scp>\n                    : A Systematic Review Through the Lens of Activity Theory",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    With the rapid advancement of artificial intelligence (AI), research in the cross‐disciplinary field of science, technology, engineering, and mathematics (STEM) education has increasingly focused on how to leverage AI to foster computational thinking (CT) among K‐12 students, given that CT, recognized as a core 21st‐century competency, plays a pivotal role in cultivating students’ literacy and equipping them with the ability to tackle complex problems.\n                  \n                  \n                    Objective\n                    Grounded in activity theory, this study seeks to identify the key factors shaping K‐12 students’ CT development in AI‐enhanced STEM education. It systematically analyzes: (a) the subjects involved and the types and roles of AI tools employed, (b) the purposes, periods, and CT dimensions within the object, (c) the methods, strategies, and evaluation performance applied within rules, (d) the learning domains within communities and the interactions within the division of labor, and (e) the developmental trends in outcomes.\n                  \n                  \n                    Method\n                    This study employed the PRISMA framework to systematically review 57 SSCI journal publications published between 2017 and 2025. In addition, Epistemic Network Analysis (ENA) was utilized to examine the current state of CT evaluation.\n                  \n                  \n                    Results and Conclusions\n                    Findings indicate that: (1) the primary subjects of the studies were elementary school students; expert systems and robotics were the most prevalent types of AI, which were frequently employed as learning tools; (2) the primary objective was to evaluate the effectiveness of AI in CT–K12–STEM, with periods typically ranging from 2 to 6 months, focusing on conceptual knowledge and practical skills; (3) the rules focused on exploratory learning and gamification strategies, employing quantitative research methods; (4) communities spanned cross‐disciplinary domains, with division of labor tending towards mixed interaction types; and (5) outcomes focused on the learning cognitive perspective, encompassing aspects such as learning performance and problem solving. Based on the research results, practical recommendations are provided for educational researchers and policymakers.",
+        "doi": "10.1002/jcal.70365",
+        "url": "https://doi.org/10.1002/jcal.70365",
+        "authors": [
+          "Gang Yang",
+          "Huilin Zhang",
+          "Gwo‐Jen Hwang"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
+        "title": "Enhancing Learning Performance in Primary School Students Through Real‐Time Versus Delayed Rewards During Pair Inquiry‐Based Visual Programming",
+        "abstract": "ABSTRACT\n                  \n                    Background\n                    Visual programming has experienced a remarkable surge in popularity recently. Real‐time and delayed rewards are two important incentive mechanisms in designing effective learning activities. However, the examination of their effects on students' learning performance remains limited. Additionally, the comparative analysis of these reward mechanisms in the context of learning visual programming has received insufficient attention.\n                  \n                  \n                    Objectives\n                    We aimed to address this research gap.\n                  \n                  \n                    Methods\n                    \n                      A quasi‐experimental study was conducted involving two classes. One class (\n                      n\n                       = 32) received real‐time rewards, while the other class (\n                      n\n                       = 40) received delayed rewards. The study employed independent samples\n                      t\n                      ‐tests to assess the effects of real‐time versus delayed rewards on students' learning performance and to identify differences between the groups. Additionally, semi‐structured interviews were conducted to gain insights into the underlying reasons behind the findings.\n                    \n                  \n                  \n                    Results\n                    The results showed that students in the real‐time reward group generally outperformed their counterparts in terms of intrinsic motivation, extrinsic motivation, flow experience and algorithmic thinking. However, only the differences in extrinsic motivation and algorithmic thinking were statistically significant.\n                  \n                  \n                    Conclusions\n                    The implications of this study are valuable for educators and researchers, providing insights into how to design and implement visual programming learning activities using diverse reward systems as incentive mechanisms. These findings can help enhance students' learning performance more efficiently.",
+        "doi": "10.1002/jcal.70372",
+        "url": "https://doi.org/10.1002/jcal.70372",
+        "authors": [
+          "Kaili Lu",
+          "Hao Zhang",
+          "Feng Pang"
+        ],
+        "published": "2026-12",
+        "journal": "Journal of Computer Assisted Learning",
+        "venue": "Journal of Computer Assisted Learning"
+      },
+      {
         "title": "Student Responses to Cognitive Conflicts in\n                    <scp>GenAI</scp>\n                    ‐Assisted Learning: A Covariate‐Dependent Markov Chain Analysis on Human‐\n                    <scp>AI</scp>\n                    Interactions",
         "abstract": "ABSTRACT\n                  \n                    Background\n                    As generative artificial intelligence (GenAI) reshapes the learning process, students will inevitably experience cognitive conflicts when their existing knowledge and beliefs clash with information provided by GenAI. Improper handling of cognitive conflicts may lead to a decline in students' learning efficiency and even hinder the development of critical thinking skills.\n                  \n                  \n                    Objective\n                    This study aims to understand how students respond to cognitive conflicts during their interactions with GenAI, with a focus on comparing high‐performing and low‐performing student groups.\n                  \n                  \n                    Methods\n                    To identify relationships between cognitive conflict intensity and students' responses, we used a covariate‐dependent Markov chain (a sequential data modelling method) to analyse the response states of 411 students in a simulated academic writing task and observed transitions in student response states across different task performances.\n                  \n                  \n                    Results\n                    The results revealed that the intensity of cognitive conflict had a significant impact on students' state transitions. Overall, as the level of conflict increased, students' state changes exhibited a phased pattern, shifting from fluctuation (transitioning to a variety of different states) to inertia or convergence (maintaining the original state or transitioning uniformly to a negative response state). Student response state transitions varied across different task performance levels.\n                  \n                  \n                    Conclusions\n                    This study provides a novel methodological perspective for modelling sequential response dynamics in Human‐AI interaction. The findings offer new insights into the cognitive conflict dynamics in GenAI‐assisted learning, providing implications for designing GenAI‐assisted learning environments.",
         "doi": "10.1002/jcal.70366",
@@ -226,34 +254,6 @@
           "Shang Shanshan",
           "Chen Hong",
           "You Xiaoyue"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "A Configurational Approach to Investigating the Use of Artificial Intelligence in Self‐Regulated Learning From Needs Satisfaction, Learning Environments and Perceived Affordances",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Integrating artificial intelligence (AI) tools into self‐regulated learning (SRL) is complex and multifaceted. Configurational approaches are based on the concept that combinations (or configurations) of causally relevant factors should be connected to the desired outcome.\n                  \n                  \n                    Objectives\n                    Self‐determination theory (SDT), the unified theory of acceptance and use of technology (UTAUT) and perceived affordances focus on basic needs, technology adoptions and technological designs, respectively. Taking a configurational approach, this study investigates how the combinations of SDT, UTAUT and perceived affordances affect SRL with AI.\n                  \n                  \n                    Methods\n                    We employed fuzzy‐set qualitative comparative analysis (fsQCA) to uncover the complex interplay of factors that facilitate effective SRL. Data from 248 students reveal that a combination of autonomy satisfaction, relatedness satisfaction and performance expectancy is the most influential factor affecting the use of AI in SRL.\n                  \n                  \n                    Results and Conclusions\n                    Our results suggest that both innate psychological needs and external learning environments should be considered together for understanding the adoption of AI in SRL. They also further highlight the critical role of perceived affordances as mediators and moderators, enhancing the relationships between innate psychological needs and external learning environments. This integrative approach provides valuable insights into the design and implementation of AI‐supported SRL environments. We recommend designing the environments to foster autonomy and relatedness while also ensuring ease of use for learners.",
-        "doi": "10.1002/jcal.70371",
-        "url": "https://doi.org/10.1002/jcal.70371",
-        "authors": [
-          "Xiu‐Yi Wu",
-          "Qi Xia",
-          "Zubair Ahmad"
-        ],
-        "published": "2026-12",
-        "journal": "Journal of Computer Assisted Learning",
-        "venue": "Journal of Computer Assisted Learning"
-      },
-      {
-        "title": "Designing Teaching Agents for Human‐\n                    <scp>AI</scp>\n                    Collaborative Classrooms: A Design‐Based Study of Students' Sense of Presence and Learning Engagement",
-        "abstract": "ABSTRACT\n                  \n                    Background\n                    Generative artificial intelligence has expanded the possibilities for teaching agents to provide instructional explanations and feedback. However, limited research has examined how such support can be integrated into teacher‐guided classroom instruction and how students experience and engage with this form of teaching.\n                  \n                  \n                    Objectives\n                    This study aimed to iteratively design and refine teaching agents within a teacher‐guided undergraduate classroom and to examine changes in students' sense of presence and learning engagement across three design iterations.\n                  \n                  \n                    Methods\n                    A single‐group design‐based research study was conducted in a 10‐week Introduction to Educational Technology course. 36 first‐year undergraduate students majoring in educational technology participated in three design iterations: gesture‐supported presentation, teacher‐mediated real‐time Q&amp;A, and individualized text‐based Q&amp;A. Data were collected through questionnaires, classroom observations, student feedback, question records, and discussion texts. Repeated‐measures analyses were used to examine changes in students' sense of presence and learning engagement, and epistemic network analysis was used to examine changes in co‐occurrence patterns among presence‐related codes in students' post‐class reflections.\n                  \n                  \n                    Results and Conclusions\n                    The findings show that students' sense of presence significantly increased across the three iterations, whereas learning engagement did not show a statistically significant change, although the descriptive means showed a small upward pattern. Epistemic network analysis identified changes in co‐occurrence patterns among presence‐related codes in students' post‐class reflections. The strongest connections involved direct instruction, affective expression, and resolution in the first iteration, and affective expression with direct instruction, exploration, and integration in the third iteration. Given the single‐group sequential design, these findings should be interpreted as observed changes during the iterative implementation process rather than causal evidence for the independent effects of specific design strategies. The study contributes process‐oriented evidence and design considerations for integrating teaching agents into teacher‐orchestrated human‐AI collaborative classrooms.",
-        "doi": "10.1002/jcal.70369",
-        "url": "https://doi.org/10.1002/jcal.70369",
-        "authors": [
-          "Mengmeng Qi",
-          "Bing Liu",
-          "Hongtao Huang"
         ],
         "published": "2026-12",
         "journal": "Journal of Computer Assisted Learning",
@@ -964,73 +964,73 @@
   },
   "keyword_papers": [
     {
-      "paperId": "34e66f7b0ed93d2b17dfab3f836bfc58f849c3f0",
-      "title": "Learning machine learning with young children: exploring informal settings in an African context",
-      "abstract": "ABSTRACT Background and context Researchers have been investigating ways to demystify machine learning for students from kindergarten to twelfth grade (K–12) levels. As little evidence can be found in the literature, there is a need for additional research to understand and facilitate the learning experience of children while also considering the African context. Objective The purpose of this study was to explore how young children teach and develop their understanding of machine learning based technologies in playful and informal settings. Method Using a qualitative methodological approach through fine-grained analysis of video recordings and interviews, we analysed how 18 children aged 3–13 years constructed their interactions with a machine-based technology (Google’s Teachable Machine). Findings This study provides empirical support for the claim that Google’s Teachable Machine contributes to the development of data literacy and conceptual understanding across K–12 irrespective of the learners’ backgrounds. The results also confirmed children’s ability to infer the relationship between their own expressions and the output of the machine learning-based tool, thus, identifying the input-output relationships in machine learning. In addition, this study opens a discussion around differentials in emerging technology use across different contexts through participatory learning. Implications The results provide a baseline for future research on the topic and preliminary evidence to discern how children learn about machine learning in the African K–12 context.",
+      "paperId": "458c305ce56014dd60ed50b6bfdd5fadaac868d7",
+      "title": "EduTalkAI: Conversational Voice Assistant for Personalized Learning (for Children)",
+      "abstract": "The process of adaptation of personalized learning to children population is characterized by great complexity due to the age, cognitive development and engagement rates variation. Traditional e-learning environments often rely on text based content, which might not suit younger students who take more advantage of interactive, naturally communicative learning environments. In the paper, we present EduTalkAI, a conversational voice assistant designed with a particular purpose of encouraging subject-specific learning in children through interactive speech-based communication. The system includes advanced speech-recognition systems, natural-language processing, and dynamic personalization systems so as to provide context-sensitive explanations in such disciplines as mathematics, science, and language acquisition. A prototype of the EduTalkAI was tested on a group of thirty children between the ages of 7 and 12 years, showing that there was a considerable improvement in engagement, relevance of responses and acceptance of feedback as compared to baseline methodologies. This data suggests that EduTalkAI is an adaptive voice assistant that is more effective than general-purpose voice assistants, such as Google Assistant, Alexa Kids, and ChatGPT. The study is relevant to the new field of cognitive and collaborative robotics since it shows how conversational AI can be used to support personalized, engaging and effective learning experiences among young learners.",
       "authors": [
-        "I. Sanusi",
-        "Kissinger Sunday",
-        "S. Oyelere"
+        "Deabashis Sarker Tamal",
+        "MD. Mehedi Zaman Khan",
+        "Fahim Shahriar Prottoy"
       ],
-      "venue": "Computer Science Education",
-      "published": "2023-02-07",
-      "url": "https://doi.org/10.1080/08993408.2023.2175559",
-      "query": "machine learning young children education"
+      "venue": "2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)",
+      "published": "2026-04-16",
+      "url": "https://doi.org/10.1109/QPAIN69676.2026.11546432",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "07259677c65b24e523198fe572953a32d41c6701",
-      "title": "Clustering Young Children’s Coding Project Scores with Machine Learning",
-      "abstract": "Engaging children in making creative coding projects is a popular approach for young children to develop computational skills. Children learn to transform their ideas and knowledge into personally meaningful projects. However, the connection between children’s coding competencies and their created coding projects remains unclear. This study explored how ScratchJr coding projects created by first and second graders (n=75) differed and whether the project focuses varied by the children’s coding competencies. ScratchJr is a free downloadable tablet game for children ages 5-7 to create animated stories and games. Through unsupervised machine learning algorithms, this study grouped coding project concepts by Principal Component Analysis then classified students into four groups by K-means. The results showed that students across the four groups focused on creating different aspects of the ScratchJr projects. Moreover, the median coding competency score of each student group also differed significantly. This study implies that young children with varying levels of coding competency tend to focus on creating different aspects of ScratchJr projects. Findings from this study can help to inform curriculum designers and teachers on essential approaches for guiding children in creating their own coding projects.",
+      "paperId": "4934588cbd6b81949d978335e15a5633b79e351a",
+      "title": "Voice-Activated Learning Framework Using Raspberry Pi for Children’s Education",
+      "abstract": "Voice assistants are designed to understand and respond to spoken language, and are widely used in various applications, including education. This paper addresses the limitations of traditional text-based learning systems for young children while exploiting the familiarity and comfort that voice technology offers. The proposed voice assistant employed the Raspberry Pi model 3 B+ for the execution of natural language processing. The Raspberry Pi is utilized due to its versatility in providing a User-friendly interface. The device will be activated with the wake word “ROSE” and then function for the spelled words, math operations, multiplication tables, animal sounds, planetary and calendar information. The Children can engage with this device and will learn the uttering of words with an appropriate accent. The device performance is evaluated by calculating the success percentage based on the response from the system on the uttering of various words by the children. This device facilitates handsfree, voice-driven interactions and utilizes the capabilities of voice technology to create an innovative and secure educational platform for children.",
       "authors": [
-        "Apittha Unahalekhaka",
-        "M. Bers"
+        "I. Khan",
+        "Hema Kumar Goru",
+        "G. L. Madhumati"
       ],
-      "venue": "IEEE Global Engineering Education Conference",
-      "published": "2022-03-28",
-      "url": "https://doi.org/10.1109/EDUCON52537.2022.9766579",
-      "query": "machine learning young children education"
+      "venue": "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)",
+      "published": "2024-05-03",
+      "url": "https://doi.org/10.1109/AIIoT58432.2024.10574612",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "9cfa16421e2e068ea93cc86281a5f010fd8b4c88",
-      "title": "Applying Machine Learning to Support Adults in Educating 0- to 36-Month-Old Children at Home: Theories and Experience from Vietnam",
-      "abstract": "This research presents the theoretical bases and practical experiences in Vietnam in applying machine learning to support adults in educating 0- to 36-month-old children at home. The paper also reports the findings of a scientific research project named “Researching and applying machine learning to support adults to educate young children aged 0-36 months in their families” at Vietnam National University, Hanoi. To be more specific, the authors have designed an AI-driven chatbot which acts as a babysitter to provide information and answer frequently-asked questions regarding at-home education of 0- to 36-month-old children following prevalent scripts or data. For simple questions the AI-driven babysitter chatbot will offer the answers on their own. For more complex ones, the chatbot will send them to teachers for solutions. During the process, the chatbot will do self-learning to enhance its ability to give more accurate and practical answers. Experiments show that the chatbot designed by the authors has successfully addressed limitations of the conventional counterparts. Additionally, it also provides accurate and reliable answers, as well as enhanced user experience thanks to trusted references and parents’ coordination in effective child education, ensuring quality and authenticity.",
+      "paperId": "d0ea9a29eb8d54f9c756ee9f50a42a41415a7200",
+      "title": "Artificial intelligence voice assistant implementation possibilities in interactive toy for preschool age children",
+      "abstract": "This paper presents some implementation possibilities of a speech recognition system for the languages Hungarian and Serbian. The system is integrated in an interactive toy for preschool age children that uses voice command. The development of this system is currently at its initial stages, but it shows some potential for application as a speech recognition system for Hungarian and Serbian. The system uses neural networks. The system is especially promising as the toy is aimed at young learners who benefit from interactive learning.",
       "authors": [
-        "Chu Thi Hong Nhung",
-        "Giang Thị Hương Vũ",
-        "Dung Thi Phuong Nguyen"
+        "Z. Pap",
+        "Z. Čović",
+        "Janos Simon"
       ],
-      "venue": "Journal of Posthumanism",
-      "published": "2025-04-09",
-      "url": "https://doi.org/10.63332/joph.v5i3.705",
-      "query": "machine learning young children education"
+      "venue": "Symposium on Intelligent Systems and Informatics",
+      "published": "2021-09-16",
+      "url": "https://doi.org/10.1109/SISY52375.2021.9582538",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "712daa3cf5a39d0f3c729020934eb5876276ad48",
-      "title": "Learning machine learning with very young children: Who is teaching whom?",
-      "abstract": "Abstract While artificial intelligence and machine learning is becoming a commonplace feature of people’s everyday lives, so far few theoretical or empirical studies have focused on investigating it in K-12​ education. Drawing on the sociocultural theory of learning and participation, this case study explored how six very young children taught and explored Google’s Teachable Machine in nonschool settings. Through fine-grained analysis of video recordings and interviews with the children, the article illustrates the content and the process of teaching where 3–9 year old children were producing machine learning data sets and models as well as observing, exploring, and explaining their own interaction with machine learning systems. The results illustrate the quick-paced and embodied nature of the child-computer interaction that also supported children to reason about the relationship between their own bodily expressions and the output of an interactive ML-based tool. The article concludes with discussions on the emergent process of teaching and learning as well as on ways of promoting children’s participation and sense of agency in the age of machine learning.",
+      "paperId": "0f6a04862795925a70484d1ac4b0a953144b5a2f",
+      "title": "Children's trust in and learning from voice assistants.",
+      "abstract": "As children increasingly interact with digital voice assistants, it is important to know whether they treat these devices as reliable information sources. Two studies investigated children's trust in and recall of statements made by a novel voice assistant and a human informant. In Study 1, children ages 4-5 (Mage = 5.05; 20 boys, 20 girls) and 7-8 (Mage = 7.98; 18 boys, 22 girls) from predominately White, upper middle-class families heard each informant respond to questions from multiple categories. With increasing age, children showed greater trust in the voice assistant for factual information and greater trust in the human for personal information about the experimenter identified as her friend. Endorsement of each informant's statements also predicted later recall. In Study 2, children ages 4-5 (Mage = 5.00; 20 boys, 20 girls) and 7-8 (Mage = 8.03; 19 boys, 21 girls) from predominately White, upper middle-class families chose whether to seek out information from a voice assistant or human informant. With increasing age, children showed an increasing preference to seek factual information from the voice assistant and an increasing preference to seek personal information from the human. Additionally, children's preferences were not related to attributions of epistemic capacities to each informant nor the presence of a voice assistant in children's homes. These results suggest that children's trust in voice assistants varies with age and depends on the type of information involved. (PsycInfo Database Record (c) 2022 APA, all rights reserved).",
       "authors": [
-        "Henriikka Vartiainen",
-        "M. Tedre",
-        "Teemu Valtonen"
+        "Lauren N. Girouard-Hallam",
+        "Judith H. Danovitch"
       ],
-      "venue": "Int. J. Child Comput. Interact.",
-      "published": "2020-09-01",
-      "url": "https://doi.org/10.1016/j.ijcci.2020.100182",
-      "query": "machine learning young children education"
+      "venue": "Developmental Psychology",
+      "published": "2022-04-01",
+      "url": "https://doi.org/10.1037/dev0001318",
+      "query": "voice assistant children learning"
     },
     {
-      "paperId": "df2a61bdd82a723bebe6ba5d095a13ddbebe8062",
-      "title": "Introducing Machine Learning Through a Multisensory Approach for Young People with Down Syndrome",
-      "abstract": "This paper presents an ongoing educational activity to introduce Machine Learning concepts to children and young people with Down Syndrome. In Brazil, the lack of a standard for Computer Science Education until 2022 led to disparities, with public schools often lacking resources. A 2022 regulation made Computing mandatory in K-12, aligning with the Brazilian National Common Curricular Base, which includes Artificial Intelligence-related competencies. In the Brazilian context, Computing is still not part of the school curriculum for most students without disabilities. Students with developmental disorders, such as Down Syndrome, have even less access to activities designed to teach computational skills in their learning environments. However, it is possible to observe that, when provided with technologies adapted to their needs, these students can learn and develop effectively. Therefore, this work proposes a multisensory unplugged activity tailored to introduce Machine Learning concepts to people with Down Syndrome. Given the multisensory approach, we expect to observe benefits beyond computational learning, promoting the development of fine motor skills through a playful and fun experience.",
+      "paperId": "1c052b275840ca99d3af151d129dc0e44b365cce",
+      "title": "Virtual Voice Assistant In Python (Friday)",
+      "abstract": "We are living the era of computers where nowadays everything can be done using computers i.e., Artificial Intelligence and Machine Learning, have made technology very easy that now humans can interact with machines in such a way that their task can be done only by interacting with Machines i.e., Computers. Yes, we are talking about Virtual Personal Assistants (VPAs). As of now there are many such VPAs like Alexa, Bixby, Echo, Siri, Google Assistant available on desktop, mobiles and in device also but as the technology becomes easier it becomes difficult to use for particular people such as senior citizens, blind people, also children below certain age. Also, this VPAs which are present nowadays do not provide as much facilities. To overcome this, we developed voice assistant in python on windows system which provide user to perform any task without using keyboard. Also, user can send email just by giving receiver’s email and the message user wants to send. Also, now user can book a cab just by saying where he wants to go and also book bus and train tickets. Our main aim towards developing this is to make certain things more efficient.",
       "authors": [
-        "L. Aquini",
-        "Júlia Veiga",
-        "T. T. Primo"
+        "S. Uke",
+        "Hrishikesh Lokhande",
+        "Durva Lohar"
       ],
-      "venue": "Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025)",
-      "published": "2025-11-24",
-      "url": "https://doi.org/10.5753/sbie.2025.12590",
-      "query": "machine learning young children education"
+      "venue": "2022 IEEE 4th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
+      "published": "2022-10-08",
+      "url": "https://doi.org/10.1109/icccmla56841.2022.9989099",
+      "query": "voice assistant children learning"
     }
   ],
   "hot_topics": [
@@ -1052,12 +1052,12 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 31,
+      "count": 29,
       "keywords": [
-        "teacher",
-        "parent",
         "school",
+        "teacher",
         "classroom",
+        "parent",
         "family"
       ]
     },
@@ -1066,13 +1066,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 20,
+      "count": 17,
       "keywords": [
-        "machine learning",
+        "ChatGPT",
+        "GPT",
         "artificial intelligence",
-        "LLM",
-        "large language model",
-        "generative AI"
+        "machine learning",
+        "LLM"
       ]
     },
     {
@@ -1080,11 +1080,40 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
-      "count": 14,
+      "count": 12,
       "keywords": [
+        "personalized learning",
         "play",
         "game",
+        "gamification",
         "adaptive learning"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
+      "count": 8,
+      "keywords": [
+        "robot",
+        "voice assistant",
+        "chatbot",
+        "conversational agent"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 7,
+      "keywords": [
+        "cognitive development",
+        "metacognition",
+        "cognitive load",
+        "attention",
+        "self-regulation"
       ]
     },
     {
@@ -1117,24 +1146,10 @@
       "icon": "💻",
       "count": 6,
       "keywords": [
-        "coding",
-        "algorithm",
-        "computer science",
         "computational thinking",
-        "programming"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 5,
-      "keywords": [
-        "metacognition",
-        "cognitive load",
-        "attention",
-        "self-regulation"
+        "programming",
+        "algorithm",
+        "coding"
       ]
     },
     {
@@ -1144,21 +1159,9 @@
       "icon": "📱",
       "count": 4,
       "keywords": [
-        "tablet",
+        "mobile",
         "digital technology",
-        "digital learning",
-        "mobile"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 3,
-      "keywords": [
-        "chatbot",
-        "conversational agent"
+        "digital learning"
       ]
     }
   ]
