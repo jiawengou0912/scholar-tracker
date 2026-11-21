@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 09:19 UTC",
+  "updated_at": "2026-11-21 08:55 UTC",
   "digest": null,
   "journal_papers": {
     "Computers & Education": [
@@ -12,6 +12,20 @@
           "Miao Yue",
           "Morris Siu-Yung Jong",
           "Wenjiao Wang"
+        ],
+        "published": "2027-3",
+        "journal": "Computers & Education",
+        "venue": "Computers & Education"
+      },
+      {
+        "title": "Orchestrating scaffolding AI agents: How delivery order shapes learning in problem-solving tasks",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.compedu.2026.105802",
+        "url": "https://doi.org/10.1016/j.compedu.2026.105802",
+        "authors": [
+          "Diana Kozachek",
+          "Andreas Göldi",
+          "Andreas Janson"
         ],
         "published": "2027-3",
         "journal": "Computers & Education",
@@ -53,20 +67,6 @@
         "authors": [
           "Yujie Xue",
           "Chang Zhu"
-        ],
-        "published": "2027-3",
-        "journal": "Computers & Education",
-        "venue": "Computers & Education"
-      },
-      {
-        "title": "Assessing engagement in academic contexts: A multitrait, multimethod, multimodal data approach",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.compedu.2026.105803",
-        "url": "https://doi.org/10.1016/j.compedu.2026.105803",
-        "authors": [
-          "Anh Thu Le",
-          "Cheng Liu",
-          "Ying Cheng"
         ],
         "published": "2027-3",
         "journal": "Computers & Education",
@@ -132,6 +132,45 @@
     ],
     "Educational Technology Research and Development": [
       {
+        "title": "Exploring instructional designers’ experiences navigating organizational anarchy in higher education",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10757-1",
+        "url": "https://doi.org/10.1007/s11423-026-10757-1",
+        "authors": [
+          "Jill E. Stefaniak",
+          "Rebecca Clark-Stallkamp"
+        ],
+        "published": "2026-11-20",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Exploring metaverse technology adoption in English college education and learning performance in China: mediating effects of critical thinking and learning anxiety",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1007/s11423-026-10761-5",
+        "url": "https://doi.org/10.1007/s11423-026-10761-5",
+        "authors": [
+          "Ying Hong"
+        ],
+        "published": "2026-11-20",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
+        "title": "Utilizing a GPT-based exam assistant to support practice and assessment in higher education: an exploratory study on learner engagement and perceptions",
+        "abstract": "Abstract\n                  \n                    Instructors increasingly use chatbots to reduce their workload and to support students with individualized learning opportunities. However, there is still limited knowledge about how students engage with chatbot-based formats for practice and assessment compared to similar human-authored formats. This study examines whether chatbot-supported instruction can achieve similar outcomes with respect to students’ engagement, perceived fairness and perceived usefulness while reducing the workload associated with creating practice and assessment activities. We developed an Exam Assistant (EA) that delivers exam-like open-ended questions, including short case studies, provides immediate feedback, and supports automated scoring with instructor review (human-in-the-loop).  The EA was implemented in a real classroom setting with N = 30 undergraduate business students at a German university. Students used the EA for practice and for a graded assignment in the first course phase, while in the second course phase, these activities were delivered via conventional Moodle quizzes. This ensured alignment between practice activities and assessment across both instructional formats\n                    .\n                    Using learning analytics, chatbot interaction logs from 224 sessions with the EA, and post-assessment surveys, we conducted a descriptive, exploratory comparison of students’ engagement patterns and fairness perceptions. Results show comparably high levels of practice intensity and perceived fairness across both instructional modes. Students demonstrated greater engagement with EA than has typically been reported in prior research on educational chatbots. Nevertheless, students perceived Moodle quizzes as more suitable for future graded assessments, a difference that appears to be driven by question format rather than by fairness concerns. Overall, the findings suggest that thoughtfully chatbot-supported practice and assessment may offer a promising pathway to reduce instructors’ workload without evident disadvantages in student engagement or perceived fairness.",
+        "doi": "10.1007/s11423-026-10749-1",
+        "url": "https://doi.org/10.1007/s11423-026-10749-1",
+        "authors": [
+          "Katharina Frosch",
+          "Friederike Lindauer",
+          "Carmen Winkel"
+        ],
+        "published": "2026-11-20",
+        "journal": "Educational Technology Research and Development",
+        "venue": "Educational Technology Research and Development"
+      },
+      {
         "title": "Mobile computer supported collaborative learning adoption in resource-constrained nations: perspectives of undergraduates in Nigeria",
         "abstract": "Abstract\n                  Educational inequities between high-income and resource-constrained nations are often reinforced by limited access to information and communication technologies (ICT). This study examined mobile computer supported collaborative learning (mCSCL) as a feasible approach for expanding learning opportunities in settings where mobile devices are widely available. Using an open-ended online survey, participant observation, and analysis of screenshots from 10 of 50 WhatsApp collaborative learning groups, the study explored how students engaged in an mCSCL intervention. Thematic analysis identified several positive experiences, including heightened interest and enjoyment in learning, strengthened peer relationships, increased awareness of digital tools, improved learning engagement, and the flexibility afforded by mobile collaboration. These findings indicate that mCSCL can enhance student participation and learning experiences by leveraging familiar, low-cost technologies. The study contributes to research on technology-enhanced learning in under-resourced contexts and highlights mCSCL as a practical and scalable model for promoting more inclusive and collaborative educational environments.",
         "doi": "10.1007/s11423-026-10706-y",
@@ -156,48 +195,6 @@
           "Mo Zhou"
         ],
         "published": "2026-11-13",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Developing and validating the human-AI collaboration competency scale",
-        "abstract": "Abstract\n                  Fostering learners’ capacity to collaborate effectively with AI has become an important goal in education. This study aims to develop and validate the Human–AI Collaboration Competency (HACC) Scale, which can be used to assess students’ perceived competency in allocating roles and managing tasks, and sharing, coordinating, and integrating with AI through ongoing interaction to achieve a common goal. This scale includes five constructs’’: engagement, fluency, team bond, interdependence, and task regulation. Two independent samples of high school students were used to examine the factor structures: Sample 1 (n = 195) was used for exploratory factor analysis (EFA), and Sample 2 (n = 356) was used for confirmatory factor analysis (CFA). The final version of the HACC Scale consisted of 25 items loaded onto 5 factors. Construct validity was supported through EFA and CFA, and evidence for convergent validity was obtained by examining the correlations between the measures of digital literacy, AI literacy, AI attitude, and collaborative learning skills. The findings provide empirical support for the internal structure and external associations of the HACC Scale, showing that this scale provides a basis for future research and instructional practices aimed at enhancing human–AI collaboration.",
-        "doi": "10.1007/s11423-026-10753-5",
-        "url": "https://doi.org/10.1007/s11423-026-10753-5",
-        "authors": [
-          "Hyeeun Kim",
-          "Eun Hye Ham",
-          "Young Hoan Cho"
-        ],
-        "published": "2026-11-13",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "Proposing a culturally relevant theoretical framework for teacher educators’ information and communication technology (ICT) acceptance and use in Bhutan and similar cultural contexts",
-        "abstract": "Abstract\n                  \n                    Technology acceptance by teacher educators is crucial for successful integration into teaching. While technology acceptance models are well established in developed-country contexts, comparatively little attention has been given to developing models that account for the specific conditions of developing countries and distinct cultural contexts. A convergent mixed-methods approach was employed in Bhutan to investigate the factors that facilitate or hinder ICT acceptance and use in teaching, utilizing an adapted version of the unified theory of acceptance and use of technology (UTAUT) model. Data were collected through interviews and surveys. The survey was administered to 90 teacher educators, while semi-structured interviews were conducted with 21 teacher educators teaching in teacher education colleges in Bhutan. The quantitative survey data were analysed using descriptive statistics, while the qualitative interview data were analysed using thematic analysis. The findings revealed that the enabling factors were performance expectancy, social influence, attitude, ICT usage, and Bhutanese cultural values such as\n                    gyelkhap lu tha dam tshig\n                    (loyalty, dedication, and commitment of a person to the nation), interdependent collective culture which resembles\n                    tenchingdrelwa\n                    (the idea that all living beings are connected through lives and time) and\n                    zhenphen (\n                    Buddhist value of selfless intent and action to help each other). The constraints faced included effort expectancy, facilitating conditions and system rigidity due to prescribed curriculum, power distance and mandatory ICT use. Based on these factors, a culturally relevant theoretical framework of teacher educators’ ICT acceptance and use in Bhutan and similar cultural contexts was proposed to maximise ICT uptake in teaching.",
-        "doi": "10.1007/s11423-026-10758-0",
-        "url": "https://doi.org/10.1007/s11423-026-10758-0",
-        "authors": [
-          "Tshering",
-          "Joshua Matthews",
-          "Rachael Adlington"
-        ],
-        "published": "2026-11-12",
-        "journal": "Educational Technology Research and Development",
-        "venue": "Educational Technology Research and Development"
-      },
-      {
-        "title": "The design and impacts of collaborative learning analytics dashboards: a systematic review and meta-analysis",
-        "abstract": "Abstract\n                  Collaborative learning analytics dashboards (CLADs), which present visualization-based feedback on collaborative learning processes, offer teachers and students a critical tool for data-informed reflection and decision-making. Previous reviews of learning analytics dashboards have focused on their impact on students’ performance, without specifically considering the design and effectiveness of the dashboards in collaborative learning contexts. The present study fills this gap by providing a systematic review and meta-analysis of the design, implementation, application, and effectiveness of CLADs, based on 51 studies identified using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. We found that teacher-facing CLADs are designed to monitor collaborative learning processes, diagnose collaborative learning difficulties, serve as intervention tools, and support feedback development. In contrast, student-facing CLADs are designed to enhance collaborative interaction, support shared regulation, and increase group awareness. Descriptive analysis was the primary method used to analyse process data in CLADs. A few studies drew on theories to guide the selection of analytical indicators and system development. Our meta-analysis revealed that CLADs have a statistically significant positive effect on student learning performance in collaborative settings. Based on these findings, this study proposes a framework of six interconnected steps that structure the development process of CLADs. The framework provides actionable guidance for developing CLADs that are pedagogically and theoretically grounded, and adaptable to evolving analytical methods.",
-        "doi": "10.1007/s11423-026-10729-5",
-        "url": "https://doi.org/10.1007/s11423-026-10729-5",
-        "authors": [
-          "Likai Peng",
-          "Haohua Liu",
-          "Shihui Feng"
-        ],
-        "published": "2026-11-11",
         "journal": "Educational Technology Research and Development",
         "venue": "Educational Technology Research and Development"
       }
@@ -262,6 +259,19 @@
     ],
     "Computers in Human Behavior": [
       {
+        "title": "Socratic AI: A bitter but effective pill for moral enhancement",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109261",
+        "url": "https://doi.org/10.1016/j.chb.2026.109261",
+        "authors": [
+          "Sebastian Krügel",
+          "Matthias Uhl"
+        ],
+        "published": "2027-4",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
         "title": "Parent technoference and child mental health problems: A meta-analysis",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1016/j.chb.2026.109230",
@@ -270,6 +280,20 @@
           "Rachel Eirich",
           "Abby Marsh",
           "Sheri Madigan"
+        ],
+        "published": "2027-4",
+        "journal": "Computers in Human Behavior",
+        "venue": "Computers in Human Behavior"
+      },
+      {
+        "title": "Online racial discrimination on social media and social anxiety among Black emerging adults: Examining the indirect role of racism hypervigilance",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1016/j.chb.2026.109246",
+        "url": "https://doi.org/10.1016/j.chb.2026.109246",
+        "authors": [
+          "Henry A. Willis",
+          "Antoinette Dorzon",
+          "Kamryn McKenzie"
         ],
         "published": "2027-4",
         "journal": "Computers in Human Behavior",
@@ -298,33 +322,6 @@
           "Yuqing Liu",
           "Siyue Ren",
           "Huizi Han"
-        ],
-        "published": "2027-3",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Beyond curiosity: Habit and organizational learning capability as predictors of shadow AI",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109243",
-        "url": "https://doi.org/10.1016/j.chb.2026.109243",
-        "authors": [
-          "Nolan Lovett",
-          "Mohan Yang"
-        ],
-        "published": "2027-3",
-        "journal": "Computers in Human Behavior",
-        "venue": "Computers in Human Behavior"
-      },
-      {
-        "title": "Between financial, digital, and graph literacy and fraud victimization: Disentangling components and cognitive biases",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1016/j.chb.2026.109262",
-        "url": "https://doi.org/10.1016/j.chb.2026.109262",
-        "authors": [
-          "Marco Barone",
-          "Candida Bussoli",
-          "Lucrezia Fattobene"
         ],
         "published": "2027-3",
         "journal": "Computers in Human Behavior",
@@ -402,6 +399,18 @@
     ],
     "Interactive Learning Environments": [
       {
+        "title": "Interactive learning in communication studies amid AI-driven industry restructuring: linking AI-integrated course design to students’ perceived capability development",
+        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
+        "doi": "10.1080/10494820.2026.2767132",
+        "url": "https://doi.org/10.1080/10494820.2026.2767132",
+        "authors": [
+          "Ping Du"
+        ],
+        "published": "2026-11-20",
+        "journal": "Interactive Learning Environments",
+        "venue": "Interactive Learning Environments"
+      },
+      {
         "title": "Understanding GenAI self-efficacy in higher education: motivational, social, and cognitive–affective correlates across student groups",
         "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
         "doi": "10.1080/10494820.2026.2764518",
@@ -451,18 +460,6 @@
         "authors": [
           "Seda Aydan",
           "Christoforos Mamas"
-        ],
-        "published": "2026-11-16",
-        "journal": "Interactive Learning Environments",
-        "venue": "Interactive Learning Environments"
-      },
-      {
-        "title": "Developing an AI competency framework for open university teachers: a modified Delphi study in China",
-        "abstract": "Abstract not available via CrossRef. Click title to view the paper.",
-        "doi": "10.1080/10494820.2026.2764514",
-        "url": "https://doi.org/10.1080/10494820.2026.2764514",
-        "authors": [
-          "Zhen Zeng"
         ],
         "published": "2026-11-16",
         "journal": "Interactive Learning Environments",
@@ -957,74 +954,204 @@
   },
   "keyword_papers": [
     {
-      "paperId": "3ea0e7905db5e13f38bd54a848b15287c7b3fcfb",
-      "title": "Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis",
-      "abstract": "Despite the consensus that early identification leads to better outcomes for individuals with autism spectrum disorder (ASD), recent research reveals that the average age of diagnosis in the Greek population is approximately six years. However, this age of diagnosis is delayed by an additional two years for families from lower-income or minority backgrounds. These disparities result in adverse impacts on intervention outcomes, which are further burdened by the often time-consuming and labor-intensive language assessments for children with ASD. There is a crucial need for tools that increase access to early assessment and diagnosis that will be rigorous and objective. The current study leverages the capabilities of artificial intelligence to develop a reliable and practical model for distinguishing children with ASD from typically-developing peers based on their narrative and vocabulary skills. We applied natural language processing-based extraction techniques to automatically acquire language features (narrative and vocabulary skills) from storytelling in 68 children with ASD and 52 typically-developing children, and then trained machine learning models on the children’s combined narrative and expressive vocabulary data to generate behavioral targets that effectively differentiate ASD from typically-developing children. According to the findings, the model could distinguish ASD from typically-developing children, achieving an accuracy of 96%. Specifically, out of the models used, hist gradient boosting and XGBoost showed slightly superior performance compared to the decision trees and gradient boosting models, particularly regarding accuracy and F1 score. These results bode well for the deployment of machine learning technology for children with ASD, especially those with limited access to early identification services.",
+      "paperId": "a98862ffe4c18634a67a3df8a965a35e5e0d7ec8",
+      "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
+      "abstract": "Large language models represent a significant advancement in the field of AI. The underlying technology is key to further innovations and, despite critical views and even bans within communities and regions, large language models are here to stay. This position paper presents the potential benefits and challenges of educational applications of large language models, from student and teacher perspectives. We briefly discuss the current state of large language models and their applications. We then highlight how these models can be used to create educational content, improve student engagement and interaction, and personalize learning experiences. With regard to challenges, we argue that large language models in education require teachers and learners to develop sets of competencies and literacies necessary to both understand the technology as well as their limitations and unexpected brittleness of such systems. In addition, a clear strategy within educational systems and a clear pedagogical approach with a strong focus on critical thinking and strategies for fact checking are required to integrate and take full advantage of large language models in learning settings and teaching curricula. Other challenges such as the potential bias in the output, the need for continuous human oversight, and the potential for misuse are not unique to the application of AI in education. But we believe that, if handled sensibly, these challenges can offer insights and opportunities in education scenarios to acquaint students early on with potential societal biases, criticalities, and risks of AI applications. We conclude with recommendations for how to address these challenges and ensure that such models are used in a responsible and ethical manner in education.",
       "authors": [
-        "C. Themistocleous",
-        "M. Andreou",
-        "E. Peristeri"
+        "Enkelejda Kasneci",
+        "Kathrin Sessler",
+        "S. Küchemann"
       ],
-      "venue": "Behavioral Science",
-      "published": "2024-05-29",
-      "url": "https://doi.org/10.3390/bs14060459",
-      "query": "natural language processing children"
+      "venue": "Learning and Individual Differences",
+      "published": "2023-04-01",
+      "url": "https://doi.org/10.1016/j.lindif.2023.102274",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "3969efd26e1a833852e87ec2a3e805a0c42e69f3",
-      "title": "The significance of growing up in a hoarded home: using natural language processing to examine the experiences of adult children of hoarding parents on Reddit",
-      "abstract": "Abstract not available.",
+      "paperId": "2f4803bf9025e67f01b9bb50ba7f48bc94f6b79e",
+      "title": "Student perceptions of ChatGPT: benefits, costs, and attitudinal differences between users and non-users toward AI integration in higher education",
+      "abstract": "Today, there is no doubt that Artificial Intelligence (AI) presents both opportunities and challenges in higher education. This study examines three key areas: (1) students’ use of ChatGPT, (2) their perceptions of its benefits and costs, and (3) the differences in attitudes toward AI integration in higher education between ChatGPT users and non-users. A sample of 737 undergraduate students at a Spanish university answered an online survey. The quantitative analysis revealed a high prevalence of ChatGPT use for academic and personal purposes, with students identifying its 24/7 accessibility as a major advantage, along with the time-saving benefits it offers. However, concerns were raised about potential costs, including the devaluation of university education when students rely on ChatGPT to complete assignments. Results indicate significant differences between ChatGPT users and non-users: users generally support AI integration in higher education, particularly in teaching methods, while non-users often oppose its integration, advocating for measures such as banning AI in universities. Our study provides valuable insights into student perspectives on the integration of ChatGPT in higher education, emphasizing the contrasting viewpoints of users and non-users. The findings underline the need for universities to actively involve students in shaping policies on artificial intelligence while offering targeted training to promote its responsible and ethical use. Furthermore, universities should support educators in adapting their teaching methodologies to the digital era by incorporating innovative strategies that enhance both teaching and learning.",
       "authors": [
-        "Oskar Kocol",
-        "I. Sabel",
-        "K. Timpano"
+        "Joanna Blahopoulou",
+        "S. Ortiz-Bonnín"
       ],
-      "venue": "Journal of Obsessive-Compulsive and Related Disorders",
-      "published": "2025-02-01",
-      "url": "https://doi.org/10.1016/j.jocrd.2025.100938",
-      "query": "natural language processing children"
+      "venue": "Education and Information Technologies : Official Journal of the IFIP technical committee on Education",
+      "published": "2025-04-16",
+      "url": "https://doi.org/10.1007/s10639-025-13575-9",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "214ff0f9e2f36c3bb1a28cb1e32e3bfb69a025d1",
-      "title": "Harnessing Natural Language Processing to Assess Quality of End-of-Life Care for Children with Cancer",
-      "abstract": "Purpose: Data on end-of-life care (EOLC) quality, assessed through evidence-based quality measures (EOLC-QMs), are difficult to obtain. Natural language processing (NLP) enables efficient quality measurement and has not yet been used for children with serious illness. We sought to validate a pediatric-specific EOLC-QM keyword library and evaluate EOLC-QM attainment among childhood cancer decedents. Methods: In a single-center cohort of children with cancer who died between 2014-2022, we piloted a rule-based NLP approach to examine content of clinical notes in the last six months of life. We identified documented discussions of five EOLC-QMs: goals of care, limitations to life-sustaining treatments, hospice, palliative care consultation, and preferred location of death. We assessed performance of NLP methods, compared to gold standard manual chart review. We then used NLP to characterize proportions of decedents with documented EOLC-QM discussions and timing of first documentation relative to death. Results: Among 101 decedents, nearly half were minorities [Hispanic/Latinx (24%), non-Hispanic Black/African American (20%)], female (48%), or diagnosed with solid tumors (43%). Through iterative refinement, our keyword library achieved robust performance statistics (for all EOLC-QMs, F1 score=1.0). Most decedents had documented discussions regarding goals of care (83%), limitations to life-sustaining treatments (83%), and hospice (74%). Fewer decedents had documented discussions regarding palliative care consultation (49%) or preferred location of death (36%). For all five EOLC-QMs, first documentation occurred, on average, >30 days before death. Conclusion: A high proportion of decedents attained specified EOLC-QMs more than 30 days before death. Our findings indicate that NLP is a feasible approach to measuring quality of care for children with cancer at the end of life and is ripe for multi-center research and quality improvement.",
+      "paperId": "49fff1d586f5e05ba81bddf5caf528c67ea535cb",
+      "title": "Empowering student self-regulated learning and science education through ChatGPT: A pioneering pilot study",
+      "abstract": "In recent years, AI technologies have been developed to promote students' self‐regulated learning (SRL) and proactive learning in digital learning environments. This paper discusses a comparative study between generative AI‐based (SRLbot) and rule‐based AI chatbots (Nemobot) in a 3‐week science learning experience with 74 Secondary 4 students in Hong Kong. The experimental group used SRLbot to maintain a regular study habit and facilitate their SRL, while the control group utilized rule‐based AI chatbots. Results showed that SRLbot effectively enhanced students' science knowledge, behavioural engagement and motivation. Quantile regression analysis indicated that the number of interactions significantly predicted variations in SRL. Students appreciated the personalized recommendations and flexibility of SRLbot, which adjusted responses based on their specific learning and SRL scenarios. The ChatGPT‐enhanced instructional design reduced learning anxiety and promoted learning performance, motivation and sustained learning habits. Students' feedback on learning challenges, psychological support and self‐regulation behaviours provided insights into their progress and experience with this technology. SRLbot's adaptability and personalized approach distinguished it from rule‐based chatbots. The findings offer valuable evidence for AI developers and educators to consider generative AI settings and chatbot design, facilitating greater success in online science learning.\nWhat is already known about this topic\n\nAI technologies have been used to support student self‐regulated learning (SRL) across subjects.\nSRL has been identified as an important aspect of student learning that can be developed through technological support.\nGenerative AI technologies like ChatGPT have shown potential for enhancing student learning by providing personalized guidance and feedback.\nWhat this paper adds\n\nThis paper reports on a case study that specifically examines the effectiveness of ChatGPT in promoting SRL among secondary students.\nThe study provides evidence that ChatGPT can enhance students' science knowledge, motivation and SRL compared to a rule‐based AI chatbot.\nThe study offers insights into how ChatGPT can be used as a tool to facilitate SRL and promote sustained learning habits.\nImplications for practice and/or policy\n\nThe findings of this study suggest that educators should consider the potential of ChatGPT and other generative AI technologies to support student learning and SRL.\nEducators and students should be aware of the limitations of AI technologies and ensure that they are used appropriately to generate desired responses.\nIt is also important to equip teachers and students with AI competencies to enable them to use AI for learning and teaching.\n\n",
       "authors": [
-        "M. Lindsay",
-        "Sophia Vlieger de Oliveira",
-        "Kate Sciacca"
+        "D. Ng",
+        "Chee-Wei Tan",
+        "J. Leung"
       ],
-      "venue": "JCO Clinical Cancer Informatics",
-      "published": "2024-09-01",
-      "url": "https://doi.org/10.1200/CCI.24.00134",
-      "query": "natural language processing children"
+      "venue": "British Journal of Educational Technology",
+      "published": "2024-03-22",
+      "url": "https://doi.org/10.1111/bjet.13454",
+      "query": "ChatGPT education student"
     },
     {
-      "paperId": "61769c5bb5d5ac668c69d146385ccf09fd07ced4",
-      "title": "Early Identification of Language Disorders Using Natural Language Processing and Machine Learning: Challenges and Emerging Approaches.",
-      "abstract": "PURPOSE\nRecent advances in artificial intelligence provide opportunities to capture and represent complex features of human language in a more automated manner, offering potential means of improving the efficiency of language assessment. This review article presents computerized approaches for the analysis of narrative language and identification of language disorders in children.\n\n\nMETHOD\nWe first describe the current barriers to clinicians' use of language sample analysis, narrative language sampling approaches, and the data processing stages that precede analysis. We then present recent studies demonstrating the automated extraction of linguistic features and identification of developmental language disorder using natural language processing and machine learning. We explain how these tools operate and emphasize how the decisions made in construction impact their performance in important ways, especially in the analysis of child language samples. We conclude with a discussion of major challenges in the field with respect to bias, access, and generalizability across settings and applications.\n\n\nCONCLUSION\nGiven the progress that has occurred over the last decade, computer-automated approaches offer a promising opportunity to improve the efficiency and accessibility of language sample analysis and expedite the diagnosis and treatment of language disorders in children.",
+      "paperId": "75d5c8164b766eef775006cf0b2ef9c017501c01",
+      "title": "Assessing Student Readiness and Perceptions of ChatGPT in Learning: A Case Study in Indonesian Higher Education",
+      "abstract": "Aim/Purpose: This study investigates the readiness of higher education students in Indonesia to use ChatGPT for learning and explores its perceived benefits in academic settings. The research aims to identify challenges and opportunities in integrating generative AI into education.\n\nBackground: As a rapidly evolving AI technology, ChatGPT presents both opportunities and challenges in higher education. While it offers convenience and personalized support, concerns regarding ethical use, academic integrity, and student dependency remain. Understanding student readiness and attitudes toward ChatGPT is essential for effective and responsible implementation in learning environments. \n\nMethodology: This study employs a mixed-methods convergent parallel design, collecting both quantitative and qualitative data simultaneously but analyzing them separately. A total of 373 students from diverse universities and disciplines in Indonesia participated. Quantitative data were analyzed using the Rasch measurement model and Winsteps software, while qualitative responses were transcribed and examined through summative content analysis using Quirkos 2.5.3 software. Participants were selected through a purposive sampling approach to ensure a representative distribution across institutions and fields of study.\n\nContribution: This study contributes to the growing discourse on AI in education by offering clear, data-driven insights into Indonesian students’ readiness and perceptions of ChatGPT. It reveals that students across diverse regions view ChatGPT as a helpful academic tool, particularly for clarifying complex concepts, reducing stress, and supporting independent learning. These findings provide actionable guidance for educators and policymakers, highlighting the urgent need for AI literacy programs and ethical use policies. The study lays a strong empirical foundation for larger-scale, longitudinal research on AI integration in higher education by presenting these concrete patterns.\n\nFindings: The findings indicate a generally high level of student readiness to use ChatGPT in learning contexts. Students perceive ChatGPT as a valuable tool for completing assignments, clarifying complex concepts, and reducing academic stress. However, concerns were also raised regarding its potential impact on critical thinking skills and the need for clear ethical guidelines. These findings provide preliminary evidence that can support the development of institutional strategies and future research directions.\n\nRecommendations for Practitioners: For educators and institutions, it is crucial to develop structured policies and ethical guidelines for ChatGPT use in academic contexts. Assignments should be designed to promote higher-order thinking skills, such as creativity and problem-solving, rather than mere fact recall. Additionally, AI literacy training should be incorporated into curricula to help students critically evaluate AI-generated content.\n\nRecommendation for Researchers: For researchers, future studies should explore the readiness of educators to integrate ChatGPT into teaching and assess its long-term impact on student learning outcomes, including critical thinking and problem-solving skills. Investigating how ChatGPT can be effectively embedded within existing learning management systems could further enhance its educational potential.\n\nImpact on Society: By identifying both the benefits and challenges of ChatGPT in higher education, this study informs policies and best practices for AI adoption in academia. Addressing issues of digital equity, ethical concerns, and pedagogical strategies can help create a more balanced and effective AI-assisted learning environment, ultimately improving the quality of education and teaching methodologies.\n\nFuture Research: Further research should investigate how ChatGPT influences long-term student engagement, skill development, and academic performance. Studies should also examine institutional readiness, faculty perspectives, and AI’s role in fostering more interactive and adaptive learning experiences.\n\n",
       "authors": [
-        "Jessica Lammert",
-        "Angela C. Roberts",
-        "K. McRae"
+        "A. Martha",
+        "S. Widowati",
+        "Desy Puspa Rahayu"
       ],
-      "venue": "Journal of Speech, Language and Hearing Research",
-      "published": "2025-01-09",
-      "url": "https://doi.org/10.1044/2024_JSLHR-24-00515",
-      "query": "natural language processing children"
-    },
-    {
-      "paperId": "ac4058bb90d05d87d325bcb3616d13e05fdeccf4",
-      "title": "Deep Learning-Based Natural Language Processing Model and Optical Character Recognition for Detection of Online Grooming on Social Networking Services",
-      "abstract": ": The increased accessibility of social networking services (SNSs) has facilitated communication and information sharing among users. However, it has also heightened concerns about digital safety, particularly for children and adolescents who are increasingly exposed to online grooming crimes. Early and accurate identification of grooming conversations is crucial in preventing long-term harm to victims. However, research on grooming detection in South Korea remains limited, as existing models trained primarily on English text and fail to reflect the unique linguistic features of SNS conversations, leading to inaccurate classifications. To address these issues, this study proposes a novel framework that integrates optical character recognition (OCR) technology with KcELECTRA, a deep learning-based natural language processing (NLP) model that shows excellent performance in processing the colloquial Korean language. In the proposed framework, the KcELECTRA model is fine-tuned by an extensive dataset, including Korean social media conversations, Korean ethical verification data from AI-Hub, and Korean hate speech data from Hug-gingFace, to enable more accurate classification of text extracted from social media conversation images. Experimental results show that the proposed framework achieves an accuracy of 0.953, outperforming existing transformer-based models. Furthermore, OCR technology shows high accuracy in extracting text from images, demonstrating that the proposed framework is effective for online grooming detection. The proposed framework is expected to contribute to the more accurate detection of grooming text and the prevention of grooming-related crimes.",
-      "authors": [
-        "Sangmin Kim",
-        "Byeongcheon Lee",
-        "M. Maqsood"
-      ],
-      "venue": "Computer Modeling in Engineering &amp; Sciences",
+      "venue": "J. Inf. Technol. Educ. Res.",
       "published": "2025",
-      "url": "https://doi.org/10.32604/cmes.2025.061653",
-      "query": "natural language processing children"
+      "url": "https://doi.org/10.28945/5599",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "9b3589c83765f94d07e89a751c05587c2144185f",
+      "title": "ChatGPT Early Adoption in Higher Education: Variation in Student Usage, Instructional Support, and Educational Equity",
+      "abstract": "This study examines the early adoption of ChatGPT in late 2022 and early 2023 by identifying variation in student awareness, academic use, and perceived instructional support for the technology at a diverse U.S. public research university. Specifically, we investigate (a) how individual awareness and academic use of ChatGPT vary by student characteristics and field of study, (b) how instructor encouragement or discouragement varies across courses and student demographics, and (c) how academic use patterns differ between science, technology, engineering, and mathematics (STEM) and non-STEM fields. Data from 938 undergraduates, merged with administrative records, revealed disparities in ChatGPT awareness and use, with underrepresented minority, first-generation, and international students less likely to know about or use the tool academically. Course-level analysis highlighted that instructor encouragement is more prevalent in STEM fields and upper-division courses but decreases in classes with higher underrepresented minority representation. Open-ended responses showed distinct patterns of ChatGPT use, with STEM students favoring conceptual assistance and coding and non-STEM students engaging in writing and instructor-assigned activities. These findings underscore early inequities in access and use of emerging educational technologies and call for institutional strategies to promote equitable awareness and skill development aligned with academic and professional goals.",
+      "authors": [
+        "Richard Arum",
+        "Maria Calderon Leon",
+        "Xun-Fei Li"
+      ],
+      "venue": "AERA Open",
+      "published": "2025-04-01",
+      "url": "https://doi.org/10.1177/23328584251331956",
+      "query": "ChatGPT education student"
+    },
+    {
+      "paperId": "bd0129504f479727b07d9f89fdbc71aa10351782",
+      "title": "AI intelligence within Teaching: A Multidimensional Evaluation of Large Language Model Education Agents in K-12 Education",
+      "abstract": "Large Language Models (LLMs) are reshaping K–12 education by enabling adaptive and pedagogically responsive learning environments. This study presents a multidimensional evaluation of LLM-based learning agents using the Educational–Technical–Behavioural (ETB) Framework to assess pedagogical quality, technical reliability, and behavioural intelligence. ScienceSpark AI, a curriculum-aligned platform for the NSW Science 7–10 syllabus, was tested with Gemini 2.5 Pro, Gemini 3, ChatGPT-5, and Claude Sonnet 4.5 within a unified agentic architecture. Using synthetic benchmarking, sandboxed simulations, and teacher-in-the-loop validation, the study found all models achieved strong curriculum alignment, factual accuracy, and multimodal feedback capability. Gemini 3 delivered the best technical performance, showing the lowest latency in conversation (~10s) and resource generation (~5.7s), while maintaining the high educational fidelity of Gemini 2.5 Pro. ChatGPT-5 and Claude Sonnet 4.5 excelled in conversational fluency and creative resource generation. Overall, the findings demonstrate that when grounded in transparent architecture and curriculum-driven design, LLM agents can provide both technical efficiency and equitable instructional support. The ETB Framework offers a replicable approach for evaluating and governing AI in education.",
+      "authors": [
+        "W. Hussain",
+        "Machi Raju Varanasi",
+        "Liam New"
+      ],
+      "venue": "2025 International Conference on Computational Engineering, Sensing Technology and Management (ICCETM)",
+      "published": "2025-11-18",
+      "url": "https://doi.org/10.1109/ICCETM66557.2025.11558109",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "e4d22b4bab88c2191b9a5e71d79f8dbd19b3f101",
+      "title": "Developing Effective Frameworks for Large Language Model–Based Medical Chatbots: Insights From Radiotherapy Education With ChatGPT",
+      "abstract": "This Viewpoint proposes a robust framework for developing a medical chatbot dedicated to radiotherapy education, emphasizing accuracy, reliability, privacy, ethics, and future innovations. By analyzing existing research, the framework evaluates chatbot performance and identifies challenges such as content accuracy, bias, and system integration. The findings highlight opportunities for advancements in natural language processing, personalized learning, and immersive technologies. When designed with a focus on ethical standards and reliability, large language model–based chatbots could significantly impact radiotherapy education and health care delivery, positioning them as valuable tools for future developments in medical education globally.",
+      "authors": [
+        "J. Chow",
+        "Kay Li"
+      ],
+      "venue": "JMIR Cancer",
+      "published": "2025-02-18",
+      "url": "https://doi.org/10.2196/66633",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "c53475a5b3c3de583e293d83600a9d33988f58b0",
+      "title": "A systematic literature review to implement large language model in higher education: issues and solutions",
+      "abstract": "Artificial intelligence-driven Chatbots, especially large language models (LLMs) like GPT-4, represent significant progress in digital education. These models excel in mimicking human-like text and transforming learning and teaching methods. This study examines the development, application, and impact of LLMs in education. It highlights their role in automating instructional tasks and promoting personalized learning experiences. Despite integration concerns and ethical debates, LLMs showcase the potential of AI to improve educational practices. Our research concludes that LLMs offer transformative opportunities for education. However, their incorporation requires careful ethical considerations, data privacy measures, and a balance between human educators and AI technologies. The findings suggest strategies for integrating LLMs into educational frameworks to enhance learning outcomes while preserving educational integrity.",
+      "authors": [
+        "S. Guizani",
+        "Tehseen Mazhar",
+        "Tariq Shahzad"
+      ],
+      "venue": "Discover Education",
+      "published": "2025-02-15",
+      "url": "https://doi.org/10.1007/s44217-025-00424-7",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "540184e537c5891db31b7e5c8252016b561d75a3",
+      "title": "Embracing the Future of Medical Education With Large Language Model–Based Virtual Patients: Scoping Review",
+      "abstract": "Background In recent years, large language models (LLMs) have experienced rapid development. LLM-based virtual patients have begun to gain attention, offering new opportunities for simulations in medical education. Objective This study aims to systematically analyze the current applications, research trends, and challenges of LLM-based virtual patients in medical education and to explore potential future directions for development. Methods This study adheres to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines. Five databases (Web of Science Core Collection, PubMed, IEEE Xplore, Embase, and Scopus) were searched from January 1, 2018, to June 24, 2025, to identify studies related to the application of LLM-based virtual patients in medical education. A comprehensive analysis of LLM-based virtual patients from research design to application and evaluation was conducted. Results A total of 28 studies were included in this scoping review. Analysis revealed that 92.9% (26/28) of the studies were published in the past 2 years, indicating that LLM-based virtual patient research is still in its early stages. The research primarily focuses on medical training and spans a wide range of medical disciplines. When using LLMs, advanced technologies such as social robots, virtual reality, and mixed reality are used to present LLM-based virtual patients. Combining these technologies with various supplementary tools enhances the realism of LLM-based virtual patients and improves user interaction. The evaluation of LLM-based virtual patients mainly emphasizes user experience. However, evaluation methods lack standardization, and only 13% (3/23) of studies used validated tools in assessing LLM-based virtual patients, while only 21.7% (5/23) of studies objectively measured learning outcomes facilitated by LLM-based virtual patients. All included studies expressed a positive attitude toward LLM-based virtual patients; however, they overlook privacy and security considerations in practical applications. Conclusions LLM-based virtual patients hold significant innovation potential in medical education and are still in the early stages of development. They are primarily applied in medical training and show promise in communication skills training, although they cannot replace real-world interactions. Moreover, the heterogeneity of research designs, the absence of nonverbal cues in interactions, and concerns regarding privacy and security limit their broader implementation. Future research should focus on improving the reliability, realism, safety, and scientific efficacy of LLM-based virtual patients. Trial Registration Open Science Framework Registries 10.17605/OSF.IO/DMC9Q; https://osf.io/DMC9Q/overview",
+      "authors": [
+        "Jian-Wen Zeng",
+        "Wen-Hao Qi",
+        "Shi-Ying Shen"
+      ],
+      "venue": "Journal of Medical Internet Research",
+      "published": "2025-11-13",
+      "url": "https://doi.org/10.2196/79091",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "af58e3f48cb6bea97622454be8385108e0295d50",
+      "title": "Advancing AI in Higher Education: A Comparative Study of Large Language Model-Based Agents for Exam Question Generation, Improvement, and Evaluation",
+      "abstract": "The transformative capabilities of large language models (LLMs) are reshaping educational assessment and question design in higher education. This study proposes a systematic framework for leveraging LLMs to enhance question-centric tasks: aligning exam questions with course objectives, improving clarity and difficulty, and generating new items guided by learning goals. The research spans four university courses—two theory-focused and two application-focused—covering diverse cognitive levels according to Bloom’s taxonomy. A balanced dataset ensures representation of question categories and structures. Three LLM-based agents—VectorRAG, VectorGraphRAG, and a fine-tuned LLM—are developed and evaluated against a meta-evaluator, supervised by human experts, to assess alignment accuracy and explanation quality. Robust analytical methods, including mixed-effects modeling, yield actionable insights for integrating generative AI into university assessment processes. Beyond exam-specific applications, this methodology provides a foundational approach for the broader adoption of AI in post-secondary education, emphasizing fairness, contextual relevance, and collaboration. The findings offer a comprehensive framework for aligning AI-generated content with learning objectives, detailing effective integration strategies, and addressing challenges such as bias and contextual limitations. Overall, this work underscores the potential of generative AI to enhance educational assessment while identifying pathways for responsible implementation.",
+      "authors": [
+        "Vlatko Nikolovski",
+        "D. Trajanov",
+        "Ivan Chorbev"
+      ],
+      "venue": "Algorithms",
+      "published": "2025-03-04",
+      "url": "https://doi.org/10.3390/a18030144",
+      "query": "large language model education"
+    },
+    {
+      "paperId": "ef7ef9cb275ac2a8ca5ab56d592a9b9ac7522d7b",
+      "title": "Personalized Adaptive Learning Framework for Preschoolers Using Explainable AI",
+      "abstract": "With the deep application of artificial intelligence technology in the field of education, preschool education intelligence faces the dual challenges of insufficient personalization and low decision transparency. This study proposes a preschool personalized adaptive learning framework based on Explainable Artificial Intelligence (XAI), which integrates four core modules: multimodal data collection, cognitive modeling, adaptive recommendation, and explainable feedback. Through a hybrid architecture of deep learning and symbolic reasoning, the framework achieves dynamic optimization of learning paths. Experiments were conducted on a public preschool learning behavior dataset containing 1,000 records. The results show that the framework significantly outperforms traditional methods in learning effectiveness improvement, cognitive development assessment, and teacher acceptability. Learning efficiency improved by 28.5%, cognitive ability assessment accuracy reached 92.3%, and teacher satisfaction with system explanations was 89.7%. The research provides theoretical support and practical pathways for the intelligence of preschool education, promoting the application of explainable AI in early childhood education scenarios.",
+      "authors": [
+        "Qing-Zhu Cao"
+      ],
+      "venue": "ICAIE",
+      "published": "2025-11-21",
+      "url": "https://doi.org/10.1145/3797552.3797768",
+      "query": "adaptive learning preschool"
+    },
+    {
+      "paperId": "3aee1bcfb6d5d692c88761c7d5a24e52ea1163fb",
+      "title": "Research on the Design of an Intelligent Adaptive Learning System Based on Deep Learning",
+      "abstract": "In the digital age, with the deep integration of IT and education, research on an intelligent adaptive learning system for preschool English based on deep knowledge tracing has drawn great attention. This paper centers on building its basic components to address low-efficiency and non-personalization in traditional preschool English teaching. Deep knowledge tracing, relying on RNNs and LSTMs, we need to precisely record and analyze preschoolers' multi-dimensional English-learning data (vocabulary, grammar, oral skills). Using these data, the system customizes learning paths, like auto-adjusting content push and offering targeted help. Experiments show a 40% rise in word-memorization accuracy, a 35% increase in grammar-understanding correctness, and a knowledge-absorption rate jump from 30% (traditional) to over 60%. The system has modules of intelligent assessment, learning content push, learning task design, and innovative learning mode. The assessment module uses RNNs or LSTMs for analysis; the content-push module selects from a graded resource library; the task-design module adjusts tasks based on personalization and gradation; the innovative-mode module uses VR/AR for immersive learning. This research fills the gap in creating an intelligent preschool-English education scenario by integrating AI, offers an innovative solution for its intelligent transformation, and is expected to draw expert cooperation to boost preschool English education.",
+      "authors": [
+        "Zhouzhou Shen"
+      ],
+      "venue": "2025 IEEE 3rd International Conference on Control, Electronics and Computer Technology (ICCECT)",
+      "published": "2025-04-25",
+      "url": "https://doi.org/10.1109/ICCECT64621.2025.11339855",
+      "query": "adaptive learning preschool"
+    },
+    {
+      "paperId": "012d43c88cf9372774f002c84e96950e0a27162d",
+      "title": "The “Tutor’s Compass” assessment tool: a study of social-communication and adaptive skills in preschool children with autism spectrum disorder",
+      "abstract": "Context and relevance. Children with autism spectrum disorder (ASD) exhibit significant delays in the development of independence, self-care, and communication skills, which poses a substantial obstacle to their successful inclusion in school education. Objective. To investigate the development of social-communication and adaptive skills in preschool children with ASD using the “Tutor’s Compass” assessment tool. Hypothesis. The “Tutor’s Compass” diagnostic tool possesses sufficient differential sensitivity to identify individual differences in the development of self-care skills, learning behaviour, and communication skills within a group of preschool children with ASD; it reveals the specifics of age-related differences in skill development; and it reflects the level of adaptation of preschool children in various domains. Methods and materials. The study involved 24 preschoolers with ASD (8 girls) aged 5 years 1 month to 7 years 11 months (experimental group) and 20 primary school children with ASD (2 girls) aged 8 to 12 years (comparison group). The research methods included the “Tutor’s Compass” diagnostic tool and the Vineland Adaptive Behavior Scales. Results. Scores on the “Tutor’s Compass” instrument show a statistically significant increase with age (correlations with age R = 0.438–0.674, p < 0.05). The preschool and school-age groups differ significantly on the three main scales (p < 0.05). The skill profile on the “Tutor’s Compass” in preschool children with ASD is uneven, with significant differences observed between individual scales according to Friedman’s test (-- (2) = 15.0, p < 0.001). The configuration of this profile differs from a similar profile obtained using the Vineland scales. Conclusions. The “Tutor’s Compass” diagnostic tool can be used to assess the skills of preschoolers with ASD. During the transition from preschool to primary school age, noticeable progress in skill development is observed, particularly in the domain of self-care. It is advisable to refine certain diagnostic scales, taking into account the specifics of preschool education, and to develop a version of the tool tailored for this age group.",
+      "authors": [
+        "E. Shmeleva",
+        "U. Mamokhina",
+        "E. Davydova"
+      ],
+      "venue": "Autism and Developmental Disorders",
+      "published": "2025-12-30",
+      "url": "https://doi.org/10.17759/autdd.2025230407",
+      "query": "adaptive learning preschool"
+    },
+    {
+      "paperId": "7000fc39ca4703c85db0e87eff5746c50b0993ec",
+      "title": "Analysis of Automated Content Generation and Adaptive Teaching Pathways of AIGC in Informational Teaching of Preschool Education Majors",
+      "abstract": "Generative artificial intelligence, as the latest breakthrough in artificial intelligence, has attracted widespread attention in the field of education since its release. With the background of intelligent transformation of education, this study compiles and analyzes AIGC technology and its application in teaching preschool education majors, establishes a model of influencing factors on the effectiveness of AIGC application, and explores the adaptive teaching path of AIGC application in informatization teaching of preschool education majors. The core factor scores of the sample preschool education majors are all greater than 3.65, and the effectiveness of AIGC application is in the middle to upper level. Meanwhile, the positive contribution of teacher traits, teacher support, equipment use, learning motivation, learning attitude, self-efficacy, technical support, and learning atmosphere to the effectiveness of AIGC application was verified at the 5% level. The study proposes that AIGC technology be utilized to develop teachers' nurturing and students' creativity, to enhance the relevance of teaching evaluation and the utilization of resource recommendations, and to promote the high quality of teaching and learning in preschool education.",
+      "authors": [
+        "Qiu-Min Qiao"
+      ],
+      "venue": "International journal of computer information systems and industrial management applications",
+      "published": "2025-12-15",
+      "url": "https://doi.org/10.70917/ijcisim-2025-0240",
+      "query": "adaptive learning preschool"
+    },
+    {
+      "paperId": "0991d969a1716444d11bf0e2448c0ebe8a23f22d",
+      "title": "Adaptive Gamification and Game-Based Learning in Preschool and Early Primary Education: A Systematic Literature Review",
+      "abstract": "In recent years, adaptive gamification and adaptive game-based learning (GBL) have attracted the interest of researchers and educators as a response to the “one-size-fits-all” approach of conventional gamified applications. However, their effectiveness has shown mixed results, and the literature concerning preschool and early primary education remains scattered. Therefore, we performed a systematic literature review of 19 empirical studies published between 2016 and 2026, following the PRISMA model, from a total of 5069 records identified across nine electronic databases. This review examines the methodological approaches and assessment tools employed, the content areas, educational levels, and educational contexts addressed, the theoretical frameworks and adaptive mechanisms utilised, and the learning and motivational outcomes reported for young learners. Our findings revealed a strong concentration on mathematics, a heavy reliance on researcher-developed platforms, and limited explicit theoretical grounding. Moreover, most studies adapted only the learning content, while the game elements themselves remained fixed. Although most studies reported positive learning and motivational outcomes, the results were not uniform, with prior knowledge being the most common moderating variable. Benefits are most visible when adaptive systems support children’s pacing, prior knowledge, or task difficulty, with some studies showing improvement in learning efficiency rather than learning gains. Overall, this review reveals the emerging trends and challenges in this field and provides a framework and insight for future researchers regarding the design of adaptive learning environments for young children.",
+      "authors": [
+        "Alkinoos-Ioannis Zourmpakis"
+      ],
+      "venue": "De Computis",
+      "published": "2026-07-22",
+      "url": "https://doi.org/10.3390/computers15070464",
+      "query": "adaptive learning preschool"
     },
     {
       "paperId": "b4b2cc3c49e857d8c84b3fae2e2e84a83158718d",
@@ -1102,12 +1229,12 @@
       "name": "增强现实与虚拟现实",
       "subtitle": "AR / VR in Early Education",
       "icon": "🥽",
-      "count": 67,
+      "count": 78,
       "keywords": [
         "AR",
-        "augmented reality",
         "immersive",
         "virtual reality",
+        "mixed reality",
         "VR"
       ]
     },
@@ -1116,11 +1243,11 @@
       "name": "家校技术整合",
       "subtitle": "Technology Integration at Home & School",
       "icon": "🏫",
-      "count": 29,
+      "count": 33,
       "keywords": [
+        "teacher",
         "parent",
         "school",
-        "teacher",
         "classroom",
         "family"
       ]
@@ -1130,13 +1257,13 @@
       "name": "AI工具与教育应用",
       "subtitle": "AI Tools in Education",
       "icon": "🤖",
-      "count": 16,
+      "count": 27,
       "keywords": [
+        "ChatGPT",
+        "GPT",
+        "large language model",
         "artificial intelligence",
-        "machine learning",
-        "deep learning",
-        "generative AI",
-        "LLM"
+        "generative AI"
       ]
     },
     {
@@ -1144,13 +1271,61 @@
       "name": "游戏化与自适应学习",
       "subtitle": "Game-based & Adaptive Learning",
       "icon": "🎮",
+      "count": 14,
+      "keywords": [
+        "adaptive learning",
+        "personalized learning",
+        "game-based",
+        "gamification",
+        "game"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "认知发展与学习科学",
+      "subtitle": "Cognitive Development & Learning Science",
+      "icon": "🧠",
+      "count": 9,
+      "keywords": [
+        "attention",
+        "cognitive development",
+        "cognitive load",
+        "self-regulation"
+      ]
+    },
+    {
+      "id": "robots",
+      "name": "机器人与智能交互代理",
+      "subtitle": "Robots & Intelligent Interactive Agents",
+      "icon": "💬",
       "count": 8,
       "keywords": [
-        "game-based",
-        "game",
-        "play",
-        "personalized learning",
-        "gamification"
+        "chatbot",
+        "robot"
+      ]
+    },
+    {
+      "id": "computational",
+      "name": "计算思维与编程教育",
+      "subtitle": "Computational Thinking & Coding",
+      "icon": "💻",
+      "count": 8,
+      "keywords": [
+        "coding",
+        "computational thinking",
+        "algorithm",
+        "programming"
+      ]
+    },
+    {
+      "id": "digital_media",
+      "name": "数字媒体与屏幕使用",
+      "subtitle": "Digital Media & Screen Time",
+      "icon": "📱",
+      "count": 7,
+      "keywords": [
+        "digital learning",
+        "mobile"
       ]
     },
     {
@@ -1166,61 +1341,16 @@
       ]
     },
     {
-      "id": "computational",
-      "name": "计算思维与编程教育",
-      "subtitle": "Computational Thinking & Coding",
-      "icon": "💻",
-      "count": 7,
-      "keywords": [
-        "computational thinking",
-        "algorithm",
-        "coding",
-        "programming"
-      ]
-    },
-    {
-      "id": "cognitive",
-      "name": "认知发展与学习科学",
-      "subtitle": "Cognitive Development & Learning Science",
-      "icon": "🧠",
-      "count": 6,
-      "keywords": [
-        "attention",
-        "cognitive load",
-        "self-regulation"
-      ]
-    },
-    {
-      "id": "digital_media",
-      "name": "数字媒体与屏幕使用",
-      "subtitle": "Digital Media & Screen Time",
-      "icon": "📱",
-      "count": 6,
-      "keywords": [
-        "mobile"
-      ]
-    },
-    {
       "id": "early_literacy",
       "name": "早期读写与数学能力",
       "subtitle": "Early Literacy & Early Math",
       "icon": "📚",
-      "count": 5,
+      "count": 6,
       "keywords": [
+        "writing",
         "vocabulary",
         "language development",
-        "reading",
-        "writing"
-      ]
-    },
-    {
-      "id": "robots",
-      "name": "机器人与智能交互代理",
-      "subtitle": "Robots & Intelligent Interactive Agents",
-      "icon": "💬",
-      "count": 3,
-      "keywords": [
-        "robot"
+        "reading"
       ]
     }
   ]
